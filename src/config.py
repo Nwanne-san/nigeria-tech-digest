@@ -57,7 +57,7 @@ USER_AGENT = "Mozilla/5.0 (compatible; NigeriaTechDigest/1.0)"
 ENTRIES_PER_FEED = 8
 MAX_ARTICLES_FOR_AI = 25
 SUMMARY_TRUNCATE_CHARS = 200
-MAX_OUTPUT_TOKENS = 4096
+MAX_OUTPUT_TOKENS = 8192
 GEMINI_MODEL = "gemini-2.5-flash"
 
 TIME_WINDOWS_HOURS: dict[str, int] = {
@@ -79,17 +79,17 @@ Using ONLY the articles provided, produce a markdown report with:
 ## Outlook & Speculation
 
 For each section:
-- Cover up to 6 stories max.
-- For the **top 3 most significant** stories in each section, include:
+- Cover up to **4 stories max** (prioritize quality over quantity).
+- For the **top 2 most significant** stories in each section, include:
   - **Headline** (with source)
-  - **What happened** (2–3 sentences, factual)
-  - **Deep Lore / Context** (2–3 paragraphs: background, escalation, policy history, why it matters)
+  - **What happened** (2 sentences, factual)
+  - **Deep Lore / Context** (1 concise paragraph: background, escalation, why it matters)
   - **Source:** [link]
-- For any additional stories (4th–6th), include only:
-  - **Headline**, **What happened** (1 sentence), **Brief Context** (1–2 sentences), **Source**
+- For any additional stories (3rd–4th), include only:
+  - **Headline**, **What happened** (1 sentence), **Brief Context** (1 sentence), **Source**
 
 ## Outlook & Speculation
-- Synthesize likely next directions across categories.
+- 3–5 bullet points on likely next directions across categories.
 - Present multiple perspectives where debate exists; label speculation clearly.
 
 Rules:
@@ -100,6 +100,13 @@ Rules:
 
 Raw articles (JSON):
 {articles_json}
+"""
+
+TRUNCATION_NOTICE = """
+
+---
+
+> **Note:** This digest was cut short because the AI hit its output limit. Later sections may be missing. Check the GitHub Pages archive for the saved copy, or wait for the next scheduled brief.
 """
 
 FALLBACK_HEADLINES_TEMPLATE = """# Nigeria & Tech Brief — Headlines Only

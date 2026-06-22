@@ -14,6 +14,7 @@ from src.config import (
     FALLBACK_HEADLINES_TEMPLATE,
     GEMINI_MODEL,
     MAX_OUTPUT_TOKENS,
+    TRUNCATION_NOTICE,
 )
 from src.fetcher import Article, format_headlines_fallback
 
@@ -54,6 +55,16 @@ def generate_digest(articles: list[Article]) -> tuple[str, bool]:
         text = (response.text or "").strip()
         if not text:
             raise ValueError("Empty response from Gemini")
+
+        finish_reason = _get_finish_reason(response)
+        if _was_truncated(finish_reason):
+            logger.warning(
+                "Gemini output truncated (finish_reason=%s, max_tokens=%d)",
+                finish_reason,
+                MAX_OUTPUT_TOKENS,
+            )
+            text = _append_truncation_notice(text, finish_reason)
+
         return text, True
     except Exception as exc:
         error_msg = str(exc).lower()
@@ -62,6 +73,33 @@ def generate_digest(articles: list[Article]) -> tuple[str, bool]:
             raise GeminiRateLimitError(str(exc)) from exc
         logger.warning("Gemini failed, using headline fallback: %s", exc)
         return _headline_fallback(articles), False
+
+
+def _get_finish_reason(response) -> str | None:
+    candidates = getattr(response, "candidates", None) or []
+    if not candidates:
+        return None
+    reason = getattr(candidates[0], "finish_reason", None)
+    if reason is None:
+        return None
+    return str(reason)
+
+
+def _was_truncated(finish_reason: str | None) -> bool:
+    if not finish_reason:
+        return False
+    normalized = finish_reason.upper()
+    return "MAX_TOKENS" in normalized
+
+
+def _append_truncation_notice(text: str, finish_reason: str | None) -> str:
+    notice = TRUNCATION_NOTICE.strip()
+    if finish_reason:
+        notice = notice.replace(
+            "cut short because the AI hit its output limit.",
+            f"cut short because the AI hit its output limit ({finish_reason}).",
+        )
+    return f"{text}\n\n{notice}"
 
 
 def _headline_fallback(articles: list[Article]) -> str:
