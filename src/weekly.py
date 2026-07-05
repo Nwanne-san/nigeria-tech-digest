@@ -1,4 +1,4 @@
-"""Weekly Sunday synthesis: read the past week's digests, email trends + career actions."""
+"""Twice-weekly synthesis (Sun/Wed): read recent digests, email trends + career actions."""
 
 from __future__ import annotations
 
@@ -19,12 +19,17 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-LOOKBACK_DAYS = 7
 DAILY_DIGEST_PATTERN = re.compile(r"^(\d{4}-\d{2}-\d{2})-(morning|evening)\.md$")
 
 
+def _lookback_days() -> int:
+    # Sunday runs cover since Wednesday's synthesis (4 days); Wednesday runs
+    # cover since Sunday's (3 days). Manual runs on other days default to 3.
+    return 4 if datetime.now(timezone.utc).weekday() == 6 else 3
+
+
 def collect_week_digests() -> str:
-    cutoff = datetime.now(timezone.utc) - timedelta(days=LOOKBACK_DAYS)
+    cutoff = datetime.now(timezone.utc) - timedelta(days=_lookback_days())
     sections: list[str] = []
 
     for md_file in sorted(ARCHIVE_DIR.glob("*.md")):
@@ -47,7 +52,7 @@ def collect_week_digests() -> str:
 def main() -> int:
     digests = collect_week_digests()
     if not digests:
-        logger.info("No daily digests found in the past %d days; skipping", LOOKBACK_DAYS)
+        logger.info("No daily digests found in the past %d days; skipping", _lookback_days())
         return 0
 
     prompt = WEEKLY_PROMPT_TEMPLATE.format(persona=READER_PERSONA, digests=digests)
@@ -59,13 +64,13 @@ def main() -> int:
     save_digest(text, "weekly")
 
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    subject = f"Nigeria & Tech Weekly Synthesis — {date_str}"
+    subject = f"Nigeria & Tech Synthesis — {date_str}"
     if os.environ.get("DRY_RUN") == "1":
         logger.info("DRY_RUN=1 — skipping email send")
     else:
         send_digest_email(subject, text)
 
-    logger.info("Weekly synthesis complete")
+    logger.info("Synthesis complete")
     return 0
 
 

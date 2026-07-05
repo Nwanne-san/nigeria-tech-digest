@@ -1,8 +1,9 @@
-name: Run Weekly Synthesis
+name: Run Twice-Weekly Synthesis
 
 on:
   schedule:
     - cron: '0 16 * * 0'  # Sunday 5:00 PM WAT (UTC+1)
+    - cron: '0 16 * * 3'  # Wednesday 5:00 PM WAT (UTC+1)
   workflow_dispatch:
 
 permissions:

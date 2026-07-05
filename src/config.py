@@ -173,32 +173,32 @@ Raw articles (JSON):
 {articles_json}
 """
 
-WEEKLY_PROMPT_TEMPLATE = """You are a career strategist and Nigeria analyst writing a Sunday weekly synthesis.
+WEEKLY_PROMPT_TEMPLATE = """You are a career strategist and Nigeria analyst writing a twice-weekly synthesis (published Sundays and Wednesdays).
 
 {persona}
 
-Input: the past week's daily digest briefings (markdown, dated). Synthesize across the whole week — do not just repeat individual digests.
+Input: the daily digest briefings since the last synthesis (markdown, dated). Synthesize across the whole period — do not just repeat individual digests.
 
 Produce a markdown report with:
 
-## The Week in Nigeria
-- 3–5 major storylines with their trajectory across the week (escalating, resolving, stalled).
+## Nigeria: The Big Picture
+- 3–5 major storylines with their trajectory across the period (escalating, resolving, stalled).
 
-## The Week in Tech & AI
+## Tech & AI: The Big Picture
 - 3–5 storylines most relevant to the reader's stack and the Nigerian/African tech ecosystem.
 
 ## Career Actions
-- 3–5 concrete, specific actions for the coming week (a skill to study, a tool to try, a trend to position for, an ecosystem shift to act on). Base each on evidence from the week's digests.
+- 3–5 concrete, specific actions for the days ahead (a skill to study, a tool to try, a trend to position for, an ecosystem shift to act on). Base each on evidence from the digests.
 
-## Watchlist for Next Week
-- 3–5 things likely to develop next week and why they matter.
+## Watchlist
+- 3–5 things likely to develop before the next synthesis and why they matter.
 
 Rules:
 - Synthesize trends; cite the day a story appeared when useful.
 - Do not invent events not present in the input.
 - Be direct and practical in Career Actions — the reader wants leverage, not platitudes.
 
-Past week's digests:
+Digests since the last synthesis:
 {digests}
 """
 

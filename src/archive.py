@@ -13,7 +13,7 @@ from src.config import ARCHIVE_PRUNE_DAYS
 DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 ARCHIVE_DIR = DOCS_DIR / "archive"
 
-SLOT_LABELS = {"morning": "Morning", "evening": "Evening", "weekly": "Weekly"}
+SLOT_LABELS = {"morning": "Morning", "evening": "Evening", "weekly": "Synthesis"}
 
 
 def _slot_label(slot: str) -> str:
