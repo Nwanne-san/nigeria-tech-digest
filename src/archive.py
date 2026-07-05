@@ -13,6 +13,12 @@ from src.config import ARCHIVE_PRUNE_DAYS
 DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 ARCHIVE_DIR = DOCS_DIR / "archive"
 
+SLOT_LABELS = {"morning": "Morning", "evening": "Evening", "weekly": "Weekly"}
+
+
+def _slot_label(slot: str) -> str:
+    return SLOT_LABELS.get(slot, slot.title())
+
 
 def save_digest(md_content: str, slot: str, date: datetime | None = None) -> Path:
     """Write markdown + HTML archive files; rebuild index. Returns md path."""
@@ -24,7 +30,7 @@ def save_digest(md_content: str, slot: str, date: datetime | None = None) -> Pat
     md_path = ARCHIVE_DIR / f"{base_name}.md"
     html_path = ARCHIVE_DIR / f"{base_name}.html"
 
-    header = f"# Nigeria & Tech {'Morning' if slot == 'morning' else 'Evening'} Brief — {date_str}\n\n"
+    header = f"# Nigeria & Tech {_slot_label(slot)} Brief — {date_str}\n\n"
     full_md = header + md_content if not md_content.startswith("#") else md_content
     md_path.write_text(full_md, encoding="utf-8")
 
@@ -37,7 +43,7 @@ def save_digest(md_content: str, slot: str, date: datetime | None = None) -> Pat
 
 
 def _wrap_archive_page(title_md: str, body_html: str, date_str: str, slot: str) -> str:
-    label = "Morning" if slot == "morning" else "Evening"
+    label = _slot_label(slot)
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,14 +66,14 @@ def _wrap_archive_page(title_md: str, body_html: str, date_str: str, slot: str) 
 
 def _rebuild_index() -> None:
     entries: list[tuple[str, str, str]] = []
-    pattern = re.compile(r"^(\d{4}-\d{2}-\d{2})-(morning|evening)\.md$")
+    pattern = re.compile(r"^(\d{4}-\d{2}-\d{2})-(morning|evening|weekly)\.md$")
 
     for md_file in sorted(ARCHIVE_DIR.glob("*.md"), reverse=True):
         match = pattern.match(md_file.name)
         if not match:
             continue
         date_str, slot = match.groups()
-        label = "Morning" if slot == "morning" else "Evening"
+        label = _slot_label(slot)
         html_name = md_file.stem + ".html"
         entries.append((date_str, label, f"archive/{html_name}"))
 
@@ -106,7 +112,7 @@ def _rebuild_index() -> None:
 
 def _prune_old_archives() -> None:
     cutoff = datetime.now(timezone.utc) - timedelta(days=ARCHIVE_PRUNE_DAYS)
-    pattern = re.compile(r"^(\d{4}-\d{2}-\d{2})-(morning|evening)\.(md|html)$")
+    pattern = re.compile(r"^(\d{4}-\d{2}-\d{2})-(morning|evening|weekly)\.(md|html)$")
 
     for path in ARCHIVE_DIR.glob("*"):
         match = pattern.match(path.name)

@@ -9,7 +9,7 @@ import sys
 from pathlib import Path
 
 from src.archive import save_digest
-from src.brain import GeminiRateLimitError, generate_digest
+from src.brain import generate_digest
 from src.config import MIN_ARTICLES_FOR_DIGEST
 from src.emailer import build_subject, send_digest_email
 from src.fetcher import fetch_all_articles, format_headlines_fallback
@@ -48,15 +48,7 @@ def main() -> int:
             md_content += "## Headlines\n\n" + format_headlines_fallback(articles)
         used_ai = False
     else:
-        try:
-            md_content, used_ai = generate_digest(articles)
-        except GeminiRateLimitError:
-            md_content = (
-                "# Nigeria & Tech Brief — Headlines Only\n\n"
-                "AI summarization hit the free-tier rate limit. Headlines below:\n\n"
-                + format_headlines_fallback(articles)
-            )
-            used_ai = False
+        md_content, used_ai = generate_digest(articles, slot)
 
     save_digest(md_content, slot)
 

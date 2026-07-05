@@ -164,16 +164,19 @@ def _clean_text(text: str) -> str:
 
 
 def _rank_articles(articles: list[Article]) -> list[Article]:
-    keywords_lower = [k.lower() for k in KEYWORDS]
+    keyword_patterns = [
+        (re.compile(rf"\b{re.escape(kw.lower())}\b"), weight)
+        for kw, weight in KEYWORDS.items()
+    ]
     now = datetime.now(timezone.utc)
 
     for article in articles:
         score = 0.0
         blob = f"{article.title} {article.summary}".lower()
 
-        for kw in keywords_lower:
-            if kw in blob:
-                score += 2.0
+        for pattern, weight in keyword_patterns:
+            if pattern.search(blob):
+                score += weight
 
         if article.category == "nigeria":
             score += 1.0

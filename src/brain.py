@@ -1,4 +1,4 @@
-"""Gemini-powered digest generation with tiered lore."""
+"""AI digest generation with a free-tier model fallback chain."""
 
 from __future__ import annotations
 
@@ -6,14 +6,19 @@ import json
 import logging
 import os
 
+import httpx
 from google import genai
 from google.genai import types
 
 from src.config import (
     DIGEST_PROMPT_TEMPLATE,
     FALLBACK_HEADLINES_TEMPLATE,
+    GEMINI_FALLBACK_MODELS,
     GEMINI_MODEL,
     MAX_OUTPUT_TOKENS,
+    OPENAI_COMPAT_FALLBACKS,
+    READER_PERSONA,
+    SLOT_INSTRUCTIONS,
     TRUNCATION_NOTICE,
 )
 from src.fetcher import Article, format_headlines_fallback
@@ -21,58 +26,104 @@ from src.fetcher import Article, format_headlines_fallback
 logger = logging.getLogger(__name__)
 
 
-class GeminiRateLimitError(Exception):
-    """Raised when Gemini returns a rate-limit response."""
-
-
-def generate_digest(articles: list[Article]) -> tuple[str, bool]:
+def generate_digest(articles: list[Article], slot: str = "morning") -> tuple[str, bool]:
     """
-    Generate markdown digest via Gemini.
+    Generate markdown digest via the model fallback chain.
 
     Returns (markdown_content, used_ai).
     """
     if not articles:
         return "# Nigeria & Tech Brief\n\nNo major updates in this window.", True
 
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        logger.warning("GEMINI_API_KEY not set; using headline fallback")
-        return _headline_fallback(articles), False
+    articles_json = json.dumps([a.to_compact_dict() for a in articles], indent=2)
+    prompt = DIGEST_PROMPT_TEMPLATE.format(
+        persona=READER_PERSONA,
+        slot_instructions=SLOT_INSTRUCTIONS.get(slot, SLOT_INSTRUCTIONS["morning"]),
+        articles_json=articles_json,
+    )
 
-    try:
-        client = genai.Client(api_key=api_key)
-        articles_json = json.dumps([a.to_compact_dict() for a in articles], indent=2)
-        prompt = DIGEST_PROMPT_TEMPLATE.format(articles_json=articles_json)
-
-        response = client.models.generate_content(
-            model=GEMINI_MODEL,
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                max_output_tokens=MAX_OUTPUT_TOKENS,
-                temperature=0.4,
-            ),
-        )
-        text = (response.text or "").strip()
-        if not text:
-            raise ValueError("Empty response from Gemini")
-
-        finish_reason = _get_finish_reason(response)
-        if _was_truncated(finish_reason):
-            logger.warning(
-                "Gemini output truncated (finish_reason=%s, max_tokens=%d)",
-                finish_reason,
-                MAX_OUTPUT_TOKENS,
-            )
-            text = _append_truncation_notice(text, finish_reason)
-
+    text = generate_text(prompt)
+    if text:
         return text, True
-    except Exception as exc:
-        error_msg = str(exc).lower()
-        if "429" in error_msg or "quota" in error_msg or "rate" in error_msg or "resource_exhausted" in error_msg:
-            logger.warning("Gemini rate limit hit: %s", exc)
-            raise GeminiRateLimitError(str(exc)) from exc
-        logger.warning("Gemini failed, using headline fallback: %s", exc)
-        return _headline_fallback(articles), False
+    return _headline_fallback(articles), False
+
+
+def generate_text(prompt: str) -> str | None:
+    """
+    Try each model in the free-tier chain; return markdown or None if all fail.
+
+    Chain: Gemini flash -> Gemini flash-lite -> any configured
+    OpenAI-compatible provider (Cerebras, Groq).
+    """
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+    if gemini_key:
+        client = genai.Client(api_key=gemini_key)
+        for model in [GEMINI_MODEL, *GEMINI_FALLBACK_MODELS]:
+            try:
+                return _gemini_generate(client, model, prompt)
+            except Exception as exc:
+                logger.warning("Gemini model %s failed: %s", model, exc)
+    else:
+        logger.warning("GEMINI_API_KEY not set; skipping Gemini")
+
+    for env_var, url, model in OPENAI_COMPAT_FALLBACKS:
+        api_key = os.environ.get(env_var)
+        if not api_key:
+            continue
+        try:
+            return _openai_compat_generate(url, api_key, model, prompt)
+        except Exception as exc:
+            logger.warning("Fallback %s (%s) failed: %s", model, url, exc)
+
+    logger.error("All AI models in the fallback chain failed")
+    return None
+
+
+def _gemini_generate(client: genai.Client, model: str, prompt: str) -> str:
+    response = client.models.generate_content(
+        model=model,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            max_output_tokens=MAX_OUTPUT_TOKENS,
+            temperature=0.4,
+        ),
+    )
+    text = (response.text or "").strip()
+    if not text:
+        raise ValueError("Empty response")
+
+    finish_reason = _get_finish_reason(response)
+    if _was_truncated(finish_reason):
+        logger.warning(
+            "Gemini output truncated (model=%s, finish_reason=%s, max_tokens=%d)",
+            model,
+            finish_reason,
+            MAX_OUTPUT_TOKENS,
+        )
+        text = _append_truncation_notice(text, finish_reason)
+
+    logger.info("Digest generated by %s", model)
+    return text
+
+
+def _openai_compat_generate(url: str, api_key: str, model: str, prompt: str) -> str:
+    response = httpx.post(
+        url,
+        headers={"Authorization": f"Bearer {api_key}"},
+        json={
+            "model": model,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.4,
+            "max_tokens": 8192,
+        },
+        timeout=120.0,
+    )
+    response.raise_for_status()
+    text = (response.json()["choices"][0]["message"]["content"] or "").strip()
+    if not text:
+        raise ValueError("Empty response")
+    logger.info("Digest generated by fallback %s", model)
+    return text
 
 
 def _get_finish_reason(response) -> str | None:

@@ -30,8 +30,9 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.slot }}" ]; then
             echo "DIGEST_SLOT=${{ github.event.inputs.slot }}" >> $GITHUB_ENV
           else
+            # Cron runs can start late; anything before 12:00 UTC is the morning slot
             HOUR=$(date -u +%H)
-            if [ "$HOUR" = "07" ]; then
+            if [ "$HOUR" -lt 12 ]; then
               echo "DIGEST_SLOT=morning" >> $GITHUB_ENV
             else
               echo "DIGEST_SLOT=evening" >> $GITHUB_ENV
@@ -49,6 +50,8 @@ jobs:
       - name: Execute digest engine
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_FROM_EMAIL: ${{ secrets.DIGEST_FROM_EMAIL }}
           DIGEST_TO_EMAIL: ${{ secrets.DIGEST_TO_EMAIL }}
