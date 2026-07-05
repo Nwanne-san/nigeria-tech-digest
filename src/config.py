@@ -104,13 +104,13 @@ KEYWORDS: dict[str, float] = {
 FEED_TIMEOUT_SECONDS = 30.0
 USER_AGENT = "Mozilla/5.0 (compatible; NigeriaTechDigest/1.0)"
 ENTRIES_PER_FEED = 8
-MAX_ARTICLES_FOR_AI = 40
+MAX_ARTICLES_FOR_AI = 50
 SUMMARY_TRUNCATE_CHARS = 800
 # Top-ranked articles get full text fetched for deeper AI context (Gemini only;
 # smaller fallback models receive the compact summaries-only prompt)
-FULL_TEXT_TOP_N = 10
-FULL_TEXT_MAX_CHARS = 6000
-MAX_OUTPUT_TOKENS = 32768
+FULL_TEXT_TOP_N = 16
+FULL_TEXT_MAX_CHARS = 9000
+MAX_OUTPUT_TOKENS = 65536
 GEMINI_MODEL = "gemini-2.5-flash"
 # Tried in order after GEMINI_MODEL; flash-lite has its own free-tier quota on the same key
 GEMINI_FALLBACK_MODELS: list[str] = ["gemini-2.5-flash-lite"]
@@ -177,7 +177,7 @@ For the first four sections:
 - Present multiple perspectives where debate exists; label speculation clearly.
 
 Rules:
-- Aim for roughly 2,500–3,500 words total. Do NOT compress for brevity — depth and specificity are preferred over summarization. Never reduce a story to a single vague sentence when the source material contains detail.
+- Aim for roughly 3,500–5,000 words total. Do NOT compress for brevity — depth and specificity are preferred over summarization. Never reduce a story to a single vague sentence when the source material contains detail. When an article's full_text is provided, mine it: quote key figures, name the actors, and trace the sequence of events.
 - Be objective; separate fact from speculation.
 - If a section has no fresh stories, say "No major updates in this window."
 - Do not invent events not present in the input.
@@ -208,7 +208,7 @@ Produce a markdown report with:
 - 4–6 things likely to develop before the next synthesis, each with 2–3 sentences on why it matters and what signal to look for.
 
 Rules:
-- Aim for roughly 1,500–2,500 words. Depth over compression — the daily digests already summarized; your job is connection and detail, not further shortening.
+- Aim for roughly 2,500–3,500 words. Depth over compression — the daily digests already summarized; your job is connection and detail, not further shortening.
 - Synthesize trends; cite the day a story appeared when useful.
 - Do not invent events not present in the input.
 - Be direct and practical in Career Actions — the reader wants leverage, not platitudes.
@@ -262,7 +262,7 @@ Produce a markdown report with:
 - 4-6 concrete career or attention recommendations based on the month's trends, each with the evidence and a first step.
 
 Rules:
-- Aim for roughly 2,000–3,000 words. Depth over compression — this is the one report of the month, so be thorough.
+- Aim for roughly 3,000–4,500 words. Depth over compression — this is the one report of the month, so be thorough.
 - Synthesize across the month; do not summarize digest by digest.
 - Do not invent events not present in the input.
 - Be candid about uncertainty and label speculation.

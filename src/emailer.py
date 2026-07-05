@@ -49,6 +49,11 @@ def send_digest_email(subject: str, md_content: str) -> None:
     resend.api_key = api_key
     html_body = markdown_to_html(md_content)
 
+    size_kb = len(html_body.encode("utf-8")) / 1024
+    if size_kb > 95:
+        # Gmail clips messages over ~102KB; the full copy is always in the archive
+        logger.warning("Email HTML is %.0fKB — Gmail may clip it", size_kb)
+
     _send_with_retry(
         {
             "from": from_email,
