@@ -16,6 +16,8 @@ import httpx
 from src.config import (
     ENTRIES_PER_FEED,
     FEED_TIMEOUT_SECONDS,
+    FULL_TEXT_MAX_CHARS,
+    FULL_TEXT_TOP_N,
     GLOBAL_TECH_FEEDS,
     KEYWORDS,
     MAX_ARTICLES_FOR_AI,
@@ -41,9 +43,10 @@ class Article:
     category: Category
     score: float = 0.0
     published_dt: datetime | None = None
+    full_text: str = ""
 
-    def to_compact_dict(self) -> dict:
-        return {
+    def to_compact_dict(self, include_full_text: bool = False) -> dict:
+        data = {
             "title": self.title,
             "link": self.link,
             "published_at": self.published_at,
@@ -51,6 +54,9 @@ class Article:
             "source": self.source,
             "category": self.category,
         }
+        if include_full_text and self.full_text:
+            data["full_text"] = self.full_text
+        return data
 
 
 def fetch_all_articles(
@@ -78,6 +84,26 @@ def fetch_all_articles(
 
     ranked = _rank_articles(articles)
     return ranked[:MAX_ARTICLES_FOR_AI]
+
+
+def enrich_articles(articles: list[Article], top_n: int = FULL_TEXT_TOP_N) -> None:
+    """Fetch full article text for the top-ranked articles (best effort)."""
+    import trafilatura
+
+    enriched = 0
+    with httpx.Client(timeout=FEED_TIMEOUT_SECONDS, follow_redirects=True) as client:
+        for article in articles[:top_n]:
+            try:
+                response = client.get(article.link, headers={"User-Agent": USER_AGENT})
+                response.raise_for_status()
+                text = trafilatura.extract(response.text) or ""
+                text = text.strip()
+                if len(text) > len(article.summary):
+                    article.full_text = text[:FULL_TEXT_MAX_CHARS]
+                    enriched += 1
+            except Exception as exc:
+                logger.debug("Full-text fetch failed for %s: %s", article.link, exc)
+    logger.info("Full text extracted for %d/%d top articles", enriched, min(top_n, len(articles)))
 
 
 def _fetch_feed(url: str, source: str, category: Category) -> list[Article]:

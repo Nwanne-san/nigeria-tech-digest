@@ -12,8 +12,9 @@ from src.archive import save_digest
 from src.brain import generate_digest
 from src.config import MIN_ARTICLES_FOR_DIGEST
 from src.emailer import build_subject, send_digest_email
-from src.fetcher import fetch_all_articles, format_headlines_fallback
+from src.fetcher import enrich_articles, fetch_all_articles, format_headlines_fallback
 from src.state import load_state, mark_seen, save_state
+from src.storylines import load_storylines, save_storylines, update_storylines
 
 logging.basicConfig(
     level=logging.INFO,
@@ -39,6 +40,8 @@ def main() -> int:
 
     _write_artifact(articles, slot)
 
+    storylines = load_storylines()
+
     if len(articles) < MIN_ARTICLES_FOR_DIGEST:
         md_content = (
             f"# Nigeria & Tech {'Morning' if slot == 'morning' else 'Evening'} Brief\n\n"
@@ -48,9 +51,18 @@ def main() -> int:
             md_content += "## Headlines\n\n" + format_headlines_fallback(articles)
         used_ai = False
     else:
-        md_content, used_ai = generate_digest(articles, slot)
+        enrich_articles(articles)
+        md_content, used_ai = generate_digest(
+            articles, slot, storylines_json=json.dumps(storylines)
+        )
 
     save_digest(md_content, slot)
+
+    if used_ai:
+        updated = update_storylines(storylines, md_content)
+        if updated is not None:
+            save_storylines(updated)
+            logger.info("Storylines updated (%d tracked)", len(updated))
 
     subject = build_subject(slot)
     if os.environ.get("DRY_RUN") == "1":

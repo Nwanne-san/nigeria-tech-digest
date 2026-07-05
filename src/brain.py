@@ -26,7 +26,11 @@ from src.fetcher import Article, format_headlines_fallback
 logger = logging.getLogger(__name__)
 
 
-def generate_digest(articles: list[Article], slot: str = "morning") -> tuple[str, bool]:
+def generate_digest(
+    articles: list[Article],
+    slot: str = "morning",
+    storylines_json: str = "[]",
+) -> tuple[str, bool]:
     """
     Generate markdown digest via the model fallback chain.
 
@@ -35,25 +39,33 @@ def generate_digest(articles: list[Article], slot: str = "morning") -> tuple[str
     if not articles:
         return "# Nigeria & Tech Brief\n\nNo major updates in this window.", True
 
-    articles_json = json.dumps([a.to_compact_dict() for a in articles], indent=2)
-    prompt = DIGEST_PROMPT_TEMPLATE.format(
-        persona=READER_PERSONA,
-        slot_instructions=SLOT_INSTRUCTIONS.get(slot, SLOT_INSTRUCTIONS["morning"]),
-        articles_json=articles_json,
-    )
+    def build_prompt(include_full_text: bool) -> str:
+        articles_json = json.dumps(
+            [a.to_compact_dict(include_full_text=include_full_text) for a in articles],
+            indent=2,
+        )
+        return DIGEST_PROMPT_TEMPLATE.format(
+            persona=READER_PERSONA,
+            slot_instructions=SLOT_INSTRUCTIONS.get(slot, SLOT_INSTRUCTIONS["morning"]),
+            storylines_json=storylines_json,
+            articles_json=articles_json,
+        )
 
-    text = generate_text(prompt)
+    # Full text only for Gemini (1M context); fallback models get summaries only
+    text = generate_text(build_prompt(True), fallback_prompt=build_prompt(False))
     if text:
         return text, True
     return _headline_fallback(articles), False
 
 
-def generate_text(prompt: str) -> str | None:
+def generate_text(prompt: str, fallback_prompt: str | None = None) -> str | None:
     """
     Try each model in the free-tier chain; return markdown or None if all fail.
 
     Chain: Gemini flash -> Gemini flash-lite -> any configured
-    OpenAI-compatible provider (Cerebras, Groq).
+    OpenAI-compatible provider (Cerebras, Groq). The OpenAI-compatible
+    providers receive `fallback_prompt` (a smaller prompt) when given, since
+    their context/TPM limits are far below Gemini's.
     """
     gemini_key = os.environ.get("GEMINI_API_KEY")
     if gemini_key:
@@ -71,11 +83,37 @@ def generate_text(prompt: str) -> str | None:
         if not api_key:
             continue
         try:
-            return _openai_compat_generate(url, api_key, model, prompt)
+            return _openai_compat_generate(url, api_key, model, fallback_prompt or prompt)
         except Exception as exc:
             logger.warning("Fallback %s (%s) failed: %s", model, url, exc)
 
     logger.error("All AI models in the fallback chain failed")
+    return None
+
+
+def generate_json(prompt: str, max_tokens: int = 4096) -> list | dict | None:
+    """Gemini JSON-mode generation (used for storyline tracking). Best effort."""
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+    if not gemini_key:
+        return None
+
+    client = genai.Client(api_key=gemini_key)
+    for model in [GEMINI_MODEL, *GEMINI_FALLBACK_MODELS]:
+        try:
+            response = client.models.generate_content(
+                model=model,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    max_output_tokens=max_tokens,
+                    temperature=0.2,
+                    response_mime_type="application/json",
+                ),
+            )
+            text = (response.text or "").strip()
+            if text:
+                return json.loads(text)
+        except Exception as exc:
+            logger.warning("JSON generation with %s failed: %s", model, exc)
     return None
 
 

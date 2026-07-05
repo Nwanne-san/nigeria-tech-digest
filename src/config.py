@@ -17,6 +17,9 @@ NIGERIAN_FEEDS: dict[str, str] = {
     "Nairametrics": "https://nairametrics.com/feed/",
     "BusinessDay": "https://businessday.ng/feed/",
     "Condia": "https://www.benjamindada.com/rss/",
+    "BBC Africa": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+    "The Africa Report": "https://www.theafricareport.com/feed/",
+    "Semafor": "https://www.semafor.com/rss.xml",
 }
 
 GLOBAL_TECH_FEEDS: dict[str, str] = {
@@ -32,6 +35,7 @@ GLOBAL_TECH_FEEDS: dict[str, str] = {
     "Google Cloud Blog": "https://cloudblog.withgoogle.com/rss/",
     "Simon Willison (AI)": "https://simonwillison.net/atom/everything/",
     "The New Stack": "https://thenewstack.io/feed/",
+    "Rest of World": "https://restofworld.org/feed/latest/",
 }
 
 # Keyword -> ranking weight. Career/stack terms outweigh generic policy terms
@@ -102,6 +106,10 @@ USER_AGENT = "Mozilla/5.0 (compatible; NigeriaTechDigest/1.0)"
 ENTRIES_PER_FEED = 8
 MAX_ARTICLES_FOR_AI = 40
 SUMMARY_TRUNCATE_CHARS = 800
+# Top-ranked articles get full text fetched for deeper AI context (Gemini only;
+# smaller fallback models receive the compact summaries-only prompt)
+FULL_TEXT_TOP_N = 10
+FULL_TEXT_MAX_CHARS = 6000
 MAX_OUTPUT_TOKENS = 16384
 GEMINI_MODEL = "gemini-2.5-flash"
 # Tried in order after GEMINI_MODEL; flash-lite has its own free-tier quota on the same key
@@ -134,6 +142,11 @@ DIGEST_PROMPT_TEMPLATE = """You are a senior Nigeria policy analyst and global t
 {persona}
 
 {slot_instructions}
+
+Ongoing storylines you have been tracking across previous digests (JSON; may be empty):
+{storylines_json}
+
+When a fresh article continues one of these storylines, explicitly reference the continuity (e.g., "third escalation this month", "follows last week's announcement") instead of treating it as a new event.
 
 Using ONLY the articles provided, produce a markdown report with:
 
@@ -199,6 +212,59 @@ Rules:
 - Be direct and practical in Career Actions — the reader wants leverage, not platitudes.
 
 Digests since the last synthesis:
+{digests}
+"""
+
+STORYLINE_UPDATE_PROMPT = """You maintain a compact tracker of ongoing news storylines for a personal digest.
+
+Current storylines (JSON array; may be empty):
+{storylines_json}
+
+Today's digest ({date}):
+{digest_md}
+
+Update the tracker:
+- Merge today's developments into existing storylines (update summary, status, last_updated).
+- Add genuinely new multi-day storylines (policy sagas, security situations, tech/AI shifts, Nigerian ecosystem trends). Skip one-off events unlikely to develop further.
+- Drop storylines dormant for more than 21 days.
+- Keep at most 15 storylines.
+
+Return ONLY a JSON array of objects with exactly these fields:
+- "name": short storyline title
+- "status": one of "escalating", "developing", "resolving", "dormant"
+- "summary": 1-2 sentences of current state and trajectory
+- "last_updated": ISO date of the latest development
+"""
+
+MONTHLY_PROMPT_TEMPLATE = """You are a strategist writing a monthly retrospective for a personal news digest.
+
+{persona}
+
+Input: a full month of daily digest briefings (markdown, dated).
+
+Produce a markdown report with:
+
+## What Actually Changed in Nigeria
+- The 4-6 developments from this month that will still matter in a year: what shifted, and the trajectory.
+
+## What Actually Changed in Tech & AI
+- The 4-6 developments most relevant to the reader's stack and the Nigerian/African tech ecosystem.
+
+## Announcements vs Follow-Through
+- Which government or industry announcements from this month showed real follow-through, and which fizzled.
+
+## What Deserved More Attention
+- 2-3 underweighted stories the reader should revisit.
+
+## Positioning for Next Month
+- 3-5 concrete career or attention recommendations based on the month's trends.
+
+Rules:
+- Synthesize across the month; do not summarize digest by digest.
+- Do not invent events not present in the input.
+- Be candid about uncertainty and label speculation.
+
+The month's digests:
 {digests}
 """
 
