@@ -110,7 +110,7 @@ SUMMARY_TRUNCATE_CHARS = 800
 # smaller fallback models receive the compact summaries-only prompt)
 FULL_TEXT_TOP_N = 10
 FULL_TEXT_MAX_CHARS = 6000
-MAX_OUTPUT_TOKENS = 16384
+MAX_OUTPUT_TOKENS = 32768
 GEMINI_MODEL = "gemini-2.5-flash"
 # Tried in order after GEMINI_MODEL; flash-lite has its own free-tier quota on the same key
 GEMINI_FALLBACK_MODELS: list[str] = ["gemini-2.5-flash-lite"]
@@ -158,25 +158,26 @@ Using ONLY the articles provided, produce a markdown report with:
 ## Outlook & Speculation
 
 For the first four sections:
-- Cover up to **4 stories max** (prioritize quality over quantity).
-- For the **top 2 most significant** stories in each section, include:
+- Cover up to **6 stories** per section when the material supports it.
+- For the **top 3 most significant** stories in each section, include:
   - **Headline** (with source)
-  - **What happened** (2 sentences, factual)
-  - **Deep Lore / Context** (1 concise paragraph: background, escalation, why it matters)
+  - **What happened** (3–5 sentences, factual — include the concrete figures, names, places, and quotes from the articles)
+  - **Deep Lore / Context** (2 substantial paragraphs: the background and how we got here; the actors and their incentives; the escalation history; why it matters and what it connects to)
   - **Source:** [link]
-- For any additional stories (3rd–4th), include only:
-  - **Headline**, **What happened** (1 sentence), **Brief Context** (1 sentence), **Source**
+- For any additional stories (4th–6th), include:
+  - **Headline**, **What happened** (2–3 sentences), **Context** (2–3 sentences), **Source**
 
 ## Career Radar
-- 3–5 bullets connecting this window's news directly to the reader's career.
-- Each bullet: the signal (from a provided article), then "→" and what it means for a Nigerian web/cloud/AI engineer (a skill to watch, an opportunity, a risk, a tool worth trying).
+- 4–6 bullets connecting this window's news directly to the reader's career.
+- Each bullet: the signal (from a provided article), then "→" and 2–3 sentences on what it means for a Nigerian web/cloud/AI engineer (a skill to watch, an opportunity, a risk, a tool worth trying) and a suggested first step.
 - Ground every bullet in the provided articles; do not invent trends.
 
 ## Outlook & Speculation
-- 3–5 bullet points on likely next directions across categories.
+- 5–7 bullet points on likely next directions across categories, each 2–3 sentences.
 - Present multiple perspectives where debate exists; label speculation clearly.
 
 Rules:
+- Aim for roughly 2,500–3,500 words total. Do NOT compress for brevity — depth and specificity are preferred over summarization. Never reduce a story to a single vague sentence when the source material contains detail.
 - Be objective; separate fact from speculation.
 - If a section has no fresh stories, say "No major updates in this window."
 - Do not invent events not present in the input.
@@ -195,18 +196,19 @@ Input: the daily digest briefings since the last synthesis (markdown, dated). Sy
 Produce a markdown report with:
 
 ## Nigeria: The Big Picture
-- 3–5 major storylines with their trajectory across the period (escalating, resolving, stalled).
+- 4–6 major storylines, each with a full paragraph: trajectory across the period (escalating, resolving, stalled), the key developments day by day, and what the pattern reveals.
 
 ## Tech & AI: The Big Picture
-- 3–5 storylines most relevant to the reader's stack and the Nigerian/African tech ecosystem.
+- 4–6 storylines most relevant to the reader's stack and the Nigerian/African tech ecosystem, each a full paragraph with the specifics.
 
 ## Career Actions
-- 3–5 concrete, specific actions for the days ahead (a skill to study, a tool to try, a trend to position for, an ecosystem shift to act on). Base each on evidence from the digests.
+- 4–6 concrete, specific actions for the days ahead (a skill to study, a tool to try, a trend to position for, an ecosystem shift to act on). For each: the evidence from the digests, the action, and a concrete first step — 2–4 sentences.
 
 ## Watchlist
-- 3–5 things likely to develop before the next synthesis and why they matter.
+- 4–6 things likely to develop before the next synthesis, each with 2–3 sentences on why it matters and what signal to look for.
 
 Rules:
+- Aim for roughly 1,500–2,500 words. Depth over compression — the daily digests already summarized; your job is connection and detail, not further shortening.
 - Synthesize trends; cite the day a story appeared when useful.
 - Do not invent events not present in the input.
 - Be direct and practical in Career Actions — the reader wants leverage, not platitudes.
@@ -245,21 +247,22 @@ Input: a full month of daily digest briefings (markdown, dated).
 Produce a markdown report with:
 
 ## What Actually Changed in Nigeria
-- The 4-6 developments from this month that will still matter in a year: what shifted, and the trajectory.
+- The 4-6 developments from this month that will still matter in a year. For each: a full paragraph on what shifted, the evidence across the month, and the trajectory.
 
 ## What Actually Changed in Tech & AI
-- The 4-6 developments most relevant to the reader's stack and the Nigerian/African tech ecosystem.
+- The 4-6 developments most relevant to the reader's stack and the Nigerian/African tech ecosystem, each a full paragraph with specifics.
 
 ## Announcements vs Follow-Through
-- Which government or industry announcements from this month showed real follow-through, and which fizzled.
+- Which government or industry announcements from this month showed real follow-through, and which fizzled — with the dates and details for each.
 
 ## What Deserved More Attention
-- 2-3 underweighted stories the reader should revisit.
+- 2-3 underweighted stories the reader should revisit, each with a paragraph on why it matters more than the coverage suggested.
 
 ## Positioning for Next Month
-- 3-5 concrete career or attention recommendations based on the month's trends.
+- 4-6 concrete career or attention recommendations based on the month's trends, each with the evidence and a first step.
 
 Rules:
+- Aim for roughly 2,000–3,000 words. Depth over compression — this is the one report of the month, so be thorough.
 - Synthesize across the month; do not summarize digest by digest.
 - Do not invent events not present in the input.
 - Be candid about uncertainty and label speculation.
