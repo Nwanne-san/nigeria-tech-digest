@@ -2,26 +2,38 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "The investigation into a purported fake agency within the presidency, PFIPC, with alleged budget allocation, has intensified scrutiny on Nigerian government transparency and governance, directly linking to broader concerns of N8.83 trillion in off-budget spending.",
-    "last_updated": "2026-07-10"
+    "summary": "The investigation into a purported fake agency within the presidency, PFIPC, with alleged budget allocation, has intensified scrutiny on Nigerian government transparency and governance, directly linking to broader concerns of N8.83 trillion in off-budget spending and N206 billion allocated to MDAs for projects outside their mandates.",
+    "last_updated": "2026-07-11"
   },
   {
     "name": "Peter Obi's Political Pressure on Tinubu",
     "status": "escalating",
     "summary": "Peter Obi continues to exert political pressure on President Tinubu, criticizing his leadership and suggesting he is 'tired,' linking current governance failures to ongoing crises and positioning himself for future political contests.",
-    "last_updated": "2026-07-10"
+    "last_updated": "2026-07-11"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The rapid advancement of AI, demonstrated by new vulnerabilities and the increasing reliance on AI agents for critical tasks, continues to outpace regulatory efforts, highlighting the urgent need for global rules and robust governance frameworks.",
-    "last_updated": "2026-07-10"
+    "summary": "The rapid advancement of AI, demonstrated by new vulnerabilities and the increasing reliance on AI agents for critical tasks, continues to outpace regulatory efforts, highlighted by Apple's lawsuit against OpenAI and Meta's removal of a controversial AI feature.",
+    "last_updated": "2026-07-11"
   },
   {
-    "name": "Nigerian Tech Startup Funding Slowdown",
+    "name": "Nigeria's Infrastructure for Insecurity Response",
+    "status": "escalating",
+    "summary": "A shift towards a more hardline security strategy is evident with successful no-ransom rescues, like the Oyo schoolchildren, and active operations against banditry, alongside ongoing debates about structural reforms like State Police.",
+    "last_updated": "2026-07-11"
+  },
+  {
+    "name": "AI Security Vulnerabilities",
+    "status": "escalating",
+    "summary": "New vulnerabilities continue to expose critical security flaws in AI tools, enabling malicious activities and underscoring the growing need for robust AI security measures and secure execution environments, as highlighted by CISA's incident response playbook revelation.",
+    "last_updated": "2026-07-11"
+  },
+  {
+    "name": "AI Model Competition and Efficiency",
     "status": "developing",
-    "summary": "While the funding slowdown persists, new initiatives and strategic partnerships offer opportunities, but challenges like high infrastructure and compliance costs, as seen with Gigbanc's shutdown, remain significant hurdles for startups.",
-    "last_updated": "2026-07-10"
+    "summary": "Intense competition among AI labs to release advanced models highlights the race for performance and economic viability, with significant advancements in model capabilities and efficiency, alongside growing concerns about soaring AI costs.",
+    "last_updated": "2026-07-11"
   },
   {
     "name": "Nigeria's Crypto Regulatory Evolution",
@@ -42,18 +54,6 @@
     "last_updated": "2026-07-10"
   },
   {
-    "name": "Nigeria's Infrastructure for Insecurity Response",
-    "status": "escalating",
-    "summary": "A shift towards a more hardline security strategy is evident with successful no-ransom rescues and active operations against banditry, alongside ongoing debates about structural reforms like State Police.",
-    "last_updated": "2026-07-10"
-  },
-  {
-    "name": "AI Security Vulnerabilities",
-    "status": "escalating",
-    "summary": "New vulnerabilities continue to expose critical security flaws in AI tools, enabling malicious activities and underscoring the growing need for robust AI security measures and secure execution environments.",
-    "last_updated": "2026-07-10"
-  },
-  {
     "name": "TypeScript 7.0 Performance Revolution",
     "status": "developing",
     "summary": "The release of TypeScript 7.0, featuring a 10x faster native port in Go, promises significant improvements in developer productivity and build times, marking a major advancement for the language.",
@@ -63,12 +63,6 @@
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
     "summary": "The rapid adoption of AI agents for tasks like root cause analysis is transforming IT operations, driving the need for robust governance, security, and management frameworks for these autonomous systems.",
-    "last_updated": "2026-07-10"
-  },
-  {
-    "name": "AI Model Competition and Efficiency",
-    "status": "developing",
-    "summary": "Intense competition among AI labs to release advanced models highlights the race for performance and economic viability, with significant advancements in model capabilities and efficiency.",
     "last_updated": "2026-07-10"
   },
   {
@@ -88,5 +82,11 @@
     "status": "developing",
     "summary": "The push for State Police in Nigeria is gaining momentum, but significant concerns regarding judicial reform, equitable funding, and preventing abuse of power highlight complex implementation challenges.",
     "last_updated": "2026-07-10"
+  },
+  {
+    "name": "Nigeria's Untapped Solid Mineral Wealth",
+    "status": "developing",
+    "summary": "Nigeria holds an estimated $750 billion in untapped solid mineral wealth, with significant lithium reserves in Kaduna identified as crucial for the global energy transition, signaling potential for economic diversification.",
+    "last_updated": "2026-07-11"
   }
 ]
