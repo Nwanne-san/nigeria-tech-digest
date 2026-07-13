@@ -2,38 +2,38 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "The investigation into a purported fake agency within the presidency, PFIPC, has intensified scrutiny on Nigerian government transparency, with formal charges now filed against a former minister and the alleged agency head, directly linking to broader concerns of N8.83 trillion in off-budget spending.",
-    "last_updated": "2026-07-12"
+    "summary": "The National Assembly's rejection of a motion to investigate the PFIPC controversy, despite allegations of a fake agency and N8.83 trillion in off-budget spending, raises concerns about legislative oversight and the integrity of the budget process.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "Peter Obi's Political Pressure on Tinubu",
-    "status": "escalating",
-    "summary": "Opposition figures, including Atiku Abubakar, continue to critique the current administration's policies, such as education fee hikes, while Peter Obi maintains pressure, framing alternative visions for national development and positioning for future political contests.",
-    "last_updated": "2026-07-12"
+    "status": "developing",
+    "summary": "Internal power struggles within the African Democratic Congress (ADC), reaching the Appeal Court, highlight ongoing opposition party dynamics and their potential impact on presenting a united front against the ruling party.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The rapid buildout of AI data centers is facing significant community pushback and emerging regulatory scrutiny, with calls for stricter controls on energy consumption and operational safety, as demonstrated by NHTSA's ultimatum to robotaxi developers.",
-    "last_updated": "2026-07-12"
+    "summary": "The introduction of tools like k8s-aibom for automated AI BOMs and Anthropic's research into LLM interpretability signal a growing need for structured governance and understanding of AI systems to address regulatory gaps and security concerns.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Active operations against banditry continue with the confirmed killing of notorious commander Sani Yellow, while foreign facilitators were discovered among ISWAP ranks, highlighting the evolving and transnational nature of the threats.",
-    "last_updated": "2026-07-12"
+    "summary": "A successful rescue of abducted schoolchildren and teachers, alongside a Senate resolution against rehabilitating repentant insurgents, indicates a potential hardening of the government's stance, though challenges like ignored intelligence and ongoing abductions persist.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "AI Security Vulnerabilities",
-    "status": "developing",
-    "summary": "Microsoft's 'Brain' AI system for Azure demonstrates advanced capabilities in monitoring and managing cloud health, proactively pausing harmful rollouts and reducing support tickets, indicating progress in AI's role in system reliability and security.",
-    "last_updated": "2026-07-12"
+    "status": "escalating",
+    "summary": "New tools like k8s-aibom for securing AI supply chains and AWS Security Hub's expanded network scanning capabilities address the growing challenge of 'shadow AI' and multi-cloud security risks.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "AI Model Competition and Efficiency",
-    "status": "developing",
-    "summary": "The enterprise AI landscape is shifting towards standardized platforms, with Anthropic partnering to train 20,000 professionals on Claude, signaling a move away from individual developer model selection towards integrated enterprise AI stacks.",
-    "last_updated": "2026-07-12"
+    "status": "escalating",
+    "summary": "Apple's lawsuit against OpenAI over alleged trade secret theft highlights the intense competition in AI hardware development, while AWS's SageMaker integration with Hugging Face and reduced GPU costs aim to increase accessibility and efficiency.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "Nigeria's Crypto Regulatory Evolution",
@@ -44,14 +44,14 @@
   {
     "name": "AI Stock Market Exuberance and Caution",
     "status": "developing",
-    "summary": "The immense energy and water demands of AI data centers are sparking community protests and regulatory debates, highlighting the real-world costs and environmental impact behind the AI boom.",
-    "last_updated": "2026-07-12"
+    "summary": "The UAE's access to advanced US AI chips and the ongoing demand for them highlight the geopolitical and economic drivers behind the AI boom, while also underscoring the need for strategic partnerships and infrastructure.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "Persistent Xenophobic Attacks in South Africa",
     "status": "developing",
-    "summary": "While not directly updated today, the ongoing logistical challenges in repatriating Nigerians affected by xenophobic attacks in South Africa remain a concern.",
-    "last_updated": "2026-07-10"
+    "summary": "The Nigerian Senate's debate on attacks against Nigerians in South Africa, including controversial proposals for compensation, underscores the ongoing diplomatic and humanitarian challenges.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "TypeScript 7.0 Performance Revolution",
@@ -61,32 +61,32 @@
   },
   {
     "name": "AI Agents in Enterprise Observability",
-    "status": "developing",
-    "summary": "Microsoft's 'Brain' system for Azure exemplifies the advanced application of AI agents in enterprise observability, making critical decisions for cloud health and reliability.",
-    "last_updated": "2026-07-12"
+    "status": "escalating",
+    "summary": "AWS's Loom platform for secure AI agent development and Google Cloud's Nexus SDV platform for agentic mobility in vehicles demonstrate the increasing integration of AI agents into enterprise systems and physical infrastructure.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "AI Tooling Governance",
-    "status": "developing",
-    "summary": "The trend towards standardized enterprise AI platforms, like Anthropic's partnership with UST, highlights the growing need for structured governance and management of AI tools and models within organizations.",
-    "last_updated": "2026-07-12"
+    "status": "escalating",
+    "summary": "The introduction of k8s-aibom for automated AI BOMs and AWS's Loom platform for managing AI agents highlight the growing need for structured tooling and governance in AI development and deployment.",
+    "last_updated": "2026-07-13"
   },
   {
-    "name": "CBN Data Localization Policy Impact",
+    "name": "CBN policy",
     "status": "developing",
-    "summary": "The CBN's data localization policy continues to present compliance challenges for Nigerian fintechs, potentially driving demand for local cloud infrastructure and expertise.",
-    "last_updated": "2026-07-10"
+    "summary": "Standard Chartered's forecast of a 25% MPR by year-end 2026 suggests the CBN will maintain a tight monetary policy to combat inflation, impacting borrowing costs and economic growth.",
+    "last_updated": "2026-07-13"
   },
   {
     "name": "State Police Debate and Implementation Challenges",
     "status": "developing",
-    "summary": "Community-led security initiatives, such as the Yoruba Elders' security fund, are emerging alongside the ongoing debate on State Police, reflecting a growing demand for localized security solutions.",
-    "last_updated": "2026-07-12"
+    "summary": "Governor Lawal's assertion that state police would strengthen governors' roles in tackling insecurity adds momentum to the ongoing debate, while allegations of ignored intelligence in Benue South highlight the need for localized security responses.",
+    "last_updated": "2026-07-13"
   },
   {
-    "name": "Nigeria's Untapped Solid Mineral Wealth",
-    "status": "developing",
-    "summary": "While not directly updated today, Nigeria's significant untapped solid mineral wealth, particularly lithium, remains a key area for potential economic diversification.",
-    "last_updated": "2026-07-11"
+    "name": "Nigerian tech ecosystem (startups, fintech)",
+    "status": "escalating",
+    "summary": "Nearpays winning the UN AI for Good Innovation Factory and Payaza's expansion into Australia and New Zealand signal a growing global competitiveness and ambition for Nigerian tech companies.",
+    "last_updated": "2026-07-13"
   }
 ]
