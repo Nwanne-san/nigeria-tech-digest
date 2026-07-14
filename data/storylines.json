@@ -2,80 +2,80 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "Allegations of N8.83 trillion in off-budget spending and the existence of a potentially fake agency (PFIPC) have intensified, with a key figure denying hiding and claiming he borrowed N400 million for his appointment, while calling for an independent investigation.",
+    "summary": "The House of Representatives is intensifying its probe into alleged N5.3 trillion in unremitted CBN operating surplus and billions withdrawn from agency accounts, directly challenging the OAGF's justifications and highlighting ongoing fiscal transparency issues.",
     "last_updated": "2026-07-14"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Public calls for trials of terror suspects, protests against insecurity in Borno, and harrowing accounts of abduction victims highlight persistent challenges, while the Presidency criticizes calls for UN probes into security incidents.",
+    "summary": "Attacks continue with one killed in Benue State shortly after 18 deaths, underscoring the persistent security vacuum and the urgent need for effective, localized responses, while analyses suggest a shift towards a more coordinated national security doctrine.",
     "last_updated": "2026-07-14"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Apple's lawsuit against OpenAI over alleged trade secret theft, driven by a former employee, underscores intense competition, while SoftBank predicts massive future AI investment and experienced tech leaders re-enter the AI sector.",
+    "summary": "OpenAI's Codex and ChatGPT Work hit 8 million users, facing scaling issues, while open-source AI models rapidly close the performance gap and offer a 10x cost advantage, intensifying competition and driving demand for efficient AI solutions.",
     "last_updated": "2026-07-14"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "Apple's lawsuit against OpenAI highlights trade secret theft via a zero-day bug, emphasizing critical security challenges in protecting AI innovations and proprietary information.",
+    "summary": "SpaceXAI's Grok Build was found uploading entire user codebases to cloud storage, highlighting severe data privacy risks and escalating concerns about AI tooling governance, while AWS expands its Security Hub to monitor Azure and protect AI workloads.",
     "last_updated": "2026-07-14"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Microsoft CEO Satya Nadella warns companies about hidden costs and vendor lock-in with proprietary AI models, urging a more strategic approach to AI adoption beyond immediate solutions.",
-    "last_updated": "2026-07-14"
-  },
-  {
-    "name": "Peter Obi's Political Pressure on Tinubu",
-    "status": "developing",
-    "summary": "The African Democratic Congress (ADC) is heading to the Supreme Court over internal congress disputes, highlighting ongoing opposition party fragmentation and its impact on presenting a united front.",
-    "last_updated": "2026-07-14"
-  },
-  {
-    "name": "Persistent Xenophobic Attacks in South Africa",
-    "status": "resolving",
-    "summary": "The final evacuation flight has brought home 315 Nigerians, concluding the immediate repatriation efforts following xenophobic attacks, though underlying diplomatic and humanitarian challenges remain.",
-    "last_updated": "2026-07-14"
-  },
-  {
-    "name": "CBN policy",
-    "status": "escalating",
-    "summary": "Global oil price surges due to Middle East tensions and moderating business confidence suggest the CBN will likely maintain its tight monetary policy, keeping the MPR at 26.5% and borrowing costs high.",
-    "last_updated": "2026-07-14"
-  },
-  {
-    "name": "AI Agents in Enterprise Observability",
-    "status": "developing",
-    "summary": "The enhancement of Siri AI on Apple Watch to function as a 'wrist computer' demonstrates the trend of AI agents becoming deeply embedded in consumer devices and everyday tools.",
-    "last_updated": "2026-07-14"
-  },
-  {
-    "name": "AI Tooling Governance",
-    "status": "developing",
-    "summary": "A developer's personal experience shows a significant spike in coding output attributed to AI coding agents, highlighting the practical impact of these tools on software development productivity.",
-    "last_updated": "2026-07-14"
-  },
-  {
-    "name": "Nigerian tech ecosystem (startups, fintech)",
-    "status": "developing",
-    "summary": "While global AI investment is projected to soar, Nigerian startups face high domestic borrowing costs, necessitating a focus on strong governance and clear value propositions to attract capital.",
-    "last_updated": "2026-07-14"
-  },
-  {
-    "name": "AI Stock Market Exuberance and Caution",
-    "status": "escalating",
-    "summary": "SoftBank's $5 trillion annual AI investment projection dismisses bubble concerns, signaling sustained massive capital allocation, while experienced tech leaders re-enter the AI sector, driven by the 'defining moment' opportunity.",
+    "summary": "DeepMind CEO Demis Hassabis calls for an independent standards body to regulate frontier AI, mirroring concerns about proprietary models and the need for robust oversight as AI capabilities advance rapidly.",
     "last_updated": "2026-07-14"
   },
   {
     "name": "State Police Debate and Implementation Challenges",
     "status": "developing",
-    "summary": "Governor Lawal's assertion that state police would strengthen governors' roles in tackling insecurity adds momentum to the ongoing debate, while allegations of ignored intelligence in Benue South highlight the need for localized security responses.",
-    "last_updated": "2026-07-13"
+    "summary": "President Tinubu has formally asked the House to fast-track the state police bill, signaling executive commitment, though legislative passage and implementation will involve significant debate over safeguards and funding.",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "name": "CBN policy",
+    "status": "escalating",
+    "summary": "The CBN repaid N2.97 trillion in OMO bills and conducted large auctions, indicating a continued tight monetary policy stance aimed at managing liquidity and inflation amidst global economic pressures.",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "name": "AI Agents in Enterprise Observability",
+    "status": "developing",
+    "summary": "AWS's Security Hub now monitors Azure and offers AI protection for workloads, including an AI inventory and AI-powered investigations, reflecting the growing integration of AI in enterprise observability and security.",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "name": "AI Tooling Governance",
+    "status": "escalating",
+    "summary": "The Grok codebase leak and OpenAI's scaling issues with Codex highlight critical governance gaps in AI development tools, emphasizing the need for transparency, security, and efficient resource management.",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "name": "Nigerian tech ecosystem (startups, fintech)",
+    "status": "developing",
+    "summary": "Nigerian-founded Immigify raised $1 million for its AI platform, while ntel pivots to AI infrastructure and All On launches an off-grid energy challenge, showcasing diversification and innovation within the ecosystem.",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "name": "AI Stock Market Exuberance and Caution",
+    "status": "escalating",
+    "summary": "The rapid rise of open-source AI models at a fraction of the cost of frontier models challenges market dominance, while ntel's pivot to AI infrastructure signals continued investment and strategic bets on AI's future growth.",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "name": "Electoral Act 2026 Reforms Debate",
+    "status": "developing",
+    "summary": "Senate President Akpabio suggested the National Assembly may revisit the Electoral Act 2026 to address 'unintended consequences' for lawmakers, raising concerns about potential amendments serving political interests.",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "name": "Nigerian Health Sector Crisis",
+    "status": "escalating",
+    "summary": "A professor warns Nigeria's health sector is at a 'breaking point' due to mass exodus of professionals and retirements, demanding urgent systemic reforms and investment to address the 'double depletion' crisis.",
+    "last_updated": "2026-07-14"
   },
   {
     "name": "TypeScript 7.0 Performance Revolution",
