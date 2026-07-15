@@ -3,37 +3,37 @@
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
     "summary": "The House of Representatives is intensifying its probe into alleged N5.3 trillion in unremitted CBN operating surplus and billions withdrawn from agency accounts, directly challenging the OAGF's justifications and highlighting ongoing fiscal transparency issues.",
-    "last_updated": "2026-07-14"
+    "last_updated": "2026-07-15"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Attacks continue with one killed in Benue State shortly after 18 deaths, underscoring the persistent security vacuum and the urgent need for effective, localized responses, while analyses suggest a shift towards a more coordinated national security doctrine.",
-    "last_updated": "2026-07-14"
+    "summary": "Attacks continue with multiple killings in Benue and Plateau States, underscoring the persistent security vacuum and the urgent need for effective, localized responses, while the Senate urges intensified federal offensive and security agencies report arrests in anti-illegal mining drives.",
+    "last_updated": "2026-07-15"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "OpenAI's Codex and ChatGPT Work hit 8 million users, facing scaling issues, while open-source AI models rapidly close the performance gap and offer a 10x cost advantage, intensifying competition and driving demand for efficient AI solutions.",
-    "last_updated": "2026-07-14"
+    "summary": "Apple's iOS 27 beta integrates a powerful new Siri AI, challenging standalone chatbots, while OpenAI researchers launch AI drug discovery startups and Chinese chipmakers like CXMT eye massive IPOs amid surging AI demand.",
+    "last_updated": "2026-07-15"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "SpaceXAI's Grok Build was found uploading entire user codebases to cloud storage, highlighting severe data privacy risks and escalating concerns about AI tooling governance, while AWS expands its Security Hub to monitor Azure and protect AI workloads.",
-    "last_updated": "2026-07-14"
+    "summary": "OpenAI's new flagship model GPT-5.6 Sol is reportedly deleting user files, raising severe data integrity concerns and intensifying calls for robust AI governance and transparency, echoing previous data privacy risks.",
+    "last_updated": "2026-07-15"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "DeepMind CEO Demis Hassabis calls for an independent standards body to regulate frontier AI, mirroring concerns about proprietary models and the need for robust oversight as AI capabilities advance rapidly.",
-    "last_updated": "2026-07-14"
+    "summary": "The reported file deletion issue with OpenAI's GPT-5.6 Sol model intensifies calls for independent standards bodies and robust oversight as AI capabilities advance rapidly.",
+    "last_updated": "2026-07-15"
   },
   {
     "name": "State Police Debate and Implementation Challenges",
     "status": "developing",
-    "summary": "President Tinubu has formally asked the House to fast-track the state police bill, signaling executive commitment, though legislative passage and implementation will involve significant debate over safeguards and funding.",
-    "last_updated": "2026-07-14"
+    "summary": "The National Assembly leadership defends prioritizing the State Police Bill, assuring public scrutiny, while legislative passage and implementation will involve significant debate over safeguards and funding.",
+    "last_updated": "2026-07-15"
   },
   {
     "name": "CBN policy",
@@ -50,8 +50,8 @@
   {
     "name": "AI Tooling Governance",
     "status": "escalating",
-    "summary": "The Grok codebase leak and OpenAI's scaling issues with Codex highlight critical governance gaps in AI development tools, emphasizing the need for transparency, security, and efficient resource management.",
-    "last_updated": "2026-07-14"
+    "summary": "The Grok codebase leak and OpenAI's GPT-5.6 Sol file deletion issue highlight critical governance gaps in AI development tools, emphasizing the need for transparency, security, and efficient resource management.",
+    "last_updated": "2026-07-15"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
@@ -62,8 +62,8 @@
   {
     "name": "AI Stock Market Exuberance and Caution",
     "status": "escalating",
-    "summary": "The rapid rise of open-source AI models at a fraction of the cost of frontier models challenges market dominance, while ntel's pivot to AI infrastructure signals continued investment and strategic bets on AI's future growth.",
-    "last_updated": "2026-07-14"
+    "summary": "The rapid rise of open-source AI models and specialized AI startups like those in drug discovery, alongside massive IPOs for chipmakers, fuels market exuberance, while issues like OpenAI's model vulnerabilities inject necessary caution.",
+    "last_updated": "2026-07-15"
   },
   {
     "name": "Electoral Act 2026 Reforms Debate",
@@ -74,13 +74,19 @@
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "A professor warns Nigeria's health sector is at a 'breaking point' due to mass exodus of professionals and retirements, demanding urgent systemic reforms and investment to address the 'double depletion' crisis.",
-    "last_updated": "2026-07-14"
+    "summary": "A professor warns Nigeria's health sector is at a 'breaking point' due to mass exodus of professionals and retirements, demanding urgent systemic reforms and investment to address the 'double depletion' crisis, though Yobe State initiates health insurance for retirees.",
+    "last_updated": "2026-07-15"
   },
   {
-    "name": "TypeScript 7.0 Performance Revolution",
-    "status": "dormant",
-    "summary": "While not directly updated today, the significant performance improvements in TypeScript 7.0 continue to be a key development for software engineering productivity.",
-    "last_updated": "2026-07-08"
+    "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
+    "status": "escalating",
+    "summary": "Experts warn Nigeria risks a 'new resource curse' from critical minerals, potentially replicating oil's environmental devastation and inequality if governance isn't reformed, while illegal mining fuels insecurity.",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "name": "AI Hardware Race Intensifies",
+    "status": "escalating",
+    "summary": "OpenAI is reportedly developing a screenless, moving smart speaker, signaling a move into consumer hardware, while Apple's deep Siri AI integration across its devices marks a significant push for embodied AI companions.",
+    "last_updated": "2026-07-15"
   }
 ]
