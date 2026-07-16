@@ -2,91 +2,91 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "The House of Representatives is intensifying its probe into alleged N5.3 trillion in unremitted CBN operating surplus and billions withdrawn from agency accounts, directly challenging the OAGF's justifications and highlighting ongoing fiscal transparency issues.",
-    "last_updated": "2026-07-15"
+    "summary": "The Senate has issued a one-week ultimatum to NNPC auditors regarding N210 trillion in unreconciled accounts, intensifying the probe into fiscal transparency and expanding it beyond the CBN and agency accounts.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Attacks continue with multiple killings in Benue and Plateau States, underscoring the persistent security vacuum and the urgent need for effective, localized responses, while the Senate urges intensified federal offensive and security agencies report arrests in anti-illegal mining drives.",
-    "last_updated": "2026-07-15"
+    "summary": "Abductions continue with NECO officials and students targeted in Kogi, following the N50 million Senate donation for victims of the Oriire abduction, highlighting persistent security gaps and the tragic human cost.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Apple's iOS 27 beta integrates a powerful new Siri AI, challenging standalone chatbots, while OpenAI researchers launch AI drug discovery startups and Chinese chipmakers like CXMT eye massive IPOs amid surging AI demand.",
-    "last_updated": "2026-07-15"
+    "summary": "Microsoft is reportedly training its sales team to aggressively promote its own AI models over OpenAI and Anthropic, signaling a shift towards intense competition and proprietary solutions within the AI ecosystem.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "OpenAI's new flagship model GPT-5.6 Sol is reportedly deleting user files, raising severe data integrity concerns and intensifying calls for robust AI governance and transparency, echoing previous data privacy risks.",
-    "last_updated": "2026-07-15"
+    "summary": "xAI faces a lawsuit for alleged CSAM generation via Grok, following its open-sourcing of the Grok Build codebase after a data privacy scandal, underscoring severe ethical and security challenges.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The reported file deletion issue with OpenAI's GPT-5.6 Sol model intensifies calls for independent standards bodies and robust oversight as AI capabilities advance rapidly.",
-    "last_updated": "2026-07-15"
+    "summary": "The xAI CSAM lawsuit and Grok's codebase leak highlight critical governance gaps, intensifying calls for robust AI oversight, transparency, and accountability in the face of rapid capability advancements.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "State Police Debate and Implementation Challenges",
     "status": "developing",
-    "summary": "The National Assembly leadership defends prioritizing the State Police Bill, assuring public scrutiny, while legislative passage and implementation will involve significant debate over safeguards and funding.",
-    "last_updated": "2026-07-15"
+    "summary": "Former IGP Suleiman Abba supports local government police in addition to state police, indicating a growing call for deeper decentralization of security architecture amidst ongoing legislative debates.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "CBN policy",
     "status": "escalating",
-    "summary": "The CBN repaid N2.97 trillion in OMO bills and conducted large auctions, indicating a continued tight monetary policy stance aimed at managing liquidity and inflation amidst global economic pressures.",
-    "last_updated": "2026-07-14"
+    "summary": "The CBN allotted N1.19 trillion in 364-day T-Bills amid N2.87 trillion bids, demonstrating continued strong investor appetite for high-yield securities under the bank's tight monetary policy stance.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
-    "summary": "AWS's Security Hub now monitors Azure and offers AI protection for workloads, including an AI inventory and AI-powered investigations, reflecting the growing integration of AI in enterprise observability and security.",
+    "summary": "AWS's Security Hub now monitors Azure and offers AI protection, reflecting the growing integration of AI in enterprise observability and security solutions.",
     "last_updated": "2026-07-14"
   },
   {
     "name": "AI Tooling Governance",
     "status": "escalating",
-    "summary": "The Grok codebase leak and OpenAI's GPT-5.6 Sol file deletion issue highlight critical governance gaps in AI development tools, emphasizing the need for transparency, security, and efficient resource management.",
-    "last_updated": "2026-07-15"
+    "summary": "The Grok codebase leak and subsequent open-sourcing highlight critical governance gaps in AI development tools, emphasizing the need for transparency and security.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "developing",
-    "summary": "Nigerian-founded Immigify raised $1 million for its AI platform, while ntel pivots to AI infrastructure and All On launches an off-grid energy challenge, showcasing diversification and innovation within the ecosystem.",
-    "last_updated": "2026-07-14"
+    "summary": "Small businesses are increasingly using AI for marketing operations, while Centenum Labs, an African AI research lab, challenges AI's core objectives, signaling innovation and research growth.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "AI Stock Market Exuberance and Caution",
     "status": "escalating",
-    "summary": "The rapid rise of open-source AI models and specialized AI startups like those in drug discovery, alongside massive IPOs for chipmakers, fuels market exuberance, while issues like OpenAI's model vulnerabilities inject necessary caution.",
-    "last_updated": "2026-07-15"
+    "summary": "Microsoft's aggressive sales tactics against competitors and xAI's legal battles inject caution into the AI market, contrasting with ongoing exuberance fueled by specialized AI applications.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "Electoral Act 2026 Reforms Debate",
     "status": "developing",
-    "summary": "Senate President Akpabio suggested the National Assembly may revisit the Electoral Act 2026 to address 'unintended consequences' for lawmakers, raising concerns about potential amendments serving political interests.",
-    "last_updated": "2026-07-14"
+    "summary": "INEC plans to use the NIMC database to cleanse the voters' register, aiming to curb identity fraud and enhance election credibility, following recent youth registration surges.",
+    "last_updated": "2026-07-16"
   },
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "A professor warns Nigeria's health sector is at a 'breaking point' due to mass exodus of professionals and retirements, demanding urgent systemic reforms and investment to address the 'double depletion' crisis, though Yobe State initiates health insurance for retirees.",
+    "summary": "The health sector faces a 'breaking point' due to professional exodus, demanding urgent reforms, though Yobe State initiates health insurance for retirees.",
     "last_updated": "2026-07-15"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "Experts warn Nigeria risks a 'new resource curse' from critical minerals, potentially replicating oil's environmental devastation and inequality if governance isn't reformed, while illegal mining fuels insecurity.",
+    "summary": "Experts warn of a 'new resource curse' from critical minerals, risking environmental devastation and inequality if governance isn't reformed, while illegal mining fuels insecurity.",
     "last_updated": "2026-07-15"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "OpenAI is reportedly developing a screenless, moving smart speaker, signaling a move into consumer hardware, while Apple's deep Siri AI integration across its devices marks a significant push for embodied AI companions.",
-    "last_updated": "2026-07-15"
+    "summary": "OpenAI's release of a specialized $230 keyboard for its Codex app signals a move into consumer hardware and new AI interaction paradigms.",
+    "last_updated": "2026-07-16"
   }
 ]
