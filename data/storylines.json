@@ -2,67 +2,67 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "The Senate President's admission of not seeing the National Assembly's budget has intensified scrutiny on fiscal transparency, directly linking to ongoing probes into unreconciled accounts and expanding the focus on legislative financial management.",
+    "summary": "The Supreme Court's restoration of the forfeiture of former CBN Governor Emefiele's properties further intensifies scrutiny on fiscal transparency and accountability, directly linking to ongoing probes into unreconciled accounts and expanding the focus on legislative and executive financial management.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Attacks in Benue and foiled kidnap attempts in Kwara highlight persistent security gaps, while local governments provide ad-hoc support, underscoring the ongoing need for robust and decentralized security infrastructure.",
+    "summary": "Troop rescues, bandit informant expos\u00e9s, and foiled cross-border criminal activities highlight persistent security gaps, while local government initiatives and calls for state police underscore the ongoing need for robust and decentralized security infrastructure.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Microsoft's aggressive sales tactics, OpenAI's development of automated red-teaming tools, and China's Moonshot AI releasing its Kimi K3 model signal intense competition and a race to secure AI models against evolving threats.",
+    "summary": "The release of powerful open-weight models like Kimi K3, which now tops coding leaderboards, signals intense competition and a race to secure AI models against evolving threats, challenging proprietary models and driving innovation in open-source AI.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The xAI CSAM lawsuit and the development of automated prompt injection testing tools underscore the critical and evolving security challenges in AI, necessitating advanced defense mechanisms.",
+    "summary": "AI companies are implementing safeguards for teen users, while lawsuits like Apple's against OpenAI and ongoing concerns about prompt injection and data leakage highlight critical and evolving security challenges in AI.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Nigeria's investigation into Big Tech and AI platforms, alongside China's call for international cooperation and opposition to single-country dominance, highlights the urgent need for robust AI oversight and fair economic models.",
+    "summary": "Nigeria's move to coordinate virtual assets regulation and global discussions on AI safety, coupled with lawsuits and calls for open-source AI, highlight the urgent need for robust AI oversight and fair economic models.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "State Police Debate and Implementation Challenges",
     "status": "developing",
-    "summary": "Local government initiatives to bolster police resources, alongside ongoing security challenges and successful rescue operations, continue to fuel the debate for decentralized security architecture and state police implementation.",
+    "summary": "Public support for state police, alongside local government initiatives to bolster security resources and ongoing security challenges, continue to fuel the debate for decentralized security architecture and state police implementation.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "CBN policy",
     "status": "escalating",
-    "summary": "The CBN's new directive for BDCs to sell unutilised FX within 24 hours and its FX BDC Purchase Tracker (FXBT) represent an aggressive strategy to stabilize the Naira and boost foreign exchange inflows.",
+    "summary": "The CBN's new directive for BDCs to sell unutilised FX within 24 hours and the establishment of a Virtual Asset Council chaired by the CBN represent aggressive strategies to stabilize the Naira and coordinate virtual assets regulation.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The integration of AI agents into enterprise infrastructure, as seen with Decide's partnership with Cafe One in Nigeria, is accelerating, demanding new security paradigms and governance models.",
+    "summary": "The release of Google Cloud's Gemini Enterprise Agent Platform demos, focusing on building, scaling, and governing AI agents with advanced security features, accelerates the integration of AI agents into enterprise infrastructure.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "AI Tooling Governance",
     "status": "escalating",
-    "summary": "The development of automated AI security testing tools and secure infrastructure blueprints for AI workloads highlights the critical need for robust governance and security in AI development tools.",
+    "summary": "The development of automated AI security testing tools, secure infrastructure blueprints, and advanced governance features for AI agents highlights the critical need for robust governance and security in AI development tools.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Global acquisitions of African AI startups, coupled with new AI/Cyber Security degree programs and local AI solution deployments like Decide's partnership, signal growing investment and a strategic push to build a skilled tech workforce.",
+    "summary": "The emergence of Nigeria's first insure-fintech, recognition of local universities producing unicorn founders, and the move towards virtual assets regulation signal growing investment and innovation within the ecosystem.",
     "last_updated": "2026-07-17"
   },
   {
     "name": "AI Stock Market Exuberance and Caution",
     "status": "escalating",
-    "summary": "Aggressive sales tactics, automated security testing, strategic acquisitions, and massive investments in AI by traditional industries like law reflect a dynamic market balancing rapid innovation with increasing security and competitive pressures.",
+    "summary": "Aggressive sales tactics, open-weight model competition, lawsuits like Apple's against OpenAI, and significant investments in AI infrastructure reflect a dynamic market balancing rapid innovation with increasing security and competitive pressures.",
     "last_updated": "2026-07-17"
   },
   {
@@ -74,8 +74,8 @@
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "The health sector continues to face a 'breaking point' due to professional exodus, with only localized initiatives offering partial relief.",
-    "last_updated": "2026-07-15"
+    "summary": "The health sector continues to face a 'breaking point' due to professional exodus, with only localized initiatives like Enugu's new specialist hospital offering partial relief.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
@@ -86,7 +86,7 @@
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "OpenAI's move into specialized consumer hardware and China's showcase of powerful AI architectures like Huawei's Atlas 950 indicate a broader trend of AI companies exploring new interaction paradigms and hardware integration.",
+    "summary": "The performance of powerful AI architectures like China's Kimi K3 and the ongoing competition for AI talent and intellectual property indicate a broader trend of AI companies exploring new interaction paradigms and hardware integration.",
     "last_updated": "2026-07-17"
   }
 ]
