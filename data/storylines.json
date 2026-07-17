@@ -3,78 +3,78 @@
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
     "summary": "The Senate President's admission of not seeing the National Assembly's budget has intensified scrutiny on fiscal transparency, directly linking to ongoing probes into unreconciled accounts and expanding the focus on legislative financial management.",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-17"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
     "summary": "Attacks in Benue and foiled kidnap attempts in Kwara highlight persistent security gaps, while local governments provide ad-hoc support, underscoring the ongoing need for robust and decentralized security infrastructure.",
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-17"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Microsoft's aggressive sales tactics and OpenAI's development of automated red-teaming tools like GPT-Red signal intense competition and a race to secure AI models against evolving threats.",
-    "last_updated": "2026-07-16"
+    "summary": "Microsoft's aggressive sales tactics, OpenAI's development of automated red-teaming tools, and China's Moonshot AI releasing its Kimi K3 model signal intense competition and a race to secure AI models against evolving threats.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The xAI CSAM lawsuit and the development of automated prompt injection testing tools like GPT-Red underscore the critical and evolving security challenges in AI, necessitating advanced defense mechanisms.",
-    "last_updated": "2026-07-16"
+    "summary": "The xAI CSAM lawsuit and the development of automated prompt injection testing tools underscore the critical and evolving security challenges in AI, necessitating advanced defense mechanisms.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Nigeria's investigation into Big Tech and AI platforms over journalism compensation, alongside global efforts to secure AI workloads, highlights the urgent need for robust AI oversight and fair economic models.",
-    "last_updated": "2026-07-16"
+    "summary": "Nigeria's investigation into Big Tech and AI platforms, alongside China's call for international cooperation and opposition to single-country dominance, highlights the urgent need for robust AI oversight and fair economic models.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "State Police Debate and Implementation Challenges",
     "status": "developing",
-    "summary": "Local government initiatives to bolster police resources, alongside ongoing security challenges, continue to fuel the debate for decentralized security architecture and state police implementation.",
-    "last_updated": "2026-07-16"
+    "summary": "Local government initiatives to bolster police resources, alongside ongoing security challenges and successful rescue operations, continue to fuel the debate for decentralized security architecture and state police implementation.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "CBN policy",
     "status": "escalating",
-    "summary": "The CBN's introduction of a BDC FX tracker and 24-hour resale mandate, alongside a target for increased diaspora remittances, represents an aggressive strategy to stabilize the Naira and boost foreign exchange inflows.",
-    "last_updated": "2026-07-16"
+    "summary": "The CBN's new directive for BDCs to sell unutilised FX within 24 hours and its FX BDC Purchase Tracker (FXBT) represent an aggressive strategy to stabilize the Naira and boost foreign exchange inflows.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The integration of AI agents into enterprise infrastructure, as seen with GoDaddy's developer platform and Google's GKE blueprint, is accelerating, demanding new security paradigms and governance models.",
-    "last_updated": "2026-07-16"
+    "summary": "The integration of AI agents into enterprise infrastructure, as seen with Decide's partnership with Cafe One in Nigeria, is accelerating, demanding new security paradigms and governance models.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "AI Tooling Governance",
     "status": "escalating",
-    "summary": "The development of automated AI security testing tools like GPT-Red and secure infrastructure blueprints for AI workloads highlights the critical need for robust governance and security in AI development tools.",
-    "last_updated": "2026-07-16"
+    "summary": "The development of automated AI security testing tools and secure infrastructure blueprints for AI workloads highlights the critical need for robust governance and security in AI development tools.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Global acquisitions of African AI startups, coupled with new AI/Cyber Security degree programs in Nigerian universities, signal growing investment and a strategic push to build a skilled tech workforce.",
-    "last_updated": "2026-07-16"
+    "summary": "Global acquisitions of African AI startups, coupled with new AI/Cyber Security degree programs and local AI solution deployments like Decide's partnership, signal growing investment and a strategic push to build a skilled tech workforce.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "AI Stock Market Exuberance and Caution",
     "status": "escalating",
-    "summary": "Aggressive sales tactics, automated security testing, and strategic acquisitions in the AI sector reflect a dynamic market balancing rapid innovation with increasing security and competitive pressures.",
-    "last_updated": "2026-07-16"
+    "summary": "Aggressive sales tactics, automated security testing, strategic acquisitions, and massive investments in AI by traditional industries like law reflect a dynamic market balancing rapid innovation with increasing security and competitive pressures.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "Electoral Act 2026 Reforms Debate",
     "status": "developing",
-    "summary": "INEC's consideration of a mock presidential poll and technology audit before the 2027 elections signals a practical approach to testing and refining electoral processes and technology.",
-    "last_updated": "2026-07-16"
+    "summary": "The Court of Appeal's affirmation of INEC's guidelines for party primaries reinforces the electoral body's authority and timetable, impacting the political landscape ahead of the 2027 general elections.",
+    "last_updated": "2026-07-17"
   },
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "The health sector continues to face a 'breaking point' due to professional exodus, with only localized initiatives like Yobe State's health insurance for retirees offering partial relief.",
+    "summary": "The health sector continues to face a 'breaking point' due to professional exodus, with only localized initiatives offering partial relief.",
     "last_updated": "2026-07-15"
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "OpenAI's move into specialized consumer hardware with a keyboard for its Codex app indicates a broader trend of AI companies exploring new interaction paradigms and hardware integration.",
-    "last_updated": "2026-07-16"
+    "summary": "OpenAI's move into specialized consumer hardware and China's showcase of powerful AI architectures like Huawei's Atlas 950 indicate a broader trend of AI companies exploring new interaction paradigms and hardware integration.",
+    "last_updated": "2026-07-17"
   }
 ]
