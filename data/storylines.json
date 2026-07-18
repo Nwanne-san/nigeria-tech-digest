@@ -2,31 +2,31 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "The Supreme Court's affirmation of the forfeiture of former CBN Governor Emefiele's assets, including properties and funds, significantly escalates scrutiny on fiscal transparency and accountability, directly linking to ongoing probes into unreconciled accounts and expanding the focus on legislative and executive financial management.",
+    "summary": "The Supreme Court's affirmation of the forfeiture of former CBN Governor Emefiele's assets, coupled with the EFCC's successful forfeiture of 52 Lekki properties, significantly escalates scrutiny on fiscal transparency and accountability, directly linking to ongoing probes into unreconciled accounts and expanding the focus on legislative and executive financial management.",
     "last_updated": "2026-07-18"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Persistent security gaps, highlighted by prolonged abductions like the Mussa pupils and ongoing banditry, continue to erode public confidence despite troop rescues. The failure to secure communities and rescue abductees underscores the need for more robust and decentralized security infrastructure.",
+    "summary": "Persistent security gaps, highlighted by prolonged abductions like the Mussa pupils and ongoing banditry in Benue, continue to erode public confidence despite troop rescues, underscoring the need for more robust and decentralized security infrastructure.",
     "last_updated": "2026-07-18"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Intense competition, marked by Anthropic's decision to keep Fable 5 accessible due to pressure from models like GPT-5.6 Sol and open-weight Kimi K3, signals a race for user accessibility and cost-efficiency, driving innovation and potentially lowering the barrier to entry for powerful AI.",
+    "summary": "Intense competition, marked by open-sourcing of models like Grok Build and Kimi K3, signals a race for user accessibility and cost-efficiency, driving innovation and potentially lowering the barrier to entry for powerful AI, while also intensifying geopolitical AI race concerns.",
     "last_updated": "2026-07-18"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "TikTok's testing of an AI likeness detection tool addresses concerns over deepfakes and unauthorized use of likenesses, while ongoing lawsuits and prompt injection issues highlight the evolving security challenges in AI.",
+    "summary": "TikTok's testing of an AI likeness detection tool and Grok Build's data upload incident highlight evolving security challenges, while prompt injection issues and the 'guardrails gap' in AI agents underscore the critical need for robust security measures.",
     "last_updated": "2026-07-18"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Nigeria's Presidential Executive Order on Virtual Assets Coordination aims to establish a regulatory framework, reflecting a global push for AI and digital asset oversight amidst ongoing discussions on AI safety and fair economic models.",
+    "summary": "Nigeria's Presidential Executive Order on Virtual Assets Coordination and global debates around open-source AI models like Kimi K3 reflect a push for AI and digital asset oversight amidst ongoing discussions on AI safety and fair economic models.",
     "last_updated": "2026-07-18"
   },
   {
@@ -38,25 +38,25 @@
   {
     "name": "CBN policy",
     "status": "escalating",
-    "summary": "The CBN's aggressive strategies to stabilize the Naira, including directives for BDCs and the establishment of a Virtual Asset Council, are part of a broader coordinated effort to regulate virtual assets and manage the economy.",
+    "summary": "The CBN's aggressive strategies to stabilize the Naira, including directives for BDCs and the establishment of a Virtual Asset Council, are part of a broader coordinated effort to regulate virtual assets and manage the economy, with the CIBN expecting the benchmark interest rate to hold at 26.5%.",
     "last_updated": "2026-07-18"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The launch of luxury phones with AI agents and Databricks' advancements in AI agent platforms accelerate the integration of AI into enterprise infrastructure, though real-world performance and reliability remain key development areas.",
+    "summary": "The launch of luxury phones with AI agents and Databricks' advancements accelerate integration, while the bottleneck shifts to the context layer and execution guardrails, with AI successfully augmenting security teams.",
     "last_updated": "2026-07-18"
   },
   {
     "name": "AI Tooling Governance",
     "status": "escalating",
-    "summary": "The development of automated AI security testing tools and governance features for AI agents highlights the critical need for robust governance and security in AI development tools, especially as AI agents become more integrated into enterprise workflows.",
+    "summary": "The development of automated AI security testing tools, governance features for AI agents, and the need for robust context and execution layers highlight the critical need for strong governance and security in AI development tools.",
     "last_updated": "2026-07-18"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Nigeria's move to coordinate virtual assets regulation, coupled with growing investment and innovation signals, suggests a maturing tech ecosystem poised for further growth, particularly in fintech and blockchain-related ventures.",
+    "summary": "Nigeria's move to coordinate virtual assets regulation, coupled with growing investment and innovation signals, suggests a maturing tech ecosystem poised for further growth, particularly in fintech and blockchain-related ventures, with AI applications emerging in public health.",
     "last_updated": "2026-07-18"
   },
   {
@@ -68,7 +68,7 @@
   {
     "name": "Electoral Act 2026 Reforms Debate",
     "status": "developing",
-    "summary": "INEC's opening of its portal for candidate uploads intensifies the political landscape, with intense jostling for deputy governorship slots reflecting ongoing electoral process implementation and the complex balancing acts in Nigerian politics.",
+    "summary": "INEC's opening of its portal for candidate uploads intensifies the political landscape, with intense jostling for deputy governorship slots and aspirants agreeing to Tinubu's intervention over primary disputes, reflecting ongoing electoral process implementation.",
     "last_updated": "2026-07-18"
   },
   {
@@ -80,8 +80,8 @@
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "Warnings about a 'new resource curse' from critical minerals persist, emphasizing the need for governance reform to prevent environmental devastation and inequality, while illegal mining fuels insecurity, highlighting the challenge of diversifying the economy beyond oil.",
-    "last_updated": "2026-07-15"
+    "summary": "Warnings about a 'new resource curse' from critical minerals persist, emphasizing the need for governance reform to prevent environmental devastation and inequality, while illegal mining involving foreign nationals fuels insecurity.",
+    "last_updated": "2026-07-18"
   },
   {
     "name": "AI Hardware Race Intensifies",
