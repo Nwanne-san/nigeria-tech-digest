@@ -2,91 +2,91 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "The 'phantom' council saga, where a fake agency was allegedly smuggled into the budget, intensifies scrutiny on fiscal transparency and highlights systemic weaknesses in budgetary oversight, directly linking to ongoing probes into unreconciled accounts and expanding focus on legislative and executive financial management.",
-    "last_updated": "2026-07-20"
+    "summary": "The ADC's demand for details on N7.13 trillion energy security spending and questioning of NNPC Ltd. audit figures intensify scrutiny on fiscal transparency and highlight systemic weaknesses in budgetary oversight.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Terrorist groups are now deploying drones and cryptocurrencies to escalate attacks across Nigeria and the Sahel, signaling a critical shift in operational capabilities and financing methods that demands enhanced regional cooperation and advanced counter-technology measures.",
-    "last_updated": "2026-07-20"
+    "summary": "Senator Yar\u2019Adua's call for tech-driven security strategies and the federal government's denial of a Borno school attack highlight the evolving nature of insecurity and the battle against misinformation.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "OpenAI's strategy to open-source powerful, locally runnable models to discourage competition is revealed, underscoring the aggressive market dynamics driving innovation and accessibility while intensifying geopolitical AI race concerns.",
-    "last_updated": "2026-07-20"
+    "summary": "Google's development of a new AI chip to improve Gemini efficiency and the compute strain on Chinese AI firms like Moonshot underscore the intense global competition and hardware race.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "New research indicates AI models can develop novel biases from experience, stereotyping job applicants more than humans, highlighting the need for robust governance beyond inherited data biases and underscoring the critical need for strong security and ethical measures.",
-    "last_updated": "2026-07-20"
+    "summary": "New research indicates AI models can develop novel biases, and Nigeria's urgent need to overhaul its cybercrime strategy to counter AI threats and deepfakes highlights ongoing risks.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Nigeria's Presidential Executive Order on Virtual Assets Coordination, establishing a CBN-chaired council, signals a move towards regulation amidst global debates on open-source AI and ethical oversight, with new research highlighting AI's propensity for bias formation.",
-    "last_updated": "2026-07-20"
+    "summary": "Anthropic's $1.5 billion copyright settlement and Sony's lawsuit against Udio highlight ongoing legal battles over AI training data, while US instability in AI leadership signals policy challenges.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "State Police Debate and Implementation Challenges",
-    "status": "developing",
-    "summary": "Persistent security gaps and community protection failures continue to fuel the debate for decentralized security, with local governments seeking to bolster security resources amidst ongoing national security challenges.",
-    "last_updated": "2026-07-19"
+    "status": "escalating",
+    "summary": "The House of Representatives has commenced debate on President Tinubu\u2019s State Police Bill, signaling a strong possibility of adopting the Senate's version, indicating a significant legislative push.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "CBN Policy and Economic Management",
-    "status": "escalating",
-    "summary": "IPMAN's rejection of new fuel import licenses, warning of price volatility and Naira pressure, directly challenges CBN's strategies to stabilize the currency amidst a 207% surge in petrol imports and high demand for foreign exchange.",
+    "status": "developing",
+    "summary": "IPMAN's rejection of new fuel import licenses continues to challenge CBN's strategies to stabilize the currency amidst high import volumes and foreign exchange demand.",
     "last_updated": "2026-07-20"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The integration of AI agents in devices and advancements in data platforms accelerate adoption, with a focus on context layers and execution guardrails, augmenting security teams and consumer products.",
-    "last_updated": "2026-07-19"
+    "summary": "A Gallup poll shows 52% of US workers use AI for tasks like writing and editing, indicating rapid mainstream adoption and the growing importance of AI integration in professional workflows.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "AI Tooling Governance",
     "status": "escalating",
-    "summary": "The development of automated AI security testing tools and governance features for AI agents highlights the critical need for strong governance and security in AI development tools, with nonprofits developing audit tools for AI accountability.",
-    "last_updated": "2026-07-19"
+    "summary": "The adoption of easier-to-use AI protocols and the ongoing legal battles over AI training data emphasize the critical need for strong governance and security in AI development tools.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Nigeria's move to coordinate virtual assets regulation and NITDA's digital security overhaul create a more formalized and secure environment, while health tech startups like Wakamedics demonstrate innovation potential.",
-    "last_updated": "2026-07-20"
+    "summary": "Flutterwave's call for stronger ecosystem collaboration and the government's investment in digital education infrastructure signal a maturing and regionally ambitious tech scene.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "AI Stock Market Exuberance and Caution",
     "status": "escalating",
-    "summary": "High AI valuations exemplify market exuberance, while warnings about wealth redistribution and hardware shifts inject caution, highlighting the need for grounded decision-making amidst the AI hype.",
-    "last_updated": "2026-07-19"
+    "summary": "High AI valuations persist, but Google's development of efficient AI chips and ongoing legal challenges inject caution regarding compute costs and intellectual property.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "Electoral Act 2026 Reforms Debate",
     "status": "developing",
-    "summary": "The NBA's election facing a cyber attack underscores the pervasive threat of digital interference in institutional processes, extending the discussion of electoral integrity beyond national elections.",
-    "last_updated": "2026-07-20"
+    "summary": "The NBA President-elect's victory, despite a recent cyber attack on the NBA's election, highlights institutional resilience, while INEC begins recruitment and PVC distribution for the Osun poll.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "Persistent drug shortages, professional exodus, and reliance on out-of-pocket payments continue to drive the health sector crisis, exacerbated by global events and highlighting the need for expanded health insurance.",
+    "summary": "Persistent drug shortages, professional exodus, and reliance on out-of-pocket payments continue to drive the health sector crisis, exacerbated by global events.",
     "last_updated": "2026-07-19"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "Warnings about a 'new resource curse' from critical minerals persist, emphasizing the need for governance reform to prevent environmental devastation and inequality, while illegal mining fuels insecurity.",
-    "last_updated": "2026-07-19"
+    "summary": "Former President Jonathan's call for oil firms to drive technological development echoes warnings about a resource curse, emphasizing the need for local content and industrial growth beyond raw material export.",
+    "last_updated": "2026-07-21"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The AI hardware race is escalating into a geopolitical issue with a global shortage of AI memory chips, causing skyrocketing prices and leading nations to campaign for secure supply chains as an economic security imperative.",
-    "last_updated": "2026-07-20"
+    "summary": "Compute strains on Chinese AI firms and Google's development of specialized AI chips highlight the intensifying global competition for AI hardware and supply chain control.",
+    "last_updated": "2026-07-21"
   }
 ]
