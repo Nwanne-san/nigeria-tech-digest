@@ -2,91 +2,85 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "Scrutiny intensifies on Nigeria's fiscal transparency with demands for details on off-budget spending, highlighting systemic weaknesses in budgetary oversight.",
-    "last_updated": "2026-07-21"
+    "summary": "The Senate is considering budgetary sanctions against MDAs for non-implementation of resolutions, intensifying scrutiny on fiscal transparency and budgetary oversight.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "The nation grapples with evolving insecurity, with calls for tech-driven strategies and ongoing efforts by law enforcement to combat widespread crime and rescue victims.",
-    "last_updated": "2026-07-21"
+    "summary": "Attacks in Rivers State and Benue, coupled with a fact-check on Army video evidence, highlight persistent insecurity challenges and the need for credible, tech-driven strategies.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Global competition intensifies with new efficient AI models released, while hardware races and specialized AI solutions emerge to address compute strains and specific industry needs.",
-    "last_updated": "2026-07-21"
+    "summary": "The rapid pace of AI model development, exemplified by the Mendral acquisition and the debate around open-weight models, continues to reshape the competitive landscape.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "New research reveals AI models can develop novel biases, prompting urgent calls for enhanced cybercrime strategies to counter AI threats and deepfakes.",
-    "last_updated": "2026-07-21"
+    "summary": "An AI-powered hack on Hugging Face, stemming from a human error in OpenAI's testing environment, underscores critical vulnerabilities and the need for robust security protocols.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Major copyright settlements and ongoing legal battles over AI training data highlight the urgent need for robust AI governance and regulatory frameworks.",
-    "last_updated": "2026-07-21"
+    "summary": "Allegations of data siphoning for AI training and the push for AI agents in enterprise highlight the urgent need for clear governance, intellectual property protection, and regulatory frameworks.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "State Police Debate and Implementation Challenges",
     "status": "escalating",
-    "summary": "Legislative debate on the State Police Bill signals a strong possibility of adoption, indicating a significant push towards decentralizing policing powers.",
-    "last_updated": "2026-07-21"
+    "summary": "Kano State declares readiness for state police, signaling progress in decentralization debates, though broader implementation challenges and security complexities persist.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "developing",
-    "summary": "The CBN maintains a 26.5% interest rate, balancing inflation control with economic growth amidst ongoing challenges in currency stabilization and foreign exchange demand.",
-    "last_updated": "2026-07-21"
+    "summary": "The CBN projects economic resilience amidst global shocks, while high debt costs for issuers (up to 20%) reveal ongoing challenges in balancing inflation control with growth.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "Rapid mainstream adoption of AI for professional tasks is transforming workflows, with AI agents increasingly handling complex implementation and code remediation.",
-    "last_updated": "2026-07-21"
+    "summary": "OpenAI's launch of 'Presence' for enterprise customer service, alongside the Mendral acquisition, signifies the mainstreaming of AI agents and the critical role of human expertise in their deployment.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "AI Tooling Governance",
     "status": "escalating",
-    "summary": "The increasing adoption of AI development tools and protocols emphasizes the critical need for strong governance, security, and ethical considerations.",
-    "last_updated": "2026-07-21"
+    "summary": "The OpenAI/Hugging Face hack and the demand for 'forward deployed engineers' for AI agents highlight the critical need for robust governance, security, and ethical considerations in AI development and deployment.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Government initiatives for digital access and infrastructure investment signal a maturing and ambitious tech scene, fostering growth in startups and fintech.",
-    "last_updated": "2026-07-21"
+    "summary": "Nigerian fintechs' global recognition and initiatives like YOUTHCRED signal a maturing ecosystem integrating AI and fostering entrepreneurship.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "AI Stock Market Exuberance and Caution",
     "status": "escalating",
-    "summary": "High AI valuations persist, tempered by ongoing legal challenges and the race for efficient AI hardware, injecting caution into the market.",
-    "last_updated": "2026-07-21"
-  },
-  {
-    "name": "Electoral Act 2026 Reforms Debate",
-    "status": "developing",
-    "summary": "The integrity of elections, even within professional bodies, remains a focus, with calls for addressing issues that arise during electoral processes.",
-    "last_updated": "2026-07-21"
+    "summary": "The debate on AI as 'just software' versus a strategic asset, alongside allegations of data siphoning, injects caution into the market regarding open-weight models and geopolitical risks.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "Nigerian Health Sector Crisis",
-    "status": "escalating",
-    "summary": "Reduced global aid and persistent domestic challenges like drug shortages and professional exodus necessitate a radical shift towards self-financing and local production in the health sector.",
-    "last_updated": "2026-07-21"
+    "status": "developing",
+    "summary": "The denial of NDU College of Health Sciences relocation plans addresses concerns within the health sector, crucial for maintaining educational stability amidst ongoing challenges.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "Nigeria's focus on capital importation and non-oil exports signals diversification efforts, crucial for avoiding resource curse pitfalls amidst global resource demand.",
-    "last_updated": "2026-07-21"
+    "summary": "Nigeria's appeal for German investment in renewable energy and the digital economy underscores diversification efforts crucial for avoiding resource curse pitfalls.",
+    "last_updated": "2026-07-22"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global competition for AI hardware is intensifying, with companies developing specialized chips to improve model efficiency and address compute strains.",
-    "last_updated": "2026-07-21"
+    "summary": "Allegations of Chinese AI startups acquiring advanced Nvidia chips for model training highlight geopolitical tensions and the ongoing race for AI hardware dominance.",
+    "last_updated": "2026-07-22"
   }
 ]
