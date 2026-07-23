@@ -2,31 +2,31 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "The Senate is considering budgetary sanctions against MDAs for non-implementation of resolutions, intensifying scrutiny on fiscal transparency and budgetary oversight, with recent criticism of N22.15b palace allocations and the N17.5tn NNPC debt highlighting ongoing concerns.",
+    "summary": "The Senate is intensifying scrutiny on fiscal transparency and budgetary oversight, threatening sanctions against MDAs for non-implementation of resolutions and concerns over off-budget spending, highlighted by recent criticisms of palace allocations and NNPC debt.",
     "last_updated": "2026-07-23"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Attacks in Rivers State and Kogi, coupled with a fact-check on Army video evidence, highlight persistent insecurity challenges and the need for credible, tech-driven strategies, while FAAN undertakes a multi-pronged safety overhaul.",
+    "summary": "President Tinubu ordered a major military overhaul, expanding the Army to 12 divisions and authorizing 28,000 new recruits, while the IGP declared an end to Benue insecurity and the Army declared a soldier wanted for supplying uniforms to terrorists, amidst ongoing calls for intensified efforts in the North-East.",
     "last_updated": "2026-07-23"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The rapid pace of AI model development, exemplified by the Mendral acquisition and the debate around open-weight models, continues to reshape the competitive landscape, with US accusations of IP theft against China's Moonshot intensifying geopolitical tensions.",
+    "summary": "The rapid pace of AI model development continues, with Google Cloud introducing co-operative time-slicing to optimize accelerator use and Runway launching an AI model router for generative media to manage the crowded landscape.",
     "last_updated": "2026-07-23"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "An AI-powered hack on Hugging Face, stemming from a human error in OpenAI's testing environment, underscores critical vulnerabilities and the need for robust security protocols, with experts warning that even open-weight models pose significant risks.",
+    "summary": "The rise of AI-driven spear phishing is a growing concern, with AegisAI raising $36M to combat these sophisticated attacks, highlighting the need for AI-native security solutions.",
     "last_updated": "2026-07-23"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Allegations of data siphoning for AI training and the push for AI agents in enterprise highlight the urgent need for clear governance, intellectual property protection, and regulatory frameworks, with the EU planning dedicated AI discussions.",
+    "summary": "OpenAI's launch of ChatGPT Health and bold claims of 'clinician-level' reasoning, alongside ongoing lawsuits and disclaimers, highlight the urgent need for clear governance and liability frameworks in AI deployment, especially in sensitive sectors.",
     "last_updated": "2026-07-23"
   },
   {
@@ -44,43 +44,43 @@
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "OpenAI's launch of 'Presence' for enterprise customer service, alongside strategic investments in AI-powered software, signifies the mainstreaming of AI agents and the critical role of human expertise in their deployment.",
+    "summary": "OpenAI's launch of ChatGPT Health for broader user access signifies the mainstreaming of AI agents in critical sectors, raising questions about their capabilities, limitations, and the need for human oversight.",
     "last_updated": "2026-07-23"
   },
   {
     "name": "AI Tooling Governance",
     "status": "escalating",
-    "summary": "The OpenAI/Hugging Face hack and the demand for 'forward deployed engineers' for AI agents highlight the critical need for robust governance, security, and ethical considerations in AI development and deployment.",
+    "summary": "Regulated organizations are seeking safe AI code velocity through continuous verification, emphasizing an 'Agent Centric Development Cycle' to manage risks in AI-assisted software development.",
     "last_updated": "2026-07-23"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Nigerian fintechs' global recognition and initiatives like YOUTHCRED signal a maturing ecosystem integrating AI and fostering entrepreneurship, with strategic investments in AI-powered financial software indicating global integration.",
+    "summary": "The Federal Government launched the ATLAS Network to accelerate Africa's AI language models, while OPay targets one billion users, signaling continued growth and global ambition within the ecosystem.",
     "last_updated": "2026-07-23"
   },
   {
     "name": "AI Stock Market Exuberance and Caution",
     "status": "escalating",
-    "summary": "The debate on AI as 'just software' versus a strategic asset, alongside allegations of data siphoning and geopolitical tensions, injects caution into the market regarding open-weight models and the massive capital expenditures required for AI infrastructure.",
+    "summary": "The debate on AI's impact continues, with Patreon laying off 20% of its workforce due to AI's transformative effect on the tech industry, highlighting both opportunity and caution.",
     "last_updated": "2026-07-23"
   },
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "developing",
-    "summary": "The denial of NDU College of Health Sciences relocation plans addresses concerns within the health sector, crucial for maintaining educational stability amidst ongoing challenges.",
-    "last_updated": "2026-07-22"
+    "summary": "Veteran actress Ngozi Nwosu's public appeal for N30m for life-saving surgeries highlights the ongoing challenges in accessing affordable healthcare within the Nigerian health sector.",
+    "last_updated": "2026-07-23"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "Nigeria's appeal for German investment in renewable energy and the digital economy underscores diversification efforts crucial for avoiding resource curse pitfalls, while the mining sector faces calls for stricter regulations after a deadly landslide.",
+    "summary": "The IMF warns that Africa needs foundational infrastructure before fully betting on AI, suggesting that without reliable power and digital access, AI's economic benefits could be minimal, echoing concerns about resource curse pitfalls.",
     "last_updated": "2026-07-23"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "Allegations of Chinese AI startups acquiring advanced Nvidia chips for model training highlight geopolitical tensions and the ongoing race for AI hardware dominance, with massive investments in data centers by companies like OpenAI.",
+    "summary": "While the race for AI hardware continues, efficiency in utilization is becoming critical, as demonstrated by Google Cloud's introduction of co-operative time-slicing to minimize idle accelerators.",
     "last_updated": "2026-07-23"
   }
 ]
