@@ -2,68 +2,68 @@
   {
     "name": "Nigeria's Off-Budget Spending Controversy",
     "status": "escalating",
-    "summary": "The Senate is intensifying scrutiny on fiscal transparency and budgetary oversight, threatening sanctions against MDAs for non-implementation of resolutions and concerns over off-budget spending, highlighted by recent criticisms of palace allocations and NNPC debt.",
-    "last_updated": "2026-07-23"
+    "summary": "Criticism from civil society regarding the Tinubu government's budget credibility and adherence has intensified, reinforcing ongoing legislative scrutiny over fiscal transparency and off-budget spending.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "President Tinubu ordered a major military overhaul, expanding the Army to 12 divisions and authorizing 28,000 new recruits, while the IGP declared an end to Benue insecurity and the Army declared a soldier wanted for supplying uniforms to terrorists, amidst ongoing calls for intensified efforts in the North-East.",
-    "last_updated": "2026-07-23"
+    "summary": "President Tinubu's approval of a major expansion of the Nigerian Army, including new divisions and recruits, directly escalates efforts to combat widespread insecurity, while international condemnation of specific incidents like the Plateau killings highlights persistent challenges.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The rapid pace of AI model development continues, with Google Cloud introducing co-operative time-slicing to optimize accelerator use and Runway launching an AI model router for generative media to manage the crowded landscape.",
-    "last_updated": "2026-07-23"
+    "summary": "The AI landscape is rapidly evolving with new voice interaction models from OpenAI and Anthropic, and AMD's challenge to Nvidia in AI hardware, all contributing to intense competition and a race for efficiency.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The rise of AI-driven spear phishing is a growing concern, with AegisAI raising $36M to combat these sophisticated attacks, highlighting the need for AI-native security solutions.",
-    "last_updated": "2026-07-23"
+    "summary": "AI guardrails are hindering legitimate cybersecurity research, pushing experts towards open-source models, while an accidental cyberattack by an OpenAI agent on Hugging Face underscores the risks of runaway AI agents.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "OpenAI's launch of ChatGPT Health and bold claims of 'clinician-level' reasoning, alongside ongoing lawsuits and disclaimers, highlight the urgent need for clear governance and liability frameworks in AI deployment, especially in sensitive sectors.",
-    "last_updated": "2026-07-23"
+    "summary": "US lawmakers have proposed an 'AI Kill Switch' bill, reflecting a growing global urgency to regulate AI, while debates intensify over curbs on Chinese open-source AI models.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "State Police Debate and Implementation Challenges",
-    "status": "developing",
-    "summary": "Kano State declares readiness for state police, signaling progress in decentralization debates, though broader implementation challenges and security complexities persist.",
-    "last_updated": "2026-07-22"
+    "status": "escalating",
+    "summary": "The House of Representatives' passage of the State Police Bill, despite opposition protests, signals strong momentum for this reform, though significant implementation challenges and political debates are expected to persist.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN projects economic resilience amidst global shocks, with inflation easing and forex market reforms showing results, though high debt costs and rising money supply present ongoing challenges.",
-    "last_updated": "2026-07-23"
+    "summary": "The Naira has shown steady gains against the Euro, indicating early positive results from CBN's forex reforms, though global economic volatility from the US-Iran conflict poses ongoing challenges.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "OpenAI's launch of ChatGPT Health for broader user access signifies the mainstreaming of AI agents in critical sectors, raising questions about their capabilities, limitations, and the need for human oversight.",
-    "last_updated": "2026-07-23"
+    "summary": "New voice interaction models from OpenAI and Anthropic are pushing AI agents towards deeper integration in user workflows and development processes, raising questions about control and oversight.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "AI Tooling Governance",
     "status": "escalating",
-    "summary": "Regulated organizations are seeking safe AI code velocity through continuous verification, emphasizing an 'Agent Centric Development Cycle' to manage risks in AI-assisted software development.",
-    "last_updated": "2026-07-23"
+    "summary": "The tension between AI guardrails and the needs of offensive cybersecurity research is escalating, potentially pushing researchers towards less restricted open-source models.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The Federal Government launched the ATLAS Network to accelerate Africa's AI language models, while OPay targets one billion users, signaling continued growth and global ambition within the ecosystem.",
-    "last_updated": "2026-07-23"
+    "summary": "The success of former Almajiri children trained in drone assembly and the government's broad NDE employment scheme highlight a growing focus on diversified vocational tech skills development.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "AI Stock Market Exuberance and Caution",
     "status": "escalating",
-    "summary": "The debate on AI's impact continues, with Patreon laying off 20% of its workforce due to AI's transformative effect on the tech industry, highlighting both opportunity and caution.",
-    "last_updated": "2026-07-23"
+    "summary": "AMD's challenge to Nvidia in the AI hardware market and projections of a $1.4 trillion AI accelerator market by 2030 underscore the intense competition and massive growth potential in AI.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "Nigerian Health Sector Crisis",
@@ -74,13 +74,13 @@
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "The IMF warns that Africa needs foundational infrastructure before fully betting on AI, suggesting that without reliable power and digital access, AI's economic benefits could be minimal, echoing concerns about resource curse pitfalls.",
-    "last_updated": "2026-07-23"
+    "summary": "While the IMF warns of infrastructure needs for AI adoption, Nigeria's focus on critical minerals and the PIA's community trusts offer pathways to mitigate resource curse pitfalls.",
+    "last_updated": "2026-07-24"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "While the race for AI hardware continues, efficiency in utilization is becoming critical, as demonstrated by Google Cloud's introduction of co-operative time-slicing to minimize idle accelerators.",
-    "last_updated": "2026-07-23"
+    "summary": "AMD's launch of the Helios AI rack-scale system directly challenges Nvidia's dominance, signaling intensified competition and innovation in the critical AI hardware market.",
+    "last_updated": "2026-07-24"
   }
 ]
