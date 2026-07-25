@@ -8,13 +8,13 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "The Northern Nigeria Governors\u2019 Forum established a N1 billion monthly Security Trust Fund, while banditry persists with the abduction of a local government chairman in Zamfara, and female vigilantes emerge in Plateau State, highlighting a multi-pronged, grassroots, and federal response to escalating security challenges.",
+    "summary": "President Tinubu assured that insecurity in the North would soon end, while communities like Kwara protested prolonged kidnappings, and Kebbi State dismissed claims of abandonment, highlighting the complex and ongoing struggle against banditry and terrorism.",
     "last_updated": "2026-07-25"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Anthropic released Claude Opus 5 with enhanced coding and safeguards at a competitive price, intensifying the race with OpenAI and highlighting the drive for both performance and efficiency in advanced AI models, while new labs like Prentis raise significant funding for AI automation.",
+    "summary": "A split emerged with Microsoft, Nvidia, and Meta defending open-weight AI models against potential restrictions, while Anthropic and OpenAI did not sign, intensifying the debate over AI accessibility, cost, and development paradigms.",
     "last_updated": "2026-07-25"
   },
   {
@@ -26,7 +26,7 @@
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Debates around state-owned AI, proposals for 'AI Kill Switches,' and the release of more secure AI models highlight the growing global urgency to establish effective governance and regulation for advanced AI, with financial institutions facing increasing regulatory pressure.",
+    "summary": "The debate between open-weight and closed-source AI models intensified, with major tech players advocating for open innovation, highlighting the global urgency to establish effective governance and regulation for advanced AI.",
     "last_updated": "2026-07-25"
   },
   {
@@ -38,20 +38,20 @@
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The release of advanced AI models like Opus 5 and the intense funding for labs like Prentis underscore the increasing integration of AI agents into enterprise workflows for automating routine tasks, raising critical questions about control, security, and cost-effectiveness.",
+    "summary": "Experts advocate for shifting focus from correcting AI-generated code to improving the underlying systems and context for AI agents, emphasizing 'harness engineering' for reliable autonomous operations.",
     "last_updated": "2026-07-25"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The global recognition and significant funding for Yinka Ogunbiyi's HaloBraid robot signal a diversification of the Nigerian tech ecosystem beyond fintech, showcasing potential in hardware and AI-driven solutions, while discussions at TechCrunch Disrupt highlight AI's growing role in fintech.",
+    "summary": "Israel announced funding for iFAIR 5 to empower Nigerian innovators, signaling continued international support for the ecosystem beyond fintech, while global recognition for Nigerian tech talent grows.",
     "last_updated": "2026-07-25"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "AMD's challenge to Nvidia in the AI hardware market and projections of massive market growth continue to fuel intense competition and innovation in the critical AI hardware sector, with new AI models also focusing on efficiency.",
-    "last_updated": "2026-07-24"
+    "summary": "The demand for AI hardware is straining electrical grids, as evidenced by a power line failure causing widespread data center disconnections, leading to calls for grid stability solutions and impacting consumer tech prices.",
+    "last_updated": "2026-07-25"
   },
   {
     "name": "Test Data Management Bottleneck for AI",
@@ -68,7 +68,7 @@
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "President Tinubu urged Nigerian medical professionals in the diaspora to return home amidst a severe brain drain, following a veteran actress's appeal for N30m for life-saving surgeries, highlighting persistent challenges in accessing affordable healthcare.",
+    "summary": "President Tinubu urged Nigerian medical professionals in the diaspora to return home amidst a severe brain drain, pledging institutional frameworks to harness their expertise, while Benue investigates suspected Mpox cases.",
     "last_updated": "2026-07-25"
   },
   {
