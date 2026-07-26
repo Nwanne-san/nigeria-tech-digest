@@ -8,13 +8,13 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "President Tinubu reiterated promises to end northern insecurity, while internal military disaffection surfaced with a coup suspect's confession, and religious leaders called for collective action and repentance.",
+    "summary": "President Tinubu reiterated promises to end northern insecurity, while internal military disaffection surfaced with a coup suspect's confession, and religious leaders called for collective action and repentance. The abduction of a high court judge and attacks on PVC centers highlight persistent challenges.",
     "last_updated": "2026-07-26"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The debate over open-weight vs. closed-source AI models intensifies, with major tech players advocating for open innovation, highlighting the global urgency for effective AI governance.",
+    "summary": "The debate over open-weight vs. closed-source AI models intensifies, with major tech players advocating for open innovation, highlighting the global urgency for effective AI governance and control frameworks.",
     "last_updated": "2026-07-26"
   },
   {
@@ -32,13 +32,13 @@
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN maintained its MPR at 26.5% for the second time, prioritizing macroeconomic stability and exchange rate gains, while food inflation remains a concern, and global FDI shows a positive trend for developing economies.",
+    "summary": "The CBN maintained its MPR at 26.5% for the second time, prioritizing macroeconomic stability and exchange rate gains, while food inflation remains a concern, and global FDI shows a positive trend for developing economies. Treasury Bill auctions continue to manage liquidity.",
     "last_updated": "2026-07-26"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "Experts advocate for 'harness engineering' to improve underlying systems and context for AI agents, shifting focus from correcting AI-generated code to ensuring reliable autonomous operations.",
+    "summary": "Experts advocate for 'harness engineering' to improve underlying systems and context for AI agents, shifting focus from correcting AI-generated code to ensuring reliable autonomous operations and evolving SRE roles.",
     "last_updated": "2026-07-26"
   },
   {
@@ -55,26 +55,26 @@
   },
   {
     "name": "Test Data Management Bottleneck for AI",
-    "status": "escalating",
+    "status": "developing",
     "summary": "A report reveals that test data wait times are severely slowing AI adoption, with 99% of organizations waiting over a day, highlighting a critical bottleneck in validation pipelines that needs urgent technological solutions.",
     "last_updated": "2026-07-24"
   },
   {
     "name": "AI Personality as a Competitive Advantage",
-    "status": "escalating",
+    "status": "developing",
     "summary": "The acquisition of Poke by Cognition for its AI personality highlights a growing trend where user interaction and 'feel' are becoming key differentiators for AI agents, beyond raw capabilities.",
     "last_updated": "2026-07-24"
   },
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "President Tinubu urged diaspora medical professionals to return amidst brain drain, pledging institutional frameworks, while a banking CEO stressed the importance of a resilient healthcare system for national wellbeing.",
+    "summary": "President Tinubu urged diaspora medical professionals to return amidst brain drain, pledging institutional frameworks, while a banking CEO stressed the importance of a resilient healthcare system for national wellbeing. Concerns over period stigma fueling teen pregnancies and suspected Mpox cases also noted.",
     "last_updated": "2026-07-26"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "Vice President Shettima urged African nations to add value to raw materials locally to avoid a 'new oil curse,' reinforcing the strategic importance of leveraging critical minerals for sustainable development and industrialization.",
+    "summary": "Vice President Shettima urged African nations to add value to raw materials locally to avoid a 'new oil curse,' reinforcing the strategic importance of leveraging critical minerals for sustainable development and industrialization. A Lagos-Dakar minerals corridor is proposed.",
     "last_updated": "2026-07-25"
   }
 ]
