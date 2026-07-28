@@ -2,42 +2,42 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Despite localized successes like in Katsina, persistent banditry in Kaduna and Zamfara, coupled with incidents like the Jos-Kano highway attack and the arrest of a soldier for collusion, highlight the ongoing severe security challenges and the need for both community-based and internal security reforms.",
-    "last_updated": "2026-07-27"
+    "summary": "Despite localized successes like in Katsina, persistent banditry on highways, allegations of withheld security funds, and internal welfare issues within security forces highlight severe ongoing challenges and the need for both community-based and internal security reforms.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The race for AI model dominance intensifies with Microsoft developing proprietary models, China open-sourcing powerful but demanding models like Kimi K3, and Anthropic refining its evaluation-driven development, all while industry alliances form to address AI safety.",
-    "last_updated": "2026-07-27"
+    "summary": "The race for AI model dominance intensifies with the release of massive open-weight models like Kimi K3, industry alliances forming to address AI safety, and strategic warnings about relying on single AI models, all while competition for computational resources grows.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The OpenAI Hugging Face breach and Microsoft's launch of a cybersecurity AI model and agentic platform underscore the critical need for robust defenses against AI-powered threats and vulnerabilities in AI systems themselves.",
-    "last_updated": "2026-07-27"
+    "summary": "The OpenAI Hugging Face breach, the misuse of open-source models for deepfakes, and Microsoft's launch of advanced AI cybersecurity tools underscore the critical need for robust defenses against AI-powered threats and vulnerabilities in AI systems themselves, alongside platform-level safeguards.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The OpenAI breach and the formation of industry alliances like Nvidia's AI Safety Alliance highlight the growing urgency for global governance frameworks to address AI safety, control, and the challenges of regulating increasingly capable autonomous agents.",
-    "last_updated": "2026-07-27"
+    "summary": "The debate over open-weight models intensifies with calls for mandatory safety testing, while major AI players engage with policymakers ahead of crucial deadlines, highlighting the urgent need for global governance frameworks to address AI safety and control.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN maintained its MPR at 26.5% to combat inflation, while broader economic reforms and infrastructure projects continue, alongside global FDI trends offering a positive outlook for developing economies.",
-    "last_updated": "2026-07-26"
+    "summary": "The CBN maintained its MPR at 26.5% to combat inflation, while the Naira saw a sharp rebound against the pound, though concerns linger over opaque debt deals and the sustainability of currency stability.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The enterprise adoption of AI agents is accelerating with advancements in data integration (SAP/Google Cloud), robust infrastructure requirements (Intel), and enhanced observability tools (Dynatrace, AWS), shifting focus to reliable, cost-effective, and secure deployment.",
-    "last_updated": "2026-07-27"
+    "summary": "The enterprise adoption of AI agents is accelerating with advancements in data integration and observability tools, shifting focus to reliable, cost-effective, and secure deployment of autonomous AI systems capable of performing complex tasks.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
-    "status": "escalating",
+    "status": "developing",
     "summary": "While African startup funding has dipped, diversification beyond fintech continues with AgriTech, yet gender funding gaps persist, and global tech layoffs signal a more competitive job market for Nigerian tech professionals.",
     "last_updated": "2026-07-27"
   },
@@ -62,8 +62,8 @@
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "Government reforms aim to address professional shortages, but immediate public health emergencies like the cholera outbreak in Plateau State strain the fragile system, highlighting ongoing challenges in infrastructure and preparedness.",
-    "last_updated": "2026-07-27"
+    "summary": "Government reforms aim to address professional shortages, but immediate public health emergencies like the cholera outbreak in Plateau State and issues with HIV patient care strain the fragile system, highlighting ongoing challenges in infrastructure and preparedness.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
@@ -74,13 +74,19 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria prioritizes education and digital transformation for a $1 trillion economy, with state-level initiatives like inclusive education and infrastructure repairs contributing to human capital development and connectivity.",
-    "last_updated": "2026-07-27"
+    "summary": "Nigeria prioritizes education and digital transformation for a $1 trillion economy with massive investments in tertiary education, while infrastructure projects and economic diversification efforts continue amidst concerns about debt transparency.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "TypeScript's Performance Leap with Native Compilation",
     "status": "developing",
     "summary": "New compilers enabling native compilation of TypeScript to fast binaries without a JavaScript engine promise significant performance gains for various applications, potentially revolutionizing backend and CLI development.",
     "last_updated": "2026-07-27"
+  },
+  {
+    "name": "Xenophobia, Tinubu and Ramaphosa",
+    "status": "escalating",
+    "summary": "President Tinubu's refusal to meet a South African envoy over xenophobic attacks signals Nigeria's strong disapproval and escalates diplomatic pressure on South Africa to address the persistent issue of violence against Nigerians.",
+    "last_updated": "2026-07-28"
   }
 ]
