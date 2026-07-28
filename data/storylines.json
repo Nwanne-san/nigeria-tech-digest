@@ -2,25 +2,25 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Despite localized successes like in Katsina, persistent banditry on highways, allegations of withheld security funds, and internal welfare issues within security forces highlight severe ongoing challenges and the need for both community-based and internal security reforms.",
+    "summary": "Persistent banditry, farmer-herder conflicts, and systemic underfunding of security forces continue to plague Nigeria, despite presidential directives and state-level security initiatives. Ex-IG Okiro's accusations of deliberate weakening of the police highlight deep-seated structural issues.",
     "last_updated": "2026-07-28"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The race for AI model dominance intensifies with the release of massive open-weight models like Kimi K3, industry alliances forming to address AI safety, and strategic warnings about relying on single AI models, all while competition for computational resources grows.",
+    "summary": "The race for AI model dominance intensifies with massive open-weight models, industry alliances, and strategic warnings about AI safety, while competition for computational resources and the drive for efficient, cost-effective AI solutions grow.",
     "last_updated": "2026-07-28"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The OpenAI Hugging Face breach, the misuse of open-source models for deepfakes, and Microsoft's launch of advanced AI cybersecurity tools underscore the critical need for robust defenses against AI-powered threats and vulnerabilities in AI systems themselves, alongside platform-level safeguards.",
+    "summary": "The OpenAI Hugging Face breach, Claude's chat exposure, and AI's role in uncovering open-source vulnerabilities highlight critical security gaps and the challenge of managing AI risks, demanding robust defenses and faster patching.",
     "last_updated": "2026-07-28"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The debate over open-weight models intensifies with calls for mandatory safety testing, while major AI players engage with policymakers ahead of crucial deadlines, highlighting the urgent need for global governance frameworks to address AI safety and control.",
+    "summary": "The debate over AI safety, open-weight models, and mandatory testing intensifies, with urgent calls for global governance frameworks to address AI safety, control, and the increasing financial risks associated with AI development.",
     "last_updated": "2026-07-28"
   },
   {
@@ -32,7 +32,7 @@
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The enterprise adoption of AI agents is accelerating with advancements in data integration and observability tools, shifting focus to reliable, cost-effective, and secure deployment of autonomous AI systems capable of performing complex tasks.",
+    "summary": "Enterprise adoption of AI agents is accelerating with advancements in data integration, observability, and security, shifting focus to reliable, cost-effective, and secure deployment of autonomous AI systems capable of complex tasks.",
     "last_updated": "2026-07-28"
   },
   {
@@ -44,8 +44,8 @@
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The demand for AI hardware continues to strain resources, impacting electrical grids and consumer tech, while the open-sourcing of powerful models like Kimi K3 highlights the immense computational power required, few can currently run.",
-    "last_updated": "2026-07-27"
+    "summary": "The demand for AI hardware strains resources, impacting grids and tech, while the open-sourcing of powerful models and hardware giants financing AI labs highlight immense computational power requirements and financial risks.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "Test Data Management Bottleneck for AI",
@@ -62,31 +62,25 @@
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "Government reforms aim to address professional shortages, but immediate public health emergencies like the cholera outbreak in Plateau State and issues with HIV patient care strain the fragile system, highlighting ongoing challenges in infrastructure and preparedness.",
+    "summary": "Government reforms aim to address professional shortages, but immediate public health emergencies and strain on the system highlight ongoing challenges in infrastructure and preparedness, with experts cautioning digital tools alone are insufficient.",
     "last_updated": "2026-07-28"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "Nations are urged to add value to raw materials locally to avoid a 'new oil curse,' emphasizing the strategic importance of leveraging critical minerals for sustainable development and industrialization, a call echoed in Nigeria's extractive sector reform efforts.",
-    "last_updated": "2026-07-25"
+    "summary": "Nations are urged to add value to raw materials locally to avoid a 'new oil curse,' emphasizing the strategic importance of leveraging critical minerals and agricultural produce for sustainable development and industrialization.",
+    "last_updated": "2026-07-28"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria prioritizes education and digital transformation for a $1 trillion economy with massive investments in tertiary education, while infrastructure projects and economic diversification efforts continue amidst concerns about debt transparency.",
+    "summary": "Nigeria prioritizes education, digital transformation, and infrastructure development for economic growth, with state-level initiatives and federal investments in transport and housing, though challenges in security and governance persist.",
     "last_updated": "2026-07-28"
-  },
-  {
-    "name": "TypeScript's Performance Leap with Native Compilation",
-    "status": "developing",
-    "summary": "New compilers enabling native compilation of TypeScript to fast binaries without a JavaScript engine promise significant performance gains for various applications, potentially revolutionizing backend and CLI development.",
-    "last_updated": "2026-07-27"
   },
   {
     "name": "Xenophobia, Tinubu and Ramaphosa",
     "status": "escalating",
-    "summary": "President Tinubu's refusal to meet a South African envoy over xenophobic attacks signals Nigeria's strong disapproval and escalates diplomatic pressure on South Africa to address the persistent issue of violence against Nigerians.",
+    "summary": "President Tinubu's strong stance against xenophobic attacks escalates diplomatic pressure on South Africa, highlighting Nigeria's firm position on the protection of its citizens abroad.",
     "last_updated": "2026-07-28"
   }
 ]
