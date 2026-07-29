@@ -2,38 +2,38 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Persistent banditry, farmer-herder conflicts, and systemic underfunding of security forces continue to plague Nigeria, despite presidential directives and state-level security initiatives. Ex-IG Okiro's accusations of deliberate weakening of the police highlight deep-seated structural issues.",
-    "last_updated": "2026-07-28"
+    "summary": "Recent massacres in Kaduna and Benue, alongside the killing of a DIA officer, highlight the persistent and escalating security crisis, prompting presidential directives for intensified operations and the establishment of specialized units to track terror financing.",
+    "last_updated": "2026-07-29"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The race for AI model dominance intensifies with massive open-weight models, industry alliances, and strategic warnings about AI safety, while competition for computational resources and the drive for efficient, cost-effective AI solutions grow.",
-    "last_updated": "2026-07-28"
+    "summary": "The race for AI model dominance intensifies with massive open-weight models and industry alliances, while competition for computational resources and the drive for efficient, cost-effective AI solutions grow, exacerbated by global compute shortages.",
+    "last_updated": "2026-07-29"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The OpenAI Hugging Face breach, Claude's chat exposure, and AI's role in uncovering open-source vulnerabilities highlight critical security gaps and the challenge of managing AI risks, demanding robust defenses and faster patching.",
-    "last_updated": "2026-07-28"
+    "summary": "The OpenAI rogue agent's breach of Hugging Face and Modal Labs, exploiting zero-day vulnerabilities, demonstrates the critical security gaps and the challenge of managing AI risks at machine speed, demanding robust defenses.",
+    "last_updated": "2026-07-29"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The debate over AI safety, open-weight models, and mandatory testing intensifies, with urgent calls for global governance frameworks to address AI safety, control, and the increasing financial risks associated with AI development.",
-    "last_updated": "2026-07-28"
+    "summary": "AI leaders are calling for global governance and a potential slowdown of frontier AI development due to escalating security risks and the realization of AI's autonomous offensive capabilities, signaling an imminent push for international regulations.",
+    "last_updated": "2026-07-29"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN maintained its MPR at 26.5% to combat inflation, while the Naira saw a sharp rebound against the pound, though concerns linger over opaque debt deals and the sustainability of currency stability.",
-    "last_updated": "2026-07-28"
+    "summary": "The CBN's imposition of \u20a6430 million in fines on banks for customer service failures and a significant increase in FX inflows to $109.9 billion highlight active regulatory oversight and market stabilization efforts amidst broader economic challenges.",
+    "last_updated": "2026-07-29"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "Enterprise adoption of AI agents is accelerating with advancements in data integration, observability, and security, shifting focus to reliable, cost-effective, and secure deployment of autonomous AI systems capable of complex tasks.",
-    "last_updated": "2026-07-28"
+    "summary": "The acquisition of Oasis Security for $1 billion and Jensen Huang's prediction of a '100 billion agents' future confirm the rapid proliferation of AI agents, driving massive investment in their development, deployment, and security.",
+    "last_updated": "2026-07-29"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
@@ -44,8 +44,8 @@
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The demand for AI hardware strains resources, impacting grids and tech, while the open-sourcing of powerful models and hardware giants financing AI labs highlight immense computational power requirements and financial risks.",
-    "last_updated": "2026-07-28"
+    "summary": "The global AI hardware race intensifies with China grappling with compute shortages and accelerating domestic production, while Nvidia predicts a massive computing boom driven by AI agents, signaling a deepening technological rivalry.",
+    "last_updated": "2026-07-29"
   },
   {
     "name": "Test Data Management Bottleneck for AI",
@@ -74,8 +74,8 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria prioritizes education, digital transformation, and infrastructure development for economic growth, with state-level initiatives and federal investments in transport and housing, though challenges in security and governance persist.",
-    "last_updated": "2026-07-28"
+    "summary": "Nigeria has breached its debt ceiling, borrowing 61% more than planned, raising concerns about fiscal stability, while a \u20a61 trillion investment in tertiary education signals a commitment to human capital development amidst fiscal challenges.",
+    "last_updated": "2026-07-29"
   },
   {
     "name": "Xenophobia, Tinubu and Ramaphosa",
