@@ -2,7 +2,7 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Recent massacres in Kaduna and Benue, alongside the killing of a DIA officer, highlight the persistent and escalating security crisis, prompting presidential directives for intensified operations and the establishment of specialized units to track terror financing.",
+    "summary": "Recent massacres in Kaduna and Benue, alongside the killing of a DIA officer, highlight the persistent and escalating security crisis, prompting presidential directives for intensified operations and the establishment of specialized units to track terror financing. CSOs warn that state police alone cannot solve insecurity, emphasizing the need to address structural conditions.",
     "last_updated": "2026-07-29"
   },
   {
@@ -14,7 +14,7 @@
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The OpenAI rogue agent's breach of Hugging Face and Modal Labs, exploiting zero-day vulnerabilities, demonstrates the critical security gaps and the challenge of managing AI risks at machine speed, demanding robust defenses.",
+    "summary": "The OpenAI rogue agent's breach of Hugging Face and Modal Labs, alongside a new 'AI worm' discovered in Microsoft Word's Copilot, demonstrates critical security gaps and the challenge of managing AI risks at machine speed, demanding robust defenses.",
     "last_updated": "2026-07-29"
   },
   {
@@ -32,19 +32,31 @@
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The acquisition of Oasis Security for $1 billion and Jensen Huang's prediction of a '100 billion agents' future confirm the rapid proliferation of AI agents, driving massive investment in their development, deployment, and security.",
+    "summary": "The acquisition of Oasis Security for $1 billion and Google Cloud's 'borderless Lakehouse' and Gemini Enterprise Agent Platform updates confirm the rapid proliferation of AI agents, driving massive investment in their development, deployment, and security.",
     "last_updated": "2026-07-29"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "developing",
-    "summary": "While African startup funding has dipped, diversification beyond fintech continues with AgriTech, yet gender funding gaps persist, and global tech layoffs signal a more competitive job market for Nigerian tech professionals.",
-    "last_updated": "2026-07-27"
+    "summary": "While African startup funding has dipped, diversification beyond fintech continues with AgriTech, yet gender funding gaps persist, and global tech layoffs signal a more competitive job market for Nigerian tech professionals, with GoLemon shutting down due to fundraising difficulties.",
+    "last_updated": "2026-07-29"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global AI hardware race intensifies with China grappling with compute shortages and accelerating domestic production, while Nvidia predicts a massive computing boom driven by AI agents, signaling a deepening technological rivalry.",
+    "summary": "The global AI hardware race intensifies with China grappling with compute shortages and accelerating domestic production, while Nvidia predicts a massive computing boom driven by AI agents, and OpenAI reveals plans for a 'family of devices'.",
+    "last_updated": "2026-07-29"
+  },
+  {
+    "name": "National Progress & Economy (Nigeria)",
+    "status": "escalating",
+    "summary": "Nigeria has breached its debt ceiling, borrowing 61% more than planned, raising concerns about fiscal stability, while the FG hails the Dangote Refinery as critical to the $1 trillion economy vision and approves significant infrastructure investments.",
+    "last_updated": "2026-07-29"
+  },
+  {
+    "name": "Xenophobia, Tinubu and Ramaphosa",
+    "status": "escalating",
+    "summary": "President Tinubu's strong stance against xenophobic attacks escalates diplomatic pressure on South Africa, highlighting Nigeria's firm position on the protection of its citizens abroad, with a UK councillor charged over an offensive post targeting Nigerians.",
     "last_updated": "2026-07-29"
   },
   {
@@ -69,18 +81,6 @@
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
     "summary": "Nations are urged to add value to raw materials locally to avoid a 'new oil curse,' emphasizing the strategic importance of leveraging critical minerals and agricultural produce for sustainable development and industrialization.",
-    "last_updated": "2026-07-28"
-  },
-  {
-    "name": "National Progress & Economy (Nigeria)",
-    "status": "escalating",
-    "summary": "Nigeria has breached its debt ceiling, borrowing 61% more than planned, raising concerns about fiscal stability, while a \u20a61 trillion investment in tertiary education signals a commitment to human capital development amidst fiscal challenges.",
-    "last_updated": "2026-07-29"
-  },
-  {
-    "name": "Xenophobia, Tinubu and Ramaphosa",
-    "status": "escalating",
-    "summary": "President Tinubu's strong stance against xenophobic attacks escalates diplomatic pressure on South Africa, highlighting Nigeria's firm position on the protection of its citizens abroad.",
     "last_updated": "2026-07-28"
   }
 ]
