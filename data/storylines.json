@@ -2,85 +2,85 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Recent massacres in Kaduna and Benue, alongside the killing of a DIA officer, highlight the persistent and escalating security crisis, prompting presidential directives for intensified operations and the establishment of specialized units to track terror financing. CSOs warn that state police alone cannot solve insecurity, emphasizing the need to address structural conditions. Joint security forces continue to conduct operations, rescuing kidnap victims and dismantling illegal facilities, while the Navy targets oil theft.",
+    "summary": "Escalating insecurity persists with massacres, banditry, and alleged abuses by security agencies, prompting presidential directives for intensified operations and structural reforms like state police, while communities resort to paying levies to bandits.",
     "last_updated": "2026-07-30"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The race for AI model dominance intensifies with massive open-weight models and industry alliances, while competition for computational resources and the drive for efficient, cost-effective AI solutions grow, exacerbated by global compute shortages. Microsoft is pursuing a dual strategy of investing in and competing with AI labs, while Meta expands its enterprise AI ambitions beyond agents.",
+    "summary": "The AI race intensifies with OpenAI cutting API prices due to competition from efficient open-weight models, while enterprises focus on cost optimization and efficient deployment of AI agents.",
     "last_updated": "2026-07-30"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The OpenAI rogue agent's breach of Hugging Face and Modal Labs, alongside a new 'AI worm' discovered in Microsoft Word's Copilot, demonstrates critical security gaps and the challenge of managing AI risks at machine speed, demanding robust defenses. TechCrunch Disrupt 2026 will focus on AI security gaps, and Microsoft's Copilot is evolving into a 'super app' with integrated capabilities.",
+    "summary": "A fundamental flaw in LLMs makes them vulnerable to attacks, exacerbating concerns about AI security, supply chain compromises, and the need for new defenses like AI-BOMs and runtime shields.",
     "last_updated": "2026-07-30"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "AI leaders are calling for global governance and a potential slowdown of frontier AI development due to escalating security risks and the realization of AI's autonomous offensive capabilities, signaling an imminent push for international regulations. OpenAI CEO Sam Altman has expressed support for legislation aimed at slowing down AI development.",
+    "summary": "Concerns over AI's autonomous capabilities and security flaws are fueling calls for global governance and a potential slowdown of frontier AI development, highlighting an urgent need for international regulations.",
     "last_updated": "2026-07-30"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN's imposition of \u20a6430 million in fines on banks for customer service failures and a significant increase in FX inflows to $109.9 billion highlight active regulatory oversight and market stabilization efforts amidst broader economic challenges. The CBN lowered T-Bill yields amidst strong investor demand, while a presidential aide warned that rate hikes may hurt growth more than prices.",
+    "summary": "The CBN continues active regulatory oversight with fines on banks and increased FX inflows, while managing T-Bill yields amidst investor demand and ongoing economic challenges.",
     "last_updated": "2026-07-30"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The acquisition of Oasis Security for $1 billion and Google Cloud's 'borderless Lakehouse' and Gemini Enterprise Agent Platform updates confirm the rapid proliferation of AI agents, driving massive investment in their development, deployment, and security. Meta is also expanding its enterprise AI strategy beyond agents.",
+    "summary": "The proliferation of AI agents is driving massive investment and innovation in their development, deployment, and security, with companies like Okta acquiring AI security startups and Google optimizing agent costs.",
     "last_updated": "2026-07-30"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "developing",
-    "summary": "While African startup funding has dipped, diversification beyond fintech continues with AgriTech, yet gender funding gaps persist, and global tech layoffs signal a more competitive job market for Nigerian tech professionals, with GoLemon shutting down due to fundraising difficulties. NITDA is enforcing new quality and security standards for government software.",
+    "summary": "While African startup funding diversifies beyond fintech, challenges persist with global tech layoffs and fundraising difficulties, alongside NITDA enforcing new quality and security standards for government software.",
     "last_updated": "2026-07-30"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global AI hardware race intensifies with China grappling with compute shortages and accelerating domestic production, while Nvidia predicts a massive computing boom driven by AI agents, and OpenAI reveals plans for a 'family of devices'.",
+    "summary": "The global AI hardware race intensifies with China accelerating domestic production amidst compute shortages, while Nvidia predicts a computing boom and OpenAI plans new devices.",
     "last_updated": "2026-07-29"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria has breached its debt ceiling, borrowing 61% more than planned, raising concerns about fiscal stability, while the FG hails the Dangote Refinery as critical to the $1 trillion economy vision and approves significant infrastructure investments. Atiku Abubakar has accused Tinubu of fiscal recklessness, faulting the N12.62 trillion borrowing.",
+    "summary": "Nigeria faces fiscal stability concerns amid increased borrowing and debt, while efforts are made to track out-of-school children and manage environmental disasters impacting critical infrastructure.",
     "last_updated": "2026-07-30"
   },
   {
     "name": "Xenophobia, Tinubu and Ramaphosa",
     "status": "escalating",
-    "summary": "President Tinubu's strong stance against xenophobic attacks escalates diplomatic pressure on South Africa, highlighting Nigeria's firm position on the protection of its citizens abroad, with a UK councillor charged over an offensive post targeting Nigerians.",
+    "summary": "President Tinubu maintains a strong stance against xenophobic attacks, escalating diplomatic pressure on South Africa amidst ongoing concerns for Nigerian citizens abroad.",
     "last_updated": "2026-07-29"
   },
   {
     "name": "Test Data Management Bottleneck for AI",
     "status": "developing",
-    "summary": "Acquiring high-fidelity data for physical AI, including novel sources like brain waves, remains a critical bottleneck for AI adoption, particularly in robotics and advanced physical systems.",
+    "summary": "Acquiring high-fidelity data for physical AI remains a critical bottleneck for broader AI adoption, particularly in robotics and advanced physical systems.",
     "last_updated": "2026-07-27"
   },
   {
     "name": "AI Personality as a Competitive Advantage",
     "status": "developing",
-    "summary": "The trend of AI 'personality' and user interaction becoming key differentiators for AI agents is gaining traction, as seen in acquisitions and the development of more engaging conversational AI.",
+    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development in conversational AI.",
     "last_updated": "2026-07-24"
   },
   {
     "name": "Nigerian Health Sector Crisis",
     "status": "escalating",
-    "summary": "Government reforms aim to address professional shortages, but immediate public health emergencies and strain on the system highlight ongoing challenges in infrastructure and preparedness, with experts cautioning digital tools alone are insufficient.",
+    "summary": "Government reforms aim to address professional shortages, but immediate public health emergencies and strain on the system highlight ongoing challenges in infrastructure and preparedness.",
     "last_updated": "2026-07-28"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "Nations are urged to add value to raw materials locally to avoid a 'new oil curse,' emphasizing the strategic importance of leveraging critical minerals and agricultural produce for sustainable development and industrialization.",
+    "summary": "Nations are urged to add value to raw materials locally to avoid a 'new oil curse,' emphasizing the strategic importance of leveraging critical minerals and agricultural produce for sustainable development.",
     "last_updated": "2026-07-28"
   }
 ]
