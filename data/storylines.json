@@ -2,26 +2,26 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating insecurity persists with massacres and banditry, prompting presidential directives for intensified operations and structural reforms like state police, while communities resort to paying levies to bandits. Today saw a successful raid killing a bandit kingpin in Katsina, but also a deadly attack in Kwara and abductions in Enugu, highlighting the multi-faceted and pervasive nature of the challenge.",
-    "last_updated": "2026-08-02"
+    "summary": "Escalating insecurity persists with massacres and banditry, prompting presidential directives for intensified operations and structural reforms like state police, while communities resort to paying levies to bandits. Today saw a devastating attack in Sokoto with mass casualties and abductions, and a police officer killed in a gun battle, highlighting the pervasive and critical nature of the challenge.",
+    "last_updated": "2026-08-04"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
     "summary": "The AI race intensifies with open-weight models challenging proprietary leaders and driving down prices, while enterprises focus on cost optimization. Today's news highlights OpenAI's Astra model solving complex math problems at low cost and the ongoing debate around open-weight models versus closed systems, with ethical AI startups emerging but facing challenges in artist compensation.",
-    "last_updated": "2026-08-02"
+    "last_updated": "2026-08-04"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "Fundamental flaws in LLMs make them vulnerable to attacks, exacerbating concerns about AI security. Today's news includes internal industry debates on AI safety, the potential for AI to generate malicious code, and the need for responsible AI development, particularly as AI agents become more integrated into enterprise systems.",
-    "last_updated": "2026-08-02"
+    "summary": "Fundamental flaws in LLMs make them vulnerable to attacks, exacerbating concerns about AI security. Today's news includes internal industry debates on AI safety, the potential for AI to generate malicious code, and the need for responsible AI development, particularly as AI agents become more integrated into enterprise systems. An industry alliance shows rapid progress on defending against AI agents.",
+    "last_updated": "2026-08-04"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security flaws are fueling calls for global governance and a potential slowdown of frontier AI development. Today's industry debates highlight deep divisions on how to regulate AI, with the robotaxi sector showcasing conflicting federal acceleration and local scrutiny.",
-    "last_updated": "2026-08-02"
+    "summary": "Concerns over AI's autonomous capabilities and security flaws are fueling calls for global governance and a potential slowdown of frontier AI development. Today's industry debates highlight deep divisions on how to regulate AI, with a new index warning that global AI governance is failing to keep pace with rapid adoption, especially in the Global South.",
+    "last_updated": "2026-08-04"
   },
   {
     "name": "CBN Policy and Economic Management",
@@ -32,14 +32,14 @@
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
-    "summary": "The proliferation of AI agents drives investment in their development, deployment, and security, with a focus on efficient and secure integration. Today's news shows new tools for agent-driven app debugging and testing, indicating progress in automating development workflows and accelerating app launches.",
-    "last_updated": "2026-08-02"
+    "summary": "The proliferation of AI agents drives investment in their development, deployment, and security, with a focus on efficient and secure integration. Today's news shows new tools for agent-driven app debugging and testing, and Google Cloud launching AI-powered database agents, indicating progress in automating development workflows and accelerating app launches.",
+    "last_updated": "2026-08-04"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "While African startup funding diversifies, Nigeria faces challenges with global tech layoffs and fundraising difficulties, alongside a critical dependency on foreign AI technologies due to insufficient local investment. Educational partnerships aim to boost local talent, and AI coding is seen as an enabler for faster development.",
-    "last_updated": "2026-08-02"
+    "summary": "While African startup funding diversifies, Nigeria faces challenges with global tech layoffs and fundraising difficulties, alongside a critical dependency on foreign AI technologies due to insufficient local investment. Educational partnerships aim to boost local talent, and AI coding is seen as an enabler for faster development, with grassroots initiatives aiming to humanize the AI boom.",
+    "last_updated": "2026-08-04"
   },
   {
     "name": "AI Hardware Race Intensifies",
@@ -50,8 +50,8 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria faces fiscal stability concerns amid increased borrowing and debt, with a widening gap between official economic narratives and public experience of hardship due to inflation. Today saw the Presidency defending its economic reforms against opposition claims of fiscal recklessness.",
-    "last_updated": "2026-08-02"
+    "summary": "Nigeria faces fiscal stability concerns amid increased borrowing and debt, with a widening gap between official economic narratives and public experience of hardship due to inflation. Today saw the government wooing Saudi investors and announcing a massive fibre optic network rollout, while public pressure mounts over economic hardship and insecurity's impact.",
+    "last_updated": "2026-08-04"
   },
   {
     "name": "Xenophobia, Tinubu and Ramaphosa",
@@ -62,8 +62,8 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Internal party disputes and allegations against electoral bodies, coupled with warnings about AI-driven misinformation, signal a contentious pre-election period. Today saw the release of the final candidate list for 2027 elections, with prominent names missing, and religious leaders warning against a 'win by all means' approach.",
-    "last_updated": "2026-08-02"
+    "summary": "Internal party disputes and allegations against electoral bodies, coupled with warnings about AI-driven misinformation, signal a contentious pre-election period. Today saw warnings against state police ahead of 2027 elections, allegations of electoral irregularities in a Kwara APC primary, and predictions of strong Northern votes for Tinubu.",
+    "last_updated": "2026-08-04"
   },
   {
     "name": "AI Personality as a Competitive Advantage",
@@ -73,14 +73,14 @@
   },
   {
     "name": "Nigerian Health Sector Crisis",
-    "status": "escalating",
-    "summary": "Government reforms aim to address professional shortages, but immediate public health emergencies and strain on the system highlight ongoing challenges in infrastructure and preparedness. Lead contamination in Ogun State also points to environmental health risks.",
-    "last_updated": "2026-08-02"
+    "status": "developing",
+    "summary": "Government reforms aim to address professional shortages, but immediate public health emergencies and strain on the system highlight ongoing challenges in infrastructure and preparedness. Resident doctors may shelve their planned strike after a deal with the government.",
+    "last_updated": "2026-08-04"
   },
   {
     "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
     "status": "escalating",
-    "summary": "Nations are urged to add value to raw materials locally to avoid a 'new oil curse,' emphasizing the strategic importance of leveraging critical minerals and agricultural produce for sustainable development.",
-    "last_updated": "2026-07-28"
+    "summary": "Nations are urged to add value to raw materials locally to avoid a 'new oil curse,' emphasizing the strategic importance of leveraging critical minerals and agricultural produce for sustainable development. Nigeria is actively wooing investors for sectors beyond oil.",
+    "last_updated": "2026-08-04"
   }
 ]
