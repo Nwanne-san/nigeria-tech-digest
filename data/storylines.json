@@ -2,56 +2,56 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating insecurity persists with massacres and banditry, prompting presidential directives for intensified operations and structural reforms like state police, while communities resort to paying levies to bandits. Today saw a devastating attack in Sokoto with mass casualties and abductions, and a police officer killed in a gun battle, highlighting the pervasive and critical nature of the challenge.",
-    "last_updated": "2026-08-04"
+    "summary": "Escalating insecurity persists with massacres and banditry, prompting presidential directives for intensified operations and structural reforms like state police, while communities resort to paying levies to bandits. Today saw a devastating attack in Sokoto with mass casualties and abductions, and a police officer killed in a gun battle, highlighting the pervasive and critical nature of the challenge. Military salary hikes and local security initiatives are being implemented, but ambushes and arrests continue across Plateau, Zamfara, Yobe, and Borno.",
+    "last_updated": "2026-08-05"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI race intensifies with open-weight models challenging proprietary leaders and driving down prices, while enterprises focus on cost optimization. Today's news highlights OpenAI's Astra model solving complex math problems at low cost and the ongoing debate around open-weight models versus closed systems, with ethical AI startups emerging but facing challenges in artist compensation.",
-    "last_updated": "2026-08-04"
+    "summary": "The AI race intensifies with open-weight models challenging proprietary leaders and driving down prices, while enterprises focus on cost optimization. Today's news highlights OpenAI's Astra model solving complex math problems at low cost and the ongoing debate around open-weight models versus closed systems, with ethical AI startups emerging but facing challenges in artist compensation. Open-weight models are catching up to frontier capabilities but often lack safety mitigations.",
+    "last_updated": "2026-08-05"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
     "summary": "Fundamental flaws in LLMs make them vulnerable to attacks, exacerbating concerns about AI security. Today's news includes internal industry debates on AI safety, the potential for AI to generate malicious code, and the need for responsible AI development, particularly as AI agents become more integrated into enterprise systems. An industry alliance shows rapid progress on defending against AI agents.",
-    "last_updated": "2026-08-04"
+    "last_updated": "2026-08-05"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security flaws are fueling calls for global governance and a potential slowdown of frontier AI development. Today's industry debates highlight deep divisions on how to regulate AI, with a new index warning that global AI governance is failing to keep pace with rapid adoption, especially in the Global South.",
-    "last_updated": "2026-08-04"
+    "summary": "Concerns over AI's autonomous capabilities and security flaws are fueling calls for global governance and a potential slowdown of frontier AI development. Today's industry debates highlight deep divisions on how to regulate AI, with a new index warning that global AI governance is failing to keep pace with rapid adoption, especially in the Global South. The White House's close-hold approach to its AI framework fuels industry concerns.",
+    "last_updated": "2026-08-05"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN continues active regulatory oversight with reduced government financing and increased external reserves, signaling a commitment to monetary discipline. However, persistent inflation and external liabilities remain challenges, with public pressure mounting over economic hardship and debates over fiscal policies.",
-    "last_updated": "2026-08-02"
+    "summary": "The CBN continues active regulatory oversight with reduced government financing and increased external reserves, signaling a commitment to monetary discipline. Today's reports show the naira FX gap falling below 2% and external reserves topping $52.5 billion, reflecting renewed investor confidence. However, persistent inflation and external liabilities remain challenges, with public pressure mounting over economic hardship.",
+    "last_updated": "2026-08-05"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
-    "summary": "The proliferation of AI agents drives investment in their development, deployment, and security, with a focus on efficient and secure integration. Today's news shows new tools for agent-driven app debugging and testing, and Google Cloud launching AI-powered database agents, indicating progress in automating development workflows and accelerating app launches.",
-    "last_updated": "2026-08-04"
+    "summary": "The proliferation of AI agents drives investment in their development, deployment, and security, with a focus on efficient and secure integration. Today's news shows new tools for agent-driven app debugging and testing, and Google Cloud launching AI-powered database agents, indicating progress in automating development workflows and accelerating app launches. New LLM frameworks offer visible reasoning traces and zero-token memory operations.",
+    "last_updated": "2026-08-05"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "While African startup funding diversifies, Nigeria faces challenges with global tech layoffs and fundraising difficulties, alongside a critical dependency on foreign AI technologies due to insufficient local investment. Educational partnerships aim to boost local talent, and AI coding is seen as an enabler for faster development, with grassroots initiatives aiming to humanize the AI boom.",
-    "last_updated": "2026-08-04"
+    "summary": "While African startup funding diversifies, Nigeria faces challenges with global tech layoffs and fundraising difficulties, alongside a critical dependency on foreign AI technologies due to insufficient local investment. Educational partnerships aim to boost local talent, and AI coding is seen as an enabler for faster development, with grassroots initiatives aiming to humanize the AI boom. Moove achieved unicorn status, highlighting potential in mobility fintech and autonomous vehicles.",
+    "last_updated": "2026-08-05"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global AI hardware race intensifies with compute shortages and China accelerating domestic production, while demand for AI data centers continues to strain supply chains.",
-    "last_updated": "2026-08-01"
+    "summary": "The global AI hardware race intensifies with compute shortages and China accelerating domestic production, while demand for AI data centers continues to strain supply chains. AMD's data center business booms, driven by AI demand, and SpaceX's AI revenue surpasses its space revenue from providing compute to other AI companies.",
+    "last_updated": "2026-08-05"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria faces fiscal stability concerns amid increased borrowing and debt, with a widening gap between official economic narratives and public experience of hardship due to inflation. Today saw the government wooing Saudi investors and announcing a massive fibre optic network rollout, while public pressure mounts over economic hardship and insecurity's impact.",
-    "last_updated": "2026-08-04"
+    "summary": "Nigeria faces fiscal stability concerns amid increased borrowing and debt, with a widening gap between official economic narratives and public experience of hardship due to inflation. Today saw the government wooing Saudi investors and announcing a massive fibre optic network rollout, while public pressure mounts over economic hardship and insecurity's impact. Communities hosting national infrastructure like Gurara Dam still face darkness and water scarcity.",
+    "last_updated": "2026-08-05"
   },
   {
     "name": "Xenophobia, Tinubu and Ramaphosa",
@@ -62,8 +62,8 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Internal party disputes and allegations against electoral bodies, coupled with warnings about AI-driven misinformation, signal a contentious pre-election period. Today saw warnings against state police ahead of 2027 elections, allegations of electoral irregularities in a Kwara APC primary, and predictions of strong Northern votes for Tinubu.",
-    "last_updated": "2026-08-04"
+    "summary": "Internal party disputes and allegations against electoral bodies, coupled with warnings about AI-driven misinformation, signal a contentious pre-election period. Today saw warnings against state police ahead of 2027 elections, allegations of electoral irregularities in a Kwara APC primary, and predictions of strong Northern votes for Tinubu. Presidential candidates express concern over the future of Nigeria's democracy and electoral decline.",
+    "last_updated": "2026-08-05"
   },
   {
     "name": "AI Personality as a Competitive Advantage",
