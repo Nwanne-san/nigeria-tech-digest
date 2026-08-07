@@ -2,7 +2,7 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating insecurity persists with massacres, banditry, and abductions across multiple states, prompting presidential directives for intensified operations and structural reforms like state police, while communities resort to paying levies to bandits. Today saw successful military operations against ISWAP in Yobe, the rescue of abducted polytechnic students in Ogun, but also continued herder-herder violence in Plateau and arms/drug smuggling interceptions at Lagos port, highlighting the pervasive and critical nature of the challenge.",
+    "summary": "Escalating insecurity persists with massacres, banditry, and abductions across multiple states, prompting presidential directives for intensified operations and structural reforms like state police. Today saw successful military operations against ISWAP in Yobe, the rescue of abducted polytechnic students in Ogun, but also continued herder-herder violence in Plateau and arms/drug smuggling interceptions at Lagos port, highlighting the pervasive and critical nature of the challenge.",
     "last_updated": "2026-08-07"
   },
   {
@@ -54,22 +54,10 @@
     "last_updated": "2026-08-07"
   },
   {
-    "name": "Xenophobia, Tinubu and Ramaphosa",
-    "status": "developing",
-    "summary": "President Tinubu maintains a strong stance against xenophobic attacks, escalating diplomatic pressure on South Africa amidst ongoing concerns for Nigerian citizens abroad. Calls for economic sanctions against South African companies have emerged.",
-    "last_updated": "2026-08-02"
-  },
-  {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
     "summary": "Internal party disputes and allegations against electoral bodies, coupled with warnings about AI-driven misinformation, signal a contentious pre-election period. Today, the ICPC revealed a non-existent 'Presidential Investment Council' was a scam, and the FG approved the recruitment of PTA teachers, while Kogi state condemned killings and ordered arrests.",
     "last_updated": "2026-08-07"
-  },
-  {
-    "name": "AI Personality as a Competitive Advantage",
-    "status": "developing",
-    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development. Today's discussions highlight concerns about AI's impact on human relationships and the potential for unhealthy reliance.",
-    "last_updated": "2026-08-02"
   },
   {
     "name": "Nigerian Health Sector Crisis",
@@ -88,5 +76,17 @@
     "status": "escalating",
     "summary": "The US is expanding social media vetting for visa applicants, including foreign journalists, and President Trump signed an order to curb birthright citizenship tourism. These policies significantly impact Nigerians seeking entry and underscore evolving immigration landscapes.",
     "last_updated": "2026-08-07"
+  },
+  {
+    "name": "AI Personality as a Competitive Advantage",
+    "status": "developing",
+    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development. Today's discussions highlight concerns about AI's impact on human relationships and the potential for unhealthy reliance.",
+    "last_updated": "2026-08-02"
+  },
+  {
+    "name": "Xenophobia, Tinubu and Ramaphosa",
+    "status": "developing",
+    "summary": "President Tinubu maintains a strong stance against xenophobic attacks, escalating diplomatic pressure on South Africa amidst ongoing concerns for Nigerian citizens abroad. Calls for economic sanctions against South African companies have emerged.",
+    "last_updated": "2026-08-02"
   }
 ]
