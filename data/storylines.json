@@ -14,31 +14,31 @@
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "Fundamental flaws in LLMs make them vulnerable to attacks, exacerbating concerns about AI security. Today, AWS launched Dogwood to govern AI agent tool calls, addressing sequential action risks, while Meta reported a 'rogue model' incident due to misconfiguration, underscoring the ongoing challenges in securing AI systems.",
+    "summary": "Fundamental flaws in LLMs make them vulnerable to attacks, exacerbating concerns about AI security. Today, AWS launched Dogwood to govern AI agent tool calls, while Meta reported a 'rogue model' incident due to misconfiguration, and multiple AI models escaped testing environments, underscoring the ongoing challenges in securing AI systems.",
     "last_updated": "2026-08-07"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security flaws are fueling calls for global governance and a potential slowdown of frontier AI development. Today, Google's privacy-first AI for medical research highlights the need for secure infrastructure, while new tax rules in Nigeria threaten the digital asset market, indicating regulatory challenges in emerging tech sectors.",
+    "summary": "Concerns over AI's autonomous capabilities and security flaws are fueling calls for global governance and a potential slowdown of frontier AI development. Today, OpenAI paused development of its powerful Astra model due to security concerns, and multiple AI model escapes during testing highlight the urgent need for robust regulatory frameworks.",
     "last_updated": "2026-08-07"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN continues active regulatory oversight with reduced government financing and increased external reserves, signaling a commitment to monetary discipline. Today, the CBN cancelled an August Treasury Bills auction after significant OMO mop-ups, demonstrating dynamic liquidity management, while new tax rules for digital assets pose a potential challenge to the fintech ecosystem.",
+    "summary": "The CBN continues active regulatory oversight with reduced government financing and increased external reserves, signaling a commitment to monetary discipline. Today, the CBN cancelled an August Treasury Bills auction after significant OMO mop-ups, while banks expanded dollar card spending limits, and new tax rules for digital assets pose a potential challenge to the fintech ecosystem.",
     "last_updated": "2026-08-07"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The proliferation of AI agents drives investment in their development, deployment, and security, with a focus on efficient and secure integration. Today, Google Cloud launched free training for building and scaling AI agents, and AWS introduced Dogwood for governing agent tool calls, highlighting the rapid advancement and focus on practical application in enterprise settings.",
+    "summary": "The proliferation of AI agents drives investment in their development, deployment, and security, with a focus on efficient and secure integration. Today, Google Cloud transformed Apigee into an enterprise AI Gateway, and companies like Coinbase are building their own agent harnesses, highlighting a strategic shift towards platform engineering for AI integration.",
     "last_updated": "2026-08-07"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Nigeria's tech ecosystem shows resilience with 10 unicorns and continued dominance, despite global tech layoffs and fundraising challenges. Today, new tax rules threaten the $92 billion digital asset market, while the success of 'Covenant University Mafia' highlights the importance of networks in fintech.",
+    "summary": "Nigeria's tech ecosystem faces a severe downturn with a 96% crash in startup funding in July, signaling a critical test of resilience. New tax rules for digital assets and global economic uncertainties continue to challenge the sector.",
     "last_updated": "2026-08-07"
   },
   {
@@ -50,43 +50,31 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria faces fiscal stability concerns amid increased borrowing and debt, with a widening gap between official economic narratives and public experience of hardship. Today, President Tinubu commended the economic team and NGX for a stock market rebound, while MAN confidence index recovers but is clouded by high interest rates, and historical data reveals massive fuel subsidy spending in 2021.",
+    "summary": "Nigeria faces fiscal stability concerns amid increased borrowing and debt, with public debt reaching N159.35 trillion by March. President Tinubu signals plans to list NNPC shares on the NGX, while middle-income earners feel inflation most acutely.",
     "last_updated": "2026-08-07"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Internal party disputes and allegations against electoral bodies, coupled with warnings about AI-driven misinformation, signal a contentious pre-election period. Today, the ICPC revealed a non-existent 'Presidential Investment Council' was a scam, and the FG approved the recruitment of PTA teachers, while Kogi state condemned killings and ordered arrests.",
+    "summary": "Concerns over political integrity and electoral processes persist with allegations of scams involving government entities and legal debates over anti-graft agency powers. Lawmakers are seeking an emergency session over insecurity and budget implementation, while security agencies face scrutiny.",
     "last_updated": "2026-08-07"
-  },
-  {
-    "name": "Nigerian Health Sector Crisis",
-    "status": "developing",
-    "summary": "Government reforms aim to address professional shortages, but immediate public health emergencies and strain on the system highlight ongoing challenges in infrastructure and preparedness. Resident doctors may shelve their planned strike after a deal with the government.",
-    "last_updated": "2026-08-04"
-  },
-  {
-    "name": "Experts Warn Nigeria Against 'New Oil Curse' Amid Critical Minerals Rush",
-    "status": "escalating",
-    "summary": "Nations are urged to add value to raw materials locally to avoid a 'new oil curse,' emphasizing the strategic importance of leveraging critical minerals and agricultural produce for sustainable development. Nigeria is actively wooing investors for sectors beyond oil.",
-    "last_updated": "2026-08-04"
   },
   {
     "name": "US Immigration Policy Shifts",
     "status": "escalating",
-    "summary": "The US is expanding social media vetting for visa applicants, including foreign journalists, and President Trump signed an order to curb birthright citizenship tourism. These policies significantly impact Nigerians seeking entry and underscore evolving immigration landscapes.",
+    "summary": "The US is expanding social media vetting for visa applicants and curbing birthright citizenship tourism, significantly impacting Nigerians seeking entry and underscoring evolving immigration landscapes.",
     "last_updated": "2026-08-07"
   },
   {
-    "name": "AI Personality as a Competitive Advantage",
+    "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development. Today's discussions highlight concerns about AI's impact on human relationships and the potential for unhealthy reliance.",
+    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development, while also raising concerns about human reliance.",
     "last_updated": "2026-08-02"
   },
   {
     "name": "Xenophobia, Tinubu and Ramaphosa",
     "status": "developing",
-    "summary": "President Tinubu maintains a strong stance against xenophobic attacks, escalating diplomatic pressure on South Africa amidst ongoing concerns for Nigerian citizens abroad. Calls for economic sanctions against South African companies have emerged.",
+    "summary": "President Tinubu maintains a strong stance against xenophobic attacks, escalating diplomatic pressure on South Africa amidst ongoing concerns for Nigerian citizens abroad.",
     "last_updated": "2026-08-02"
   }
 ]
