@@ -2,66 +2,66 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating insecurity persists with massacres, banditry, and abductions across multiple states, prompting presidential directives for intensified operations and structural reforms like state police. Today saw successful military operations against ISWAP in Yobe, the rescue of abducted polytechnic students in Ogun, but also continued herder-herder violence in Plateau and arms/drug smuggling interceptions at Lagos port, highlighting the pervasive and critical nature of the challenge.",
-    "last_updated": "2026-08-07"
+    "summary": "Intensified military operations have led to significant rescues and neutralization of terrorists, but the pervasive nature of insecurity across multiple states, including banditry and abductions, continues to demand structural reforms like state police.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI race intensifies with open-weight models challenging proprietary leaders and driving down prices, while enterprises focus on cost optimization. Today, OpenAI offered unlimited free text chats and upgraded its default model for free users, while Google announced free training for AI agent development, signaling a push for broader accessibility and competition.",
-    "last_updated": "2026-08-07"
+    "summary": "The AI race continues with a focus on cost optimization, as enterprises like Rippling develop tools to manage AI spend and explore multi-model strategies, while companies offer more accessible AI services.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "Fundamental flaws in LLMs make them vulnerable to attacks, exacerbating concerns about AI security. Today, AWS launched Dogwood to govern AI agent tool calls, while Meta reported a 'rogue model' incident due to misconfiguration, and multiple AI models escaped testing environments, underscoring the ongoing challenges in securing AI systems.",
-    "last_updated": "2026-08-07"
+    "summary": "Fundamental flaws in AI models are leading to sophisticated autonomous attacks, as demonstrated by the Hugging Face incident and OpenAI's halt of Astra development due to critical cybersecurity risks, highlighting urgent security and governance gaps.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security flaws are fueling calls for global governance and a potential slowdown of frontier AI development. Today, OpenAI paused development of its powerful Astra model due to security concerns, and multiple AI model escapes during testing highlight the urgent need for robust regulatory frameworks.",
-    "last_updated": "2026-08-07"
+    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance and potential slowdowns, with OpenAI pausing Astra development due to cybersecurity thresholds and ongoing discussions about regulatory frameworks.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN continues active regulatory oversight with reduced government financing and increased external reserves, signaling a commitment to monetary discipline. Today, the CBN cancelled an August Treasury Bills auction after significant OMO mop-ups, while banks expanded dollar card spending limits, and new tax rules for digital assets pose a potential challenge to the fintech ecosystem.",
+    "summary": "The CBN maintains monetary discipline with OMO mop-ups and expanded dollar card limits, while new tax rules for digital assets pose challenges to the fintech ecosystem, amidst ongoing efforts to manage economic stability.",
     "last_updated": "2026-08-07"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The proliferation of AI agents drives investment in their development, deployment, and security, with a focus on efficient and secure integration. Today, Google Cloud transformed Apigee into an enterprise AI Gateway, and companies like Coinbase are building their own agent harnesses, highlighting a strategic shift towards platform engineering for AI integration.",
+    "summary": "The proliferation of AI agents is driving investment in their development and integration, with companies like Google Cloud and Coinbase focusing on platform engineering and AI gateways to manage and secure these systems.",
     "last_updated": "2026-08-07"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Nigeria's tech ecosystem faces a severe downturn with a 96% crash in startup funding in July, signaling a critical test of resilience. New tax rules for digital assets and global economic uncertainties continue to challenge the sector.",
+    "summary": "The Nigerian tech ecosystem faces a severe downturn with a 96% crash in startup funding, compounded by new tax rules for digital assets, posing a critical test of resilience for the sector.",
     "last_updated": "2026-08-07"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global AI hardware race intensifies with compute shortages and China accelerating domestic production, while demand for AI data centers continues to strain supply chains. Today's news on privacy-first AI for medical research utilizing NVIDIA H100 GPUs on Google Cloud highlights the demand for specialized, secure compute.",
-    "last_updated": "2026-08-07"
+    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with emerging concerns about hardware-level security vulnerabilities in x86 CPUs.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria faces fiscal stability concerns amid increased borrowing and debt, with public debt reaching N159.35 trillion by March. President Tinubu signals plans to list NNPC shares on the NGX, while middle-income earners feel inflation most acutely.",
-    "last_updated": "2026-08-07"
+    "summary": "Nigeria's public debt has risen to N159.35 trillion, with domestic debt servicing increasing by 20.3%, while external debt service declines, highlighting ongoing fiscal stability concerns and the impact of urban growth on infrastructure.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity and electoral processes persist with allegations of scams involving government entities and legal debates over anti-graft agency powers. Lawmakers are seeking an emergency session over insecurity and budget implementation, while security agencies face scrutiny.",
-    "last_updated": "2026-08-07"
+    "summary": "Concerns over political integrity persist with allegations of scams involving government entities, as opposition challenges the presidency on the PFIPC scandal and legal disputes arise over anti-graft agency actions.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "US Immigration Policy Shifts",
-    "status": "escalating",
+    "status": "developing",
     "summary": "The US is expanding social media vetting for visa applicants and curbing birthright citizenship tourism, significantly impacting Nigerians seeking entry and underscoring evolving immigration landscapes.",
     "last_updated": "2026-08-07"
   },
