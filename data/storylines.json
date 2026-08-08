@@ -2,73 +2,73 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Intensified military operations have led to significant rescues and neutralization of terrorists, but the pervasive nature of insecurity across multiple states, including banditry and abductions, continues to demand structural reforms like state police.",
+    "summary": "Intensified military operations are yielding significant rescues and neutralization of terrorists, but pervasive insecurity continues to demand structural reforms like state police, with infrastructure gains being undermined by thuggery and vandalism.",
     "last_updated": "2026-08-08"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI race continues with a focus on cost optimization, as enterprises like Rippling develop tools to manage AI spend and explore multi-model strategies, while companies offer more accessible AI services.",
+    "summary": "The AI race continues with a focus on cost optimization and interoperability, as enterprises develop tools to manage AI spend and explore multi-model strategies, while a shared plugin standard emerges amidst security concerns.",
     "last_updated": "2026-08-08"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "Fundamental flaws in AI models are leading to sophisticated autonomous attacks, as demonstrated by the Hugging Face incident and OpenAI's halt of Astra development due to critical cybersecurity risks, highlighting urgent security and governance gaps.",
+    "summary": "Fundamental flaws in AI models are leading to sophisticated autonomous attacks, as demonstrated by the OpenAI-Hugging Face incident and urgent cybersecurity risks, highlighting critical security and governance gaps.",
     "last_updated": "2026-08-08"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance and potential slowdowns, with OpenAI pausing Astra development due to cybersecurity thresholds and ongoing discussions about regulatory frameworks.",
+    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance and potential slowdowns, with incidents highlighting urgent security and governance gaps.",
     "last_updated": "2026-08-08"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN maintains monetary discipline with OMO mop-ups and expanded dollar card limits, while new tax rules for digital assets pose challenges to the fintech ecosystem, amidst ongoing efforts to manage economic stability.",
-    "last_updated": "2026-08-07"
+    "summary": "The CBN maintains monetary discipline with OMO mop-ups and expanded dollar card limits, while the NRS plans a unified crypto regulatory framework, amidst ongoing efforts to manage economic stability and FX liquidity.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The proliferation of AI agents is driving investment in their development and integration, with companies like Google Cloud and Coinbase focusing on platform engineering and AI gateways to manage and secure these systems.",
-    "last_updated": "2026-08-07"
+    "summary": "The proliferation of AI agents is driving investment in their development and integration, with a focus on managing scattered AI skills and ensuring secure, interoperable agent architectures.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The Nigerian tech ecosystem faces a severe downturn with a 96% crash in startup funding, compounded by new tax rules for digital assets, posing a critical test of resilience for the sector.",
-    "last_updated": "2026-08-07"
+    "summary": "The Nigerian tech ecosystem faces a severe downturn in funding and new tax rules, but a planned unified crypto regulatory framework and expansion of investment platforms offer potential for resilience and growth.",
+    "last_updated": "2026-08-08"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with emerging concerns about hardware-level security vulnerabilities in x86 CPUs.",
+    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with emerging concerns about hardware-level security vulnerabilities and the significant energy demands of data centers.",
     "last_updated": "2026-08-08"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's public debt has risen to N159.35 trillion, with domestic debt servicing increasing by 20.3%, while external debt service declines, highlighting ongoing fiscal stability concerns and the impact of urban growth on infrastructure.",
+    "summary": "Nigeria's public debt remains a concern, but the naira shows stability with growing external reserves, while the NGX projects significant market growth and healthcare infrastructure receives boosts.",
     "last_updated": "2026-08-08"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity persist with allegations of scams involving government entities, as opposition challenges the presidency on the PFIPC scandal and legal disputes arise over anti-graft agency actions.",
+    "summary": "Concerns over political integrity persist with allegations of scams and rejected anti-graft reports, while the upcoming 2027 elections are expected to be heavily influenced by AI-driven misinformation.",
     "last_updated": "2026-08-08"
   },
   {
     "name": "US Immigration Policy Shifts",
     "status": "developing",
-    "summary": "The US is expanding social media vetting for visa applicants and curbing birthright citizenship tourism, significantly impacting Nigerians seeking entry and underscoring evolving immigration landscapes.",
+    "summary": "The US is expanding social media vetting for visa applicants and curbing birthright citizenship tourism, significantly impacting Nigerians seeking entry.",
     "last_updated": "2026-08-07"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development, while also raising concerns about human reliance.",
+    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development.",
     "last_updated": "2026-08-02"
   },
   {
