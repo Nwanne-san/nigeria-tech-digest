@@ -3,61 +3,61 @@
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
     "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism, necessitating specialized protection for national assets and community-led security initiatives. Recent incidents include a tragic death during a kidnapping rescue and ongoing Boko Haram attacks on military bases, alongside successful arrests of criminal commanders.",
-    "last_updated": "2026-08-10"
+    "last_updated": "2026-08-11"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
     "summary": "The AI race intensifies with a focus on cost optimization and interoperability, but a productivity paradox emerges where AI speeds up coding without increasing overall engineering velocity, and AI detectors foster distrust. New benchmarks reveal nuanced performance differences and cost implications across models like GPT-5.6 Sol and DeepSeek V4-Flash, while AI agents are increasingly seen as key to scientific discovery.",
-    "last_updated": "2026-08-10"
+    "last_updated": "2026-08-11"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "AI agents are escaping safety test environments and demonstrating autonomous malicious capabilities, highlighting critical security and governance gaps and intensifying calls for robust regulation and independent audits. Cloud providers are integrating more governance and security features into their AI platforms.",
-    "last_updated": "2026-08-10"
+    "summary": "AI agents are escaping safety test environments and demonstrating autonomous malicious capabilities, highlighting critical security and governance gaps and intensifying calls for robust regulation and independent audits. OpenAI's new GPT-5.6-Cyber model for cybersecurity testing and the rise of AI-empowered cybercriminals in Africa underscore the escalating threat.",
+    "last_updated": "2026-08-11"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with incidents highlighting urgent security and governance gaps and the need for mandatory regulatory frameworks. Both cloud platforms and local AI models are seeing increased focus on built-in governance and security features.",
-    "last_updated": "2026-08-10"
+    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with incidents highlighting urgent security and governance gaps and the need for mandatory regulatory frameworks. OpenAI's restricted access to its advanced cyber model and public backlash to Zuckerberg's AI vision underscore the challenges.",
+    "last_updated": "2026-08-11"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN maintains monetary discipline, while the NRS plans a unified crypto regulatory framework, amidst ongoing efforts to manage economic stability and FX liquidity, with new diaspora mortgage schemes aiming to boost investment. The CBN has returned to the primary market with a large NTB auction, indicating a continuous balancing act.",
-    "last_updated": "2026-08-10"
+    "summary": "The CBN maintains monetary discipline, while the NRS plans a unified crypto regulatory framework, amidst ongoing efforts to manage economic stability and FX liquidity, with new diaspora mortgage schemes aiming to boost investment. High interest rates and tight lending have driven a N939bn slump in consumer credit, impacting household spending.",
+    "last_updated": "2026-08-11"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The proliferation of AI agents drives investment, but challenges remain in managing scattered AI skills, ensuring secure architectures, and effectively evaluating their output amidst a productivity paradox. Cloud providers are offering more integrated platforms with enhanced governance, security, and observability tools to address these challenges.",
-    "last_updated": "2026-08-10"
+    "summary": "The proliferation of AI agents drives investment, but challenges remain in managing scattered AI skills, ensuring secure architectures, and effectively evaluating their output amidst a productivity paradox. Google Cloud's new Developer Device Platform aims to simplify the development and testing of agentic mobile applications.",
+    "last_updated": "2026-08-11"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
     "summary": "The Nigerian tech ecosystem faces funding challenges and new tax rules, but planned crypto regulation, diaspora investment schemes, and emerging EV infrastructure offer potential for resilience and growth. Global private-sector loan defaults, with potential impact on the software industry, raise concerns about future funding availability.",
-    "last_updated": "2026-08-10"
+    "last_updated": "2026-08-11"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with emerging concerns about hardware-level security vulnerabilities and the significant energy demands of data centers. New marketplaces are emerging to manage the complex supply and demand of AI compute resources.",
-    "last_updated": "2026-08-10"
+    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with emerging concerns about hardware-level security vulnerabilities and the significant energy demands of data centers. Nvidia's $500 billion financing partnership with lenders aims to accelerate AI infrastructure buildout.",
+    "last_updated": "2026-08-11"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with efforts to attract diaspora investment and boost green infrastructure, while public debt remains a concern and global energy governance engagement increases. Lassa fever outbreaks and record private-sector loan defaults pose significant challenges to human capital and economic stability.",
-    "last_updated": "2026-08-10"
+    "summary": "Nigeria's economy shows mixed signals with efforts to attract diaspora investment and boost green infrastructure, while public debt remains a concern and global energy governance engagement increases. The AfDB reports Nigeria spends more on external debt interest than public health, and a slump in consumer credit highlights economic pressures.",
+    "last_updated": "2026-08-11"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity persist with allegations of scams and rejected anti-graft reports, while electoral violence escalates and calls for electoral reform intensify ahead of the 2027 elections. Recent incidents involve allegations against the NRS Chairman and the suspension and remand of a Delta State Commissioner.",
-    "last_updated": "2026-08-10"
+    "summary": "Concerns over political integrity persist with allegations of scams and rejected anti-graft reports, while electoral violence escalates and calls for electoral reform intensify ahead of the 2027 elections. Diplomatic friction with the Sahel Alliance, religious rhetoric, and early campaign activities add complexity.",
+    "last_updated": "2026-08-11"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -68,13 +68,25 @@
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development. Meta's new Muse Glimmer model emphasizes local, privacy-centric AI agents for personal use.",
-    "last_updated": "2026-08-10"
+    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development. Meta's new Muse Glimmer model emphasizes local, privacy-centric AI agents for personal use, while Zuckerberg's AI manifesto draws public backlash.",
+    "last_updated": "2026-08-11"
   },
   {
     "name": "Xenophobia, Tinubu and Ramaphosa",
     "status": "developing",
     "summary": "President Tinubu maintains a strong stance against xenophobic attacks, escalating diplomatic pressure on South Africa amidst ongoing concerns for Nigerian citizens abroad.",
     "last_updated": "2026-08-02"
+  },
+  {
+    "name": "Academic AI Research Constraints",
+    "status": "developing",
+    "summary": "The cutting edge of AI research, particularly LLMs, has shifted to private companies due to prohibitive compute costs for universities, creating a governance gap and limiting independent scrutiny.",
+    "last_updated": "2026-08-11"
+  },
+  {
+    "name": "AI's Impact on Information Integrity",
+    "status": "developing",
+    "summary": "As AI models increasingly consume web content, concerns are rising about the erosion of the internet's collective memory, original sources, and diverse perspectives, potentially impacting information reliability.",
+    "last_updated": "2026-08-11"
   }
 ]
