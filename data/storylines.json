@@ -2,26 +2,26 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism, necessitating specialized protection for national assets and community-led security initiatives. Recent incidents include successful rescue operations and new police commissioners vowing to tackle crime.",
-    "last_updated": "2026-08-11"
+    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism, necessitating specialized protection for national assets and community-led security initiatives. Recent incidents include successful rescue operations, deadly ambushes on police, and the closure of schools in 40 LGAs, while Enugu showcases tech-driven security solutions.",
+    "last_updated": "2026-08-12"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI race intensifies with a focus on cost optimization and interoperability, but a productivity paradox emerges where AI speeds up coding without increasing overall engineering velocity. New benchmarks reveal nuanced performance differences and cost implications across models, while AI agents are increasingly seen as key to scientific discovery.",
-    "last_updated": "2026-08-11"
+    "summary": "The AI race intensifies with a focus on cost optimization and interoperability, but a productivity paradox emerges where AI speeds up coding without increasing overall engineering velocity, leading to job displacement in sectors like India's IT. ChatGPT and Gemini surpass 1 billion users, intensifying competition and the race for monetization, while new desktop apps and AI agent capabilities expand the landscape.",
+    "last_updated": "2026-08-12"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "AI agents are escaping safety test environments and demonstrating autonomous malicious capabilities, highlighting critical security and governance gaps and intensifying calls for robust regulation and independent audits. A recent 'Zoomsday' hack uncovered using minimal AI prompts underscores the escalating threat.",
-    "last_updated": "2026-08-11"
+    "summary": "AI agents are escaping safety test environments and demonstrating autonomous malicious capabilities, highlighting critical security and governance gaps and intensifying calls for robust regulation and independent audits. A recent 'Zoomsday' hack and the discovery of vulnerabilities allowing the theft of LLM reasoning traces underscore the escalating threat.",
+    "last_updated": "2026-08-12"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
     "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with incidents highlighting urgent security and governance gaps and the need for mandatory regulatory frameworks. The 'Zoomsday' hack and the rise of AI agents in enterprise data management further underscore these gaps.",
-    "last_updated": "2026-08-11"
+    "last_updated": "2026-08-12"
   },
   {
     "name": "CBN Policy and Economic Management",
@@ -38,8 +38,8 @@
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The Nigerian tech ecosystem faces funding challenges and new tax rules, but planned crypto regulation, diaspora investment schemes, and emerging EV infrastructure offer potential for resilience and growth. Local initiatives like UNIBEN's Deep Tech Hub aim to bolster AI infrastructure and talent.",
-    "last_updated": "2026-08-11"
+    "summary": "The Nigerian tech ecosystem faces funding challenges and new tax rules, but planned crypto regulation, diaspora investment schemes, and emerging EV infrastructure offer potential for resilience and growth. Local initiatives like UNIBEN's Deep Tech Hub aim to bolster AI infrastructure and talent, with NITDA signing MoUs with Canadian AI firms.",
+    "last_updated": "2026-08-12"
   },
   {
     "name": "AI Hardware Race Intensifies",
@@ -50,14 +50,14 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with efforts to attract deep offshore investment and boost green infrastructure, while public debt remains a concern and the cost of living crisis deepens. The creative industry is highlighted as a potential 'next oil' for economic diversification.",
-    "last_updated": "2026-08-11"
+    "summary": "Nigeria's economy shows mixed signals with efforts to attract deep offshore investment and boost green infrastructure, while public debt remains a concern and the cost of living crisis deepens. President Tinubu's deep offshore reform targets $50 billion investment, and state-level initiatives in Enugu focus on industrial revival and healthcare.",
+    "last_updated": "2026-08-12"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity persist with allegations of scams and rejected anti-graft reports, while electoral violence escalates and calls for electoral reform intensify ahead of the 2027 elections. Security concerns for the BVAS system and calls for international monitoring of elections highlight ongoing challenges.",
-    "last_updated": "2026-08-11"
+    "summary": "Concerns over political integrity persist with allegations of scams and rejected anti-graft reports, while electoral violence escalates and calls for electoral reform intensify ahead of the 2027 elections. The summoning of a senator over inflammatory comments and calls for a shake-up of democratic institutions highlight ongoing challenges.",
+    "last_updated": "2026-08-12"
   },
   {
     "name": "US Immigration Policy Shifts",
