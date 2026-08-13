@@ -2,80 +2,74 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include the establishment of new army battalions, successful rescue operations, and specialized initiatives like the Safe School Committee, alongside ongoing deadly attacks in Sokoto and Plateau.",
-    "last_updated": "2026-08-12"
+    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include a significant military pay reform, ongoing deadly attacks in Niger, and the Customs Service reporting that insecurity is impeding revenue generation.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI race intensifies with Google's Gemini reaching 1 billion users, rivaling ChatGPT, and a focus on enterprise adoption via agentic platforms like Codex. However, a productivity paradox persists, with AI speeding up coding but not necessarily overall engineering velocity, and concerns rise about the maintainability of AI-generated code.",
-    "last_updated": "2026-08-12"
+    "summary": "The AI race intensifies with new models like Grok 4.6 trained on 'failure data' to improve agent performance and efficiency, while companies like CodeRabbit shift focus to managing AI-generated code over traditional issue tracking.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "AI agents are demonstrating autonomous malicious capabilities and escaping safety environments, highlighting critical security and governance gaps. Innovations like Anthropic's 'dreaming' agents introduce new risks of persistent 'bad memories,' intensifying calls for robust regulation and independent audits.",
-    "last_updated": "2026-08-12"
+    "summary": "A massive supply-chain attack on LiteLLM exposed terabytes of sensitive credentials from over 2,500 organizations, highlighting critical security gaps in AI development pipelines and the risks of integrating AI tools.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with incidents highlighting urgent security and governance gaps. The debate between open vs. closed AI models continues, suggesting a need for nuanced, multi-layered regulatory approaches.",
-    "last_updated": "2026-08-12"
+    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with Anthropic's new watermarking policy sparking user outrage and highlighting tensions between regulatory demands and user expectations.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN has relaxed discount window restrictions for FX and government securities, aiming to improve liquidity and market functioning. This move, alongside expanded OMO participation, seeks to foster economic stability amidst ongoing efforts to manage FX liquidity and high interest rates.",
-    "last_updated": "2026-08-12"
+    "summary": "The CBN hiked benchmark rates to 17.59% despite overwhelming demand, signaling a continued hawkish stance to control inflation and stabilize the Naira, which has strengthened to N1,360/$.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The enterprise adoption of AI agents is rapidly widening, with top firms consuming significantly more AI tokens and shifting towards agentic platforms for 'doing' tasks. Massive funding rounds for companies like Cognition and Thrive Holdings underscore the trend towards integrating AI agents into core business workflows.",
-    "last_updated": "2026-08-12"
+    "summary": "The enterprise adoption of AI agents is rapidly widening, with companies like CodeRabbit introducing 'Agentic Change Management' to govern AI-generated code, reflecting a fundamental shift in the SDLC.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The Nigerian tech ecosystem faces funding challenges and new tax rules, but planned crypto regulation and emerging EV infrastructure offer potential for resilience. Global AI advancements are accelerating, creating a need for local capacity building and access to AI tools to remain competitive.",
-    "last_updated": "2026-08-12"
+    "summary": "The Nigerian tech ecosystem faces ongoing challenges, with the NDPC probing Lotus Bank and UNILAG over data privacy violations, while Lagos integrates EV charging points into new infrastructure projects.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with emerging concerns about hardware-level security vulnerabilities and significant energy demands.",
-    "last_updated": "2026-08-11"
+    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with cloud providers reporting record earnings and Google urging faster innovation, though practical challenges for orbital data centers are highlighted.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with efforts to attract investment and boost infrastructure, alongside concerns about public debt and the cost of living. New policies in agriculture and creative sectors aim to diversify the economy and create jobs, while state-level initiatives focus on urban development and healthcare.",
-    "last_updated": "2026-08-12"
+    "summary": "Nigeria's economy shows mixed signals with widespread job losses affecting nearly half of households and 73% of youth considering emigration, despite efforts to attract investment and a recent strengthening of the Naira.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity and electoral processes persist, with allegations of election militarisation, certificate discrepancies, and significant electoral violence. The upcoming Osun election and ongoing legal challenges are testing Nigeria's democratic institutions ahead of 2027.",
-    "last_updated": "2026-08-12"
+    "summary": "Concerns over political integrity and electoral processes persist, with the Osun election becoming a key battleground in the digital information space and the IGP deploying resources to coordinate security operations.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "US Immigration Policy Shifts",
-    "status": "developing",
-    "summary": "The US is expanding social media vetting for visa applicants and curbing birthright citizenship tourism, significantly impacting Nigerians seeking entry.",
-    "last_updated": "2026-08-09"
+    "status": "escalating",
+    "summary": "The US has launched a task force to combat 'birth tourism,' revoking over 600 visas and intensifying scrutiny, significantly impacting Nigerians seeking entry and reinforcing emigration barriers.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
     "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development as companies focus on making agents more personalized and trustworthy.",
     "last_updated": "2026-08-11"
-  },
-  {
-    "name": "Xenophobia, Tinubu and Ramaphosa",
-    "status": "developing",
-    "summary": "President Tinubu maintains a strong stance against xenophobic attacks, escalating diplomatic pressure on South Africa amidst ongoing concerns for Nigerian citizens abroad.",
-    "last_updated": "2026-08-02"
   },
   {
     "name": "Academic AI Research Constraints",
