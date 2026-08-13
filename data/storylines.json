@@ -2,43 +2,43 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include a significant military pay reform, ongoing deadly attacks in Niger, and the Customs Service reporting that insecurity is impeding revenue generation.",
+    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include a significant military pay reform, ongoing deadly attacks in Niger, and the Customs Service reporting that insecurity is impeding revenue generation. The rejection of the FG's ranching plan in Benue highlights deep-seated land and security concerns.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI race intensifies with new models like Grok 4.6 trained on 'failure data' to improve agent performance and efficiency, while companies like CodeRabbit shift focus to managing AI-generated code over traditional issue tracking.",
+    "summary": "The AI race intensifies with new models like Grok 4.6 trained on 'failure data' to improve agent performance and efficiency, while companies like CodeRabbit shift focus to managing AI-generated code over traditional issue tracking. Google's BigQuery Graph enhancements aim to provide AI agents with richer context for more accurate insights.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "A massive supply-chain attack on LiteLLM exposed terabytes of sensitive credentials from over 2,500 organizations, highlighting critical security gaps in AI development pipelines and the risks of integrating AI tools.",
+    "summary": "A massive supply-chain attack on LiteLLM exposed terabytes of sensitive credentials from over 2,500 organizations, highlighting critical security gaps in AI development pipelines and the risks of integrating AI tools. Rubrik's experience shows AI-speed vulnerability discovery can overwhelm human teams, necessitating robust automation and 'harnesses'.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with Anthropic's new watermarking policy sparking user outrage and highlighting tensions between regulatory demands and user expectations.",
+    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with Anthropic's new watermarking policy sparking user outrage and highlighting tensions between regulatory demands and user expectations. Mozilla's CTO advocates for building AI as open infrastructure, criticizing government approaches.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN hiked benchmark rates to 17.59% despite overwhelming demand, signaling a continued hawkish stance to control inflation and stabilize the Naira, which has strengthened to N1,360/$.",
+    "summary": "The CBN hiked benchmark rates to 17.59% despite overwhelming demand, signaling a continued hawkish stance to control inflation and stabilize the Naira, which has strengthened to N1,360/$. The DMO's decision to cut FGN bond offers despite strong demand suggests a cautious fiscal approach.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The enterprise adoption of AI agents is rapidly widening, with companies like CodeRabbit introducing 'Agentic Change Management' to govern AI-generated code, reflecting a fundamental shift in the SDLC.",
+    "summary": "The enterprise adoption of AI agents is rapidly widening, with companies like CodeRabbit introducing 'Agentic Change Management' to govern AI-generated code, reflecting a fundamental shift in the SDLC. Anthropic's research on AI agent 'turf wars' highlights emergent risks in multi-agent systems.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The Nigerian tech ecosystem faces ongoing challenges, with the NDPC probing Lotus Bank and UNILAG over data privacy violations, while Lagos integrates EV charging points into new infrastructure projects.",
+    "summary": "The Nigerian tech ecosystem faces ongoing challenges, with the NDPC probing Lotus Bank and UNILAG over data privacy violations, while Lagos integrates EV charging points into new infrastructure projects. The FG's push to implement the Startup Act aims to unlock funding and support for tech founders.",
     "last_updated": "2026-08-13"
   },
   {
@@ -50,13 +50,13 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with widespread job losses affecting nearly half of households and 73% of youth considering emigration, despite efforts to attract investment and a recent strengthening of the Naira.",
+    "summary": "Nigeria's economy shows mixed signals with widespread job losses affecting nearly half of households and 73% of youth considering emigration, despite efforts to attract investment and a recent strengthening of the Naira. The NGX lost N613 billion as consumer goods stocks extended a selloff.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity and electoral processes persist, with the Osun election becoming a key battleground in the digital information space and the IGP deploying resources to coordinate security operations.",
+    "summary": "Concerns over political integrity and electoral processes persist, with the Osun election becoming a key battleground in the digital information space and the IGP deploying resources to coordinate security operations. An APC candidate was arrested with a rifle ahead of the election.",
     "last_updated": "2026-08-13"
   },
   {
@@ -68,19 +68,19 @@
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development as companies focus on making agents more personalized and trustworthy.",
-    "last_updated": "2026-08-11"
+    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator for AI agents, driving acquisitions and development as companies focus on making agents more personalized and trustworthy. OpenAI's new 'Computer History' feature for ChatGPT on macOS allows it to remember user activity.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "Academic AI Research Constraints",
     "status": "developing",
-    "summary": "The cutting edge of AI research, particularly LLMs, has shifted to private companies due to prohibitive compute costs for universities, creating a governance gap and limiting independent scrutiny.",
-    "last_updated": "2026-08-11"
+    "summary": "The cutting edge of AI research, particularly LLMs, has shifted to private companies due to prohibitive compute costs for universities, creating a governance gap and limiting independent scrutiny. Mozilla's CTO advocates for open-source AI as infrastructure to democratize access.",
+    "last_updated": "2026-08-13"
   },
   {
     "name": "AI's Impact on Information Integrity",
     "status": "developing",
-    "summary": "As AI models increasingly consume web content, concerns are rising about the erosion of the internet's collective memory, original sources, and diverse perspectives, potentially impacting information reliability.",
-    "last_updated": "2026-08-11"
+    "summary": "As AI models increasingly consume web content, concerns are rising about the erosion of the internet's collective memory, original sources, and diverse perspectives, potentially impacting information reliability. The rise of open-source models may offer a path to more diverse AI outputs.",
+    "last_updated": "2026-08-13"
   }
 ]
