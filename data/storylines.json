@@ -2,20 +2,20 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include a significant military pay reform, ongoing deadly attacks in Niger, and the Customs Service reporting that insecurity is impeding revenue generation. The rejection of the FG's ranching plan in Benue highlights deep-seated land and security concerns.",
-    "last_updated": "2026-08-13"
+    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include a significant military pay reform, ongoing deadly attacks in Niger, and the Customs Service reporting that insecurity is impeding revenue generation. The rejection of the FG's ranching plan in Benue highlights deep-seated land and security concerns, while the US retains Nigeria on its Country of Particular Concern list.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI race intensifies with new models like Grok 4.6 trained on 'failure data' to improve agent performance and efficiency, while companies like CodeRabbit shift focus to managing AI-generated code over traditional issue tracking. Google's BigQuery Graph enhancements aim to provide AI agents with richer context for more accurate insights.",
-    "last_updated": "2026-08-13"
+    "summary": "The AI race intensifies with new models like Google's Gemini 3.7 Flash offering improved coding and agent capabilities, while China's ecosystem rapidly advances with ByteDance and DeepSeek developing rival models. Cost-efficiency is becoming a key differentiator, with temporary price cuts and a focus on optimizing AI harnesses.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "A massive supply-chain attack on LiteLLM exposed terabytes of sensitive credentials from over 2,500 organizations, highlighting critical security gaps in AI development pipelines and the risks of integrating AI tools. Rubrik's experience shows AI-speed vulnerability discovery can overwhelm human teams, necessitating robust automation and 'harnesses'.",
-    "last_updated": "2026-08-13"
+    "summary": "A massive supply-chain attack on LiteLLM exposed terabytes of sensitive credentials from over 2,500 organizations, highlighting critical security gaps in AI development pipelines and the risks of integrating AI tools. Apple's proactive notifications about suspected government spyware attacks underscore the growing threat landscape.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "AI Governance and Regulation Gap",
@@ -32,8 +32,8 @@
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The enterprise adoption of AI agents is rapidly widening, with companies like CodeRabbit introducing 'Agentic Change Management' to govern AI-generated code, reflecting a fundamental shift in the SDLC. Anthropic's research on AI agent 'turf wars' highlights emergent risks in multi-agent systems.",
-    "last_updated": "2026-08-13"
+    "summary": "The enterprise adoption of AI agents is rapidly widening, with IBM partnering with OpenAI to train consultants and integrate their models, and companies like Writer focusing on cost-effective solutions and 'harness optimization' for AI deployments.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
@@ -44,20 +44,20 @@
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with cloud providers reporting record earnings and Google urging faster innovation, though practical challenges for orbital data centers are highlighted.",
-    "last_updated": "2026-08-13"
+    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with cloud providers reporting record earnings and Google urging faster innovation, though practical challenges for orbital data centers are highlighted. China's chipmaker CXMT has become its most valuable company due to AI-fueled demand.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with widespread job losses affecting nearly half of households and 73% of youth considering emigration, despite efforts to attract investment and a recent strengthening of the Naira. The NGX lost N613 billion as consumer goods stocks extended a selloff.",
-    "last_updated": "2026-08-13"
+    "summary": "Nigeria's economy shows mixed signals with widespread job losses affecting nearly half of households and 73% of youth considering emigration, despite efforts to attract investment and a recent strengthening of the Naira. President Tinubu vows to return refineries to operation, while public dissatisfaction with economic reforms grows.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity and electoral processes persist, with the Osun election becoming a key battleground in the digital information space and the IGP deploying resources to coordinate security operations. An APC candidate was arrested with a rifle ahead of the election.",
-    "last_updated": "2026-08-13"
+    "summary": "Concerns over political integrity and electoral processes persist, with the Osun election becoming a key battleground in the digital information space and the IGP deploying resources to coordinate security operations. Violence has erupted ahead of the election, and the FG is urging youth to participate in the 2027 elections.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "US Immigration Policy Shifts",
