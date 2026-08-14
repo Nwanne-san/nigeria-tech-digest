@@ -14,32 +14,32 @@
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "A massive supply-chain attack on LiteLLM exposed terabytes of sensitive credentials from over 2,500 organizations, highlighting critical security gaps in AI development pipelines and the risks of integrating AI tools. Apple's proactive notifications about suspected government spyware attacks underscore the growing threat landscape.",
+    "summary": "A massive supply-chain attack on LiteLLM exposed terabytes of sensitive credentials from over 2,500 organizations, highlighting critical security gaps in AI development pipelines and the risks of integrating AI tools. The lack of cryptographic signing for container images and AI artifacts poses a significant security risk in the AI era.",
     "last_updated": "2026-08-14"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with Anthropic's new watermarking policy sparking user outrage and highlighting tensions between regulatory demands and user expectations. Mozilla's CTO advocates for building AI as open infrastructure, criticizing government approaches.",
-    "last_updated": "2026-08-13"
+    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with Anthropic's new watermarking policy sparking user outrage and highlighting tensions between regulatory demands and user expectations. Google's move to make visible watermarks optional, while retaining invisible ones, reflects a pragmatic approach to AI transparency.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN hiked benchmark rates to 17.59% despite overwhelming demand, signaling a continued hawkish stance to control inflation and stabilize the Naira, which has strengthened to N1,360/$. The DMO's decision to cut FGN bond offers despite strong demand suggests a cautious fiscal approach.",
-    "last_updated": "2026-08-13"
+    "summary": "The CBN hiked benchmark rates to 17.59% despite overwhelming demand, signaling a continued hawkish stance to control inflation and stabilize the Naira, which has strengthened to N1,358.25/$. The DMO's decision to cut FGN bond offers despite strong demand suggests a cautious fiscal approach.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The enterprise adoption of AI agents is rapidly widening, with IBM partnering with OpenAI to train consultants and integrate their models, and companies like Writer focusing on cost-effective solutions and 'harness optimization' for AI deployments.",
+    "summary": "The enterprise adoption of AI agents is rapidly widening, with IBM partnering with OpenAI to train consultants and integrate their models, and companies like Writer focusing on cost-effective solutions and 'harness optimization' for AI deployments. Google Cloud is actively promoting AI agent development through hackathons and integrating Gemini into enterprise services.",
     "last_updated": "2026-08-14"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The Nigerian tech ecosystem faces ongoing challenges, with the NDPC probing Lotus Bank and UNILAG over data privacy violations, while Lagos integrates EV charging points into new infrastructure projects. The FG's push to implement the Startup Act aims to unlock funding and support for tech founders.",
-    "last_updated": "2026-08-13"
+    "summary": "The Nigerian tech ecosystem faces ongoing challenges, with the NDPC probing Lotus Bank and UNILAG over data privacy violations, while Lagos integrates EV charging points into new infrastructure projects. The FG's push to implement the Startup Act aims to unlock funding and support for tech founders, with new initiatives like the NiYA \u00d7 Cascador Founders Programme offering non-dilutive funding.",
+    "last_updated": "2026-08-14"
   },
   {
     "name": "AI Hardware Race Intensifies",
@@ -56,7 +56,7 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity and electoral processes persist, with the Osun election becoming a key battleground in the digital information space and the IGP deploying resources to coordinate security operations. Violence has erupted ahead of the election, and the FG is urging youth to participate in the 2027 elections.",
+    "summary": "Concerns over political integrity and electoral processes persist, with the Osun election becoming a key battleground in the digital information space and the IGP deploying resources to coordinate security operations. Violence has erupted ahead of the election, and Atiku Abubakar has filed a suit challenging President Tinubu's eligibility for the 2027 election.",
     "last_updated": "2026-08-14"
   },
   {
