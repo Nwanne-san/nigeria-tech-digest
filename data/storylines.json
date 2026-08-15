@@ -2,14 +2,14 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include a significant military pay reform, ongoing deadly attacks in Niger, and the Customs Service reporting that insecurity is impeding revenue generation. The rejection of the FG's ranching plan in Benue highlights deep-seated land and security concerns, while the US retains Nigeria on its Country of Particular Concern list.",
-    "last_updated": "2026-08-14"
+    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include a significant military pay reform, ongoing deadly attacks in Benue, and the Customs Service reporting that insecurity is impeding revenue generation. The rejection of the FG's ranching plan in Benue highlights deep-seated land and security concerns, while the US retains Nigeria on its Country of Particular Concern list.",
+    "last_updated": "2026-08-15"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI race intensifies with new models like Google's Gemini 3.7 Flash offering improved coding and agent capabilities, while China's ecosystem rapidly advances with ByteDance and DeepSeek developing rival models. Cost-efficiency is becoming a key differentiator, with temporary price cuts and a focus on optimizing AI harnesses.",
-    "last_updated": "2026-08-14"
+    "summary": "The AI race intensifies with new models like SpaceXAI's Grok 4.6 matching top performers at a steep discount, driving a price war fueled by downloadable models from competitors like DeepSeek and Alibaba. Nvidia's open-source routing solutions further commoditize AI, shifting value to orchestration layers.",
+    "last_updated": "2026-08-15"
   },
   {
     "name": "AI Security Vulnerabilities",
@@ -20,44 +20,44 @@
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with Anthropic's new watermarking policy sparking user outrage and highlighting tensions between regulatory demands and user expectations. Google's move to make visible watermarks optional, while retaining invisible ones, reflects a pragmatic approach to AI transparency.",
-    "last_updated": "2026-08-14"
+    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, with Apple developing a China-specific AI model due to regulatory hurdles, fragmenting the global AI landscape. Anthropic's new watermarking policy also sparks user outrage.",
+    "last_updated": "2026-08-15"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN hiked benchmark rates to 17.59% despite overwhelming demand, signaling a continued hawkish stance to control inflation and stabilize the Naira, which has strengthened to N1,358.25/$. The DMO's decision to cut FGN bond offers despite strong demand suggests a cautious fiscal approach.",
-    "last_updated": "2026-08-14"
+    "summary": "The CBN hiked benchmark rates to 17.59% to control inflation and stabilize the Naira, which has strengthened to N1,358.25/$. Meanwhile, legal practitioners face stricter KYC requirements to combat money laundering, reflecting Nigeria's commitment to financial integrity.",
+    "last_updated": "2026-08-15"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The enterprise adoption of AI agents is rapidly widening, with IBM partnering with OpenAI to train consultants and integrate their models, and companies like Writer focusing on cost-effective solutions and 'harness optimization' for AI deployments. Google Cloud is actively promoting AI agent development through hackathons and integrating Gemini into enterprise services.",
-    "last_updated": "2026-08-14"
+    "summary": "The enterprise adoption of AI agents is rapidly widening, with new tools like ThoughtDAG offering editable context graphs for LLM conversations and Nvidia's NeMo Switchyard optimizing AI task routing. This shift emphasizes intelligent orchestration and 'harness optimization' for cost-effective AI deployments.",
+    "last_updated": "2026-08-15"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The Nigerian tech ecosystem faces ongoing challenges, with the NDPC probing Lotus Bank and UNILAG over data privacy violations, while Lagos integrates EV charging points into new infrastructure projects. The FG's push to implement the Startup Act aims to unlock funding and support for tech founders, with new initiatives like the NiYA \u00d7 Cascador Founders Programme offering non-dilutive funding.",
-    "last_updated": "2026-08-14"
+    "summary": "The Nigerian tech ecosystem faces ongoing challenges, with the NDPC probing Lotus Bank and UNILAG over data privacy violations, while Lagos integrates EV charging points. The FG's push to implement the Startup Act aims to unlock funding, and a surge in CAPEX among listed tech firms signals investment recovery.",
+    "last_updated": "2026-08-15"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with cloud providers reporting record earnings and Google urging faster innovation, though practical challenges for orbital data centers are highlighted. China's chipmaker CXMT has become its most valuable company due to AI-fueled demand.",
+    "summary": "The global AI hardware race continues amidst compute shortages and demand for specialized hardware, with cloud providers reporting record earnings and Google urging faster innovation. China's chipmaker CXMT has become its most valuable company due to AI-fueled demand.",
     "last_updated": "2026-08-14"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with widespread job losses affecting nearly half of households and 73% of youth considering emigration, despite efforts to attract investment and a recent strengthening of the Naira. President Tinubu vows to return refineries to operation, while public dissatisfaction with economic reforms grows.",
-    "last_updated": "2026-08-14"
+    "summary": "Nigeria's economy shows mixed signals with widespread job losses affecting nearly half of households, despite efforts to attract investment and a recent strengthening of the Naira. Exports to China surged 80% in H1 2026, and listed tech firms show increased CAPEX, signaling potential recovery drivers.",
+    "last_updated": "2026-08-15"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity and electoral processes persist, with the Osun election becoming a key battleground in the digital information space and the IGP deploying resources to coordinate security operations. Violence has erupted ahead of the election, and Atiku Abubakar has filed a suit challenging President Tinubu's eligibility for the 2027 election.",
-    "last_updated": "2026-08-14"
+    "summary": "Concerns over political integrity and electoral processes persist, with the Osun governorship election held under high security and AI-assisted scrutiny, amidst allegations of violence and vote-buying. A court also restrained the Imo government from disrupting a federal lawmaker's activities.",
+    "last_updated": "2026-08-15"
   },
   {
     "name": "US Immigration Policy Shifts",
