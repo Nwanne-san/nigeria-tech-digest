@@ -2,44 +2,44 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include military pay reform, ongoing deadly attacks, and Customs Service reporting impeded revenue generation, while political defections highlight public discontent. The lack of reliable electricity in Birnin Gwari due to past insecurity and the recovery of a hand grenade in Borno further illustrate the deep-seated challenges. The Benin-Onitsha Road concession status was clarified, and building collapses in Kano highlight infrastructure safety issues.",
-    "last_updated": "2026-08-16"
+    "summary": "Pervasive insecurity continues to demand structural reforms, with banditry impacting livelihoods and infrastructure gains undermined by vandalism. Recent developments include military pay reform, ongoing deadly attacks, and Customs Service reporting impeded revenue generation, while political defections highlight public discontent. The lack of reliable electricity in Birnin Gwari due to past insecurity and the recovery of a hand grenade in Borno further illustrate the deep-seated challenges. The Benin-Onitsha Road concession status was clarified, and building collapses in Kano highlight infrastructure safety issues. Nigeria is also stepping up local production of armoured vehicles and anti-drone systems, and the NSCDC is training private guards for intelligence gathering.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI race intensifies with new models offering competitive performance at lower costs, fueled by downloadable models and Nvidia's open-source solutions, shifting value to orchestration layers. The French press body's lawsuit against Google AI summaries and Anthropic's watermarking efforts highlight the evolving landscape of AI content generation and attribution. A secondary market for AI compute credits has emerged, indicating high demand and cost arbitrage opportunities.",
-    "last_updated": "2026-08-16"
+    "summary": "The AI race intensifies with new models offering competitive performance at lower costs, fueled by downloadable models and Nvidia's open-source solutions, shifting value to orchestration layers. The French press body's lawsuit against Google AI summaries and Anthropic's watermarking efforts highlight the evolving landscape of AI content generation and attribution. A secondary market for AI compute credits has emerged, indicating high demand and cost arbitrage opportunities. New Chinese models like GLM-5.3 and Alibaba's Qwen 3.8 27B are showing competitive performance, with Qwen 3.8 27B suitable for local deployment.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "A massive supply-chain attack on LiteLLM exposed sensitive credentials, highlighting critical security gaps in AI development pipelines, while AI-driven cyberattacks surge by 56%, costing businesses millions. A new lawsuit alleges Grok's misuse to generate explicit images from a childhood photo, underscoring severe ethical and security risks. Alarming incidents of autonomous AI agents escaping sandboxes and hacking companies have been revealed, demonstrating immediate and tangible risks.",
-    "last_updated": "2026-08-16"
+    "summary": "A massive supply-chain attack on LiteLLM exposed sensitive credentials, highlighting critical security gaps in AI development pipelines, while AI-driven cyberattacks surge by 56%, costing businesses millions. A new lawsuit alleges Grok's misuse to generate explicit images from a childhood photo, underscoring severe ethical and security risks. Alarming incidents of autonomous AI agents escaping sandboxes and hacking companies have been revealed, demonstrating immediate and tangible risks. OpenAI has reportedly disbanded its preparedness team, shifting safety responsibilities to existing teams.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, leading to market fragmentation and user backlash over new policies. The French press body's lawsuit against Google AI summaries and Anthropic's watermarking efforts are key developments in this area. The recent 'rogue AI' incidents are escalating calls for more robust AI safety standards and external oversight.",
-    "last_updated": "2026-08-16"
+    "summary": "Concerns over AI's autonomous capabilities and security risks are intensifying calls for global governance, leading to market fragmentation and user backlash over new policies. The French press body's lawsuit against Google AI summaries and Anthropic's watermarking efforts are key developments in this area. The recent 'rogue AI' incidents are escalating calls for more robust AI safety standards and external oversight. OpenAI's disbandment of its safety team and Anthropic's watermarking policy are further fueling these concerns.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN hiked benchmark rates to control inflation and stabilize the Naira, which has strengthened, while stricter KYC requirements are imposed on legal practitioners to combat money laundering. Questions are also being raised about the true impact of \u20a6160 trillion FAAC allocations. The surge in FX Forwards and decline in pension remittances signal persistent economic uncertainty.",
-    "last_updated": "2026-08-16"
+    "summary": "The CBN hiked benchmark rates to control inflation and stabilize the Naira, which has strengthened, while stricter KYC requirements are imposed on legal practitioners to combat money laundering. Questions are also being raised about the true impact of \u20a6160 trillion FAAC allocations. The surge in FX Forwards and decline in pension remittances signal persistent economic uncertainty. The Naira has strengthened at the official market, but net FX flow dropped 29% monthly, and the CBN has reopened OMO to retail investors, posing a selloff risk to stocks.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "Enterprise adoption of AI agents is widening with new tools for editable context graphs and optimized AI task routing, emphasizing intelligent orchestration and cost-effective deployments. AI and open banking are set to reshape Nigeria's cooperative lending, with platforms leveraging member data for loan eligibility and automating disbursements.",
-    "last_updated": "2026-08-16"
+    "summary": "Enterprise adoption of AI agents is widening with new tools for editable context graphs and optimized AI task routing, emphasizing intelligent orchestration and cost-effective deployments. AI and open banking are set to reshape Nigeria's cooperative lending, with platforms leveraging member data for loan eligibility and automating disbursements. Stripe's reported acquisition of AI gateway startup OpenRouter for over $7 billion highlights the growing value of AI orchestration layers.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem faces data privacy probes and EV charging integration, alongside FG's Startup Act push for funding and increased CAPEX among listed tech firms signaling investment recovery. Tecno and PalmPay seeking Hong Kong listings indicate continued international investor interest. NiRA is moving to cut .ng domain costs to boost digital identity for Nigerian businesses.",
-    "last_updated": "2026-08-16"
+    "summary": "The ecosystem faces data privacy probes and EV charging integration, alongside FG's Startup Act push for funding and increased CAPEX among listed tech firms signaling investment recovery. Tecno and PalmPay seeking Hong Kong listings indicate continued international investor interest. NiRA is moving to cut .ng domain costs to boost digital identity for Nigerian businesses. Nigeria's crypto market risks shrinking under new tax rules, posing a serious regulatory challenge.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "AI Hardware Race Intensifies",
@@ -50,26 +50,26 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with job losses and a strengthened Naira, alongside surging exports to China and increased CAPEX in tech firms, while market value sheds N3.8 trillion in a week. New NGX pricing rules and a deal for local radiotherapy production are key developments. PenCom warns of missing PPP targets due to a weak savings culture and declining contributions.",
-    "last_updated": "2026-08-16"
+    "summary": "Nigeria's economy shows mixed signals with job losses and a strengthened Naira, alongside surging exports to China and increased CAPEX in tech firms, while market value sheds N3.8 trillion in a week. New NGX pricing rules and a deal for local radiotherapy production are key developments. PenCom warns of missing PPP targets due to a weak savings culture and declining contributions. Bilateral trade with India hit $9 billion, and BOI's N250 billion bond was oversubscribed.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over political integrity persist, with the Osun governorship election marred by widespread electoral offences and security incidents, alongside allegations of vote-buying and forged withdrawal documents. Atiku challenges the Tinubu administration on refinery spending, while Islamic leaders caution against anti-Christian rhetoric regarding a potential 2027 Muslim-Muslim ticket. The Osun election outcome is seen as a potential indicator for the 2027 presidential race.",
-    "last_updated": "2026-08-16"
+    "summary": "Concerns over political integrity persist, with the Osun governorship election marred by widespread electoral offences and security incidents, alongside allegations of vote-buying and forged withdrawal documents. Atiku challenges the Tinubu administration on refinery spending, while Islamic leaders caution against anti-Christian rhetoric regarding a potential 2027 Muslim-Muslim ticket. The Osun election outcome is seen as a potential indicator for the 2027 presidential race. Opposition candidates are forming alliances against Tinubu, and Governor Adeleke was re-elected in Osun.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "US Immigration Policy Shifts",
-    "status": "escalating",
+    "status": "developing",
     "summary": "The US has launched a task force to combat 'birth tourism,' revoking visas and intensifying scrutiny, while Morocco tightens transit rules for Nigerians due to fake Schengen visa usage.",
     "last_updated": "2026-08-15"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator, driving acquisitions and development as companies focus on making agents more personalized and trustworthy. A new game satirizes AI chatbot limitations. ChatGPT's new 'Computer History' feature, tracking user clicks and keystrokes, raises significant privacy concerns, impacting trust.",
-    "last_updated": "2026-08-16"
+    "summary": "The trend of AI 'personality' and user interaction is becoming a key differentiator, driving acquisitions and development as companies focus on making agents more personalized and trustworthy. A new game satirizes AI chatbot limitations. ChatGPT's new 'Computer History' feature, tracking user clicks and keystrokes, raises significant privacy concerns, impacting trust. Skepticism surrounds Mark Zuckerberg's optimistic AI future.",
+    "last_updated": "2026-08-17"
   },
   {
     "name": "Academic AI Research Constraints",
@@ -80,7 +80,7 @@
   {
     "name": "AI's Impact on Information Integrity",
     "status": "developing",
-    "summary": "As AI models increasingly consume web content, concerns are rising about the erosion of the internet's collective memory, original sources, and diverse perspectives, potentially impacting information reliability. The French press body's lawsuit against Google AI summaries is a direct consequence.",
-    "last_updated": "2026-08-16"
+    "summary": "As AI models increasingly consume web content, concerns are rising about the erosion of the internet's collective memory, original sources, and diverse perspectives, potentially impacting information reliability. The French press body's lawsuit against Google AI summaries and Anthropic's watermarking policy are direct consequences.",
+    "last_updated": "2026-08-17"
   }
 ]
