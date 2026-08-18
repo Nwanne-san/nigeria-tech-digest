@@ -2,61 +2,61 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Efforts to combat insecurity escalate with UNODC collaboration against terror funding via illegal mining and Plateau State deploying CCTV for surveillance, though sustainability concerns persist.",
+    "summary": "Despite positive signs of farmers returning to lands due to security efforts, tragic attacks in Plateau and Anambra's high security spending highlight persistent challenges, with international scrutiny on religious freedom continuing.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Nvidia's massive investment in OpenAI's data center and the strong performance of smaller Chinese models like Qwen 3.8 27B highlight intense competition and the escalating costs of AI development.",
+    "summary": "Intense competition is evident with Chinese models like GLM-5.3 accelerating the threat landscape, while startups like Etched achieve massive valuations for AI hardware, and efficiency concerns arise with models consuming excessive tokens.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "AI-enabled breaches are driving up damage costs, prompting the launch of autonomous cybersecurity platforms like Digital Encode's DEPAS AI to counter evolving threats.",
+    "summary": "OpenAI's warnings about open-weight models and its own breach necessitate new safeguards, while the potential for AI-enabled breaches and the misuse of advanced cybersecurity capabilities in models like GLM-5.3 escalate risks.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The absence of Anthropic from Agent Plugins governance, despite defining core standards, reveals ongoing challenges in standardisation and interoperability for AI agents.",
+    "summary": "Independent research reveals significant discrepancies in reported AI usage, highlighting sensitive user behaviors often filtered out by companies, underscoring the need for more transparent data and robust governance.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The Naira has strengthened significantly, while Access Holdings faces delays in releasing H1 results due to CBN approval requirements, indicating ongoing regulatory oversight.",
+    "summary": "The Naira's strengthening continues, but Access Holdings faces delays in H1 results due to CBN approval requirements, indicating ongoing regulatory oversight and its impact on corporate operations.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The launch of autonomous cybersecurity platforms and the development of AI agent standards point to a growing trend of AI agents for enterprise operations and security.",
+    "summary": "Box's integration of Gemini Multimodal Embeddings 2 and Deutsche Bank's AI-powered resilience platform showcase the accelerating adoption of sophisticated AI agents for understanding diverse enterprise data and managing operational resilience.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "A six-step AI roadmap for SMEs, the National Digital Cloud Policy, and fintech solutions for cross-border payments signal a dynamic and evolving tech landscape.",
+    "summary": "The tech landscape remains dynamic with ongoing policy developments and fintech solutions, though specific new initiatives beyond the existing roadmap are not detailed today.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "Nvidia's $105 billion backstop for OpenAI's data center underscores the immense capital required and the intensifying competition in AI hardware and compute services.",
+    "summary": "The AI hardware race is intensifying with startups like Etched achieving massive valuations and Nvidia's significant investments, driven by the demand for specialized compute power for AI inference.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The Naira's strengthening, government plans for rural telecom connectivity, and strong investor demand for FGN bonds suggest positive economic momentum, though challenges remain.",
+    "summary": "While the Naira strengthens and corporate finance shows stability, concerns over transparency in large deals like the UK ports financing and significant security spending by states like Anambra highlight ongoing economic challenges.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Calls for fiscal federalism intensify, while the APC reviews Osun election results, indicating ongoing political contention and debates over governance structures.",
+    "summary": "The 2027 election cycle is marked by an early peace accord signing, a projected 100 million voters, and strategic political appointments, but also by key absences from the accord and internal party dynamics influencing electoral outcomes.",
     "last_updated": "2026-08-18"
   },
   {
@@ -68,8 +68,8 @@
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "The trend of AI personality is driving development, but privacy concerns persist, as seen with ChatGPT's user activity tracking.",
-    "last_updated": "2026-08-17"
+    "summary": "New research indicates AI companies' reports often filter out sensitive personal and social uses, while conversations grow longer and more elaborate, suggesting a developing trend of AI companionship.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "Academic AI Research Constraints",
