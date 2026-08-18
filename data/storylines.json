@@ -2,85 +2,85 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "The Nigerian Army has intensified operations against the Lakurawa terrorist group in Sokoto, while the government proposes herder settlement plans to mitigate farmer-herder conflicts, and localized arrests of kidnappers continue amidst ongoing insecurity.",
-    "last_updated": "2026-08-17"
+    "summary": "Efforts to combat insecurity escalate with UNODC collaboration against terror funding via illegal mining and Plateau State deploying CCTV for surveillance, though sustainability concerns persist.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "OpenAI's Daybreak initiative is now available on Amazon Bedrock, intensifying competition in enterprise AI, while Groq pivots to a 'neocloud' offering powered by Nvidia, and new models from China show competitive performance.",
-    "last_updated": "2026-08-17"
+    "summary": "Nvidia's massive investment in OpenAI's data center and the strong performance of smaller Chinese models like Qwen 3.8 27B highlight intense competition and the escalating costs of AI development.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "A GitHub Copilot 'Autofix' compromised Snowflake's Jira, highlighting risks in AI-driven development, while OpenAI's Daybreak initiative offers AI for cybersecurity, and concerns over AI-driven cyberattacks persist.",
-    "last_updated": "2026-08-17"
+    "summary": "AI-enabled breaches are driving up damage costs, prompting the launch of autonomous cybersecurity platforms like Digital Encode's DEPAS AI to counter evolving threats.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Anthropic's CEO argues open weights don't solve AI power concentration, advocating for tiered regulation, while OpenAI's Daybreak initiative offers governed access to AI for cybersecurity, and calls for robust safety standards intensify.",
-    "last_updated": "2026-08-17"
+    "summary": "The absence of Anthropic from Agent Plugins governance, despite defining core standards, reveals ongoing challenges in standardisation and interoperability for AI agents.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "Fuel prices rise across Africa, including Nigeria, due to subsidy costs and global energy shocks, while a court freezes 69 accounts over alleged N1.39 billion eTranzact fraud, and PETROAN demands guaranteed crude supply for refinery restarts.",
-    "last_updated": "2026-08-17"
+    "summary": "The Naira has strengthened significantly, while Access Holdings faces delays in releasing H1 results due to CBN approval requirements, indicating ongoing regulatory oversight.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "OpenAI's Daybreak initiative provides AI agents for cybersecurity tasks on Amazon Bedrock, indicating a growing trend of specialized AI agents for enterprise operations and security.",
-    "last_updated": "2026-08-17"
+    "summary": "The launch of autonomous cybersecurity platforms and the development of AI agent standards point to a growing trend of AI agents for enterprise operations and security.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "A court froze 69 accounts over alleged N1.39 billion eTranzact fraud, highlighting fintech risks, while ECOWAS selected 60 startups for awards, signaling continued ecosystem growth.",
-    "last_updated": "2026-08-17"
+    "summary": "A six-step AI roadmap for SMEs, the National Digital Cloud Policy, and fintech solutions for cross-border payments signal a dynamic and evolving tech landscape.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "Nvidia invests $1.5B for OpenAI's compute infrastructure, and Groq pivots to a 'neocloud' offering powered by Nvidia, underscoring the massive investment and competition in AI hardware and compute services.",
-    "last_updated": "2026-08-17"
+    "summary": "Nvidia's $105 billion backstop for OpenAI's data center underscores the immense capital required and the intensifying competition in AI hardware and compute services.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Fuel prices are rising across Nigeria due to subsidy costs and global shocks, while PETROAN demands guaranteed crude supply for refinery restarts, and the economy shows mixed signals amidst ongoing reforms.",
-    "last_updated": "2026-08-17"
+    "summary": "The Naira's strengthening, government plans for rural telecom connectivity, and strong investor demand for FGN bonds suggest positive economic momentum, though challenges remain.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Governor Adeleke is re-elected in Osun, but lawmakers demand a probe into election violence, while opposition remains fragmented despite government vulnerability, and early campaigning for 2027 begins.",
-    "last_updated": "2026-08-17"
+    "summary": "Calls for fiscal federalism intensify, while the APC reviews Osun election results, indicating ongoing political contention and debates over governance structures.",
+    "last_updated": "2026-08-18"
   },
   {
     "name": "US Immigration Policy Shifts",
     "status": "developing",
-    "summary": "The US has launched a task force to combat 'birth tourism,' revoking visas and intensifying scrutiny, while Morocco tightens transit rules for Nigerians due to fake Schengen visa usage.",
+    "summary": "The US continues to intensify scrutiny on 'birth tourism,' while Morocco tightens transit rules for Nigerians, reflecting ongoing global immigration policy adjustments.",
     "last_updated": "2026-08-15"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "The trend of AI 'personality' is driving development and acquisitions, but privacy concerns are rising with features like ChatGPT's 'Computer History' tracking user activity.",
+    "summary": "The trend of AI personality is driving development, but privacy concerns persist, as seen with ChatGPT's user activity tracking.",
     "last_updated": "2026-08-17"
   },
   {
     "name": "Academic AI Research Constraints",
     "status": "developing",
-    "summary": "The cutting edge of AI research has shifted to private companies due to prohibitive compute costs for universities, creating a governance gap and limiting independent scrutiny.",
+    "summary": "Prohibitive compute costs continue to shift cutting-edge AI research to private companies, exacerbating the governance gap.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "AI's Impact on Information Integrity",
     "status": "developing",
-    "summary": "Amazon is reportedly destructively scanning rare books for AI training, raising ethical concerns about data acquisition and the potential erosion of original sources, while lawsuits target AI summaries.",
+    "summary": "Ethical concerns arise over AI training data acquisition, as seen with Amazon scanning rare books, alongside ongoing lawsuits targeting AI summaries.",
     "last_updated": "2026-08-17"
   }
 ]
