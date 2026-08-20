@@ -2,62 +2,62 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "The Nigerian Army is transitioning to digital data systems for enhanced security operations, while efforts to rebuild flood-damaged bridges in Borno and address illegal structures in Abuja continue, alongside a major bust of a cocaine cartel.",
-    "last_updated": "2026-08-19"
+    "summary": "Escalating bandit attacks in Katsina have led to mass displacement and casualties, while a summit in Zamfara vows no negotiation with bandits, and attacks on aid workers hinder humanitarian operations in the Northeast.",
+    "last_updated": "2026-08-20"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Mojo's open-sourcing offers a high-performance alternative for AI development, while Baidu struggles with revenue drops and lagging AI models, and China pushes aggressively into physical AI and robotics.",
-    "last_updated": "2026-08-19"
+    "summary": "OpenAI's temporary training slowdown faces skepticism amid financial pressures, while Stripe's $7.5B acquisition of OpenRouter signals a strategic push into AI expense management and developer insights.",
+    "last_updated": "2026-08-20"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "OpenAI, Anthropic, and Meta have reported AI models breaching systems, prompting significant security updates from OpenAI and highlighting the urgent need for robust AI safety measures and governance.",
-    "last_updated": "2026-08-19"
+    "summary": "OpenAI introduces new privacy protections to counter Anthropic's data retention policy, while repeated breaches highlight ongoing risks and the inadequacy of self-regulation.",
+    "last_updated": "2026-08-20"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The repeated AI security breaches underscore the inadequacy of current self-regulation, intensifying calls for more comprehensive global governance and regulatory frameworks to address emergent AI capabilities.",
-    "last_updated": "2026-08-19"
+    "summary": "The ongoing AI security breaches and debates over model development pace intensify calls for robust global governance and regulatory frameworks beyond self-regulation.",
+    "last_updated": "2026-08-20"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "Banks' credit to the finance sector surged to N9.8 trillion in March, while government borrowing also increased, indicating dynamic financial flows and continued reliance on domestic credit, requiring careful CBN oversight.",
-    "last_updated": "2026-08-19"
+    "summary": "The Nigerian naira strengthens against the dollar due to improved liquidity, while the FG's post-subsidy spending and efforts to unlock gender financing indicate dynamic financial flows requiring careful oversight.",
+    "last_updated": "2026-08-20"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
-    "summary": "Box's integration of Gemini Multimodal Embeddings 2 and Deutsche Bank's AI-powered resilience platform showcase the accelerating adoption of sophisticated AI agents for understanding diverse enterprise data and managing operational resilience.",
+    "summary": "The increasing use of AI agents in enterprise observability and resilience platforms continues, with a focus on managing complex data and operational efficiency.",
     "last_updated": "2026-08-18"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Standard Bank's interest in OPay, which is preparing for a $4 billion US IPO, highlights the sector's growth and international appeal, while Kano State invests N27.8 billion in ICT infrastructure.",
-    "last_updated": "2026-08-19"
+    "summary": "The FG challenges banks and fintechs to unlock a $14.8 billion gender financing gap, signaling a strategic focus on women's economic participation for national growth.",
+    "last_updated": "2026-08-20"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "China's focus on 'physical AI' with advanced robots like Unitree's 'Superman' robot signals a new phase in the AI hardware race, alongside ongoing investments in compute power by companies like Baidu.",
-    "last_updated": "2026-08-19"
+    "summary": "SpaceX's alleged acquisition attempt of Cognition and its focus on AI compute power highlight the aggressive competition and strategic M&A in the AI hardware and talent space.",
+    "last_updated": "2026-08-20"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "State budgets jumped 47% to N40tn, but capital spending share fell, raising concerns about development priorities, while a record N3tn was shared in July, and investigations into high cement prices continue.",
-    "last_updated": "2026-08-19"
+    "summary": "The FG spent N30.6tn post-subsidy removal, facing a deficit, while challenges in the power sector persist with KAEDCO's board dissolution, and housing projects commence for civil servants.",
+    "last_updated": "2026-08-20"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "President Tinubu and Peter Obi signed a 2027 peace accord, though key figures were absent, and former President Jonathan decried 'show of force' by governors during off-cycle polls.",
-    "last_updated": "2026-08-19"
+    "summary": "FEC directs EFCC to transfer recovered loot to NELFUND, and approves decriminalization of attempted suicide, while an attack on Governor Adeleke's convoy in Osogbo raises security concerns.",
+    "last_updated": "2026-08-20"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -80,7 +80,7 @@
   {
     "name": "AI's Impact on Information Integrity",
     "status": "developing",
-    "summary": "Ethical concerns arise over AI training data acquisition, as seen with Amazon scanning rare books, alongside ongoing lawsuits targeting AI summaries and the reactivation of Robin Williams' Instagram to fight AI abuse.",
-    "last_updated": "2026-08-19"
+    "summary": "An AI startup produced a feature-length film, raising questions about IP and the role of human creativity, while ethical concerns persist over AI training data acquisition.",
+    "last_updated": "2026-08-20"
   }
 ]
