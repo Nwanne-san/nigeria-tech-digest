@@ -2,62 +2,62 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating bandit attacks in Katsina have led to mass displacement and casualties, while a summit in Zamfara vows no negotiation with bandits, and attacks on aid workers hinder humanitarian operations in the Northeast.",
-    "last_updated": "2026-08-20"
+    "summary": "Escalating bandit attacks in Plateau State and continued UK travel advisories highlight persistent security challenges, though federal and state governments are deploying funds and conducting operations to counter threats.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "OpenAI's temporary training slowdown faces skepticism amid financial pressures, while Stripe's $7.5B acquisition of OpenRouter signals a strategic push into AI expense management and developer insights.",
-    "last_updated": "2026-08-20"
+    "summary": "OpenAI is regaining market share among US business users, while enterprise AI spending grows, indicating a dynamic and competitive market where model performance, cost, and data policies are key differentiators.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "OpenAI introduces new privacy protections to counter Anthropic's data retention policy, while repeated breaches highlight ongoing risks and the inadequacy of self-regulation.",
-    "last_updated": "2026-08-20"
+    "summary": "Corporate boards are urged to establish 'Defensible AI' frameworks to address accountability and transparency gaps, while debates over AI data provenance and usage in open-source projects like Debian intensify.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The ongoing AI security breaches and debates over model development pace intensify calls for robust global governance and regulatory frameworks beyond self-regulation.",
-    "last_updated": "2026-08-20"
+    "summary": "The debate over AI code in open-source projects and the push for 'Defensible AI' in corporations highlight the growing need for robust governance and ethical frameworks beyond self-regulation.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The Nigerian naira strengthens against the dollar due to improved liquidity, while the FG's post-subsidy spending and efforts to unlock gender financing indicate dynamic financial flows requiring careful oversight.",
-    "last_updated": "2026-08-20"
+    "summary": "The Presidency and private sector reject Atiku Abubakar's proposal to reintroduce fuel subsidy, while high transport fares persist despite the promotion of CNG, indicating ongoing economic policy challenges.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
-    "summary": "The increasing use of AI agents in enterprise observability and resilience platforms continues, with a focus on managing complex data and operational efficiency.",
-    "last_updated": "2026-08-18"
+    "summary": "Google's integration of its AI coding agent into popular IDEs signifies a trend towards ubiquitous AI assistance in developer workflows, though cost management remains a concern.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The FG challenges banks and fintechs to unlock a $14.8 billion gender financing gap, signaling a strategic focus on women's economic participation for national growth.",
-    "last_updated": "2026-08-20"
+    "summary": "The FG's massive fibre-optic network rollout and National Sovereign Cloud Initiative signal a significant push for digital infrastructure, creating opportunities for local tech talent and services.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "AI Hardware Race Intensifies",
-    "status": "escalating",
-    "summary": "SpaceX's alleged acquisition attempt of Cognition and its focus on AI compute power highlight the aggressive competition and strategic M&A in the AI hardware and talent space.",
-    "last_updated": "2026-08-20"
+    "status": "developing",
+    "summary": "The booming demand for AI training data, including synthetic data, is driving rapid growth for companies like Micro1, though ethical debates surrounding data sales persist.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The FG spent N30.6tn post-subsidy removal, facing a deficit, while challenges in the power sector persist with KAEDCO's board dissolution, and housing projects commence for civil servants.",
-    "last_updated": "2026-08-20"
+    "summary": "Significant infrastructure projects like the 90,000km fibre rollout and road inaugurations are underway, alongside record revenue collection by Apapa Customs, signaling progress in economic development.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
-    "status": "escalating",
-    "summary": "FEC directs EFCC to transfer recovered loot to NELFUND, and approves decriminalization of attempted suicide, while an attack on Governor Adeleke's convoy in Osogbo raises security concerns.",
-    "last_updated": "2026-08-20"
+    "status": "developing",
+    "summary": "The Presidency challenges Atiku Abubakar on his proposed fuel subsidy policy, while BBC Africa analysis suggests potential challenges for the PDP in upcoming elections.",
+    "last_updated": "2026-08-21"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -80,7 +80,7 @@
   {
     "name": "AI's Impact on Information Integrity",
     "status": "developing",
-    "summary": "An AI startup produced a feature-length film, raising questions about IP and the role of human creativity, while ethical concerns persist over AI training data acquisition.",
-    "last_updated": "2026-08-20"
+    "summary": "ChatGPT's search functionality now uses the `site:` operator at scale, indicating a shift towards Generative Engine Optimization (GEO) for content discoverability by AI models.",
+    "last_updated": "2026-08-21"
   }
 ]
