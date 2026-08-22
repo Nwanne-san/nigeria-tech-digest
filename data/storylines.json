@@ -2,62 +2,62 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating bandit attacks in Sokoto, coupled with ongoing threats along highways and calls for State Police, highlight persistent security challenges, though federal and state governments are deploying funds and conducting operations to counter threats.",
-    "last_updated": "2026-08-21"
+    "summary": "Escalating bandit attacks in Niger State, coupled with a tragic boat accident in Sokoto that claimed over 50 lives due to infrastructure and regulatory failures, highlight persistent security and safety challenges, despite ongoing government efforts.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The emergence of 'router wars' for AI model selection and cost optimization signifies a shift from model performance to efficient inference management, with companies like Stripe and Ramp leading the charge.",
-    "last_updated": "2026-08-21"
+    "summary": "The emergence of 'router wars' for AI model selection and cost optimization signifies a shift from model performance to efficient inference management, with companies like Stripe and Ramp leading the charge, and Rillet's rapid rise showcasing AI-native enterprise solutions.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The acceleration of threats by AI necessitates a renewed focus on security fundamentals, while the development of AI agents with persistent identities introduces new attack surfaces and governance challenges.",
-    "last_updated": "2026-08-21"
+    "summary": "Anthropic's Mythos 5 model integrated into Claude Security addresses AI-driven threats, while the jailbreaking of Opus 4.6 for explicit content reveals ongoing challenges in AI safeguards and the need for robust security measures.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The debate over AI code in open-source projects, the push for 'Defensible AI' in corporations, and public backlash against AI-generated content highlight the growing need for robust governance and ethical frameworks.",
-    "last_updated": "2026-08-21"
+    "summary": "The jailbreaking of Anthropic's Opus 4.6 model and Rillet's focus on AI agent governance highlight the urgent need for robust ethical frameworks and regulatory oversight as AI capabilities advance.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The debate over fuel subsidy reintroduction, driven by public hardship and political maneuvering, continues to dominate economic policy discussions amidst ongoing challenges in managing inflation and transport costs.",
-    "last_updated": "2026-08-21"
+    "summary": "Former VP Atiku Abubakar criticizes President Tinubu's economic reforms, particularly fuel subsidy removal, citing worsening hardship, while the Naira strengthens against the dollar with increased FX turnover, signaling mixed economic signals.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "AI Agents in Enterprise Observability",
-    "status": "developing",
-    "summary": "AI agents are evolving towards persistent identities, job titles, and permissions, signaling a move towards integrating them as 'AI coworkers' but raising critical security and governance concerns.",
-    "last_updated": "2026-08-21"
+    "status": "escalating",
+    "summary": "The rapid success of AI accounting startup Rillet, which achieved unicorn status with a $100M raise, demonstrates the growing adoption of AI agents as 'AI coworkers' in enterprise, emphasizing the need for governance and auditability.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
-    "status": "escalating",
-    "summary": "The FG's infrastructure push and the vibrant fintech sector, coupled with international partnerships, signal continued growth and innovation, though challenges in funding and scaling persist.",
-    "last_updated": "2026-08-21"
+    "status": "developing",
+    "summary": "The Federal Government's target of 80% electricity access within five years is a crucial development for the tech ecosystem, promising to reduce operational costs and enable growth for startups and digital services.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "developing",
-    "summary": "The booming demand for AI training data and the geopolitical scrutiny of hardware components like Chinese lidar highlight the strategic importance and security risks in the AI hardware supply chain.",
-    "last_updated": "2026-08-21"
+    "summary": "Nvidia's direct investment of hundreds of millions in data center developer Cloverleaf underscores the strategic importance of infrastructure in the AI hardware race, ensuring the physical foundations for AI growth.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Significant infrastructure projects and record domestic investment in the NGX signal economic progress, yet challenges in manufacturing growth, dividend payouts, and public finance persist.",
-    "last_updated": "2026-08-21"
+    "summary": "The Federal Government targets 80% electricity access within five years, a critical step for economic growth, while the Naira strengthens and FX turnover doubles, though debates continue over the impact of reforms on public hardship.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Scandals involving fake agencies within government offices and warnings about insecurity threatening future elections highlight ongoing challenges to political integrity and electoral processes.",
-    "last_updated": "2026-08-21"
+    "summary": "The suspension of three Permanent Secretaries over a fake agency and the introduction of outrageous billboard permit fees for the 2027 elections highlight ongoing challenges to political integrity and electoral fairness.",
+    "last_updated": "2026-08-22"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -79,8 +79,8 @@
   },
   {
     "name": "AI's Impact on Information Integrity",
-    "status": "developing",
-    "summary": "ChatGPT's search functionality now uses the `site:` operator at scale, indicating a shift towards Generative Engine Optimization (GEO) for content discoverability by AI models.",
-    "last_updated": "2026-08-21"
+    "status": "escalating",
+    "summary": "LinkedIn's 'AI Slop Button' has been clicked over a million times, leading to a 40% reduction in views of AI-generated content, indicating a user-driven pushback against low-quality AI output.",
+    "last_updated": "2026-08-22"
   }
 ]
