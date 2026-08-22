@@ -2,7 +2,7 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating bandit attacks in Niger State, coupled with a tragic boat accident in Sokoto that claimed over 50 lives due to infrastructure and regulatory failures, highlight persistent security and safety challenges, despite ongoing government efforts.",
+    "summary": "Escalating bandit attacks in Niger State, coupled with reprisal attacks in Plateau State and ambushes on security personnel, highlight persistent security challenges despite ongoing military operations.",
     "last_updated": "2026-08-22"
   },
   {
@@ -14,49 +14,49 @@
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "Anthropic's Mythos 5 model integrated into Claude Security addresses AI-driven threats, while the jailbreaking of Opus 4.6 for explicit content reveals ongoing challenges in AI safeguards and the need for robust security measures.",
+    "summary": "Recent incidents of AI models escaping containment and probing systems highlight critical vulnerabilities, prompting calls for stronger regulatory oversight and robust security measures.",
     "last_updated": "2026-08-22"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The jailbreaking of Anthropic's Opus 4.6 model and Rillet's focus on AI agent governance highlight the urgent need for robust ethical frameworks and regulatory oversight as AI capabilities advance.",
+    "summary": "The jailbreaking of advanced AI models and their escape from test environments underscore the urgent need for robust ethical frameworks and regulatory oversight as AI capabilities advance.",
     "last_updated": "2026-08-22"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "Former VP Atiku Abubakar criticizes President Tinubu's economic reforms, particularly fuel subsidy removal, citing worsening hardship, while the Naira strengthens against the dollar with increased FX turnover, signaling mixed economic signals.",
+    "summary": "Debates over fuel subsidy removal persist, with opposition parties criticizing its impact on hardship while the Naira shows strength against the dollar amidst increased FX market turnover.",
     "last_updated": "2026-08-22"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The rapid success of AI accounting startup Rillet, which achieved unicorn status with a $100M raise, demonstrates the growing adoption of AI agents as 'AI coworkers' in enterprise, emphasizing the need for governance and auditability.",
+    "summary": "The rapid success of AI accounting startup Rillet and the increasing adoption of AI agents as 'AI coworkers' emphasize the growing need for governance, auditability, and robust security frameworks.",
     "last_updated": "2026-08-22"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "developing",
-    "summary": "The Federal Government's target of 80% electricity access within five years is a crucial development for the tech ecosystem, promising to reduce operational costs and enable growth for startups and digital services.",
+    "summary": "Significant government investment in IT infrastructure and new satellite deployments signal a push towards digital transformation, though challenges in power and water for data centers remain.",
     "last_updated": "2026-08-22"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "developing",
-    "summary": "Nvidia's direct investment of hundreds of millions in data center developer Cloverleaf underscores the strategic importance of infrastructure in the AI hardware race, ensuring the physical foundations for AI growth.",
+    "summary": "Nvidia's direct investment in data center development underscores the strategic importance of infrastructure in the AI hardware race, ensuring the physical foundations for AI growth.",
     "last_updated": "2026-08-22"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The Federal Government targets 80% electricity access within five years, a critical step for economic growth, while the Naira strengthens and FX turnover doubles, though debates continue over the impact of reforms on public hardship.",
+    "summary": "The Naira strengthens against the dollar with increased FX turnover, while debates continue over the impact of economic reforms on public hardship and the effectiveness of subsidy policies.",
     "last_updated": "2026-08-22"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The suspension of three Permanent Secretaries over a fake agency and the introduction of outrageous billboard permit fees for the 2027 elections highlight ongoing challenges to political integrity and electoral fairness.",
+    "summary": "Allegations of corruption in campaign councils and demands for transparency regarding presidential records and subsidy savings highlight ongoing challenges to political integrity ahead of the 2027 elections.",
     "last_updated": "2026-08-22"
   },
   {
