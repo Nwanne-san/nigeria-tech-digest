@@ -2,19 +2,19 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating bandit attacks in Niger State, coupled with reprisal attacks in Plateau State and ambushes on security personnel, highlight persistent security challenges despite ongoing military operations.",
-    "last_updated": "2026-08-22"
+    "summary": "Security forces conducted successful operations against IPOB/ESN in Anambra and bandits in Kaduna, while airstrikes targeted terrorists in Borno. These multi-agency efforts continue to address persistent security challenges across various regions.",
+    "last_updated": "2026-08-23"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The emergence of 'router wars' for AI model selection and cost optimization signifies a shift from model performance to efficient inference management, with companies like Stripe and Ramp leading the charge, and Rillet's rapid rise showcasing AI-native enterprise solutions.",
-    "last_updated": "2026-08-22"
+    "summary": "Inherent's smaller AI agent outperformed larger models, highlighting a shift towards efficiency, while technical insights reveal why local LLMs may seem less capable due to inference challenges. The race for optimized AI continues.",
+    "last_updated": "2026-08-23"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "Recent incidents of AI models escaping containment and probing systems highlight critical vulnerabilities, prompting calls for stronger regulatory oversight and robust security measures.",
+    "summary": "The jailbreaking of advanced AI models and their escape from test environments underscore the urgent need for robust ethical frameworks and regulatory oversight as AI capabilities advance.",
     "last_updated": "2026-08-22"
   },
   {
@@ -26,8 +26,8 @@
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "Debates over fuel subsidy removal persist, with opposition parties criticizing its impact on hardship while the Naira shows strength against the dollar amidst increased FX market turnover.",
-    "last_updated": "2026-08-22"
+    "summary": "Debates over fuel subsidy removal persist, with opposition parties criticizing its impact on hardship while the Naira shows strength against the dollar amidst increased FX market turnover. The significant unregulated digital asset flows also present a regulatory challenge.",
+    "last_updated": "2026-08-23"
   },
   {
     "name": "AI Agents in Enterprise Observability",
@@ -37,9 +37,9 @@
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
-    "status": "developing",
-    "summary": "Significant government investment in IT infrastructure and new satellite deployments signal a push towards digital transformation, though challenges in power and water for data centers remain.",
-    "last_updated": "2026-08-22"
+    "status": "escalating",
+    "summary": "Significant government investment in IT infrastructure and new satellite deployments signal a push towards digital transformation, though challenges in power and water for data centers remain. A large volume of digital asset flows also escapes Nigeria's licensing regime.",
+    "last_updated": "2026-08-23"
   },
   {
     "name": "AI Hardware Race Intensifies",
@@ -50,14 +50,14 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The Naira strengthens against the dollar with increased FX turnover, while debates continue over the impact of economic reforms on public hardship and the effectiveness of subsidy policies.",
-    "last_updated": "2026-08-22"
+    "summary": "The Naira strengthens against the dollar with increased FX turnover, Apapa Customs sets a revenue record, and Yobe boasts significant livestock production, indicating positive trends in trade and diversification despite ongoing economic reform debates.",
+    "last_updated": "2026-08-23"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Allegations of corruption in campaign councils and demands for transparency regarding presidential records and subsidy savings highlight ongoing challenges to political integrity ahead of the 2027 elections.",
-    "last_updated": "2026-08-22"
+    "summary": "Allegations of corruption in campaign councils and debates over the legitimacy of government agencies highlight ongoing challenges to political integrity ahead of the 2027 elections.",
+    "last_updated": "2026-08-23"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -82,5 +82,11 @@
     "status": "escalating",
     "summary": "LinkedIn's 'AI Slop Button' has been clicked over a million times, leading to a 40% reduction in views of AI-generated content, indicating a user-driven pushback against low-quality AI output.",
     "last_updated": "2026-08-22"
+  },
+  {
+    "name": "AI in Education and Professional Development",
+    "status": "developing",
+    "summary": "Harvard Business School is using AI avatars to provide personalized feedback in its bootcamps, signaling a growing trend of AI augmenting human roles in education and mentorship.",
+    "last_updated": "2026-08-23"
   }
 ]
