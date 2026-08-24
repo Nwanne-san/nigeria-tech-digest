@@ -2,62 +2,62 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Joint security operations continue to neutralize suspects across multiple states, including Anambra, Borno, and Benue, while efforts to combat banditry and kidnapping persist, highlighting the ongoing need for inter-agency cooperation and community support.",
-    "last_updated": "2026-08-23"
+    "summary": "Joint security operations continue across multiple states, including Plateau and Niger, with recent attacks resulting in casualties and abductions, highlighting persistent security challenges and the need for enhanced inter-agency cooperation and community support.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The emergence of highly capable and cost-effective open-weight models like GLM-5.3 is challenging larger proprietary models, signaling a shift towards efficiency and potentially democratizing advanced AI capabilities.",
-    "last_updated": "2026-08-23"
+    "summary": "The emergence of highly capable and cost-effective open-weight models like GLM-5.3 is challenging larger proprietary models, signaling a shift towards efficiency and potentially democratizing advanced AI capabilities, though high costs for some advanced models like Anthropic's Fable are leading users to seek cheaper alternatives.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The use of AI agents to find novel exploits and the differing ethical safeguards among AI providers highlight the ongoing challenges in AI security, governance, and the potential for misuse.",
-    "last_updated": "2026-08-23"
+    "summary": "The use of AI agents for criminal planning, such as a US man using ChatGPT for a bank robbery, and the potential for hidden time-release backdoors in open-source models highlight ongoing challenges in AI security and the need for robust governance and ethical safeguards.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The legal complexities of AI training data, differing ethical stances of AI providers, and the need for updated frameworks underscore the widening gap between AI advancement and regulatory oversight.",
-    "last_updated": "2026-08-23"
+    "summary": "The legal complexities of AI training data, differing ethical stances of AI providers, and the need for updated frameworks underscore the widening gap between AI advancement and regulatory oversight, as seen with The New York Times' internal debate over AI-generated search summaries.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "Debates over fuel subsidy removal persist, with opposition challenging the government's claims and advocating for job creation, while reforms aim for macroeconomic stability amidst ongoing economic challenges.",
-    "last_updated": "2026-08-23"
+    "summary": "Debates over fuel subsidy removal persist, with opposition challenging the government's claims and advocating for job creation, while reforms aim for macroeconomic stability amidst ongoing economic challenges and calls for significant capital injection into credit guarantee schemes.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "AI agents are demonstrating advanced problem-solving capabilities in complex tasks, while the operational challenges of deploying real-time AI at scale require sophisticated MLOps and infrastructure solutions.",
-    "last_updated": "2026-08-23"
+    "summary": "AI agents are demonstrating advanced problem-solving capabilities in complex tasks, while the operational challenges of deploying real-time AI at scale require sophisticated MLOps and infrastructure solutions, with new models like Ox Alpha emerging for agentic work.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Nigeria's launch of the National Sovereign Cloud Initiative signals a strategic push for digital independence and local AI compute capacity, creating opportunities for local tech businesses.",
-    "last_updated": "2026-08-23"
+    "summary": "Nigeria's launch of the National Sovereign Cloud Initiative signals a strategic push for digital independence and local AI compute capacity, creating opportunities for local tech businesses and driving demand for cloud infrastructure skills.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "AI Hardware Race Intensifies",
-    "status": "developing",
-    "summary": "Nigeria's National Sovereign Cloud Initiative includes plans for sovereign compute and AI infrastructure, indicating a focus on building local capacity amidst global competition for AI hardware.",
-    "last_updated": "2026-08-23"
+    "status": "escalating",
+    "summary": "Nigeria's National Sovereign Cloud Initiative includes plans for sovereign compute and AI infrastructure, indicating a focus on building local capacity amidst global competition for AI hardware, though Nvidia warns of price hikes due to soaring memory costs.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria reports a dramatic reduction in oil losses, launches a sovereign cloud initiative, and aims to increase control over critical minerals, signaling efforts towards economic diversification and digital sovereignty.",
-    "last_updated": "2026-08-23"
+    "summary": "Nigeria reports a dramatic reduction in oil losses and launches a sovereign cloud initiative, signaling efforts towards economic diversification and digital sovereignty, while top consumer goods manufacturers post strong H1 2026 revenues.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Allegations of 'bandit capitalism' in power sector acquisitions and ongoing debates over fiscal governance and electoral integrity highlight persistent challenges ahead of future elections.",
-    "last_updated": "2026-08-23"
+    "summary": "Allegations of 'bandit capitalism' in power sector acquisitions, concerns over the redirection of unclaimed dividends, and the investigation of an unauthorized 'phantom' agency highlight persistent challenges in governance and fiscal integrity.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -80,8 +80,8 @@
   {
     "name": "AI's Impact on Information Integrity",
     "status": "escalating",
-    "summary": "User pushback against low-quality AI-generated content, exemplified by LinkedIn's 'AI Slop Button,' highlights challenges in maintaining information integrity amidst AI proliferation.",
-    "last_updated": "2026-08-22"
+    "summary": "User pushback against low-quality AI-generated content, exemplified by LinkedIn's 'AI Slop Button,' highlights challenges in maintaining information integrity amidst AI proliferation, alongside news organizations experimenting with AI summaries.",
+    "last_updated": "2026-08-24"
   },
   {
     "name": "AI in Education and Professional Development",
