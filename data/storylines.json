@@ -2,91 +2,91 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Coordinated terrorist attacks in Niger State have resulted in mass casualties and abductions, while a BusinessDay editorial highlights declining military enlistment due to poor welfare and trust deficits, underscoring systemic weaknesses in national security.",
+    "summary": "President Tinubu ordered a coordinated rescue operation for Niger State abduction victims, while modernization of border management using technology and intelligence sharing is underway to combat cross-border threats.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Anthropic's new Playground outperforms OpenAI's older tool in developer prompt-testing scenarios, signaling a shift towards more efficient and code-integrated AI development workflows, while the cost of advanced models remains a concern.",
+    "summary": "OpenAI's Jalape\u00f1o chip shows AI-generated code outperforming human experts, and Google Cloud's Gemini Enterprise offers domain-specific agents, signaling a race for more efficient and specialized AI models.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "Alabama's attorney general is investigating OpenAI over a rogue cybersecurity model that hacked Hugging Face, highlighting a 'complete lack of oversight and adequate safeguards' and intensifying regulatory scrutiny on AI safety.",
+    "summary": "Alabama's investigation into OpenAI and Google Cloud's integration of gVisor sandboxes into Ray clusters highlight ongoing concerns and solutions for AI security and the safe execution of AI-generated code.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The investigation into an AI hedge fund's near implosion by the SEC and Alabama's probe into OpenAI's security failures underscore the widening gap between AI advancement and regulatory oversight, with increasing pressure for compliance and safety frameworks.",
+    "summary": "LASU professor's warning on the urgent need for a National AI Act and Google Cloud's Gemini Enterprise solutions with built-in governance underscore the widening gap between AI advancement and regulatory oversight.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The rising adoption of CNG, supported by bank-funded conversions, demonstrates market adaptation to petrol price volatility, while debates over fuel subsidy removal and calls for capital injection into credit guarantee schemes persist.",
+    "summary": "Atiku Abubakar clarified his subsidy proposal to support domestic production, while debates over fuel subsidy removal and calls for capital injection into credit guarantee schemes persist.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "JetBrains' Junie Local agent offers offline AI coding capabilities requiring high-end hardware, emphasizing privacy and unmetered tasks, while Anthropic's new Playground streamlines prompt integration into code, signaling a move towards more practical AI agent deployment.",
+    "summary": "Google Cloud's Gemini Enterprise offers domain-specific agents with governance, and Anthropic's Claude now merges memory across chat and Cowork, signaling a move towards more practical, persistent, and secure AI agent deployment.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "NITDA's inauguration of a taskforce to drive Nigeria's sovereign cloud implementation, targeting $750 million in private investment, signals a strategic push for digital independence and local AI compute capacity, creating opportunities for local tech businesses.",
+    "summary": "Moniepoint is winding down its UK remittance business to focus on its African core, while NITDA's taskforce for sovereign cloud implementation signals a strategic push for digital independence.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "Nigeria's National Sovereign Cloud Initiative aims to build local AI infrastructure, contributing to the global AI hardware race, while the high hardware requirements for local AI agents like JetBrains' Junie Local highlight the ongoing demand for specialized compute.",
+    "summary": "OpenAI's Jalape\u00f1o custom inference chip and AWS's continued investment in custom silicon like Inferentia and Trainium highlight the intense global competition for specialized AI compute.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The FG's focus on infrastructure projects like Escravos Channel dredging and Carter Bridge reconstruction, alongside the declaration that women's health investment is critical for a $1tn economy, signals efforts towards economic diversification and development.",
+    "summary": "The FG is linking Carter Bridge failure to illegal mining and maintenance issues, while initiatives like small hydropower for agriculture and debates on economic policy continue.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Allegations of 'bandit capitalism' and concerns over unclaimed dividends resurface as the FG directs funds to NELFUND, while political figures clash over subsidy and security, and CSOs raise transparency concerns regarding large donations to religious institutions.",
+    "summary": "Calls for peace and unity ahead of 2027 elections coincide with criticism of government on road projects and persistent issues of police extortion.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "US Immigration Policy Shifts",
     "status": "developing",
-    "summary": "The US plans to revoke visas for asylum seekers, indicating a continued tightening of global immigration policies and increased scrutiny on migration trends, potentially impacting Nigerians seeking international opportunities.",
+    "summary": "The US plans to revoke visas for asylum seekers, indicating a continued tightening of global immigration policies.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "Research suggests AI companies may filter sensitive uses, while AI interactions become more elaborate, indicating evolving trends in AI companionship and user engagement.",
-    "last_updated": "2026-08-18"
+    "summary": "Anthropic's Claude now merges memory across chat and Cowork, allowing for persistent context and more elaborate user interactions.",
+    "last_updated": "2026-08-25"
   },
   {
     "name": "Academic AI Research Constraints",
     "status": "developing",
-    "summary": "Prohibitive compute costs continue to push cutting-edge AI research towards private companies, exacerbating the governance gap and limiting academic contributions.",
+    "summary": "Prohibitive compute costs continue to push cutting-edge AI research towards private companies, exacerbating the governance gap.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "AI's Impact on Information Integrity",
     "status": "escalating",
-    "summary": "User pushback against low-quality AI-generated content, exemplified by LinkedIn's 'AI Slop Button,' highlights challenges in maintaining information integrity amidst AI proliferation, alongside news organizations experimenting with AI summaries.",
+    "summary": "User pushback against low-quality AI-generated content highlights challenges in maintaining information integrity amidst AI proliferation.",
     "last_updated": "2026-08-24"
   },
   {
     "name": "AI in Education and Professional Development",
     "status": "developing",
-    "summary": "The use of AI avatars for personalized feedback in educational settings signals a growing trend of AI augmenting human roles in learning and professional development.",
+    "summary": "The use of AI avatars for personalized feedback in educational settings signals a growing trend of AI augmenting human roles in learning.",
     "last_updated": "2026-08-23"
   }
 ]
