@@ -2,79 +2,79 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "President Tinubu ordered a coordinated rescue operation for Niger State abduction victims, while modernization of border management using technology and intelligence sharing is underway to combat cross-border threats.",
-    "last_updated": "2026-08-25"
-  },
-  {
-    "name": "AI Model Competition and Efficiency",
-    "status": "escalating",
-    "summary": "OpenAI's Jalape\u00f1o chip shows AI-generated code outperforming human experts, and Google Cloud's Gemini Enterprise offers domain-specific agents, signaling a race for more efficient and specialized AI models.",
-    "last_updated": "2026-08-25"
-  },
-  {
-    "name": "AI Security Vulnerabilities",
-    "status": "escalating",
-    "summary": "Alabama's investigation into OpenAI and Google Cloud's integration of gVisor sandboxes into Ray clusters highlight ongoing concerns and solutions for AI security and the safe execution of AI-generated code.",
-    "last_updated": "2026-08-25"
+    "summary": "A mass kidnapping in Niger State, involving hundreds of victims, has intensified anger and dismay, highlighting the persistent inability of Nigerian security forces to protect citizens. The NIS is also advocating for community involvement in border security, alongside digital technology, to combat cross-border threats.",
+    "last_updated": "2026-08-26"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "LASU professor's warning on the urgent need for a National AI Act and Google Cloud's Gemini Enterprise solutions with built-in governance underscore the widening gap between AI advancement and regulatory oversight.",
-    "last_updated": "2026-08-25"
+    "summary": "Bill Gates has issued a stark warning about AI's danger thresholds, calling for urgent policy responses including 'human-reserved jobs' and taxes on AI compute, while advocating for a federal AI standards body.",
+    "last_updated": "2026-08-26"
+  },
+  {
+    "name": "AI Model Competition and Efficiency",
+    "status": "escalating",
+    "summary": "The anticipated release of China's Z.ai open-weight model, claimed to rival Western AI in cybersecurity, intensifies debates on AI accessibility and security, while robotics startup Generalist reaches a $3B valuation with its AI foundation model for robots.",
+    "last_updated": "2026-08-26"
+  },
+  {
+    "name": "AI Security Vulnerabilities",
+    "status": "escalating",
+    "summary": "The potential misuse of China's Z.ai open-weight model for cyberattacks raises cybersecurity fears, while Bill Gates highlights AI's 'bio-capabilities' and 'cyber-capabilities' as significant danger fronts requiring urgent policy responses.",
+    "last_updated": "2026-08-26"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "Atiku Abubakar clarified his subsidy proposal to support domestic production, while debates over fuel subsidy removal and calls for capital injection into credit guarantee schemes persist.",
-    "last_updated": "2026-08-25"
+    "summary": "Atiku Abubakar has reiterated his commitment to restoring fuel subsidy, framing it as a 'targeted subsidy' to alleviate economic hardship, while the CBN prepares to sell N700 billion in Treasury Bills.",
+    "last_updated": "2026-08-26"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "Google Cloud's Gemini Enterprise offers domain-specific agents with governance, and Anthropic's Claude now merges memory across chat and Cowork, signaling a move towards more practical, persistent, and secure AI agent deployment.",
-    "last_updated": "2026-08-25"
+    "summary": "As AI agents move into production, managing rising telemetry costs has become a critical infrastructure challenge, necessitating optimized telemetry pipelines to keep AI agent costs under control.",
+    "last_updated": "2026-08-26"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Moniepoint is winding down its UK remittance business to focus on its African core, while NITDA's taskforce for sovereign cloud implementation signals a strategic push for digital independence.",
-    "last_updated": "2026-08-25"
+    "summary": "MTN plans to develop 150MW AI data centers in Nigeria and South Africa, signaling a boost for digital infrastructure, while an expert warns African AI startups face hidden costs due to cloud dependence.",
+    "last_updated": "2026-08-26"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "OpenAI's Jalape\u00f1o custom inference chip and AWS's continued investment in custom silicon like Inferentia and Trainium highlight the intense global competition for specialized AI compute.",
-    "last_updated": "2026-08-25"
+    "summary": "MTN's planned 150MW AI data centers in Nigeria and South Africa indicate a significant investment in localized AI compute infrastructure, contributing to the global race for specialized AI hardware.",
+    "last_updated": "2026-08-26"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The FG is linking Carter Bridge failure to illegal mining and maintenance issues, while initiatives like small hydropower for agriculture and debates on economic policy continue.",
-    "last_updated": "2026-08-25"
+    "summary": "The FG blames a concessionaire for the Benin-Asaba Expressway failure and plans a review, while residents rejoice as repair work begins on the Ifaki-Oye-Ilupeju Road, demonstrating ongoing infrastructure challenges and progress.",
+    "last_updated": "2026-08-26"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Calls for peace and unity ahead of 2027 elections coincide with criticism of government on road projects and persistent issues of police extortion.",
-    "last_updated": "2026-08-25"
+    "summary": "Internal APC rifts in Katsina State, the Jigawa ADC's rejection of Tinubu's endorsement, and calls for justice over Mary Habila's death highlight ongoing political maneuvering and accountability concerns ahead of future elections.",
+    "last_updated": "2026-08-26"
   },
   {
     "name": "US Immigration Policy Shifts",
     "status": "developing",
-    "summary": "The US plans to revoke visas for asylum seekers, indicating a continued tightening of global immigration policies.",
-    "last_updated": "2026-08-25"
+    "summary": "Proposed significant fee increases for H-1B visas and a pause on immigrant visa applications signal a continued tightening of US immigration policies, potentially impacting global tech talent mobility.",
+    "last_updated": "2026-08-26"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "Anthropic's Claude now merges memory across chat and Cowork, allowing for persistent context and more elaborate user interactions.",
+    "summary": "Anthropic's Claude's ability to merge memory across chat and Cowork allows for persistent context and more elaborate user interactions, signaling advancements in AI's conversational capabilities.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "Academic AI Research Constraints",
     "status": "developing",
-    "summary": "Prohibitive compute costs continue to push cutting-edge AI research towards private companies, exacerbating the governance gap.",
+    "summary": "Prohibitive compute costs continue to push cutting-edge AI research towards private companies, exacerbating the governance gap and limiting academic contributions.",
     "last_updated": "2026-08-13"
   },
   {
