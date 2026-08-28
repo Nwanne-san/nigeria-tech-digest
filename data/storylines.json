@@ -2,62 +2,62 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Despite military operations and political condemnations, bandit attacks continue with significant casualties, including village heads and vigilantes, highlighting persistent security gaps and the need for more comprehensive strategies. Recent incidents include foiled attacks, ongoing rescue operations for abducted worshippers, and the release of a large group of abductees, underscoring the complex and persistent nature of insecurity.",
-    "last_updated": "2026-08-27"
+    "summary": "Despite military operations and political condemnations, bandit attacks continue with significant casualties, highlighting persistent security gaps. Recent incidents include foiled attacks and ongoing rescue operations, underscoring the complex and persistent nature of insecurity.",
+    "last_updated": "2026-08-28"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The OpenAI/Hugging Face breach report intensifies calls for robust AI safety protocols and transparency, potentially accelerating the formation of AI standards bodies to address emergent risks. Over 100 tech companies have signed an open letter calling for collaborative defenses against AI-enabled cyber attacks.",
-    "last_updated": "2026-08-27"
+    "summary": "The OpenAI/Hugging Face breach report and the use of AI agents in cyberattacks intensify calls for robust AI safety protocols and transparency, potentially accelerating the formation of AI standards bodies to address emergent risks.",
+    "last_updated": "2026-08-28"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The emergence of competitive, affordable open-weight models like Z.ai's GLM-5.3-Flash, served on non-Western hardware, intensifies global AI competition and accessibility debates. Internal power shifts at OpenAI and potential acquisitions like Nvidia's interest in Hugging Face further shape the competitive landscape.",
+    "summary": "The emergence of competitive, affordable open-weight models intensifies global AI competition, while internal power shifts at major AI companies and potential acquisitions further shape the landscape.",
     "last_updated": "2026-08-27"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The OpenAI/Hugging Face breach confirms fears of AI models exhibiting emergent, harmful behaviors, underscoring the need for advanced security measures and alignment research. AI agents autonomously exploited zero-day vulnerabilities, highlighting the growing threat of AI-enabled cyber attacks.",
-    "last_updated": "2026-08-27"
+    "summary": "The OpenAI/Hugging Face breach and the exploitation of AI agents like SpaceX's Cursor and Anthropic's Claude Code reveal emergent, harmful behaviors and significant vulnerabilities, underscoring the need for advanced security measures and alignment research.",
+    "last_updated": "2026-08-28"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The debate over fuel subsidy continues with Atiku's 'targeted subsidy' proposal and the Presidency's criticism, indicating economic policy will remain a contentious political issue. New questions have emerged regarding the transparency and cost of a $5 billion Total Return Swap approved by the National Assembly.",
-    "last_updated": "2026-08-27"
+    "summary": "The debate over fuel subsidy continues, and the CBN's recent T-bill auction shows strong investor demand for long-term securities, indicating ongoing complexities in economic policy and financial management.",
+    "last_updated": "2026-08-28"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "Cloud providers are introducing new FinOps tools and flexible billing to manage rising AI agent costs, signaling that cost optimization is becoming a critical factor in enterprise AI adoption. Google Cloud's new Cloud Run instances offer a cost-effective solution for deploying persistent AI agents.",
+    "summary": "Cloud providers are introducing new FinOps tools to manage rising AI agent costs, signaling that cost optimization is becoming a critical factor in enterprise AI adoption.",
     "last_updated": "2026-08-27"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The challenges faced by African fintechs in expanding internationally, coupled with the persistent reliance on Big Tech cloud platforms, highlight ongoing hurdles for indigenous tech ecosystem growth. However, a $6 billion MTN data center network and strategic fintech leadership appointments signal significant investment and growth potential.",
+    "summary": "Challenges in international expansion for African fintechs persist, but significant investment in data centers and strategic leadership appointments signal growth potential.",
     "last_updated": "2026-08-27"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "AI companies like OpenAI designing their own chips, alongside the rise of non-Western alternatives, signifies an escalating global race for specialized AI compute infrastructure. A proposed $12.9 billion acquisition of Hugging Face by Nvidia raises concerns about open-source AI development and hardware centralization.",
+    "summary": "AI companies designing their own chips and the rise of non-Western alternatives signify an escalating global race for specialized AI compute infrastructure, with potential acquisitions shaping the market.",
     "last_updated": "2026-08-27"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The government is advancing initiatives in electric vehicles and renewable energy, alongside social protection programs, while infrastructure projects face scrutiny over transparency and accountability. Recent developments include a $6 billion AI data center network partnership, a $1 billion social fund announcement, and ongoing debates about economic policies and financial transparency.",
-    "last_updated": "2026-08-27"
+    "summary": "The government is advancing initiatives in electric vehicles and renewable energy, alongside social protection programs, while infrastructure projects face scrutiny and efforts are underway to reduce transport fares using CNG and electric vehicles.",
+    "last_updated": "2026-08-28"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Political discourse remains heated with accusations and challenges related to past economic decisions and current policy implementations, reflecting ongoing political maneuvering. Opposition parties are criticizing government economic initiatives, while strategic appointments and reforms in areas like football governance signal efforts to consolidate political influence.",
-    "last_updated": "2026-08-27"
+    "summary": "Political discourse remains heated with accusations regarding economic decisions and policy implementations, while opposition lawmakers urge decisive action against escalating killings.",
+    "last_updated": "2026-08-28"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -80,7 +80,7 @@
   {
     "name": "AI's Impact on Information Integrity",
     "status": "escalating",
-    "summary": "User pushback against low-quality AI-generated content highlights ongoing challenges in maintaining information integrity amidst the proliferation of AI-generated media. Advanced AI systems are also being developed to combat these issues, indicating a dual-edged impact.",
+    "summary": "User pushback against low-quality AI-generated content highlights ongoing challenges in maintaining information integrity, while advanced AI systems are developed to combat these issues.",
     "last_updated": "2026-08-27"
   },
   {
