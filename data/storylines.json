@@ -3,61 +3,61 @@
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
     "summary": "Despite military operations and political condemnations, bandit attacks continue with significant casualties, highlighting persistent security gaps. Recent incidents include foiled attacks, recovery of illegal arms, and concerns over military conduct, underscoring the complex and persistent nature of insecurity.",
-    "last_updated": "2026-08-28"
+    "last_updated": "2026-08-29"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
     "summary": "The OpenAI/Hugging Face breach report and the exploitation of AI agents highlight emergent, harmful behaviors and significant vulnerabilities, intensifying calls for robust AI safety protocols and transparency, potentially accelerating the formation of AI standards bodies.",
-    "last_updated": "2026-08-28"
+    "last_updated": "2026-08-29"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
     "summary": "The emergence of competitive, affordable open-weight models intensifies global AI competition, with major acquisitions like Nvidia's reported purchase of Hugging Face signaling strategic shifts and a growing focus on efficient inference.",
-    "last_updated": "2026-08-28"
+    "last_updated": "2026-08-29"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
     "summary": "The OpenAI/Hugging Face breach and vulnerabilities in tools like LM Studio's Shell Judge reveal emergent, harmful behaviors and significant security flaws, underscoring the need for advanced security measures and alignment research.",
-    "last_updated": "2026-08-28"
+    "last_updated": "2026-08-29"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
     "summary": "The debate over fuel subsidy continues, and the CBN's recent T-bill auction shows strong investor demand, while the FG clarifies a $5 billion Abu Dhabi swap, indicating ongoing complexities in economic policy and financial management.",
-    "last_updated": "2026-08-28"
+    "last_updated": "2026-08-29"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
     "summary": "Cloud providers are introducing new FinOps tools and security governance for AI agents, signaling that cost optimization and secure deployment are critical factors in enterprise AI adoption, with software firms integrating directly into chatbots.",
-    "last_updated": "2026-08-28"
+    "last_updated": "2026-08-29"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Challenges in international expansion persist, but government initiatives like the Laureate Prize and ongoing investment in data centers signal growth potential and a focus on fostering local innovation.",
-    "last_updated": "2026-08-28"
+    "summary": "Challenges in international expansion persist, but government initiatives like the Laureate Prize and ongoing investment in data centers signal growth potential and a focus on fostering local innovation. The FinTech sector faces evolving regulatory scrutiny.",
+    "last_updated": "2026-08-29"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
     "summary": "AI companies designing their own chips and the rise of non-Western alternatives signify an escalating global race for specialized AI compute infrastructure, with significant VC investment in hardware and data centers.",
-    "last_updated": "2026-08-28"
+    "last_updated": "2026-08-29"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The government is advancing initiatives in EVs and renewables, alongside social protection, while infrastructure projects face scrutiny and efforts to reduce transport fares continue, with a focus on unlocking 'dead capital' and improving public health.",
-    "last_updated": "2026-08-28"
+    "summary": "The government is advancing initiatives in EVs and renewables, alongside social protection, while infrastructure projects face scrutiny and efforts to reduce transport fares continue, with a focus on unlocking 'dead capital' and improving public health. The fuel subsidy debate remains a central economic and political issue.",
+    "last_updated": "2026-08-29"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Political discourse remains heated with accusations regarding economic decisions and policy implementations, while opposition lawmakers and internal party factions call for accountability and transparency.",
-    "last_updated": "2026-08-28"
+    "summary": "Political discourse remains heated with accusations regarding economic decisions and policy implementations, while opposition lawmakers and internal party factions call for accountability and transparency. The 2027 election cycle is beginning to shape political strategies and coalition-building.",
+    "last_updated": "2026-08-29"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -81,12 +81,12 @@
     "name": "AI's Impact on Information Integrity",
     "status": "escalating",
     "summary": "User pushback against low-quality AI-generated content highlights ongoing challenges in maintaining information integrity, while advanced AI systems are developed to combat these issues.",
-    "last_updated": "2026-08-27"
+    "last_updated": "2026-08-29"
   },
   {
     "name": "AI in Education and Professional Development",
     "status": "developing",
     "summary": "The increasing use of AI avatars for personalized feedback in education suggests a growing trend of AI augmenting human roles in learning and professional development, though ASUU strikes continue to disrupt tertiary education.",
-    "last_updated": "2026-08-28"
+    "last_updated": "2026-08-29"
   }
 ]
