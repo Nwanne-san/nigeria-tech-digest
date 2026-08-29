@@ -2,61 +2,61 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Despite military operations and political condemnations, bandit attacks continue with significant casualties, highlighting persistent security gaps. Recent incidents include foiled attacks, recovery of illegal arms, and concerns over military conduct, underscoring the complex and persistent nature of insecurity.",
+    "summary": "Ongoing bandit attacks, arms proliferation, and abduction efforts continue to challenge security forces, while proactive alerts and joint operations aim to mitigate threats. Regional instability in Niger, exacerbated by external support, adds another layer of complexity to Nigeria's security landscape.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The OpenAI/Hugging Face breach report and the exploitation of AI agents highlight emergent, harmful behaviors and significant vulnerabilities, intensifying calls for robust AI safety protocols and transparency, potentially accelerating the formation of AI standards bodies.",
+    "summary": "Escalating IP lawsuits against AI labs for data usage, coupled with OpenAI's contract terminations over safety and compliance, signal a tightening legal and regulatory environment, likely accelerating the formation of AI standards bodies.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The emergence of competitive, affordable open-weight models intensifies global AI competition, with major acquisitions like Nvidia's reported purchase of Hugging Face signaling strategic shifts and a growing focus on efficient inference.",
+    "summary": "The AI hardware race is shifting beyond GPUs to system efficiency and data orchestration, intensifying competition and strategic acquisitions as companies like Nvidia focus on the entire data center stack.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "AI Security Vulnerabilities",
     "status": "escalating",
-    "summary": "The OpenAI/Hugging Face breach and vulnerabilities in tools like LM Studio's Shell Judge reveal emergent, harmful behaviors and significant security flaws, underscoring the need for advanced security measures and alignment research.",
+    "summary": "The Nigerian Army's confirmed hack attempt highlights the growing digital threats to national institutions, underscoring the urgent need for robust cybersecurity measures across government agencies.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The debate over fuel subsidy continues, and the CBN's recent T-bill auction shows strong investor demand, while the FG clarifies a $5 billion Abu Dhabi swap, indicating ongoing complexities in economic policy and financial management.",
+    "summary": "While Moody's upgraded Nigeria's economic outlook to positive, persistent challenges in power infrastructure and public health crises like diphtheria outbreaks demand urgent attention and sustained policy focus.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "Cloud providers are introducing new FinOps tools and security governance for AI agents, signaling that cost optimization and secure deployment are critical factors in enterprise AI adoption, with software firms integrating directly into chatbots.",
+    "summary": "AI agents are becoming core components of developer platforms, playing roles as consumers, internal tools, and reusable building blocks, necessitating focus on governance, orchestration, and secure integration.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Challenges in international expansion persist, but government initiatives like the Laureate Prize and ongoing investment in data centers signal growth potential and a focus on fostering local innovation. The FinTech sector faces evolving regulatory scrutiny.",
+    "summary": "Political rhetoric around significant funding for tech startups signals potential future investment, while government agencies like Customs increasingly adopt technology, creating opportunities for tech professionals.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "AI companies designing their own chips and the rise of non-Western alternatives signify an escalating global race for specialized AI compute infrastructure, with significant VC investment in hardware and data centers.",
+    "summary": "Nvidia's competitive edge is expanding beyond GPUs to system efficiency and data orchestration, indicating a shift in the AI compute battleground towards optimizing the entire data center stack.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The government is advancing initiatives in EVs and renewables, alongside social protection, while infrastructure projects face scrutiny and efforts to reduce transport fares continue, with a focus on unlocking 'dead capital' and improving public health. The fuel subsidy debate remains a central economic and political issue.",
+    "summary": "Moody's positive economic outlook offers a confidence boost, but significant infrastructure losses in power and ongoing public health crises like diphtheria outbreaks highlight persistent challenges requiring sustained reform.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Political discourse remains heated with accusations regarding economic decisions and policy implementations, while opposition lawmakers and internal party factions call for accountability and transparency. The 2027 election cycle is beginning to shape political strategies and coalition-building.",
+    "summary": "The political landscape is active with calls for accountability on public spending, investigations into security force conduct during unrest, and early endorsements for the 2027 election cycle, reflecting ongoing debates on governance and strategy.",
     "last_updated": "2026-08-29"
   },
   {
