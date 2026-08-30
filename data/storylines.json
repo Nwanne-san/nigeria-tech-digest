@@ -2,91 +2,85 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Ongoing bandit attacks, arms proliferation, and abduction efforts continue to challenge security forces, while proactive alerts and joint operations aim to mitigate threats. Regional instability in Niger, exacerbated by external support, adds another layer of complexity to Nigeria's security landscape.",
-    "last_updated": "2026-08-29"
+    "summary": "Abductions of corps members and traditional leaders, alongside ongoing banditry and arms proliferation, continue to challenge security forces, while efforts to disrupt gunrunning operations are underway.",
+    "last_updated": "2026-08-30"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Escalating IP lawsuits against AI labs for data usage, coupled with OpenAI's contract terminations over safety and compliance, signal a tightening legal and regulatory environment, likely accelerating the formation of AI standards bodies.",
-    "last_updated": "2026-08-29"
+    "summary": "Escalating IP lawsuits against AI labs and the push for AI standards bodies are intensifying as China dominates humanoid robot games, highlighting the need for global governance in embodied AI.",
+    "last_updated": "2026-08-30"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI hardware race is shifting beyond GPUs to system efficiency and data orchestration, intensifying competition and strategic acquisitions as companies like Nvidia focus on the entire data center stack.",
-    "last_updated": "2026-08-29"
-  },
-  {
-    "name": "AI Security Vulnerabilities",
-    "status": "escalating",
-    "summary": "The Nigerian Army's confirmed hack attempt highlights the growing digital threats to national institutions, underscoring the urgent need for robust cybersecurity measures across government agencies.",
-    "last_updated": "2026-08-29"
+    "summary": "The AI hardware race is shifting towards system efficiency and data orchestration, with China's lead in humanoid robotics signaling a new frontier in embodied AI competition.",
+    "last_updated": "2026-08-30"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "While Moody's upgraded Nigeria's economic outlook to positive, persistent challenges in power infrastructure and public health crises like diphtheria outbreaks demand urgent attention and sustained policy focus.",
-    "last_updated": "2026-08-29"
+    "summary": "The CBN's aggressive liquidity mop-up signals a continued tight monetary policy to combat inflation, while Moody's positive outlook is tempered by persistent economic challenges like high gas prices.",
+    "last_updated": "2026-08-30"
   },
   {
     "name": "AI Agents in Enterprise Observability",
-    "status": "escalating",
-    "summary": "AI agents are becoming core components of developer platforms, playing roles as consumers, internal tools, and reusable building blocks, necessitating focus on governance, orchestration, and secure integration.",
+    "status": "developing",
+    "summary": "AI agents are becoming core components of developer platforms, necessitating focus on governance, orchestration, and secure integration.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Political rhetoric around significant funding for tech startups signals potential future investment, while government agencies like Customs increasingly adopt technology, creating opportunities for tech professionals.",
-    "last_updated": "2026-08-29"
+    "summary": "Fintechs are increasingly aiming to become banks, signaling a maturation of the ecosystem towards deeper financial infrastructure and demanding new technical skills.",
+    "last_updated": "2026-08-30"
   },
   {
     "name": "AI Hardware Race Intensifies",
     "status": "escalating",
-    "summary": "Nvidia's competitive edge is expanding beyond GPUs to system efficiency and data orchestration, indicating a shift in the AI compute battleground towards optimizing the entire data center stack.",
-    "last_updated": "2026-08-29"
+    "summary": "China's dominance in humanoid robot games highlights a strategic shift towards embodied AI and hardware, intensifying global competition beyond GPUs.",
+    "last_updated": "2026-08-30"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Moody's positive economic outlook offers a confidence boost, but significant infrastructure losses in power and ongoing public health crises like diphtheria outbreaks highlight persistent challenges requiring sustained reform.",
-    "last_updated": "2026-08-29"
+    "summary": "Moody's positive economic outlook is a boost, but persistent infrastructure deficits and high living costs require sustained reform and policy focus.",
+    "last_updated": "2026-08-30"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The political landscape is active with calls for accountability on public spending, investigations into security force conduct during unrest, and early endorsements for the 2027 election cycle, reflecting ongoing debates on governance and strategy.",
-    "last_updated": "2026-08-29"
+    "summary": "Early 2027 election maneuvers, including attempts to influence opposition and delay trials, suggest an increasingly contentious political landscape testing democratic processes.",
+    "last_updated": "2026-08-30"
   },
   {
     "name": "US Immigration Policy Shifts",
     "status": "developing",
-    "summary": "Proposed fee increases for H-1B visas and a pause on immigrant visa applications signal continued tightening of US immigration policies, potentially impacting global talent mobility.",
+    "summary": "Proposed fee increases for H-1B visas and a pause on immigrant visa applications signal continued tightening of US immigration policies.",
     "last_updated": "2026-08-26"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "Advancements in AI memory merging across chat sessions are enabling more persistent context and elaborate user interactions, signaling progress in conversational AI capabilities.",
+    "summary": "Advancements in AI memory merging are enabling more persistent context and elaborate user interactions in conversational AI.",
     "last_updated": "2026-08-25"
   },
   {
     "name": "Academic AI Research Constraints",
     "status": "developing",
-    "summary": "Prohibitive compute costs continue to limit cutting-edge AI research in academia, exacerbating the governance gap and potentially hindering broader contributions.",
+    "summary": "Prohibitive compute costs continue to limit cutting-edge AI research in academia, exacerbating the governance gap.",
     "last_updated": "2026-08-13"
   },
   {
     "name": "AI's Impact on Information Integrity",
     "status": "escalating",
-    "summary": "User pushback against low-quality AI-generated content highlights ongoing challenges in maintaining information integrity, while advanced AI systems are developed to combat these issues.",
+    "summary": "User pushback against low-quality AI-generated content highlights ongoing challenges in maintaining information integrity.",
     "last_updated": "2026-08-29"
   },
   {
     "name": "AI in Education and Professional Development",
     "status": "developing",
-    "summary": "The increasing use of AI avatars for personalized feedback in education suggests a growing trend of AI augmenting human roles in learning and professional development, though ASUU strikes continue to disrupt tertiary education.",
+    "summary": "The increasing use of AI avatars for personalized feedback suggests a growing trend of AI augmenting human roles in learning.",
     "last_updated": "2026-08-29"
   }
 ]
