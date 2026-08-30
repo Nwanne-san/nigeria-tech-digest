@@ -2,55 +2,49 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Abductions of corps members and traditional leaders, alongside ongoing banditry and arms proliferation, continue to challenge security forces, while efforts to disrupt gunrunning operations are underway.",
+    "summary": "Ongoing banditry, farmer-herder conflicts, and external security influences in neighboring Niger continue to challenge security forces, while efforts to disrupt gunrunning and bolster regional stability are ongoing.",
     "last_updated": "2026-08-30"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Escalating IP lawsuits against AI labs and the push for AI standards bodies are intensifying as China dominates humanoid robot games, highlighting the need for global governance in embodied AI.",
+    "summary": "Escalating IP lawsuits against AI labs, push for AI standards bodies, and backlash against AI surveillance technologies highlight the urgent need for global governance and ethical frameworks.",
     "last_updated": "2026-08-30"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The AI hardware race is shifting towards system efficiency and data orchestration, with China's lead in humanoid robotics signaling a new frontier in embodied AI competition.",
+    "summary": "The AI hardware race is shifting towards system efficiency and data orchestration, with intense competition and corporate disputes shaping the landscape for model providers and developers.",
     "last_updated": "2026-08-30"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN's aggressive liquidity mop-up signals a continued tight monetary policy to combat inflation, while Moody's positive outlook is tempered by persistent economic challenges like high gas prices.",
+    "summary": "The CBN's tight monetary policy continues to combat inflation, but persistent economic challenges like volatile petrol prices and the need for FX stability remain critical.",
     "last_updated": "2026-08-30"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
-    "summary": "AI agents are becoming core components of developer platforms, necessitating focus on governance, orchestration, and secure integration.",
-    "last_updated": "2026-08-29"
+    "summary": "AI agents are becoming core components of developer platforms, necessitating a focus on retrieval engineering, robust agent harnesses, governance, orchestration, and secure integration.",
+    "last_updated": "2026-08-30"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Fintechs are increasingly aiming to become banks, signaling a maturation of the ecosystem towards deeper financial infrastructure and demanding new technical skills.",
-    "last_updated": "2026-08-30"
-  },
-  {
-    "name": "AI Hardware Race Intensifies",
-    "status": "escalating",
-    "summary": "China's dominance in humanoid robot games highlights a strategic shift towards embodied AI and hardware, intensifying global competition beyond GPUs.",
+    "summary": "Fintechs are increasingly aiming to become banks, signaling a maturation of the ecosystem towards deeper financial infrastructure and demanding new technical skills, fueled by strong remittance inflows.",
     "last_updated": "2026-08-30"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Moody's positive economic outlook is a boost, but persistent infrastructure deficits and high living costs require sustained reform and policy focus.",
+    "summary": "Moody's positive economic outlook is tempered by persistent infrastructure deficits and high living costs, though record remittances and efforts in human capital development offer some optimism.",
     "last_updated": "2026-08-30"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Early 2027 election maneuvers, including attempts to influence opposition and delay trials, suggest an increasingly contentious political landscape testing democratic processes.",
+    "summary": "Early 2027 election maneuvers, including accusations against INEC and contentious political rhetoric, suggest an increasingly challenging landscape for democratic processes and public trust.",
     "last_updated": "2026-08-30"
   },
   {
@@ -80,7 +74,7 @@
   {
     "name": "AI in Education and Professional Development",
     "status": "developing",
-    "summary": "The increasing use of AI avatars for personalized feedback suggests a growing trend of AI augmenting human roles in learning.",
-    "last_updated": "2026-08-29"
+    "summary": "The increasing use of AI avatars for personalized feedback and the development of simulation centers suggest a growing trend of AI augmenting human roles in learning and professional development.",
+    "last_updated": "2026-08-30"
   }
 ]
