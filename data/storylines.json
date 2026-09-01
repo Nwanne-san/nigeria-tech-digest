@@ -2,50 +2,50 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Worsening insecurity, marked by mass abductions and a thriving kidnapping 'industry,' is a defining issue for President Tinubu's administration and the 2027 election, necessitating advanced technological solutions and community-based strategies.",
-    "last_updated": "2026-08-31"
+    "summary": "Worsening insecurity, marked by mass abductions and a thriving kidnapping 'industry,' is a defining issue for President Tinubu's administration and the 2027 election, necessitating advanced technological solutions and community-based strategies, with recent police deployments to border areas and efforts to combat infrastructure vandalism.",
+    "last_updated": "2026-09-01"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Global regulatory bodies like the EU are imposing stricter rules on AI, designating platforms like ChatGPT under the Digital Services Act, while US states and international bodies push for ethical AI development and user protection.",
-    "last_updated": "2026-08-31"
+    "summary": "Global regulatory bodies are imposing stricter rules on AI, while incidents like the OpenAI/Hugging Face hack and Apple's accusations highlight the urgent need for robust AI safety, corporate responsibility, and evidence preservation in development.",
+    "last_updated": "2026-09-01"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The race for AI efficiency is intensifying with a focus on system optimization and data orchestration, as seen in AWS's acquisition of DuckDB and ongoing efforts to improve AI agent capabilities and security.",
-    "last_updated": "2026-08-31"
+    "summary": "The race for AI efficiency is intensifying with a focus on system optimization, cost reduction (FinOps for AI), and specialized industry models, as seen in Google Cloud's and Anthropic's latest offerings.",
+    "last_updated": "2026-09-01"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN's reforms are boosting formal remittance inflows towards a $1 billion monthly target, but political pressure to potentially restore fuel subsidies ahead of 2027 elections threatens economic stability and inflation control.",
-    "last_updated": "2026-08-31"
+    "summary": "The CBN's reforms are boosting formal remittance inflows, but persistent naira volatility drives dollarization, while high electricity subsidies and fuel costs under political pressure threaten economic stability and inflation control ahead of 2027.",
+    "last_updated": "2026-09-01"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "AI agents are becoming core to enterprise platforms, with advancements in agent discovery (ARD), security (Raziel), and self-improvement research highlighting the need for robust harnesses, governance, and secure integration.",
-    "last_updated": "2026-08-31"
+    "summary": "Advancements in AI agents are driving the need for robust harnesses, governance, and secure integration, with new tools like Google Cloud's VPC Service Controls and CodeMender addressing security and observability challenges.",
+    "last_updated": "2026-09-01"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Record remittance inflows are fueling the growth of fintechs aiming to become banks, signaling ecosystem maturation and creating opportunities for web and cloud developers in financial services.",
-    "last_updated": "2026-08-31"
+    "summary": "Record remittance inflows are fueling the growth of fintechs, while government initiatives like the 'Vigilant App' signal growing demand for local web and cloud developers in GovTech and financial services.",
+    "last_updated": "2026-09-01"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Economic diversification efforts show promise with significant revenue from the marine sector and EFCC asset recoveries, though persistent infrastructure deficits and the fuel subsidy debate pose ongoing challenges.",
-    "last_updated": "2026-08-31"
+    "summary": "Economic diversification efforts show promise with initiatives in agriculture and infrastructure, though challenges persist with significant electricity subsidies, out-of-school children crises, and resource allocation debates.",
+    "last_updated": "2026-09-01"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Early maneuvers for the 2027 elections are intensifying, with opposition coalitions forming and INEC facing scrutiny, underscoring the ongoing challenges to democratic processes and public trust.",
-    "last_updated": "2026-08-31"
+    "summary": "Early maneuvers for the 2027 elections are intensifying with opposition pledges on LG autonomy and student debt, alongside legal challenges and scrutiny of INEC, underscoring ongoing challenges to democratic processes.",
+    "last_updated": "2026-09-01"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -68,13 +68,25 @@
   {
     "name": "AI's Impact on Information Integrity",
     "status": "escalating",
-    "summary": "Platforms like Instagram are cracking down on AI-generated profiles that impersonate humans, reflecting a growing demand for transparency and authenticity in the digital space.",
-    "last_updated": "2026-08-31"
+    "summary": "Platforms are cracking down on AI-generated profiles impersonating humans, reflecting a growing demand for transparency, while new generative design tools raise questions about content authenticity.",
+    "last_updated": "2026-09-01"
   },
   {
     "name": "AI in Education and Professional Development",
     "status": "developing",
-    "summary": "The increasing use of AI avatars for personalized feedback and simulation centers suggests a growing trend of AI augmenting human roles in learning and professional development.",
-    "last_updated": "2026-08-30"
+    "summary": "The increasing use of AI avatars for personalized feedback and simulation centers suggests a growing trend of AI augmenting human roles in learning and professional development, with healthcare EHR integrations emerging.",
+    "last_updated": "2026-09-01"
+  },
+  {
+    "name": "Generative Software and Interface World Models",
+    "status": "escalating",
+    "summary": "Runway's introduction of Solaris, an Interface World Model, signals a potential paradigm shift towards AI-generated, interactive software interfaces, challenging traditional development.",
+    "last_updated": "2026-09-01"
+  },
+  {
+    "name": "Public Health Crises in Nigeria",
+    "status": "escalating",
+    "summary": "Nigeria is grappling with significant public health crises, including escalating outbreaks of diphtheria and Lassa fever, highlighting systemic weaknesses in healthcare infrastructure and disease surveillance.",
+    "last_updated": "2026-09-01"
   }
 ]
