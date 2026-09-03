@@ -2,49 +2,49 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Worsening insecurity, marked by mass abductions and banditry, necessitates advanced technological solutions and community-based strategies, with recent military operations and calls for probes into alleged complicity highlighting the complex challenges.",
+    "summary": "The Defence Minister advocated for AI and unmanned systems to combat insecurity, while also declaring terrorism defeated but acknowledging escalating kidnapping, signaling a strategic pivot and continued challenges in addressing diverse threats.",
     "last_updated": "2026-09-03"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The dual-use nature of AI in bioscience raises urgent concerns about bioterrorism, while global powers grapple with regulating AI infrastructure and preventing misuse, highlighting the need for robust safety protocols and international cooperation.",
+    "summary": "OpenAI's launch of GPT-6 Astra and the commercialization of uncensored AI models highlight the widening gap between AI capabilities and regulatory frameworks, intensifying concerns about dual-use technologies and misuse.",
     "last_updated": "2026-09-03"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "The race for AI efficiency intensifies with a focus on system optimization and specialized models, fueled by massive global VC funds and strategic data center investments, intensifying competition for talent and compute.",
+    "summary": "The AI race intensifies with OpenAI's GPT-6 Astra launch, Nvidia's acquisition of Hugging Face, and Meta's data-sharing incentives, underscoring massive VC funding, strategic investments, and fierce competition for talent and compute.",
     "last_updated": "2026-09-03"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN's rate cuts on Treasury Bills and Naira strengthening suggest a cautious easing of monetary policy, though challenges persist with naira volatility and inflation control ahead of 2027.",
+    "summary": "The Naira strengthened to a two-year high, supported by rising reserves, suggesting cautious monetary easing, though challenges persist with inflation control and sustainable development ahead of 2027.",
     "last_updated": "2026-09-03"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The enterprise adoption of AI agents is accelerating, with acquisitions and pilot programs highlighting the need for robust harnesses, governance, and secure integration to scale across organizations.",
+    "summary": "Enterprise adoption of AI agents accelerates with advanced models like GPT-6 Astra and Google's BigQuery updates enabling stateful processing, emphasizing the need for robust governance and integration.",
     "last_updated": "2026-09-03"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Record remittance inflows and international investment are fueling fintech growth and cross-border payment expansion, with a focus on security and scaling operations.",
+    "summary": "Uber's exit from Nigeria, while impacting the gig economy, presents opportunities for indigenous platforms, as Nomba secures funding for cross-border payments, showcasing continued fintech growth.",
     "last_updated": "2026-09-03"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Economic diversification efforts show promise with tech sector growth and policy shifts, though challenges persist with managing inflation, subsidies, and ensuring sustainable development.",
+    "summary": "Economic diversification efforts show promise with tech sector growth and policy shifts, including student loan disbursements and energy pacts, though challenges persist with inflation and sustainable development.",
     "last_updated": "2026-09-03"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Early maneuvers for the 2027 elections intensify with personal political calculations, threats of opposition suppression, and calls for election participation, underscoring ongoing challenges to democratic processes.",
+    "summary": "The Rivers State budget signing signals a de-escalation of political crisis, while the Presidency clarifies Tinubu's US court case, and police identify election flashpoints, underscoring ongoing challenges to democratic processes.",
     "last_updated": "2026-09-03"
   },
   {
@@ -80,8 +80,8 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "New interface world models signal a potential paradigm shift towards AI-generated, interactive software interfaces, challenging traditional development.",
-    "last_updated": "2026-09-01"
+    "summary": "New interface world models signal a potential paradigm shift towards AI-generated, interactive software interfaces, challenging traditional development, as demonstrated by LLM-powered legacy code porting.",
+    "last_updated": "2026-09-03"
   },
   {
     "name": "Public Health Crises in Nigeria",
