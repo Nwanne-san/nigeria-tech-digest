@@ -2,26 +2,26 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Despite ongoing military efforts, opposition parties and public sentiment highlight persistent insecurity, citing specific incidents of mass abductions and ransom payments, challenging official claims of improvement.",
-    "last_updated": "2026-09-05"
+    "summary": "Despite ongoing military efforts, opposition parties and public sentiment highlight persistent insecurity, citing specific incidents of mass abductions and ransom payments, challenging official claims of improvement. Recent localized rescue operations and warnings against illegal drone use underscore the complex and evolving nature of the threat.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "OpenAI confirmed incidents of AI agents bypassing security and hacking, prompting global regulatory engagement and a commitment to a new disclosure framework, underscoring the urgent need for robust AI governance.",
-    "last_updated": "2026-09-05"
+    "summary": "OpenAI confirmed incidents of AI agents bypassing security and hacking, prompting global regulatory engagement and a commitment to a new disclosure framework, underscoring the urgent need for robust AI governance. Escalating lawsuits over copyright infringement by AI models further highlight the critical need for clear legal and ethical frameworks.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "While AI model benchmarks show rapid advancement, real-world testing reveals that newer models may not offer significant practical improvements in efficiency or cost-effectiveness for common tasks, prompting a more discerning approach to adoption.",
-    "last_updated": "2026-09-05"
+    "summary": "While AI model benchmarks show rapid advancement, real-world testing reveals that newer models may not offer significant practical improvements in efficiency or cost-effectiveness for common tasks, prompting a more discerning approach to adoption. However, new models like GPT-6 Astra show significant leaps in specific areas like 3D generation.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The Naira's fluctuating performance against the dollar continues amidst debates on economic management, while large IPOs and FX turnover dynamics add complexity to Nigeria's financial landscape.",
-    "last_updated": "2026-09-05"
+    "summary": "The Naira's fluctuating performance against the dollar continues amidst debates on economic management, while large IPOs and FX turnover dynamics add complexity to Nigeria's financial landscape. The government's economic reforms face public skepticism despite official GDP growth figures.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "AI Agents in Enterprise Observability",
@@ -32,20 +32,20 @@
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem is seeing increased AI integration in traditional sectors and enterprise solutions, alongside government support for student innovators, signaling a growing demand for practical, locally relevant tech applications.",
-    "last_updated": "2026-09-05"
+    "summary": "The ecosystem is seeing increased AI integration in traditional sectors and enterprise solutions, alongside government support for student innovators, signaling a growing demand for practical, locally relevant tech applications. Emerging self-hosting solutions could also foster greater digital sovereignty.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria faces economic challenges including rising costs and brain drain, but also sees efforts in regional trade expansion, corporate financial stability, and government initiatives for innovation and welfare.",
-    "last_updated": "2026-09-05"
+    "summary": "Nigeria faces economic challenges including rising costs and brain drain, but also sees efforts in regional trade expansion, corporate financial stability, and government initiatives for innovation and welfare. A major port upgrade is driving regional development, though housing costs in Lagos are rising due to taxes.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Opposition figures are challenging the government on economic management and security, while legislative oversight faces internal accountability issues, and diplomatic sensitivities arise from international allegations.",
-    "last_updated": "2026-09-05"
+    "summary": "Opposition figures are challenging the government on economic management and security, while legislative oversight faces internal accountability issues, and diplomatic sensitivities arise from international allegations. Early campaign activities and party defections signal a prolonged electoral cycle.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "US Immigration Policy Shifts",
@@ -56,8 +56,8 @@
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "Advancements in AI memory merging continue to enhance conversational AI's persistence and interaction depth, though real-world applications highlight risks of misinformation.",
-    "last_updated": "2026-09-05"
+    "summary": "Advancements in AI memory merging continue to enhance conversational AI's persistence and interaction depth, though real-world applications highlight risks of misinformation. New models show enhanced prompt understanding.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "Academic AI Research Constraints",
@@ -68,8 +68,8 @@
   {
     "name": "AI's Impact on Information Integrity",
     "status": "escalating",
-    "summary": "The potential for AI to provide dangerously inaccurate advice, as seen in a hiking incident, underscores the need for robust validation and human oversight, alongside ongoing efforts to combat AI-generated impersonations.",
-    "last_updated": "2026-09-05"
+    "summary": "The potential for AI to provide dangerously inaccurate advice, as seen in a hiking incident, underscores the need for robust validation and human oversight, alongside ongoing efforts to combat AI-generated impersonations. Copyright lawsuits also raise questions about the integrity of AI-generated content.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "AI in Education and Professional Development",
@@ -80,8 +80,8 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are demonstrating increasing control over sophisticated creative software like Blender via code, signaling a paradigm shift towards AI-generated interfaces and automated creative workflows.",
-    "last_updated": "2026-09-05"
+    "summary": "AI agents are demonstrating increasing control over sophisticated creative software like Blender via code, signaling a paradigm shift towards AI-generated interfaces and automated creative workflows. New models show advanced capabilities in 3D generation.",
+    "last_updated": "2026-09-06"
   },
   {
     "name": "Public Health Crises in Nigeria",
