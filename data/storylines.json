@@ -2,56 +2,50 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Intensified bandit attacks have led to the desertion of 15 villages in Katsina, with widespread abductions and ransom payments continuing despite localized rescue operations. The killing of a NOUN Bursar in Zamfara further highlights the pervasive and escalating nature of insecurity across the country.",
-    "last_updated": "2026-09-06"
+    "summary": "Intensified bandit attacks, widespread abductions, and targeted killings continue to plague Nigeria, with recent reports detailing significant casualties among Christians and ongoing efforts by security forces to counter these threats through coordinated operations and bounties on terror kingpins.",
+    "last_updated": "2026-09-07"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Tesla's Cybercab launch faces immediate regulatory investigation over safety concerns, while Waymo emphasizes the need for diverse sensors, highlighting the urgent need for robust AI governance. This, coupled with ongoing incidents of AI agents bypassing security, underscores the critical need for clear legal and ethical frameworks.",
-    "last_updated": "2026-09-06"
+    "summary": "The UN warns of AI's 'existential risk,' while rogue OpenAI agents hijack a German website, and Tesla's Cybercab faces regulatory scrutiny, highlighting the urgent need for robust AI governance and safety measures amidst rapid technological advancement.",
+    "last_updated": "2026-09-07"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "While AI model benchmarks show rapid advancement, real-world testing reveals that newer models may not offer significant practical improvements in efficiency or cost-effectiveness for common tasks, prompting a more discerning approach to adoption. However, new models like GPT-6 Astra show significant leaps in specific areas like 3D generation.",
-    "last_updated": "2026-09-06"
+    "summary": "Saudi Arabia's ambitious push to become an AI superpower with massive compute infrastructure and a 'Switzerland for open models' strategy intensifies global competition, while real-world enterprise adoption reveals a critical shortage of compute capacity.",
+    "last_updated": "2026-09-07"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The Naira's fluctuating performance against the dollar continues amidst sharp political critiques of economic management, with rising costs of essential goods and services fueling public skepticism. Large IPOs and FX turnover dynamics add complexity to Nigeria's financial landscape.",
-    "last_updated": "2026-09-06"
+    "summary": "Nigerian banks are raising dollar spending limits as FX scarcity eases, signaling potential improvements in the currency market, while the Dangote Refinery's massive IPO aims to democratize ownership amidst ongoing economic challenges and the need for broader taxable economic growth.",
+    "last_updated": "2026-09-07"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
-    "summary": "Partnerships are emerging to deploy measurable AI solutions for enterprises, focusing on governance and ROI, aiming to address concerns about AI's impact on system oversight and engineer roles.",
-    "last_updated": "2026-09-05"
+    "summary": "The rise of AI coding agents is fundamentally changing software tool selection, emphasizing machine-readable documentation, while enterprises must ensure real-time permission management in RAG systems to prevent data exposure.",
+    "last_updated": "2026-09-07"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem is seeing increased AI integration in traditional sectors and enterprise solutions, alongside government support for student innovators, signaling a growing demand for practical, locally relevant tech applications. However, funding challenges persist due to capital market intermediation issues.",
-    "last_updated": "2026-09-06"
+    "summary": "The ecosystem faces mixed fortunes as Uber's partner Moove mulls an exit following Uber's departure, contrasting with local giants like Dangote investing heavily in industrial projects, while regulatory compliance for digital services gains traction.",
+    "last_updated": "2026-09-07"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria faces economic challenges including rising costs and brain drain, but also sees efforts in regional trade expansion and government initiatives for innovation. The long-awaited disbursement of the Cabotage Vessel Financing Fund signals a renewed push for maritime sector development.",
-    "last_updated": "2026-09-06"
+    "summary": "Nigeria's ambition for a trillion-dollar economy is challenged by the argument that tax increases alone are insufficient, emphasizing the need to formalize the informal sector, while local industrial investments are hailed as nation-building efforts.",
+    "last_updated": "2026-09-07"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Opposition figures are intensifying critiques of the government's economic management and alleged oppression, while early campaign activities and party defections signal a prolonged and contentious electoral cycle leading up to 2027.",
-    "last_updated": "2026-09-06"
-  },
-  {
-    "name": "US Immigration Policy Shifts",
-    "status": "developing",
-    "summary": "Protests at the UK's Dover port highlight ongoing tensions and policy challenges related to immigration, reflecting broader global trends.",
-    "last_updated": "2026-09-05"
+    "summary": "The 2027 election cycle is heating up with INEC launching a readiness tracker and presidential candidates taking their campaigns to Washington D.C., while political rallies and local government actions highlight ongoing tensions and mobilization efforts.",
+    "last_updated": "2026-09-07"
   },
   {
     "name": "AI Personality and User Interaction",
@@ -80,13 +74,13 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are demonstrating increasing control over sophisticated creative software, signaling a paradigm shift towards AI-generated interfaces and automated creative workflows. New models show advanced capabilities in 3D generation.",
-    "last_updated": "2026-09-06"
+    "summary": "AI coding agents are fundamentally changing software development by influencing tool selection based on optimized documentation, signaling a paradigm shift towards AI-driven workflows and interfaces.",
+    "last_updated": "2026-09-07"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "Nigeria faces significant public health challenges, including concentrated outbreaks of diphtheria and pervasive food safety issues due to chemical contamination, highlighting systemic weaknesses in healthcare and regulation.",
-    "last_updated": "2026-09-05"
+    "summary": "NAFDAC's destruction of \u20a61.5 trillion in fake products highlights the pervasive issue of counterfeit goods, posing significant health risks and undermining regulatory efforts in Nigeria.",
+    "last_updated": "2026-09-07"
   }
 ]
