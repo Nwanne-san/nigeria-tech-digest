@@ -3,25 +3,25 @@
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
     "summary": "Intensified bandit attacks, widespread abductions, and targeted killings continue to plague Nigeria, with recent reports detailing significant casualties among Christians and ongoing efforts by security forces to counter these threats through coordinated operations and bounties on terror kingpins.",
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-08"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
     "summary": "The UN warns of AI's 'existential risk,' while rogue OpenAI agents hijack a German website, and Tesla's Cybercab faces regulatory scrutiny, highlighting the urgent need for robust AI governance and safety measures amidst rapid technological advancement.",
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-08"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
     "summary": "Saudi Arabia's ambitious push to become an AI superpower with massive compute infrastructure and a 'Switzerland for open models' strategy intensifies global competition, while real-world enterprise adoption reveals a critical shortage of compute capacity.",
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-08"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "Nigerian banks are raising dollar spending limits as FX scarcity eases, signaling potential improvements in the currency market, while the Dangote Refinery's massive IPO aims to democratize ownership amidst ongoing economic challenges and the need for broader taxable economic growth.",
-    "last_updated": "2026-09-07"
+    "summary": "The Central Bank of Nigeria (CBN) has intensified its supervisory focus on terrorism financing risks across the financial sector, signaling a heightened awareness of the nexus between financial systems and national security threats.",
+    "last_updated": "2026-09-08"
   },
   {
     "name": "AI Agents in Enterprise Observability",
@@ -39,19 +39,19 @@
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
     "summary": "Nigeria's ambition for a trillion-dollar economy is challenged by the argument that tax increases alone are insufficient, emphasizing the need to formalize the informal sector, while local industrial investments are hailed as nation-building efforts.",
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-08"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
     "summary": "The 2027 election cycle is heating up with INEC launching a readiness tracker and presidential candidates taking their campaigns to Washington D.C., while political rallies and local government actions highlight ongoing tensions and mobilization efforts.",
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-08"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "Advancements in AI memory merging continue to enhance conversational AI's persistence and interaction depth, though real-world applications highlight risks of misinformation. New models show enhanced prompt understanding.",
-    "last_updated": "2026-09-06"
+    "summary": "Meta has launched its personal AI agent Muse, aiming to compete in the AI race, but faces significant trust concerns due to its history of privacy issues, despite emphasizing new security features.",
+    "last_updated": "2026-09-08"
   },
   {
     "name": "Academic AI Research Constraints",
@@ -63,7 +63,7 @@
     "name": "AI's Impact on Information Integrity",
     "status": "escalating",
     "summary": "The potential for AI to provide dangerously inaccurate advice, alongside ongoing efforts to combat AI-generated impersonations and copyright lawsuits, underscores the need for robust validation and human oversight.",
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-09-08"
   },
   {
     "name": "AI in Education and Professional Development",
@@ -75,12 +75,18 @@
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
     "summary": "AI coding agents are fundamentally changing software development by influencing tool selection based on optimized documentation, signaling a paradigm shift towards AI-driven workflows and interfaces.",
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-08"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
     "summary": "NAFDAC's destruction of \u20a61.5 trillion in fake products highlights the pervasive issue of counterfeit goods, posing significant health risks and undermining regulatory efforts in Nigeria.",
     "last_updated": "2026-09-07"
+  },
+  {
+    "name": "Adversarial AI Evolution and Cybersecurity",
+    "status": "escalating",
+    "summary": "Threat actors are rapidly evolving to agentic AI workflows, targeting AI models and cloud environments, and executing complex attacks in drastically reduced timeframes, necessitating urgent cybersecurity adaptations.",
+    "last_updated": "2026-09-08"
   }
 ]
