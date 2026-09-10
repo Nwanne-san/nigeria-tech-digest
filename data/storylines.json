@@ -2,91 +2,91 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating bandit attacks, abductions, and killings continue to plague Nigeria, particularly in the North, leading to capital flight and economic disruption, while security forces struggle to counter these threats effectively.",
-    "last_updated": "2026-09-09"
+    "summary": "Escalating bandit attacks, abductions, and killings continue to plague Nigeria, particularly in the North, leading to capital flight and economic disruption, while security forces struggle to counter these threats effectively. Recent police operations in Delta State, while recovering arms, highlight the persistent nature of crime.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Researchers warn of AI's 'existential risk,' while geopolitical tensions over AI theft and internal dissent within leading AI labs highlight the urgent need for robust AI governance amidst rapid technological advancement.",
-    "last_updated": "2026-09-09"
+    "summary": "Researchers warn of AI's 'existential risk,' while geopolitical tensions over AI theft and internal dissent within leading AI labs highlight the urgent need for robust AI governance amidst rapid technological advancement. Bipartisan AI safety bills are gaining momentum in the US, and mathematicians are challenging OpenAI's data usage, underscoring the growing need for transparency and regulation.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Global competition intensifies with geopolitical rivalries and national ambitions in AI, while enterprises face compute shortages and the development of AI agents for complex tasks like code generation and agent building remains a key focus.",
-    "last_updated": "2026-09-09"
+    "summary": "Global competition intensifies with geopolitical rivalries and national ambitions in AI, while enterprises face compute shortages and the development of AI agents for complex tasks like code generation and agent building remains a key focus. Specialized, fine-tuned models are proving more efficient than larger general-purpose ones, and US tech giants are building the AI future without prioritizing African talent.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The Central Bank of Nigeria (CBN) is intensifying its supervisory focus on terrorism financing risks and has strengthened the Naira against some foreign currencies, though economic recovery and household well-being remain key challenges.",
-    "last_updated": "2026-09-09"
+    "summary": "The Central Bank of Nigeria (CBN) is intensifying its supervisory focus on terrorism financing risks and has strengthened the Naira against some foreign currencies, though economic recovery and household well-being remain key challenges. The CBN's recent Treasury Bills auction saw a reduction in the 364-day stop rate, signaling a potential shift towards easing interest rates.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
-    "summary": "The rise of AI coding agents is changing software development workflows, necessitating robust permission management in RAG systems and infrastructure adaptations for continuous AI agent traffic, with AI now performing automated code reviews.",
-    "last_updated": "2026-09-09"
+    "summary": "The rise of AI coding agents is changing software development workflows, necessitating robust permission management in RAG systems and infrastructure adaptations for continuous AI agent traffic, with AI now performing automated code reviews. The integration of AI into complex enterprise operations, like healthcare revenue cycles, is identified as the next major test, requiring orchestration and domain-specific knowledge.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem sees mixed fortunes with Moove mulling an exit contrasting with industrial investments, while fintechs expand regionally and specialized AI startups achieve massive valuations globally, influencing local innovation.",
-    "last_updated": "2026-09-09"
+    "summary": "The ecosystem sees mixed fortunes with Moat Academy celebrating 10 years of training software talent and the Dangote Refinery planning an inclusive IPO, contrasting with concerns about global tech giants overlooking African talent. Fintechs continue regional expansion, and specialized AI startups achieve massive valuations globally.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economic ambitions are challenged by persistent insecurity and the need for household recovery, with ongoing debates about the true value of economic gains amidst significant government borrowing and targeted social interventions.",
-    "last_updated": "2026-09-09"
+    "summary": "Nigeria's economic ambitions are challenged by persistent insecurity and the need for household recovery, with ongoing debates about the true value of economic gains amidst significant government borrowing and targeted social interventions. The CBN's potential easing of interest rates and the El Ni\u00f1o's projected $20bn cost to Africa add further complexity.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle is heating up with early campaigns and disruptions, raising concerns about political integrity, security during political activities, and the fairness of electoral processes at both national and local levels.",
-    "last_updated": "2026-09-09"
+    "summary": "The 2027 election cycle is heating up with early campaigns and disruptions, raising concerns about political integrity, security during political activities, and the fairness of electoral processes at both national and local levels. INEC's efforts for IDP voting and uncollected PVCs, Peter Obi's policy pledges, and allegations of bias in El-Rufai's prosecution are key developments.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "Meta's AI agent launch faces trust concerns, while the broader trend of AI in education shows students using AI critically can improve learning outcomes, and AI's impact on information integrity is a growing concern.",
-    "last_updated": "2026-09-09"
+    "summary": "Meta's AI agent launch faces trust concerns, while the broader trend of AI in education shows students using AI critically can improve learning outcomes, and AI's impact on information integrity is a growing concern. The potential for AI to provide inaccurate advice and generate impersonations remains a challenge.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "Academic AI Research Constraints",
     "status": "developing",
-    "summary": "Prohibitive compute costs continue to limit cutting-edge AI research in academia, exacerbating the governance gap and potentially hindering safety research, while industry benchmarks for AI agent development remain challenging.",
-    "last_updated": "2026-09-09"
+    "summary": "Prohibitive compute costs continue to limit cutting-edge AI research in academia, exacerbating the governance gap and potentially hindering safety research, while industry benchmarks for AI agent development remain challenging. Mathematicians are also challenging OpenAI's data usage, highlighting transparency issues.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "AI's Impact on Information Integrity",
     "status": "escalating",
-    "summary": "The potential for AI to provide inaccurate advice, coupled with AI-generated impersonations and copyright issues, underscores the need for validation and human oversight, impacting educational use and raising concerns about content authenticity.",
-    "last_updated": "2026-09-09"
+    "summary": "The potential for AI to provide inaccurate advice, coupled with AI-generated impersonations and copyright issues, underscores the need for validation and human oversight, impacting educational use and raising concerns about content authenticity. The 'liar's dividend' is expected to become a more pervasive challenge.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "AI in Education and Professional Development",
     "status": "developing",
-    "summary": "While AI avatars offer personalized feedback, a new report suggests students using AI uncritically score worse, highlighting the need for AI literacy and critical assessment, and NELFUND provides financial relief for higher education access.",
-    "last_updated": "2026-09-09"
+    "summary": "While AI avatars offer personalized feedback, a new report suggests students using AI uncritically score worse, highlighting the need for AI literacy and critical assessment. Secondary school teachers are calling for greater collaboration to improve the education sector.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI coding agents are driving a paradigm shift in software development, with AI now performing automated code reviews and agent-building capabilities showing rapid, albeit nascent, development.",
-    "last_updated": "2026-09-09"
+    "summary": "AI coding agents are driving a paradigm shift in software development, with AI now performing automated code reviews and agent-building capabilities showing rapid, albeit nascent, development. Nvidia and Palantir's success with a specialized AI model for supply chain optimization highlights the efficiency gains from fine-tuning.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "NAFDAC's destruction of counterfeit goods highlights pervasive health risks, while Lagos records diphtheria cases, underscoring the need for continued vigilance and robust public health response mechanisms.",
-    "last_updated": "2026-09-09"
+    "summary": "NAFDAC's destruction of counterfeit goods highlights pervasive health risks, while Plateau State records a rising death toll from diphtheria, underscoring the need for continued vigilance and robust public health response mechanisms.",
+    "last_updated": "2026-09-10"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Threat actors are rapidly evolving to agentic AI workflows, targeting AI models and cloud environments, necessitating urgent cybersecurity adaptations, while companies like OpenAI deploy AI defensively against vulnerabilities.",
-    "last_updated": "2026-09-09"
+    "summary": "Threat actors are rapidly evolving to agentic AI workflows, targeting AI models and cloud environments, necessitating urgent cybersecurity adaptations, while companies like OpenAI deploy AI defensively against vulnerabilities. The increasing sophistication of AI-generated misinformation also poses a cybersecurity challenge.",
+    "last_updated": "2026-09-10"
   }
 ]
