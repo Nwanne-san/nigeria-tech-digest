@@ -2,26 +2,26 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating bandit attacks, abductions, and killings continue to plague Nigeria, particularly in the North, leading to capital flight and economic disruption, while security forces struggle to counter these threats effectively. Recent police operations in Delta State, while recovering arms, highlight the persistent nature of crime.",
-    "last_updated": "2026-09-10"
+    "summary": "Escalating bandit attacks, abductions, and killings continue to plague Nigeria, particularly in the North, leading to capital flight and economic disruption, while security forces struggle to counter these threats effectively. Recent police operations in Delta State, while recovering arms, highlight the persistent nature of crime, and the Nigerian Navy intercepted 71kg of cannabis on the River Niger.",
+    "last_updated": "2026-09-11"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Researchers warn of AI's 'existential risk,' while geopolitical tensions over AI theft and internal dissent within leading AI labs highlight the urgent need for robust AI governance amidst rapid technological advancement. Bipartisan AI safety bills are gaining momentum in the US, and mathematicians are challenging OpenAI's data usage, underscoring the growing need for transparency and regulation.",
-    "last_updated": "2026-09-10"
+    "summary": "Researchers warn of AI's 'existential risk,' while geopolitical tensions over AI theft and internal dissent within leading AI labs highlight the urgent need for robust AI governance amidst rapid technological advancement. Anthropic admitted malicious actors attempted to use their models for bioweapon development, amplifying calls for regulation, and US tech giants are building the AI future without prioritizing African talent.",
+    "last_updated": "2026-09-11"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
     "summary": "Global competition intensifies with geopolitical rivalries and national ambitions in AI, while enterprises face compute shortages and the development of AI agents for complex tasks like code generation and agent building remains a key focus. Specialized, fine-tuned models are proving more efficient than larger general-purpose ones, and US tech giants are building the AI future without prioritizing African talent.",
-    "last_updated": "2026-09-10"
+    "last_updated": "2026-09-11"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The Central Bank of Nigeria (CBN) is intensifying its supervisory focus on terrorism financing risks and has strengthened the Naira against some foreign currencies, though economic recovery and household well-being remain key challenges. The CBN's recent Treasury Bills auction saw a reduction in the 364-day stop rate, signaling a potential shift towards easing interest rates.",
-    "last_updated": "2026-09-10"
+    "summary": "The Central Bank of Nigeria (CBN) is intensifying its supervisory focus on terrorism financing risks and has strengthened the Naira against some foreign currencies, though economic recovery and household well-being remain key challenges. The Naira strengthened to N1,548/\u20ac against the Euro amid improved FX liquidity, and the CBN's recent Treasury Bills auction saw a reduction in the 364-day stop rate.",
+    "last_updated": "2026-09-11"
   },
   {
     "name": "AI Agents in Enterprise Observability",
@@ -32,20 +32,20 @@
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem sees mixed fortunes with Moat Academy celebrating 10 years of training software talent and the Dangote Refinery planning an inclusive IPO, contrasting with concerns about global tech giants overlooking African talent. Fintechs continue regional expansion, and specialized AI startups achieve massive valuations globally.",
-    "last_updated": "2026-09-10"
+    "summary": "The ecosystem sees mixed fortunes with Moat Academy celebrating 10 years of training software talent and the Dangote Refinery planning an inclusive IPO, contrasted with concerns about global tech giants overlooking African talent. Flutterwave is facilitating seamless digital participation in the Dangote IPO, and fintechs continue regional expansion.",
+    "last_updated": "2026-09-11"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economic ambitions are challenged by persistent insecurity and the need for household recovery, with ongoing debates about the true value of economic gains amidst significant government borrowing and targeted social interventions. The CBN's potential easing of interest rates and the El Ni\u00f1o's projected $20bn cost to Africa add further complexity.",
-    "last_updated": "2026-09-10"
+    "summary": "Nigeria's economic ambitions are challenged by persistent insecurity and the need for household recovery, with ongoing debates about the true value of economic gains amidst significant government borrowing and targeted social interventions. The Naira strengthened to N1,548/\u20ac against the Euro amid improved FX liquidity, and FirstBank hosted its 5th Agric and Export Expo to boost diversification efforts.",
+    "last_updated": "2026-09-11"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle is heating up with early campaigns and disruptions, raising concerns about political integrity, security during political activities, and the fairness of electoral processes at both national and local levels. INEC's efforts for IDP voting and uncollected PVCs, Peter Obi's policy pledges, and allegations of bias in El-Rufai's prosecution are key developments.",
-    "last_updated": "2026-09-10"
+    "summary": "The 2027 election cycle is heating up with early campaigns and disruptions, raising concerns about political integrity, security during political activities, and the fairness of electoral processes. The National Assembly suspended official visits to South Africa over xenophobic attacks, and Vice-President Shettima is attending the BRICS Summit in India.",
+    "last_updated": "2026-09-11"
   },
   {
     "name": "AI Personality and User Interaction",
@@ -80,13 +80,13 @@
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "NAFDAC's destruction of counterfeit goods highlights pervasive health risks, while Plateau State records a rising death toll from diphtheria, underscoring the need for continued vigilance and robust public health response mechanisms.",
-    "last_updated": "2026-09-10"
+    "summary": "NAFDAC's destruction of counterfeit goods highlights pervasive health risks, while Plateau State records a rising death toll from diphtheria, underscoring the need for continued vigilance and robust public health response mechanisms. Yobe State recorded 511 diphtheria cases and 13 deaths between January and September 8, 2026.",
+    "last_updated": "2026-09-11"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Threat actors are rapidly evolving to agentic AI workflows, targeting AI models and cloud environments, necessitating urgent cybersecurity adaptations, while companies like OpenAI deploy AI defensively against vulnerabilities. The increasing sophistication of AI-generated misinformation also poses a cybersecurity challenge.",
-    "last_updated": "2026-09-10"
+    "summary": "Threat actors are rapidly evolving to agentic AI workflows, targeting AI models and cloud environments, necessitating urgent cybersecurity adaptations. Datasette released security patches after discovering vulnerabilities with AI-assisted audits, and the increasing sophistication of AI-generated misinformation also poses a cybersecurity challenge.",
+    "last_updated": "2026-09-11"
   }
 ]
