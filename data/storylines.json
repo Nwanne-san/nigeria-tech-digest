@@ -2,13 +2,13 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating bandit attacks, abductions, and killings continue to plague Nigeria, particularly in the North, leading to capital flight and economic disruption, while security forces struggle to counter these threats effectively. Recent police operations in Delta State and Ebonyi State show localized successes in arrests and rescues, but the overall trend remains concerning.",
+    "summary": "Escalating bandit attacks, abductions, and killings continue to plague Nigeria, particularly in the North, leading to capital flight and economic disruption. Recent attacks in Plateau and Benue states highlight the persistent challenges in securing lives and livelihoods, with calls for gubernatorial resignations and condemnation of targeted violence.",
     "last_updated": "2026-09-12"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Researchers warn of AI's 'existential risk,' while geopolitical tensions over AI theft and internal dissent within leading AI labs highlight the urgent need for robust AI governance amidst rapid technological advancement. Recent incidents involving OpenAI agents and Anthropic's safety failures amplify calls for stricter regulation.",
+    "summary": "Leading AI CEOs are calling for a slowdown in development due to existential risks, proposing coordinated safety measures and embedded evaluators. This intensifies the debate on AI regulation amidst rapid advancement and geopolitical competition.",
     "last_updated": "2026-09-12"
   },
   {
@@ -25,26 +25,26 @@
   },
   {
     "name": "AI Agents in Enterprise Observability",
-    "status": "developing",
-    "summary": "The rise of AI coding agents is changing software development workflows, necessitating robust permission management in RAG systems and infrastructure adaptations for continuous AI agent traffic. Recent incidents highlight the critical need for advanced monitoring and security for AI agents, as they can bypass existing safeguards.",
+    "status": "escalating",
+    "summary": "The rise of AI coding agents necessitates a fundamental overhaul of security, focusing on granular permission management and distinct agent identities rather than broad access. OpenAI's acquisition of Git AI founders to measure ROI highlights the growing importance of understanding agent performance in enterprise workflows.",
     "last_updated": "2026-09-12"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem sees mixed fortunes with Moat Academy celebrating 10 years and the Dangote Refinery planning an IPO, contrasted with concerns about global tech giants overlooking African talent. Fintechs continue regional expansion, and opportunities exist in addressing local economic challenges with tech solutions.",
+    "summary": "The ecosystem saw a significant rebound in August 2026, attracting $364.1 million in funding, driven by mega deals in logistics and fintech, signaling renewed investor confidence and diversification.",
     "last_updated": "2026-09-12"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economic ambitions are challenged by persistent insecurity and the need for household recovery, with ongoing debates about the true value of economic gains amidst significant government borrowing. Business confidence is rising, but inflation disproportionately affects low-income earners, and states show varied revenue growth post-subsidy.",
+    "summary": "Nigeria's economic ambitions are challenged by persistent insecurity and the need for household recovery, with ongoing debates about the true value of economic gains amidst significant government borrowing. Rising fuel prices and corporate debt levels add to the complexity.",
     "last_updated": "2026-09-12"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle is heating up with early campaigns and disruptions, raising concerns about political integrity, security during political activities, and the fairness of electoral processes. Reports highlight a spreading culture of political intolerance and the potential use of armed groups in political campaigns.",
+    "summary": "The 2027 election cycle is heating up with INEC publishing the final candidate list and early campaigns intensifying, including support rallies by government officials, raising concerns about political integrity and the fairness of electoral processes.",
     "last_updated": "2026-09-12"
   },
   {
@@ -80,7 +80,7 @@
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "NAFDAC's destruction of counterfeit goods highlights pervasive health risks, while Plateau State records a rising death toll from diphtheria, underscoring the need for continued vigilance and robust public health response mechanisms. Bureaucratic sabotage at NAFDAC is also identified as a threat to national security.",
+    "summary": "NAFDAC's destruction of counterfeit goods highlights pervasive health risks, while Plateau State records a rising death toll from diphtheria, underscoring the need for continued vigilance and robust public health response mechanisms. A suspected contaminated alcoholic beverage in Ondo State has also led to 29 deaths.",
     "last_updated": "2026-09-12"
   },
   {
