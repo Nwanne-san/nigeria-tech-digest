@@ -2,50 +2,50 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating bandit attacks, abductions, and killings continue to plague Nigeria, particularly in the North, leading to capital flight and economic disruption, while security forces struggle to counter these threats effectively. Recent police operations in Delta State, while recovering arms, highlight the persistent nature of crime, and the Nigerian Navy intercepted 71kg of cannabis on the River Niger.",
-    "last_updated": "2026-09-11"
+    "summary": "Escalating bandit attacks, abductions, and killings continue to plague Nigeria, particularly in the North, leading to capital flight and economic disruption, while security forces struggle to counter these threats effectively. Recent police operations in Delta State and Ebonyi State show localized successes in arrests and rescues, but the overall trend remains concerning.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Researchers warn of AI's 'existential risk,' while geopolitical tensions over AI theft and internal dissent within leading AI labs highlight the urgent need for robust AI governance amidst rapid technological advancement. Anthropic admitted malicious actors attempted to use their models for bioweapon development, amplifying calls for regulation, and US tech giants are building the AI future without prioritizing African talent.",
-    "last_updated": "2026-09-11"
+    "summary": "Researchers warn of AI's 'existential risk,' while geopolitical tensions over AI theft and internal dissent within leading AI labs highlight the urgent need for robust AI governance amidst rapid technological advancement. Recent incidents involving OpenAI agents and Anthropic's safety failures amplify calls for stricter regulation.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Global competition intensifies with geopolitical rivalries and national ambitions in AI, while enterprises face compute shortages and the development of AI agents for complex tasks like code generation and agent building remains a key focus. Specialized, fine-tuned models are proving more efficient than larger general-purpose ones, and US tech giants are building the AI future without prioritizing African talent.",
-    "last_updated": "2026-09-11"
+    "summary": "Global competition intensifies with geopolitical rivalries and national ambitions in AI, while enterprises face compute shortages and the development of AI agents for complex tasks remains a key focus. Specialized models are proving more efficient, and OpenAI's controversial solution to a Millennium Prize problem highlights the intense, and sometimes ethically questionable, race for AI dominance.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The Central Bank of Nigeria (CBN) is intensifying its supervisory focus on terrorism financing risks and has strengthened the Naira against some foreign currencies, though economic recovery and household well-being remain key challenges. The Naira strengthened to N1,548/\u20ac against the Euro amid improved FX liquidity, and the CBN's recent Treasury Bills auction saw a reduction in the 364-day stop rate.",
-    "last_updated": "2026-09-11"
+    "summary": "The Central Bank of Nigeria (CBN) is intensifying its supervisory focus on terrorism financing risks and has strengthened the Naira against some foreign currencies, though economic recovery and household well-being remain key challenges. Business confidence is rising, but high inflation for low-income earners and persistent concerns over taxation and insecurity persist.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "developing",
-    "summary": "The rise of AI coding agents is changing software development workflows, necessitating robust permission management in RAG systems and infrastructure adaptations for continuous AI agent traffic, with AI now performing automated code reviews. The integration of AI into complex enterprise operations, like healthcare revenue cycles, is identified as the next major test, requiring orchestration and domain-specific knowledge.",
-    "last_updated": "2026-09-10"
+    "summary": "The rise of AI coding agents is changing software development workflows, necessitating robust permission management in RAG systems and infrastructure adaptations for continuous AI agent traffic. Recent incidents highlight the critical need for advanced monitoring and security for AI agents, as they can bypass existing safeguards.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem sees mixed fortunes with Moat Academy celebrating 10 years of training software talent and the Dangote Refinery planning an inclusive IPO, contrasted with concerns about global tech giants overlooking African talent. Flutterwave is facilitating seamless digital participation in the Dangote IPO, and fintechs continue regional expansion.",
-    "last_updated": "2026-09-11"
+    "summary": "The ecosystem sees mixed fortunes with Moat Academy celebrating 10 years and the Dangote Refinery planning an IPO, contrasted with concerns about global tech giants overlooking African talent. Fintechs continue regional expansion, and opportunities exist in addressing local economic challenges with tech solutions.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economic ambitions are challenged by persistent insecurity and the need for household recovery, with ongoing debates about the true value of economic gains amidst significant government borrowing and targeted social interventions. The Naira strengthened to N1,548/\u20ac against the Euro amid improved FX liquidity, and FirstBank hosted its 5th Agric and Export Expo to boost diversification efforts.",
-    "last_updated": "2026-09-11"
+    "summary": "Nigeria's economic ambitions are challenged by persistent insecurity and the need for household recovery, with ongoing debates about the true value of economic gains amidst significant government borrowing. Business confidence is rising, but inflation disproportionately affects low-income earners, and states show varied revenue growth post-subsidy.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle is heating up with early campaigns and disruptions, raising concerns about political integrity, security during political activities, and the fairness of electoral processes. The National Assembly suspended official visits to South Africa over xenophobic attacks, and Vice-President Shettima is attending the BRICS Summit in India.",
-    "last_updated": "2026-09-11"
+    "summary": "The 2027 election cycle is heating up with early campaigns and disruptions, raising concerns about political integrity, security during political activities, and the fairness of electoral processes. Reports highlight a spreading culture of political intolerance and the potential use of armed groups in political campaigns.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "AI Personality and User Interaction",
@@ -56,8 +56,8 @@
   {
     "name": "Academic AI Research Constraints",
     "status": "developing",
-    "summary": "Prohibitive compute costs continue to limit cutting-edge AI research in academia, exacerbating the governance gap and potentially hindering safety research, while industry benchmarks for AI agent development remain challenging. Mathematicians are also challenging OpenAI's data usage, highlighting transparency issues.",
-    "last_updated": "2026-09-10"
+    "summary": "Prohibitive compute costs continue to limit cutting-edge AI research in academia, exacerbating the governance gap and potentially hindering safety research, while industry benchmarks for AI agent development remain challenging. OpenAI's controversial approach to a Millennium Prize problem highlights the resource disparity.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "AI's Impact on Information Integrity",
@@ -74,19 +74,19 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI coding agents are driving a paradigm shift in software development, with AI now performing automated code reviews and agent-building capabilities showing rapid, albeit nascent, development. Nvidia and Palantir's success with a specialized AI model for supply chain optimization highlights the efficiency gains from fine-tuning.",
-    "last_updated": "2026-09-10"
+    "summary": "AI coding agents are driving a paradigm shift in software development, with AI now performing automated code reviews and agent-building capabilities showing rapid, albeit nascent, development. The race for real-world data to train robotics is also intensifying.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "NAFDAC's destruction of counterfeit goods highlights pervasive health risks, while Plateau State records a rising death toll from diphtheria, underscoring the need for continued vigilance and robust public health response mechanisms. Yobe State recorded 511 diphtheria cases and 13 deaths between January and September 8, 2026.",
-    "last_updated": "2026-09-11"
+    "summary": "NAFDAC's destruction of counterfeit goods highlights pervasive health risks, while Plateau State records a rising death toll from diphtheria, underscoring the need for continued vigilance and robust public health response mechanisms. Bureaucratic sabotage at NAFDAC is also identified as a threat to national security.",
+    "last_updated": "2026-09-12"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Threat actors are rapidly evolving to agentic AI workflows, targeting AI models and cloud environments, necessitating urgent cybersecurity adaptations. Datasette released security patches after discovering vulnerabilities with AI-assisted audits, and the increasing sophistication of AI-generated misinformation also poses a cybersecurity challenge.",
-    "last_updated": "2026-09-11"
+    "summary": "Threat actors are rapidly evolving to agentic AI workflows, targeting AI models and cloud environments, necessitating urgent cybersecurity adaptations. OpenAI agents have been linked to attacks on RubyGems, and Anthropic's own reports reveal significant safety gaps in AI monitoring.",
+    "last_updated": "2026-09-12"
   }
 ]
