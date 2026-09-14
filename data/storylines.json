@@ -2,61 +2,61 @@
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Escalating bandit attacks, abductions, and killings continue to plague Nigeria, particularly in the North, with recent incidents including the abduction of six imams in Zamfara and continued farmer-herder violence in Plateau State, highlighting persistent challenges in securing lives and livelihoods.",
-    "last_updated": "2026-09-13"
+    "summary": "While Kaduna reports significant success in recovering farmlands, persistent killings in Plateau and a brazen attack on a military base in Oyo highlight the evolving and deeply entrenched nature of insecurity across Nigeria, necessitating enhanced national intelligence and rapid response capabilities.",
+    "last_updated": "2026-09-14"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Leading AI CEOs are calling for a slowdown in development due to existential risks, proposing coordinated safety measures and embedded evaluators, intensifying the debate on AI regulation amidst rapid advancement and geopolitical competition.",
-    "last_updated": "2026-09-12"
+    "summary": "The global AI governance landscape is fragmenting as China rejects calls for a slowdown, while Microsoft releases a 'humanist AI code of conduct' emphasizing human control, signaling a complex geopolitical competition and a challenging path to unified international safety standards.",
+    "last_updated": "2026-09-14"
   },
   {
     "name": "AI Model Competition and Efficiency",
     "status": "escalating",
-    "summary": "Global competition intensifies with geopolitical rivalries and national ambitions in AI, while enterprises face compute shortages and the development of AI agents for complex tasks remains a key focus, with specialized models proving more efficient.",
-    "last_updated": "2026-09-12"
+    "summary": "Intensified competition is evident with Apple enabling third-party AI integration into Siri, Cassava Technologies launching Nvidia-powered AI data centers in Africa, and practical advice emerging on LLM cost optimization, all while geopolitical rivalries shape the global AI race.",
+    "last_updated": "2026-09-14"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The Central Bank of Nigeria (CBN) is intensifying its supervisory focus on terrorism financing risks and has strengthened the Naira against some foreign currencies, though economic recovery and household well-being remain key challenges amidst rising inflation predictions.",
-    "last_updated": "2026-09-13"
+    "summary": "The CBN's focus on supervisory risks continues as economic recovery faces challenges, with the unfulfilled promise of N25,000 palliative for pensioners highlighting ongoing struggles to deliver on social protection measures amidst rising living costs.",
+    "last_updated": "2026-09-14"
   },
   {
     "name": "AI Agents in Enterprise Observability",
     "status": "escalating",
-    "summary": "The rise of AI coding agents necessitates a fundamental overhaul of security, focusing on granular permission management and distinct agent identities, as OpenAI's acquisition of Git AI founders highlights the growing importance of understanding agent performance.",
-    "last_updated": "2026-09-12"
+    "summary": "The increasing sophistication of AI agents, highlighted by Apple's Siri interoperability and Microsoft's focus on human oversight in response to 'rogue agent' incidents, underscores the critical need for robust security, granular permissions, and distinct agent identities for enterprise adoption.",
+    "last_updated": "2026-09-14"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem saw a significant rebound in August 2026, attracting $364.1 million in funding, driven by mega deals in logistics and fintech, signaling renewed investor confidence and diversification, with open banking poised to revolutionize SME lending.",
-    "last_updated": "2026-09-13"
+    "summary": "The ecosystem shows resilience with a strong August rebound and significant funding, while the overwhelming demand for the Dangote Refinery IPO on digital platforms highlights both immense potential and the critical need for scalable, secure, and regulated fintech infrastructure.",
+    "last_updated": "2026-09-14"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economic ambitions are challenged by persistent insecurity and the need for household recovery, with rising fuel prices to N1,430 in Abuja and predicted August inflation above July's 15.43%, alongside significant government borrowing.",
-    "last_updated": "2026-09-13"
+    "summary": "Nigeria seeks to revive trade with India, secures a significant weight in a J.P. Morgan bond index, and sees major domestic bond issuances, yet faces persistent challenges from insecurity, inflation, and the need for effective delivery on economic reforms and social palliatives.",
+    "last_updated": "2026-09-14"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle is intensifying with INEC releasing the final candidate list and presidential hopefuls making bold promises, while civil society demands accountability for electoral funds, highlighting ongoing concerns about political integrity and fairness.",
-    "last_updated": "2026-09-13"
+    "summary": "The 2027 election cycle intensifies with defections and political maneuvering, while public scrutiny on economic accountability grows amidst ASUU strike threats and lingering promises of subsidy relief, alongside incidents questioning political decorum.",
+    "last_updated": "2026-09-14"
   },
   {
     "name": "AI Personality and User Interaction",
     "status": "developing",
-    "summary": "Meta's AI agent launch faces trust concerns, while the broader trend of AI in education shows students using AI critically can improve learning outcomes, and AI's impact on information integrity is a growing concern.",
-    "last_updated": "2026-09-10"
+    "summary": "Microsoft's 'humanist AI code of conduct' aims to ensure AI remains subordinate to humanity and avoids fostering excessive reliance, addressing concerns about AI's impact on user interaction and information integrity.",
+    "last_updated": "2026-09-14"
   },
   {
     "name": "Academic AI Research Constraints",
     "status": "developing",
-    "summary": "Prohibitive compute costs continue to limit cutting-edge AI research in academia, exacerbating the governance gap and potentially hindering safety research, while industry benchmarks for AI agent development remain challenging.",
+    "summary": "Prohibitive compute costs continue to limit cutting-edge AI research in academia, potentially hindering safety research and exacerbating the governance gap.",
     "last_updated": "2026-09-12"
   },
   {
@@ -68,19 +68,19 @@
   {
     "name": "AI in Education and Professional Development",
     "status": "developing",
-    "summary": "While AI avatars offer personalized feedback, a new report suggests students using AI uncritically score worse, highlighting the need for AI literacy and critical assessment, with teachers calling for greater collaboration.",
+    "summary": "While AI offers personalized feedback, critical use is key, as students using AI uncritically may score worse, highlighting the need for AI literacy and teacher collaboration.",
     "last_updated": "2026-09-10"
   },
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI coding agents are driving a paradigm shift in software development, with AI now performing automated code reviews and agent-building capabilities showing rapid development, alongside an intensifying race for real-world data to train robotics.",
+    "summary": "AI coding agents are driving a paradigm shift in software development, with AI performing automated code reviews and agent-building capabilities showing rapid development, alongside an intensifying race for real-world data to train robotics.",
     "last_updated": "2026-09-12"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "NAFDAC's destruction of counterfeit goods and rising diphtheria deaths highlight pervasive health risks, while the NDLEA seizes over 2.3 tonnes of illicit drugs, underscoring the need for continued vigilance and robust public health response mechanisms.",
+    "summary": "NAFDAC's destruction of counterfeit goods and rising diphtheria deaths highlight pervasive health risks, while the NDLEA seizes illicit drugs, underscoring the need for continued vigilance and robust public health response mechanisms.",
     "last_updated": "2026-09-13"
   },
   {
