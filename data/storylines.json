@@ -2,61 +2,61 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "The Federal Government's \u20a610.5 billion commitment to a Digital Training Academy for 32,000 Nigerians, focusing on AI, ML, and cybersecurity, signals a major push to bridge the digital skills gap and compete globally, while also highlighting the need for robust infrastructure and pathways to employment.",
+    "summary": "The Federal Government's significant investment in a Digital Training Academy for AI, ML, and cybersecurity aims to bridge the digital skills gap, but success hinges on parallel investments in robust digital infrastructure to ensure training translates into employment.",
     "last_updated": "2026-09-15"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Global political and business leaders, including US President Trump and Chinese officials, are largely dismissing concerns about AI risks and prioritizing rapid development and competition, contrasting with calls for caution from some AI giants and highlighting a fragmented approach to AI governance.",
+    "summary": "Global leaders are largely prioritizing AI development over risk mitigation, leading to a fragmented approach to governance and a widening gap between AI capabilities and regulatory oversight, exacerbated by increasing loss-of-control incidents.",
     "last_updated": "2026-09-15"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "The AI landscape is evolving with Salesforce launching specialized, open-weight reasoning models like Koa for enterprises, challenging frontier labs and emphasizing task-specific solutions, while massive investments in AI infrastructure continue amidst concerns about financial sustainability.",
+    "summary": "The AI landscape is marked by intense competition, with specialized models emerging for enterprises and massive infrastructure investments continuing, though concerns about financial sustainability and the practical application of AI persist.",
     "last_updated": "2026-09-15"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "A survey indicates strong public perception of transparency in CBN activities, with a continued focus on interest rates, while prominent figures like UBA's Alawuba point to improving economic indicators and the need for public-private collaboration for inclusive prosperity.",
+    "summary": "Public perception of CBN transparency remains strong, with a focus on interest rates, while economic indicators show signs of improvement, underscoring the need for continued public-private collaboration for inclusive growth.",
     "last_updated": "2026-09-15"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria achieved a significant trade surplus with the US driven by urea exports, while the VP's participation in BRICS signals active foreign policy engagement, yet challenges like high petrol prices due to smuggling and the need for effective economic reforms persist.",
+    "summary": "Nigeria achieved a trade surplus driven by exports, and engaged in active foreign policy, yet persistent challenges like high petrol prices and the need for effective economic reforms remain critical.",
     "last_updated": "2026-09-15"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Madica's expansion into Algeria and Cameroon with new startup investments highlights the growing African tech ecosystem, while Nigeria's own ecosystem benefits from government digital training initiatives and the ongoing demand for scalable fintech infrastructure.",
+    "summary": "The African tech ecosystem is expanding with new investments, while Nigeria's own sector benefits from government digital training initiatives and sustained demand for scalable fintech infrastructure.",
     "last_updated": "2026-09-15"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Leading tech companies warn that AI-enabled cyberattacks will become significantly more sophisticated and difficult to stop within months, necessitating urgent cybersecurity adaptations, especially for vulnerable regions like Nigeria.",
+    "summary": "AI-enabled cyberattacks are projected to become significantly more sophisticated, necessitating urgent cybersecurity adaptations globally, with vulnerable regions like Nigeria requiring immediate attention.",
     "last_updated": "2026-09-15"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "NAFDAC's destruction of counterfeit goods and rising diphtheria deaths highlight pervasive health risks, while the NDLEA's arrest of a Mexican drug kingpin underscores the ongoing fight against illicit substances and transnational crime.",
+    "summary": "Pervasive health risks are highlighted by NAFDAC's actions against counterfeit goods and rising diphtheria cases, alongside ongoing efforts to combat illicit substances and transnational crime.",
     "last_updated": "2026-09-15"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Security forces neutralized cattle rustlers in Kwara and a Mexican drug kingpin in Nigeria, yet incidents of killings in Imo and ongoing concerns about proactive threat assessment indicate persistent and evolving security challenges across the nation.",
+    "summary": "Security forces are actively neutralizing threats, but persistent killings and evolving security challenges across the nation necessitate enhanced intelligence and rapid response capabilities.",
     "last_updated": "2026-09-15"
   },
   {
     "name": "AI's Impact on Information Integrity and Education",
     "status": "developing",
-    "summary": "Concerns persist about AI's potential for misinformation and its impact on education, with critical use and AI literacy being emphasized, while Microsoft's 'humanist AI code of conduct' aims to ensure AI remains subordinate to human control.",
+    "summary": "Concerns about AI-driven misinformation and its impact on education persist, emphasizing the need for critical use and AI literacy, while efforts are underway to ensure AI remains subordinate to human control.",
     "last_updated": "2026-09-14"
   },
   {
@@ -68,25 +68,25 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI coding agents are driving a paradigm shift in software development, with AI performing automated code reviews and agent-building capabilities showing rapid development, alongside an intensifying race for real-world data to train robotics.",
+    "summary": "AI coding agents are driving a paradigm shift in software development and agent-building capabilities, alongside an intensifying race for real-world data to train robotics.",
     "last_updated": "2026-09-12"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "While Kaduna reports success in recovering farmlands, persistent killings in Plateau and attacks on military bases highlight the evolving nature of insecurity, necessitating enhanced national intelligence and rapid response capabilities.",
+    "summary": "Despite successes in some areas, persistent killings and attacks highlight the evolving nature of insecurity, necessitating enhanced national intelligence and rapid response capabilities.",
     "last_updated": "2026-09-14"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle intensifies with political maneuvering, while public scrutiny on economic accountability grows amidst ASUU strike threats and lingering promises of subsidy relief.",
+    "summary": "The 2027 election cycle intensifies with political maneuvering, while public scrutiny on economic accountability grows amidst labor disputes and lingering subsidy reform issues.",
     "last_updated": "2026-09-14"
   },
   {
     "name": "AI in Physical Devices and Embedded Systems Security",
     "status": "escalating",
-    "summary": "The cybersecurity of AI systems embedded in physical objects, such as robots and drones, is emerging as a critical growth area, with startups like Exein raising significant funding to provide kernel-level security solutions.",
+    "summary": "The cybersecurity of AI systems embedded in physical objects is emerging as a critical growth area, driving significant investment in specialized security solutions.",
     "last_updated": "2026-09-15"
   }
 ]
