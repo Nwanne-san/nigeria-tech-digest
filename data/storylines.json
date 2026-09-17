@@ -2,31 +2,31 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "Government initiatives like digital training and SMEDAN/EFCC collaborations aim to empower youth with cybersecurity and entrepreneurship skills, but the success hinges on parallel investments in robust digital infrastructure and addressing the electricity gap.",
+    "summary": "The government is pushing digital free zones and youth engagement initiatives, but success hinges on parallel investments in digital infrastructure and addressing the electricity gap to prepare the workforce for AI-driven industries.",
     "last_updated": "2026-09-17"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Recent AI safety incidents and high-level international discussions highlight the growing gap between AI capabilities and regulatory oversight, with geopolitical tensions hindering global consensus on AI governance.",
+    "summary": "High-level discussions and industry admissions highlight a growing gap between AI capabilities and regulatory oversight, with geopolitical tensions and differing industry approaches complicating global consensus on AI governance.",
     "last_updated": "2026-09-17"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises like Saudi Aramco are realizing significant value from AI, while startups are integrating AI agents as 'teammates,' signaling a rapid shift in software development and operational models.",
+    "summary": "Enterprises are increasingly adopting AI, with startups integrating AI agents as 'teammates,' signaling a rapid shift in software development and operational models, while Google Cloud enhances its data cloud for AI inference.",
     "last_updated": "2026-09-17"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "US rate hikes threaten the naira, increasing pressure on banks with foreign subsidiaries, while efforts to manage liquidity and stabilize the financial system continue amidst global economic headwinds.",
+    "summary": "US rate hikes are pressuring the naira, increasing the challenge for the CBN to manage liquidity and stabilize the financial system amidst global economic headwinds and rising domestic costs.",
     "last_updated": "2026-09-17"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria faces economic challenges from naira devaluation and electricity deficits, but shows progress in climate tech investment and renewable energy for institutions, alongside ambitious goals to end child labour by 2030.",
+    "summary": "Nigeria faces economic challenges from naira devaluation and electricity deficits, but shows progress in climate tech investment and renewable energy, alongside a significant victory in the Mambilla project arbitration.",
     "last_updated": "2026-09-17"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Sophisticated AI-driven cyberattacks and the emergence of agentic security platforms underscore the urgent need for native security integration into AI pipelines and robust AI safety measures.",
+    "summary": "Sophisticated AI-driven cyberattacks and the emergence of agentic security platforms underscore the urgent need for native security integration into AI pipelines and robust AI safety measures, as models learn to hide misbehavior.",
     "last_updated": "2026-09-17"
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent insecurity is evident in ongoing kidnap trials and political pledges to resign if security targets aren't met, necessitating enhanced intelligence, rapid response, and community engagement.",
+    "summary": "Persistent insecurity is evident in ongoing kidnap trials, foiled attempts, and the interception of illicit goods, necessitating enhanced national intelligence, rapid response, and community engagement.",
     "last_updated": "2026-09-17"
   },
   {
@@ -68,25 +68,25 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming hiring strategies and the nature of software development, while also raising questions about ownership and accountability.",
+    "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming hiring strategies and software development, with new platforms enabling multi-agent collaboration.",
     "last_updated": "2026-09-17"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
     "status": "escalating",
-    "summary": "Despite successes in some areas, persistent killings and attacks highlight the evolving nature of insecurity, necessitating enhanced national intelligence and rapid response capabilities, including operationalizing existing assets.",
+    "summary": "Despite successes in some areas, persistent killings and attacks highlight the evolving nature of insecurity, necessitating enhanced national intelligence and rapid response capabilities.",
     "last_updated": "2026-09-16"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle intensifies with legislative actions on constitutional amendments, early campaign tensions, and opposition efforts to unite, all under the shadow of ongoing security challenges.",
+    "summary": "The 2027 election cycle intensifies with legislative actions, early campaign tensions, and opposition efforts, all under the shadow of ongoing security challenges and concerning political rhetoric.",
     "last_updated": "2026-09-17"
   },
   {
-    "name": "AI in Physical Devices and Embedded Systems Security",
+    "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "The cybersecurity of AI systems embedded in physical objects is emerging as a critical growth area, with new integrations allowing AI agents to control smart home devices, increasing the need for specialized security solutions.",
-    "last_updated": "2026-09-16"
+    "summary": "Internal admissions from Microsoft and OpenAI about 'theft' and 'existential threats' to publishers from AI scraping are fueling legal challenges and raising questions about the ethics and legality of AI training data acquisition.",
+    "last_updated": "2026-09-17"
   }
 ]
