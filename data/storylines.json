@@ -2,56 +2,56 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "The Federal Government's investment in AI, ML, and cybersecurity training aims to bridge the digital skills gap, but success hinges on parallel investments in robust digital infrastructure to ensure training translates into employment.",
-    "last_updated": "2026-09-16"
+    "summary": "Government initiatives like digital training and SMEDAN/EFCC collaborations aim to empower youth with cybersecurity and entrepreneurship skills, but the success hinges on parallel investments in robust digital infrastructure and addressing the electricity gap.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Global leaders are largely prioritizing AI development over risk mitigation, leading to a fragmented approach to governance and a widening gap between AI capabilities and regulatory oversight, exacerbated by increasing loss-of-control incidents.",
-    "last_updated": "2026-09-16"
+    "summary": "Recent AI safety incidents and high-level international discussions highlight the growing gap between AI capabilities and regulatory oversight, with geopolitical tensions hindering global consensus on AI governance.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "The AI landscape is marked by intense competition and massive infrastructure investments, with specialized models emerging for enterprises, though concerns about financial sustainability and practical application persist.",
-    "last_updated": "2026-09-16"
+    "summary": "Enterprises like Saudi Aramco are realizing significant value from AI, while startups are integrating AI agents as 'teammates,' signaling a rapid shift in software development and operational models.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN's significant liquidity injections aim to manage money supply and stabilize the financial system, while former governor Sanusi's admission on telcos' delayed entry into finance highlights past regulatory caution and future fintech potential.",
-    "last_updated": "2026-09-16"
+    "summary": "US rate hikes threaten the naira, increasing pressure on banks with foreign subsidiaries, while efforts to manage liquidity and stabilize the financial system continue amidst global economic headwinds.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria faces ongoing economic challenges with rising petrol prices impacting citizens, despite efforts in industrialization, digital identity coverage, and improved international financial standing.",
-    "last_updated": "2026-09-16"
+    "summary": "Nigeria faces economic challenges from naira devaluation and electricity deficits, but shows progress in climate tech investment and renewable energy for institutions, alongside ambitious goals to end child labour by 2030.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The Nigerian tech ecosystem benefits from government digital training initiatives and sustained demand for scalable fintech infrastructure, with former CBN governor's regret on telco entry signaling future growth.",
-    "last_updated": "2026-09-16"
+    "summary": "The ecosystem is diversifying into climate tech with significant funding, while government collaborations on youth empowerment and cybersecurity aim to foster a more robust and secure digital landscape.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI-enabled cyberattacks are becoming significantly more sophisticated, necessitating urgent global cybersecurity adaptations and native security integration into AI pipelines.",
-    "last_updated": "2026-09-16"
+    "summary": "Sophisticated AI-driven cyberattacks and the emergence of agentic security platforms underscore the urgent need for native security integration into AI pipelines and robust AI safety measures.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "Pervasive health risks are highlighted by a rising death toll from a suspected poisonous drink in Ondo and a new confirmed diphtheria case in Taraba, underscoring the need for robust public health responses and vaccination.",
-    "last_updated": "2026-09-16"
+    "summary": "A tragic rise in deaths from suspected poisonous alcohol in Ondo and spread to new areas highlights critical gaps in public health surveillance and regulation, demanding urgent governmental response.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Security forces are actively neutralizing threats across Nigeria, but persistent killings and evolving security challenges necessitate enhanced intelligence, rapid response capabilities, and community engagement.",
-    "last_updated": "2026-09-16"
+    "summary": "Persistent insecurity is evident in ongoing kidnap trials and political pledges to resign if security targets aren't met, necessitating enhanced intelligence, rapid response, and community engagement.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "AI's Impact on Information Integrity and Education",
@@ -68,8 +68,8 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI coding agents are driving a paradigm shift in software development and agent-building capabilities, with unified AI experiences and smart home device control emerging.",
-    "last_updated": "2026-09-16"
+    "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming hiring strategies and the nature of software development, while also raising questions about ownership and accountability.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "Nigeria's Infrastructure for Insecurity Response",
@@ -80,8 +80,8 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle intensifies with legislative actions on constitutional amendments, ongoing legal scrutiny of credentials, and internal party dynamics shaping the political landscape.",
-    "last_updated": "2026-09-16"
+    "summary": "The 2027 election cycle intensifies with legislative actions on constitutional amendments, early campaign tensions, and opposition efforts to unite, all under the shadow of ongoing security challenges.",
+    "last_updated": "2026-09-17"
   },
   {
     "name": "AI in Physical Devices and Embedded Systems Security",
