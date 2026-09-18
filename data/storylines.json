@@ -2,79 +2,79 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "The government's push for digital free zones and youth engagement in AI workforce development continues, but success remains contingent on parallel investments in digital infrastructure and addressing the electricity gap to prepare the workforce for AI-driven industries.",
+    "summary": "The government's push for digital free zones and youth engagement in AI workforce development continues, with effective micro-learning strategies gaining traction globally, though success remains contingent on parallel investments in digital infrastructure and addressing the electricity gap.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches, with tech leaders clashing over safety regulation and the potential for AI-driven bioweapons and cyberattacks.",
+    "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches, with tech leaders clashing over safety regulation and the potential for AI-driven bioweapons and cyberattacks, intensifying calls for governance.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models, while the cybersecurity landscape evolves with AI-assisted breaches and the need for native security integration.",
+    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models, while specialized models gain traction for cost-effectiveness and performance, alongside ongoing competition between proprietary and open-weight options.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN and Ministry of Finance have signed an MOU to strengthen fiscal-monetary policy coordination, aiming for economic stability amidst US rate hikes pressuring the naira and rising domestic costs, while fuel price spikes renew inflation worries.",
+    "summary": "The CBN and Ministry of Finance have signed an MOU to strengthen fiscal-monetary policy coordination, aiming for economic stability amidst US rate hikes pressuring the naira and rising domestic costs, while fuel price spikes renew inflation worries and political calls for relief intensify.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria faces economic challenges from naira devaluation and fuel price hikes, but sees progress in climate tech investment, renewable energy, and strategic agribusiness and energy investments driving mass employment, alongside cross-border energy development.",
+    "summary": "Nigeria faces economic challenges from naira devaluation and fuel price hikes, but sees progress in climate tech investment, renewable energy, and strategic agribusiness and energy investments driving mass employment, alongside cross-border energy development and regional economic visions.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem is diversifying into climate tech and cybersecurity with significant funding, while government initiatives on youth empowerment and cybersecurity aim to foster a robust digital landscape, though fintech faces FX volatility.",
+    "summary": "The ecosystem is diversifying into climate tech and cybersecurity with significant funding, while government initiatives on youth empowerment and cybersecurity aim to foster a robust digital landscape, though fintech faces FX volatility and broader economic headwinds.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models being used to breach other systems, underscoring the urgent need for native security integration into AI pipelines and robust AI safety measures.",
+    "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models demonstrating advanced exploit development capabilities, underscoring the urgent need for native security integration into AI pipelines and robust AI safety measures by both attackers and defenders.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "A tragic rise in deaths from suspected poisonous alcohol in Ondo and the deaths of suspected illegal miners in custody highlight critical gaps in public health surveillance, regulation, and the justice system, demanding urgent governmental response.",
+    "summary": "A tragic rise in deaths from suspected poisonous alcohol in Ondo and the deaths of suspected illegal miners in custody highlight critical gaps in public health surveillance, regulation, and the justice system, demanding urgent governmental response and accountability.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent insecurity is evident in ongoing kidnap trials, foiled attempts, deaths in custody, and collateral damage during military operations, necessitating enhanced national intelligence, rapid response, and community engagement.",
+    "summary": "Persistent insecurity is evident in ongoing kidnap trials, foiled attempts, deaths in custody, and collateral damage during military operations, necessitating enhanced national intelligence, rapid response, and community engagement, with AI increasingly used in counter-terrorism efforts.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "Internal admissions from Microsoft and OpenAI about 'theft' and 'existential threats' to publishers from AI scraping are fueling legal challenges and raising questions about the ethics and legality of AI training data acquisition.",
+    "summary": "Internal admissions from Microsoft and OpenAI about 'theft' and 'existential threats' to publishers from AI scraping are fueling legal challenges and raising questions about the ethics and legality of AI training data acquisition, intensifying regulatory scrutiny.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming hiring strategies and software development, with new platforms enabling multi-agent collaboration and AI coding assistants becoming standard tools.",
+    "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming hiring strategies and software development, with new platforms enabling multi-agent collaboration and AI coding assistants becoming standard tools, supported by advancements in specialized AI models.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle intensifies with legislative actions and early campaign tensions, while INEC begins recruitment for ad hoc staff, all under the shadow of ongoing security challenges and political rhetoric.",
+    "summary": "The 2027 election cycle intensifies with legislative actions and early campaign tensions, including allegations against political figures and party registration validations, all under the shadow of ongoing security challenges and political rhetoric.",
     "last_updated": "2026-09-18"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
     "status": "escalating",
-    "summary": "Leaders from major AI companies are publicly warning about existential risks, including AI-enabled bioweapons, while debating safety regulation, with differing views on slowing development and potential government intervention.",
+    "summary": "Leaders from major AI companies are publicly warning about existential risks, including AI-enabled bioweapons, while debating safety regulation, with differing views on slowing development and potential government intervention, intensifying calls for robust governance.",
     "last_updated": "2026-09-18"
   }
 ]
