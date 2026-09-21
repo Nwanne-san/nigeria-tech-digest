@@ -2,56 +2,56 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "The government's push for digital free zones and youth engagement in AI workforce development continues, with effective micro-learning strategies gaining traction globally, though success remains contingent on parallel investments in digital infrastructure and addressing the electricity gap.",
-    "last_updated": "2026-09-20"
+    "summary": "The government's push for digital free zones and youth engagement in AI workforce development continues, with effective micro-learning strategies gaining traction globally. The success of Nigerian talent at global AI firms like OpenAI highlights the nation's potential, though progress remains contingent on parallel investments in digital infrastructure and addressing the electricity gap.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches, with tech leaders clashing over safety regulation and the potential for AI-driven bioweapons and cyberattacks, intensifying calls for governance.",
-    "last_updated": "2026-09-20"
+    "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches. OpenAI's formation of a math advisory group with limited power, alongside regional regulations on data center energy use, highlights ongoing efforts to manage AI's impact while innovation accelerates.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
-    "status": "developing",
-    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models, while specialized models gain traction for cost-effectiveness and performance, alongside ongoing competition between proprietary and open-weight options.",
-    "last_updated": "2026-09-20"
+    "status": "escalating",
+    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models. AWS's open-sourcing of Strands Harness and Meta's Muse rapidly gaining traction challenge proprietary models and intensify competition, while AMD's market cap surge underscores hardware demand.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "developing",
-    "summary": "The CBN and Ministry of Finance have signed an MOU to strengthen fiscal-monetary policy coordination, aiming for economic stability amidst US rate hikes pressuring the naira and rising domestic costs, while fuel price spikes renew inflation worries and political calls for relief intensify.",
-    "last_updated": "2026-09-20"
+    "summary": "The CBN and Ministry of Finance have signed an MOU to strengthen fiscal-monetary policy coordination, aiming for economic stability amidst US rate hikes pressuring the naira and rising domestic costs. The FG's assurance of no electricity tariff increases provides temporary relief, while Fidelity Bank's rating upgrade signals resilience in the financial sector.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "developing",
-    "summary": "Nigeria faces economic challenges from naira devaluation and fuel price hikes, but sees progress in climate tech investment, renewable energy, and strategic agribusiness and energy investments driving mass employment, alongside cross-border energy development and regional economic visions.",
-    "last_updated": "2026-09-20"
+    "summary": "Nigeria faces economic challenges from naira devaluation and fuel price hikes, but sees progress in climate tech investment and strategic agribusiness. Dangote's planned $10bn Africa power investment and the FG's assurance against electricity tariff hikes are key developments, alongside improved connectivity through new flight routes.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "developing",
-    "summary": "The ecosystem is diversifying into climate tech and cybersecurity with significant funding, while government initiatives on youth empowerment and cybersecurity aim to foster a robust digital landscape, though fintech faces FX volatility and broader economic headwinds.",
-    "last_updated": "2026-09-20"
+    "summary": "The ecosystem is diversifying into climate tech and cybersecurity with significant funding. While fintech faces FX volatility, government initiatives on youth empowerment and cybersecurity aim to foster a robust digital landscape, supported by improved infrastructure and financial sector stability.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models demonstrating advanced exploit development capabilities, underscoring the urgent need for native security integration into AI pipelines and robust AI safety measures by both attackers and defenders.",
+    "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models demonstrating advanced exploit development capabilities. The need for native security integration into AI pipelines and robust AI safety measures by both attackers and defenders is more critical than ever.",
     "last_updated": "2026-09-20"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "A tragic rise in deaths from suspected poisonous alcohol in Ondo and the deaths of suspected illegal miners in custody highlight critical gaps in public health surveillance, regulation, and the justice system, demanding urgent governmental response and accountability.",
-    "last_updated": "2026-09-20"
+    "summary": "A tragic rise in deaths from suspected poisonous alcohol and illegal miners in custody highlight critical gaps in public health surveillance and regulation. Warnings against mixing drugs with herbal remedies and the bust of a fake juice factory underscore ongoing threats to consumer safety.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent insecurity is evident in ongoing kidnap trials, foiled attempts, deaths in custody, and collateral damage during military operations, necessitating enhanced national intelligence, rapid response, and community engagement, with AI increasingly used in counter-terrorism efforts.",
-    "last_updated": "2026-09-20"
+    "summary": "Persistent insecurity is evident in ongoing communal violence in Plateau State, mass abductions in Borno, and threats to digital infrastructure from fibre cuts. Enhanced national intelligence, rapid response, and community engagement are urgently needed, with AI increasingly used in counter-terrorism efforts.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "AI Training Data and Copyright Battles",
@@ -61,20 +61,20 @@
   },
   {
     "name": "Generative Software and Interface World Models",
-    "status": "developing",
-    "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming hiring strategies and software development, with new platforms enabling multi-agent collaboration and AI coding assistants becoming standard tools, supported by advancements in specialized AI models.",
-    "last_updated": "2026-09-20"
+    "status": "escalating",
+    "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming software development and operational models. AWS's Strands Harness and Meta's Muse are accelerating this trend, with a focus on cost-effectiveness, user experience, and integration into existing platforms.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Multiple lawsuits against INEC regarding political financing and alleged Electoral Act breaches, alongside warnings about result transmission methods, intensify scrutiny of electoral processes ahead of the 2027 elections.",
-    "last_updated": "2026-09-20"
+    "summary": "Public rifts between political figures like Wike and Uzodimma, alongside concerns over leadership absence and the potential weaponization of state police, intensify scrutiny of electoral processes ahead of 2027. The Appeal Court ruling on Magu's tenure also reinforces calls for adherence to constitutional processes.",
+    "last_updated": "2026-09-21"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
     "status": "escalating",
-    "summary": "Leaders from major AI companies are publicly warning about existential risks, including AI-enabled bioweapons, while debating safety regulation, with differing views on slowing development and potential government intervention, intensifying calls for robust governance.",
-    "last_updated": "2026-09-20"
+    "summary": "Leaders from major AI companies are publicly warning about existential risks, including AI-enabled bioweapons, while debating safety regulation. OpenAI's claims of solving major math problems and the formation of an advisory group with limited power highlight the tension between rapid innovation and calls for robust governance.",
+    "last_updated": "2026-09-21"
   }
 ]
