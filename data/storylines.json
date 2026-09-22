@@ -3,43 +3,43 @@
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
     "summary": "The government's push for digital free zones and youth engagement in AI workforce development continues, with effective micro-learning strategies gaining traction globally. The success of Nigerian talent at global AI firms like OpenAI highlights the nation's potential, though progress remains contingent on parallel investments in digital infrastructure and addressing the electricity gap.",
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
     "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches. OpenAI's formation of a math advisory group with limited power, alongside regional regulations on data center energy use, highlights ongoing efforts to manage AI's impact while innovation accelerates.",
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
     "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models. AWS's open-sourcing of Strands Harness and Meta's Muse rapidly gaining traction challenge proprietary models and intensify competition, while AMD's market cap surge underscores hardware demand.",
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "CBN Policy and Economic Management",
-    "status": "developing",
-    "summary": "The CBN and Ministry of Finance have signed an MOU to strengthen fiscal-monetary policy coordination, aiming for economic stability amidst US rate hikes pressuring the naira and rising domestic costs. The FG's assurance of no electricity tariff increases provides temporary relief, while Fidelity Bank's rating upgrade signals resilience in the financial sector.",
-    "last_updated": "2026-09-21"
+    "status": "escalating",
+    "summary": "The CBN has cut its MPR by 350bps to 23% and foreign reserves have surged to $55 billion, signaling a pivot towards growth stimulation, though risks from geopolitical tensions and election spending remain.",
+    "last_updated": "2026-09-22"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "developing",
     "summary": "Nigeria faces economic challenges from naira devaluation and fuel price hikes, but sees progress in climate tech investment and strategic agribusiness. Dangote's planned $10bn Africa power investment and the FG's assurance against electricity tariff hikes are key developments, alongside improved connectivity through new flight routes.",
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "developing",
     "summary": "The ecosystem is diversifying into climate tech and cybersecurity with significant funding. While fintech faces FX volatility, government initiatives on youth empowerment and cybersecurity aim to foster a robust digital landscape, supported by improved infrastructure and financial sector stability.",
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
     "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models demonstrating advanced exploit development capabilities. The need for native security integration into AI pipelines and robust AI safety measures by both attackers and defenders is more critical than ever.",
-    "last_updated": "2026-09-20"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "Public Health Crises in Nigeria",
@@ -51,25 +51,25 @@
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
     "summary": "Persistent insecurity is evident in ongoing communal violence in Plateau State, mass abductions in Borno, and threats to digital infrastructure from fibre cuts. Enhanced national intelligence, rapid response, and community engagement are urgently needed, with AI increasingly used in counter-terrorism efforts.",
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
     "summary": "Internal admissions from Microsoft and OpenAI about 'theft' and 'existential threats' to publishers from AI scraping are fueling legal challenges and raising questions about the ethics and legality of AI training data acquisition, intensifying regulatory scrutiny.",
-    "last_updated": "2026-09-20"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
     "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming software development and operational models. AWS's Strands Harness and Meta's Muse are accelerating this trend, with a focus on cost-effectiveness, user experience, and integration into existing platforms.",
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
     "summary": "Public rifts between political figures like Wike and Uzodimma, alongside concerns over leadership absence and the potential weaponization of state police, intensify scrutiny of electoral processes ahead of 2027. The Appeal Court ruling on Magu's tenure also reinforces calls for adherence to constitutional processes.",
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
