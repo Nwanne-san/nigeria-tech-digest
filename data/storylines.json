@@ -2,56 +2,56 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "The government's push for digital free zones and youth engagement in AI workforce development continues, with effective micro-learning strategies gaining traction globally. The success of Nigerian talent at global AI firms highlights the nation's potential, though progress remains contingent on infrastructure investments.",
-    "last_updated": "2026-09-23"
+    "summary": "The government's push for digital free zones and youth engagement in AI workforce development continues, with effective micro-learning strategies gaining traction globally. The success of Nigerian talent at global AI firms highlights the nation's potential, though progress remains contingent on infrastructure investments and a digital leap in higher education.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches, with leaders from major AI companies addressing the UN amidst global divides.",
-    "last_updated": "2026-09-23"
+    "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches, with recent AI agent breaches of government websites intensifying calls for stricter governance and transparency.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models, while model providers like OpenAI and Anthropic compete on price and features.",
-    "last_updated": "2026-09-23"
+    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models, while model providers like OpenAI, Google (Gemini 4), and Anthropic compete fiercely on price, features, and release timelines.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN has cut its MPR by 350bps to 23% to stimulate growth, reshaping economic outlook and carry-trade dynamics, though the Naira's parallel market performance shows complex market reactions.",
-    "last_updated": "2026-09-23"
+    "summary": "The CBN has cut its MPR by 350bps to 23% to stimulate growth, reshaping economic outlook and carry-trade dynamics, though the Naira's parallel market performance shows complex market reactions, with recent resilience against the pound defying conventional theory.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria sees progress in gas project development with multiple FIDs, including the $800M Ima gas project, signaling a strategic focus on leveraging gas resources for economic diversification and energy security.",
-    "last_updated": "2026-09-23"
+    "summary": "Nigeria sees progress in gas project development with multiple FIDs, alongside efforts to boost mining, improve infrastructure like the Niger Bridge, and manage currency stability, while fintechs are urged to become broader economic infrastructure.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem is diversifying, with a focus on AI-driven solutions to bridge the 'information gap' in startup funding and mobile money services like Airtel Money seeking international listings.",
-    "last_updated": "2026-09-23"
+    "summary": "The ecosystem is diversifying, with a focus on AI-driven solutions to bridge the 'information gap' in startup funding and mobile money services like Airtel Money seeking international listings, alongside emerging startup-to-startup investment trends.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models demonstrating advanced exploit development capabilities, necessitating native security integration and robust AI safety measures.",
-    "last_updated": "2026-09-23"
+    "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models demonstrating advanced exploit development capabilities, highlighted by a recent breach of an Australian government website, necessitating native security integration and robust AI safety measures.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "A tragic rise in deaths from suspected poisonous alcohol and warnings against mixing drugs with herbal remedies highlight critical gaps in public health surveillance and consumer safety regulation.",
-    "last_updated": "2026-09-21"
+    "summary": "A tragic rise in deaths from suspected poisonous alcohol and warnings against mixing drugs with herbal remedies highlight critical gaps in public health surveillance and consumer safety regulation, compounded by the discovery of a meth lab linked to international cartels.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent insecurity is evident in ongoing communal violence in Plateau State and foiled mass kidnappings in Katsina, underscoring the need for enhanced intelligence, rapid response, and community engagement.",
-    "last_updated": "2026-09-23"
+    "summary": "Persistent insecurity is evident in ongoing communal violence, Boko Haram attacks using IEDs, foiled mass kidnappings, and the discovery of international drug labs, underscoring the need for enhanced intelligence, rapid response, and community engagement.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "AI Training Data and Copyright Battles",
@@ -68,13 +68,13 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Vice President Shettima's UNGA representation and former Speaker Masari's endorsement of Tinubu's vision highlight active political engagement, while regional instability in South Sudan raises concerns for democratic processes.",
-    "last_updated": "2026-09-23"
+    "summary": "Vice President Shettima's UNGA representation and former Speaker Masari's endorsement of Tinubu's vision highlight active political engagement, while President Tinubu's extended absence and academic endorsements spark debate on governance transparency and election integrity.",
+    "last_updated": "2026-09-24"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
     "status": "escalating",
-    "summary": "Leaders from major AI companies are publicly warning about existential risks and debating safety regulation, while geopolitical divides and differing global optimism levels complicate regulatory efforts.",
-    "last_updated": "2026-09-23"
+    "summary": "Leaders from major AI companies are publicly warning about existential risks and debating safety regulation, while geopolitical divides, differing global optimism levels, and AI's environmental impact complicate regulatory efforts.",
+    "last_updated": "2026-09-24"
   }
 ]
