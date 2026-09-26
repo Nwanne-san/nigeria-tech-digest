@@ -3,37 +3,37 @@
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
     "summary": "The government's push for digital free zones and youth engagement in AI workforce development continues, with effective micro-learning strategies gaining traction globally. The success of Nigerian talent at global AI firms highlights the nation's potential, though progress remains contingent on infrastructure investments and a digital leap in higher education. Global demand for 'AI-native talent' is rising, emphasizing the need to integrate AI literacy into educational curricula.",
-    "last_updated": "2026-09-25"
+    "last_updated": "2026-09-26"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
     "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches. Recent 'rogue AI' incidents traced to a single testing firm highlight systemic failures in testing protocols, intensifying calls for stricter governance and transparency.",
-    "last_updated": "2026-09-25"
+    "last_updated": "2026-09-26"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models. Model providers compete fiercely, and massive cloud deals signal the immense compute demands for scaling AI, while managed services for AI customization are becoming mainstream.",
-    "last_updated": "2026-09-25"
+    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models. Model providers compete fiercely, and massive cloud deals signal the immense compute demands for scaling AI, while managed services for AI customization are becoming mainstream. Tools like Floci are emerging to facilitate AI-driven cloud development locally.",
+    "last_updated": "2026-09-26"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN has retained its benchmark interest rate at 26.5% to control inflation and support the Naira, while successfully overshooting its T-Bills target to mop up liquidity. The success of digital payment infrastructure in boosting banks' lending capacity is noted, but balancing inflation control with economic growth remains key.",
-    "last_updated": "2026-09-25"
+    "summary": "The CBN has cut its benchmark interest rate to 23% from 26.5%, signaling a pivot towards growth stimulation, supported by external reserves crossing $55 billion. However, Nigeria's public debt has risen to N166.79 trillion, and the CBN is raising regulatory questions about non-banks offering instalment credit.",
+    "last_updated": "2026-09-26"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria sees progress in gas project development and infrastructure, with states like Adamawa approving significant supplementary budgets for development projects. However, labor disputes in tertiary institutions and the need to invest in the 'real economy' beyond tech persist.",
-    "last_updated": "2026-09-25"
+    "summary": "Nigeria sees progress in gas project development and infrastructure, with states like Adamawa approving significant supplementary budgets for development projects. However, labor disputes in tertiary institutions and the need to invest in the 'real economy' beyond tech persist, alongside a significant rise in public debt and concerns over crude oil revenue losses.",
+    "last_updated": "2026-09-26"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem is diversifying with a focus on AI-driven solutions, and global players like Mastercard championing digital value creation. Mobile money services are noted for their potential to boost banks' lending capacity, indicating a maturing fintech landscape.",
-    "last_updated": "2026-09-25"
+    "summary": "The ecosystem is diversifying with a focus on AI-driven solutions, and global players like Mastercard championing digital value creation. Mobile money services are noted for their potential to boost banks' lending capacity, indicating a maturing fintech landscape. Demand for fast crypto-to-cash transactions is growing, while the CBN scrutinizes non-bank credit offerings.",
+    "last_updated": "2026-09-26"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
@@ -44,14 +44,14 @@
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "A tragic rise in deaths from suspected poisonous alcohol and warnings against mixing drugs with herbal remedies highlight critical gaps in public health surveillance. Diphtheria outbreaks are showing signs of improvement in some regions, allowing for school reopenings.",
-    "last_updated": "2026-09-25"
+    "summary": "A tragic rise in deaths from suspected poisonous alcohol and warnings against mixing drugs with herbal remedies highlight critical gaps in public health surveillance. Questions are being raised about the utilization of N10 billion allocated for Ebola preparedness, with observed lapses in airport screening protocols.",
+    "last_updated": "2026-09-26"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent insecurity is evident in ongoing communal violence, banditry, and attacks, with recent incidents including killings in Niger State and the detention of NSCDC officers over miners' deaths. Drug trafficking and associated criminal enterprises remain a significant security concern.",
-    "last_updated": "2026-09-25"
+    "summary": "Persistent insecurity is evident in ongoing communal violence, banditry, and attacks, with recent incidents including killings in Niger State and the detention of NSCDC officers over miners' deaths. Drug trafficking and associated criminal enterprises remain a significant security concern, alongside large-scale economic crimes like port diversions.",
+    "last_updated": "2026-09-26"
   },
   {
     "name": "AI Training Data and Copyright Battles",
@@ -62,14 +62,14 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming software development and operational models. The development of more powerful AI agents is enabled by massive investments in underlying compute infrastructure.",
-    "last_updated": "2026-09-25"
+    "summary": "AI agents are increasingly seen as 'teammates' in startups, transforming software development and operational models. The development of more powerful AI agents is enabled by massive investments in underlying compute infrastructure, with new tools emerging to facilitate local cloud emulation for AI development.",
+    "last_updated": "2026-09-26"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "As the 2027 elections approach, political maneuvering intensifies with calls for re-election and debates over rotational presidency. Allegations of financial impropriety and abuse of power by public officials highlight ongoing tensions around governance and accountability.",
-    "last_updated": "2026-09-25"
+    "summary": "As the 2027 elections approach, political maneuvering intensifies with calls for re-election and debates over rotational presidency. Directives for MDAs to campaign for the incumbent and Supreme Court rulings on electoral act provisions add complexity, alongside allegations of financial impropriety and abuse of power.",
+    "last_updated": "2026-09-26"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
