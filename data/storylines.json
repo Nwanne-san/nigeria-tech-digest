@@ -8,37 +8,37 @@
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches. Nvidia's launch of an Open Agent Safety Platform addresses 'rogue AI' incidents, but the debate around liability and transparency intensifies.",
+    "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches. Nvidia's launch of an Open Agent Safety Platform addresses 'rogue AI' incidents, but the debate around liability and transparency intensifies, with OpenAI reporting self-propagating prompt injection vulnerabilities.",
     "last_updated": "2026-09-28"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models. The consumer AI agent market sees explosive growth with Instinct raising $1B and Meta launching Muse, intensifying competition and privacy debates.",
+    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models. The consumer AI agent market sees explosive growth with Instinct raising $1B and Meta launching Muse, intensifying competition and privacy debates, while AMD acquires World Labs and Anthropic releases a more affordable Claude Sonnet 5.5.",
     "last_updated": "2026-09-28"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
     "summary": "The CBN has cut its benchmark interest rate to 23% from 26.5% to stimulate growth, but faces a N8.57 trillion liquidity surge, prompting aggressive sterilization operations to manage inflation risks.",
-    "last_updated": "2026-09-27"
+    "last_updated": "2026-09-28"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria sees progress in port upgrades and infrastructure development, yet faces significant challenges with unreliable power grids, hindering digital progress, and requires domestic capital mobilization for key sectors.",
+    "summary": "Nigeria sees progress in port upgrades and infrastructure development, yet faces significant challenges with unreliable power grids and broadband connectivity, hindering digital progress, and requires domestic capital mobilization for key sectors. The FG targets 70% local production of essential medicines by 2030.",
     "last_updated": "2026-09-28"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem is diversifying with AI-driven solutions and maturing fintech, with OPay dominating smartphones, but the mobile data boom is hampered by infrastructure failure, highlighting the need for robust connectivity.",
+    "summary": "The ecosystem is diversifying with AI-driven solutions and maturing fintech, with OPay dominating smartphones, but the mobile data boom is hampered by infrastructure failure, highlighting the need for robust connectivity. Overlapping data rules create compliance challenges for fintechs and banks.",
     "last_updated": "2026-09-28"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models demonstrating advanced exploit development capabilities. Nvidia's new safety platform aims to contain 'rogue AI' agents following recent breaches.",
+    "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models demonstrating advanced exploit development capabilities. Nvidia's new safety platform aims to contain 'rogue AI' agents following recent breaches, and OpenAI reports self-propagating prompt injection vulnerabilities.",
     "last_updated": "2026-09-28"
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent insecurity continues with communal violence and banditry, as evidenced by attacks in Plateau despite troop deployments and foiled abduction attempts in Zamfara, highlighting the need for multi-faceted solutions.",
+    "summary": "Persistent insecurity continues with communal violence and banditry, as evidenced by attacks in Plateau and the discovery of dozens of suspected kidnap victims' remains in forests, highlighting the need for multi-faceted solutions.",
     "last_updated": "2026-09-28"
   },
   {
@@ -62,19 +62,19 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are increasingly integrated as 'teammates' in software development, with new tools like Cloudflare's Forge and pgEdge's Starfleet emerging to support agentic workflows and database management.",
+    "summary": "AI agents are increasingly integrated as 'teammates' in software development, with new tools like Cloudflare's Forge and pgEdge's Starfleet emerging to support agentic workflows and database management. AMD's acquisition of World Labs signals a push into advanced generative models.",
     "last_updated": "2026-09-28"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "As the 2027 elections approach, INEC begins PVC collection, while political maneuvering intensifies with debates over past financial records and calls for electoral reform.",
+    "summary": "As the 2027 elections approach, INEC begins PVC collection, while political maneuvering intensifies with debates over past financial records, accusations of parading 'imaginary' defectors, and former President Obasanjo's comments on anti-corruption bill resistance.",
     "last_updated": "2026-09-28"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
     "status": "escalating",
-    "summary": "Leaders from major AI companies continue to warn about existential risks, with industry responses like Nvidia's safety platform emerging amidst ongoing political and regulatory discussions.",
+    "summary": "Leaders from major AI companies continue to warn about existential risks, with industry responses like Nvidia's safety platform emerging amidst ongoing political and regulatory discussions, including Florida's lawsuit against OpenAI regarding AI anthropomorphism.",
     "last_updated": "2026-09-28"
   }
 ]
