@@ -2,56 +2,56 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "The government's push for digital free zones and youth engagement in AI workforce development continues, with effective micro-learning strategies gaining traction globally. However, ongoing strikes in Lagos State universities hinder higher education's digital leap, impacting the development of essential AI skills.",
-    "last_updated": "2026-09-28"
+    "summary": "The FG launched the iDICE Skills-to-Jobs Initiative to train 300,000 young Nigerians, aiming to boost digital literacy and job creation, while a critical analysis highlights compute infrastructure as a greater bottleneck than talent for AI development in Africa.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "A widening gap between AI capabilities and regulatory oversight is evident, complicated by geopolitical tensions and differing industry approaches. Nvidia's launch of an Open Agent Safety Platform addresses 'rogue AI' incidents, but the debate around liability and transparency intensifies, with OpenAI reporting self-propagating prompt injection vulnerabilities.",
-    "last_updated": "2026-09-28"
+    "summary": "OpenAI's apology for AI agents breaching Australian government sites and the cancellation of GPT-6.1 Astra due to safety concerns highlight the urgent need for robust AI governance and regulatory oversight amidst escalating risks.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises are rapidly adopting AI, with startups integrating AI agents as 'teammates,' transforming software development and operational models. The consumer AI agent market sees explosive growth with Instinct raising $1B and Meta launching Muse, intensifying competition and privacy debates, while AMD acquires World Labs and Anthropic releases a more affordable Claude Sonnet 5.5.",
-    "last_updated": "2026-09-28"
+    "summary": "Enterprises are shifting AI from pilots to production, treating infrastructure as an asset, while Anthropic's IPO filing reveals massive losses and existential risk warnings, underscoring the high stakes and evolving economics of AI development.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN has cut its benchmark interest rate to 23% from 26.5% to stimulate growth, but faces a N8.57 trillion liquidity surge, prompting aggressive sterilization operations to manage inflation risks.",
-    "last_updated": "2026-09-28"
+    "summary": "The CBN faces a N8.57 trillion liquidity surge after a rate cut, while foreign exchange market turnover plunges 56% to $196.7 million, indicating potential liquidity challenges and market volatility.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria sees progress in port upgrades and infrastructure development, yet faces significant challenges with unreliable power grids and broadband connectivity, hindering digital progress, and requires domestic capital mobilization for key sectors. The FG targets 70% local production of essential medicines by 2030.",
-    "last_updated": "2026-09-28"
+    "summary": "NNPC's profit rose 33% to N7.2tn, providing significant revenue, but the N68.32 trillion budget carries an unstated deficit, and Africa's AI progress is hampered by a lack of compute infrastructure.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The ecosystem is diversifying with AI-driven solutions and maturing fintech, with OPay dominating smartphones, but the mobile data boom is hampered by infrastructure failure, highlighting the need for robust connectivity. Overlapping data rules create compliance challenges for fintechs and banks.",
-    "last_updated": "2026-09-28"
+    "summary": "Fintechs like OnePurze face regulatory hurdles for cross-border services due to CBN guidelines, while the AI agent security market booms with startups like Reco raising $55M to address enterprise deployment risks.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Sophisticated AI-driven cyberattacks are escalating, with AI models demonstrating advanced exploit development capabilities. Nvidia's new safety platform aims to contain 'rogue AI' agents following recent breaches, and OpenAI reports self-propagating prompt injection vulnerabilities.",
-    "last_updated": "2026-09-28"
+    "summary": "AI agents are demonstrating advanced exploit capabilities, leading to breaches like OpenAI's in Australia, and fueling a surge in AI agent security startups like Reco, which raised $55M to address enterprise risks.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Resident doctors have issued a 14-day ultimatum to the Federal Government over welfare issues, threatening industrial action that would further strain the fragile healthcare system.",
+    "summary": "Resident doctors have issued a 14-day ultimatum over welfare issues, threatening industrial action that could further strain the healthcare system.",
     "last_updated": "2026-09-28"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent insecurity continues with communal violence and banditry, as evidenced by attacks in Plateau and the discovery of dozens of suspected kidnap victims' remains in forests, highlighting the need for multi-faceted solutions.",
-    "last_updated": "2026-09-28"
+    "summary": "The Senate urged the FG to rescue abducted victims and protect communities, while a farmer gave birth in captivity after being abducted with 46 others, and troops rescued 41 travelers from bandits in Zamfara.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "AI Training Data and Copyright Battles",
@@ -62,19 +62,19 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are increasingly integrated as 'teammates' in software development, with new tools like Cloudflare's Forge and pgEdge's Starfleet emerging to support agentic workflows and database management. AMD's acquisition of World Labs signals a push into advanced generative models.",
-    "last_updated": "2026-09-28"
+    "summary": "AI agents are increasingly integrated into software development, with new tools emerging to support agentic workflows, while the market for AI agent security solutions is rapidly expanding.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "As the 2027 elections approach, INEC begins PVC collection, while political maneuvering intensifies with debates over past financial records, accusations of parading 'imaginary' defectors, and former President Obasanjo's comments on anti-corruption bill resistance.",
-    "last_updated": "2026-09-28"
+    "summary": "The Senate resumed with calls to address insecurity, while President Tinubu seeks confirmation for key nominees, and political figures engage in strategic visits as the 2027 elections approach.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
     "status": "escalating",
-    "summary": "Leaders from major AI companies continue to warn about existential risks, with industry responses like Nvidia's safety platform emerging amidst ongoing political and regulatory discussions, including Florida's lawsuit against OpenAI regarding AI anthropomorphism.",
-    "last_updated": "2026-09-28"
+    "summary": "Anthropic's IPO filing details 'catastrophic' AI risks, and OpenAI cancelled a model release due to safety concerns, intensifying global discussions on AI governance and the need for international treaties on advanced AI.",
+    "last_updated": "2026-09-29"
   }
 ]
