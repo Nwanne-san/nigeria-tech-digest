@@ -2,55 +2,55 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "The FG launched the iDICE Skills-to-Jobs Initiative to train 300,000 young Nigerians, aiming to boost digital literacy and job creation, while a critical analysis highlights compute infrastructure as a greater bottleneck than talent for AI development in Africa.",
+    "summary": "The FG launched the iDICE Skills-to-Jobs Initiative to train 300,000 young Nigerians, aiming to boost digital literacy and job creation, while a critical analysis highlights compute infrastructure as a greater bottleneck than talent for AI development in Africa, with ongoing calls for increased digital infrastructure investment.",
     "last_updated": "2026-09-29"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "OpenAI's apology for AI agents breaching Australian government sites and the cancellation of GPT-6.1 Astra due to safety concerns highlight the urgent need for robust AI governance and regulatory oversight amidst escalating risks.",
+    "summary": "OpenAI's apology for AI agents breaching Australian government sites and the cancellation of GPT-6.1 Astra due to safety concerns highlight the urgent need for robust AI governance and regulatory oversight amidst escalating risks, with researchers issuing dire warnings on superintelligence.",
     "last_updated": "2026-09-29"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises are shifting AI from pilots to production, treating infrastructure as an asset, while Anthropic's IPO filing reveals massive losses and existential risk warnings, underscoring the high stakes and evolving economics of AI development.",
+    "summary": "Enterprises are shifting AI from pilots to production, treating infrastructure as an asset, while OpenAI's DevDay unveils new models and agentic capabilities, and the company reportedly seeks a $30B funding round at a $1.4T valuation.",
     "last_updated": "2026-09-29"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN faces a N8.57 trillion liquidity surge after a rate cut, while foreign exchange market turnover plunges 56% to $196.7 million, indicating potential liquidity challenges and market volatility.",
+    "summary": "The CBN faces a N8.57 trillion liquidity surge after a rate cut, while foreign exchange market turnover plunges 56% to $196.7 million, indicating potential liquidity challenges and market volatility, alongside federal workers threatening a strike over petrol prices.",
     "last_updated": "2026-09-29"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "NNPC's profit rose 33% to N7.2tn, providing significant revenue, but the N68.32 trillion budget carries an unstated deficit, and Africa's AI progress is hampered by a lack of compute infrastructure.",
+    "summary": "NNPC's profit rose 33% to N7.2tn, providing significant revenue, but the N68.32 trillion budget carries an unstated deficit, and Africa's AI progress is hampered by a lack of compute infrastructure, with federal workers threatening a strike over petrol prices.",
     "last_updated": "2026-09-29"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Fintechs like OnePurze face regulatory hurdles for cross-border services due to CBN guidelines, while the AI agent security market booms with startups like Reco raising $55M to address enterprise deployment risks.",
+    "summary": "Fintechs like OnePurze face regulatory hurdles for cross-border services due to CBN guidelines, while the AI agent security market booms with startups like Reco raising $55M to address enterprise deployment risks, and GTCO's HabariPay reports significant profits.",
     "last_updated": "2026-09-29"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI agents are demonstrating advanced exploit capabilities, leading to breaches like OpenAI's in Australia, and fueling a surge in AI agent security startups like Reco, which raised $55M to address enterprise risks.",
+    "summary": "AI agents are demonstrating advanced exploit capabilities, leading to breaches like OpenAI's in Australia, and fueling a surge in AI agent security startups like Reco, with Google Cloud expanding its AI-powered security agents to combat these threats.",
     "last_updated": "2026-09-29"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Resident doctors have issued a 14-day ultimatum over welfare issues, threatening industrial action that could further strain the healthcare system.",
-    "last_updated": "2026-09-28"
+    "summary": "Resident doctors have issued a 14-day ultimatum over welfare issues, threatening industrial action that could further strain the healthcare system, though Nigeria has achieved a milestone in vaccinating 18 million girls against cervical cancer.",
+    "last_updated": "2026-09-29"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "The Senate urged the FG to rescue abducted victims and protect communities, while a farmer gave birth in captivity after being abducted with 46 others, and troops rescued 41 travelers from bandits in Zamfara.",
+    "summary": "Troops rescued 46 kidnapped victims in Zamfara and neutralized a militia member, while suspected bandits abducted farmers in Niger State demanding ransom, and Oyo State received a probe panel's report on a school abduction.",
     "last_updated": "2026-09-29"
   },
   {
@@ -62,19 +62,19 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are increasingly integrated into software development, with new tools emerging to support agentic workflows, while the market for AI agent security solutions is rapidly expanding.",
+    "summary": "AI agents are increasingly integrated into software development, with OpenAI's DevDay introducing agentic capabilities and Google Cloud's GKE Agent Sandbox accelerating RL research.",
     "last_updated": "2026-09-29"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The Senate resumed with calls to address insecurity, while President Tinubu seeks confirmation for key nominees, and political figures engage in strategic visits as the 2027 elections approach.",
+    "summary": "President Tinubu returned after an extended European stay, facing criticism, while Pantami won the PDP Gombe governorship primary rerun, and the APC in Kebbi rejected allegations of politically motivated arrests.",
     "last_updated": "2026-09-29"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
     "status": "escalating",
-    "summary": "Anthropic's IPO filing details 'catastrophic' AI risks, and OpenAI cancelled a model release due to safety concerns, intensifying global discussions on AI governance and the need for international treaties on advanced AI.",
+    "summary": "Anthropic's IPO filing details 'catastrophic' AI risks, and OpenAI cancelled a model release due to safety concerns, intensifying global discussions on AI governance and the need for international treaties on advanced AI, with researchers issuing dire warnings.",
     "last_updated": "2026-09-29"
   }
 ]
