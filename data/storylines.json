@@ -14,7 +14,7 @@
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises are shifting AI from pilots to production, demanding deterministic solutions with clear ROI, while cloud providers like Google integrate AI agents deeply into their platforms, intensifying competition and driving the need for interoperability and open standards to avoid vendor lock-in.",
+    "summary": "Enterprises are shifting AI from pilots to production, demanding deterministic solutions with clear ROI, while cloud providers like Google and AWS integrate AI agents deeply into their platforms, intensifying competition and driving the need for interoperability and open standards to avoid vendor lock-in.",
     "last_updated": "2026-10-01"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI agents are demonstrating advanced exploit capabilities, leading to breaches like OpenAI's in Australia, and fueling a surge in AI agent security startups like Reco, with Google Cloud expanding its AI-powered security agents to combat these threats.",
+    "summary": "AI agents are demonstrating advanced exploit capabilities, leading to breaches like OpenAI's in Australia, and fueling a surge in AI agent security startups like Reco and Armadin, with Google Cloud expanding its AI-powered security agents to combat these threats.",
     "last_updated": "2026-10-01"
   },
   {
@@ -62,7 +62,7 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are increasingly integrated into software development, with OpenAI's DevDay introducing agentic capabilities and Google Cloud's GKE Agent Sandbox accelerating RL research, while Google Cloud releases its Data Agent Kit for broader agent interaction with cloud data.",
+    "summary": "AI agents are increasingly integrated into software development, with OpenAI's DevDay introducing agentic capabilities and Google Cloud's GKE Agent Sandbox accelerating RL research, while AWS launches its Well-Architected Agent for cloud optimization.",
     "last_updated": "2026-10-01"
   },
   {
