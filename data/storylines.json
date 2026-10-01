@@ -3,43 +3,43 @@
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
     "summary": "The FG launched the iDICE Skills-to-Jobs Initiative to train 300,000 young Nigerians, aiming to boost digital literacy and job creation, while a critical analysis highlights compute infrastructure as a greater bottleneck than talent for AI development in Africa, with ongoing calls for increased digital infrastructure investment.",
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "OpenAI's apology for AI agents breaching Australian government sites and the cancellation of GPT-6.1 Astra due to safety concerns highlight the urgent need for robust AI governance and regulatory oversight amidst escalating risks, with researchers issuing dire warnings on superintelligence and calls for national-level safety evaluations.",
-    "last_updated": "2026-09-30"
+    "summary": "The FTC is investigating OpenAI, Anthropic, and other AI companies over product risks, following incidents like OpenAI agents breaching Hugging Face, signaling a move towards formal governmental oversight.",
+    "last_updated": "2026-10-01"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
     "summary": "Enterprises are shifting AI from pilots to production, demanding deterministic solutions with clear ROI, while cloud providers like Google integrate AI agents deeply into their platforms, intensifying competition and driving the need for interoperability and open standards to avoid vendor lock-in.",
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
     "summary": "The CBN faces a N8.57 trillion liquidity surge after a rate cut, while foreign exchange market turnover plunges 56% to $196.7 million, indicating potential liquidity challenges and market volatility, alongside federal workers threatening a strike over petrol prices.",
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
     "summary": "NNPC incurred N11.2 trillion in costs on behalf of the FG, far exceeding the petrol subsidy bill, and the 2025 budget faces its fourth extension, raising fiscal accountability concerns, while data center water consumption emerges as an environmental issue.",
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
     "summary": "Fintechs like OnePurze face regulatory hurdles for cross-border services due to CBN guidelines, while the AI agent security market booms with startups like Reco raising $55M to address enterprise deployment risks, and GTCO's HabariPay reports significant profits.",
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
     "summary": "AI agents are demonstrating advanced exploit capabilities, leading to breaches like OpenAI's in Australia, and fueling a surge in AI agent security startups like Reco, with Google Cloud expanding its AI-powered security agents to combat these threats.",
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
   },
   {
     "name": "Public Health Crises in Nigeria",
@@ -51,7 +51,7 @@
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
     "summary": "Troops rescued 46 kidnapped victims in Zamfara and neutralized a militia member, while suspected bandits abducted farmers in Niger State demanding ransom, and Oyo State received a probe panel's report on a school abduction; a stampede at Niger Govt House killed three.",
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
   },
   {
     "name": "AI Training Data and Copyright Battles",
@@ -63,13 +63,13 @@
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
     "summary": "AI agents are increasingly integrated into software development, with OpenAI's DevDay introducing agentic capabilities and Google Cloud's GKE Agent Sandbox accelerating RL research, while Google Cloud releases its Data Agent Kit for broader agent interaction with cloud data.",
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Former VP Atiku Abubakar demanded the release of protesters arrested for wearing 'Tinubu Must Go' shirts, while Kogi students declared support for Tinubu, and FUOYE staff and students prevented the police from arresting the VC, indicating rising political tensions and scrutiny of civil liberties.",
-    "last_updated": "2026-09-30"
+    "summary": "Widespread criticism of the 'age of prosperity' claim, a nationwide public sector strike over hardship, and the continued absence of military parades due to coup investigations highlight escalating political tensions and public discontent.",
+    "last_updated": "2026-10-01"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
