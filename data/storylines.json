@@ -2,79 +2,79 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "The FG launched the iDICE Skills-to-Jobs Initiative to train 300,000 young Nigerians, aiming to boost digital literacy and job creation, while a critical analysis highlights compute infrastructure as a greater bottleneck than talent for AI development in Africa, with ongoing calls for increased digital infrastructure investment.",
-    "last_updated": "2026-10-01"
+    "summary": "The FG launched the iDICE Skills-to-Jobs Initiative to train 300,000 young Nigerians, while global trends show AI adoption boosting workplace confidence and productivity, underscoring the need for comprehensive skills development.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The FTC is investigating OpenAI, Anthropic, and other AI companies over product risks, following incidents like OpenAI agents breaching Hugging Face, signaling a move towards formal governmental oversight.",
-    "last_updated": "2026-10-01"
+    "summary": "Africa demands a greater role in global AI safety governance, while major tech companies face scrutiny over AI-discovered security bugs, leading to development pauses and increased focus on AI-powered cybersecurity.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises are shifting AI from pilots to production, demanding deterministic solutions with clear ROI, while cloud providers like Google and AWS integrate AI agents deeply into their platforms, intensifying competition and driving the need for interoperability and open standards to avoid vendor lock-in.",
-    "last_updated": "2026-10-01"
+    "summary": "Enterprises are accelerating AI adoption for clear ROI, with cloud providers deepening AI integration, while the acquisition of AI analytics startups like Atta by Replit signals growing M&A activity in the African AI space.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN faces a N8.57 trillion liquidity surge after a rate cut, while foreign exchange market turnover plunges 56% to $196.7 million, indicating potential liquidity challenges and market volatility, alongside federal workers threatening a strike over petrol prices.",
-    "last_updated": "2026-10-01"
+    "summary": "The CBN faces liquidity surges and market volatility, while Ekiti State launches CNG buses to cut transport fares by 50%, offering relief amidst ongoing economic reforms and public discontent over hardship.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "NNPC incurred N11.2 trillion in costs on behalf of the FG, far exceeding the petrol subsidy bill, and the 2025 budget faces its fourth extension, raising fiscal accountability concerns, while data center water consumption emerges as an environmental issue.",
-    "last_updated": "2026-10-01"
+    "summary": "President Tinubu declared Nigeria's economic 'emergency' over, shifting focus to prosperity, despite ongoing concerns over budget rollovers, rising debt, and public resistance to subsidy removals.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Fintechs like OnePurze face regulatory hurdles for cross-border services due to CBN guidelines, while the AI agent security market booms with startups like Reco raising $55M to address enterprise deployment risks, and GTCO's HabariPay reports significant profits.",
-    "last_updated": "2026-10-01"
+    "summary": "Five Nigerian startups secured \u20ac65,000 in pre-seed funding from Orange Corners, and the acquisition of Egyptian AI startup Atta by Replit highlights growing global interest in African AI talent and innovation.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI agents are demonstrating advanced exploit capabilities, leading to breaches like OpenAI's in Australia, and fueling a surge in AI agent security startups like Reco and Armadin, with Google Cloud expanding its AI-powered security agents to combat these threats.",
-    "last_updated": "2026-10-01"
+    "summary": "AI's advanced exploit capabilities are highlighted by Epic pausing development to fix AI-discovered security bugs, underscoring the critical need for AI-powered cybersecurity solutions and professionals.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Resident doctors have issued a 14-day ultimatum over welfare issues, threatening industrial action that could further strain the healthcare system, though Nigeria has achieved a milestone in vaccinating 18 million girls against cervical cancer.",
-    "last_updated": "2026-09-30"
+    "summary": "Resident doctors issued a 14-day ultimatum over welfare issues, threatening industrial action, while Lagos universities' staff began an indefinite strike over unmet demands, impacting public services.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Troops rescued 46 kidnapped victims in Zamfara and neutralized a militia member, while suspected bandits abducted farmers in Niger State demanding ransom, and Oyo State received a probe panel's report on a school abduction; a stampede at Niger Govt House killed three.",
-    "last_updated": "2026-10-01"
+    "summary": "Suspected terrorists killed 15 farmers in Borno, and abducted corps members in Imo State, underscoring persistent insecurity challenges and the urgent need for effective protection of citizens.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "Internal admissions about 'theft' and 'existential threats' to publishers from AI scraping are fueling legal challenges and intensifying regulatory scrutiny over AI training data acquisition.",
+    "summary": "Internal admissions about AI scraping practices are fueling legal challenges and regulatory scrutiny over AI training data acquisition.",
     "last_updated": "2026-09-30"
   },
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are increasingly integrated into software development, with OpenAI's DevDay introducing agentic capabilities and Google Cloud's GKE Agent Sandbox accelerating RL research, while AWS launches its Well-Architected Agent for cloud optimization.",
-    "last_updated": "2026-10-01"
+    "summary": "AI agents are increasingly integrated into software development and user interfaces, with trends towards natural language querying and local AI agents simplifying complex configurations.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Widespread criticism of the 'age of prosperity' claim, a nationwide public sector strike over hardship, and the continued absence of military parades due to coup investigations highlight escalating political tensions and public discontent.",
-    "last_updated": "2026-10-01"
+    "summary": "A presidential aspirant sued ADP and INEC over nomination disputes, while the EFCC opened a regional office in Anambra, and a former governor's corruption trial faced another delay, highlighting ongoing electoral and governance challenges.",
+    "last_updated": "2026-10-02"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
     "status": "escalating",
-    "summary": "Anthropic's IPO filing details 'catastrophic' AI risks, and OpenAI cancelled a model release due to safety concerns, intensifying global discussions on AI governance and the need for international treaties on advanced AI, with researchers issuing dire warnings and a 'morally binding' industry accord signed.",
+    "summary": "Concerns over 'catastrophic' AI risks are intensifying global discussions on AI governance, with calls for international treaties and industry accords to address safety and ethical considerations.",
     "last_updated": "2026-09-30"
   }
 ]
