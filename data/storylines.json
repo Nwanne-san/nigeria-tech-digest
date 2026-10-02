@@ -8,13 +8,13 @@
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Africa demands a greater role in global AI safety governance, while major tech companies face scrutiny over AI-discovered security bugs, leading to development pauses and increased focus on AI-powered cybersecurity.",
+    "summary": "Africa demands a greater role in global AI safety governance, while major tech companies face scrutiny over AI-discovered security bugs, leading to development pauses and increased focus on AI-powered cybersecurity. The White House has rebranded AI as 'super intelligence' and secured an AI safety pledge from tech CEOs, signaling intensified governmental and societal focus on AI governance.",
     "last_updated": "2026-10-02"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Enterprises are accelerating AI adoption for clear ROI, with cloud providers deepening AI integration, while the acquisition of AI analytics startups like Atta by Replit signals growing M&A activity in the African AI space.",
+    "summary": "Enterprises are accelerating AI adoption for clear ROI, with cloud providers deepening AI integration, while the acquisition of AI analytics startups like Atta by Replit signals growing M&A activity in the African AI space. AI21 Labs achieved an 83% reduction in AI workload time-to-start with Google Cloud's AI Hypercomputer, demonstrating significant efficiency gains.",
     "last_updated": "2026-10-02"
   },
   {
@@ -26,7 +26,7 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "President Tinubu declared Nigeria's economic 'emergency' over, shifting focus to prosperity, despite ongoing concerns over budget rollovers, rising debt, and public resistance to subsidy removals.",
+    "summary": "President Tinubu declared Nigeria's economic 'emergency' over, shifting focus to prosperity, despite ongoing concerns over budget rollovers, rising debt, and public resistance to subsidy removals. Nigeria's composite PMI rose to 53.0 in September, marking the fourth month of expansion.",
     "last_updated": "2026-10-02"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI's advanced exploit capabilities are highlighted by Epic pausing development to fix AI-discovered security bugs, underscoring the critical need for AI-powered cybersecurity solutions and professionals.",
+    "summary": "AI's advanced exploit capabilities are highlighted by Epic pausing development to fix AI-discovered security bugs, underscoring the critical need for AI-powered cybersecurity solutions and professionals. Apple is tightening macOS 'Full Disk Access' controls due to increased risks from AI agents.",
     "last_updated": "2026-10-02"
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Suspected terrorists killed 15 farmers in Borno, and abducted corps members in Imo State, underscoring persistent insecurity challenges and the urgent need for effective protection of citizens.",
+    "summary": "Suspected terrorists killed 15 farmers in Borno, and abducted corps members in Imo State, underscoring persistent insecurity challenges and the urgent need for effective protection of citizens. Police foiled a bandit attack in Sokoto, recovering rocket launchers, indicating an escalation in weaponry.",
     "last_updated": "2026-10-02"
   },
   {
@@ -62,13 +62,13 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are increasingly integrated into software development and user interfaces, with trends towards natural language querying and local AI agents simplifying complex configurations.",
+    "summary": "AI agents are increasingly integrated into software development and user interfaces, with trends towards natural language querying and local AI agents simplifying complex configurations. OpenAI launched 'Dots,' an agent platform for enterprise use, and Google Cloud enhanced Kubernetes for AI workloads.",
     "last_updated": "2026-10-02"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "A presidential aspirant sued ADP and INEC over nomination disputes, while the EFCC opened a regional office in Anambra, and a former governor's corruption trial faced another delay, highlighting ongoing electoral and governance challenges.",
+    "summary": "A presidential aspirant sued ADP and INEC over nomination disputes, while the EFCC opened a regional office in Anambra, and a former governor's corruption trial faced another delay, highlighting ongoing electoral and governance challenges. The Appeal Court affirmed the nullification of CAMA provisions concerning CAC powers over religious bodies.",
     "last_updated": "2026-10-02"
   },
   {
