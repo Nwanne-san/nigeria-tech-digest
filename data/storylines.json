@@ -2,44 +2,44 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "The FG is digitalizing award selection processes using AI and emphasizing skills development, while access to global AI tools like ChatGPT for Africans is being facilitated through workarounds for payment barriers.",
+    "summary": "The FG is digitalizing award selection processes using AI and emphasizing skills development, while access to global AI tools like ChatGPT for Africans is being facilitated through workarounds for payment barriers. NITDA is also deploying AI for youth policy formulation, and Lagos State is including AI training in entrepreneurship grants.",
     "last_updated": "2026-10-03"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Africa's AI policy is being framed as inseparable from industrial policy, focusing on job creation and infrastructure, while global AI agent competition intensifies with a focus on enterprise trust and security.",
+    "summary": "Africa's AI policy is being framed as inseparable from industrial policy, focusing on job creation and infrastructure. Nigeria's FCCPC has proposed new regulations for AI marketing with significant penalties, marking a concrete step towards addressing the regulatory gap.",
     "last_updated": "2026-10-03"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Major AI labs are rapidly converging on agentic AI features, with a strong shift towards enterprise adoption driven by trust, security, and practical utility, while access to tools like ChatGPT is being democratized for Africans.",
+    "summary": "Major AI labs are rapidly converging on agentic AI features, with a strong shift towards enterprise adoption driven by trust, security, and practical utility. Angola Cables is upgrading its network to support AI data demand, and Capcom is preparing to integrate AI into game development.",
     "last_updated": "2026-10-03"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN reports expanding business activity but weakening household confidence due to persistent high prices, despite claims of increased FAAC allocations following subsidy removal.",
+    "summary": "The CBN reports expanding business activity but weakening household confidence due to persistent high prices, despite claims of increased FAAC allocations following subsidy removal. The CBN intensified liquidity management in September with a net withdrawal of N6.62 trillion.",
     "last_updated": "2026-10-03"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "President Tinubu's economic reforms are met with contrasting reports of expanding business activity and increased oil output versus widespread public perception of 'shared poverty' and declining household confidence.",
+    "summary": "President Tinubu's economic reforms are met with contrasting reports of expanding business activity and increased oil output versus widespread public perception of 'shared poverty' and declining household confidence. Regional governors are pushing for development initiatives.",
     "last_updated": "2026-10-03"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Access to global AI tools is improving for Nigerians through payment workarounds, while the broader ecosystem benefits from a focus on integrating AI into foundational economic sectors and public services.",
+    "summary": "Access to global AI tools is improving for Nigerians through payment workarounds, while the broader ecosystem benefits from a focus on integrating AI into foundational economic sectors and public services. Lagos State is supporting young entrepreneurs with AI training.",
     "last_updated": "2026-10-03"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI's advanced exploit capabilities are highlighted by security bug discoveries, underscoring the need for AI-powered cybersecurity and increased focus on AI agent security.",
-    "last_updated": "2026-10-02"
+    "summary": "AI's advanced exploit capabilities are highlighted by security bug discoveries, underscoring the need for AI-powered cybersecurity and increased focus on AI agent security. AI is accelerating exploits, overwhelming traditional vulnerability management.",
+    "last_updated": "2026-10-03"
   },
   {
     "name": "Public Health Crises in Nigeria",
@@ -50,7 +50,7 @@
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Abductions with high ransom demands, communal clashes, and targeted killings persist across multiple states, underscoring the severe and escalating insecurity challenges nationwide.",
+    "summary": "Abductions with high ransom demands, communal clashes, and targeted killings persist across multiple states, underscoring the severe and escalating insecurity challenges nationwide. Calls for the President's resignation have emerged.",
     "last_updated": "2026-10-03"
   },
   {
@@ -62,19 +62,19 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are rapidly evolving with integrated features for autonomous task execution, driving competition among major labs and increasing demand for secure enterprise solutions.",
+    "summary": "AI agents are rapidly evolving with integrated features for autonomous task execution, driving competition among major labs and increasing demand for secure enterprise solutions. Agents are now appearing within text messages.",
     "last_updated": "2026-10-03"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Early political maneuvering for 2027 is underway, alongside ongoing legal disputes and warnings against electoral fraud, highlighting persistent challenges in governance and digital security.",
+    "summary": "Early political maneuvering for 2027 is underway, alongside ongoing legal disputes and warnings against electoral fraud, highlighting persistent challenges in governance and digital security. CSOs demand action against vote-buying.",
     "last_updated": "2026-10-03"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
     "status": "escalating",
-    "summary": "Concerns over 'catastrophic' AI risks are intensifying global discussions on AI governance, with calls for international treaties and industry accords to address safety and ethical considerations.",
-    "last_updated": "2026-10-02"
+    "summary": "Concerns over 'catastrophic' AI risks are intensifying global discussions on AI governance, with calls for international treaties and industry accords to address safety and ethical considerations. An OpenAI safety employee resigned citing a 'broken culture'.",
+    "last_updated": "2026-10-03"
   }
 ]
