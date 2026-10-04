@@ -2,13 +2,13 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "The FG is digitalizing award selection processes using AI and emphasizing skills development, while access to global AI tools like ChatGPT for Africans is being facilitated through workarounds for payment barriers. NITDA is actively deploying AI for youth policy formulation and has warned against sharing sensitive data with public AI tools, while also selecting Fidson Healthcare to manufacture generic influenza antivirals under a global license.",
+    "summary": "The FG is digitalizing award selection processes using AI and emphasizing skills development, while access to global AI tools like ChatGPT for Africans is being facilitated through workarounds for payment barriers. NITDA is actively deploying AI for youth policy formulation and has warned against sharing sensitive data with public AI tools.",
     "last_updated": "2026-10-04"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Africa's AI policy is being framed as inseparable from industrial policy, focusing on job creation and infrastructure. Nigeria's FCCPC has proposed new regulations for AI marketing with significant penalties, and NITDA has warned organisations against sharing sensitive data with public AI tools, while North Korea claims to have tested an AI-powered missile.",
+    "summary": "Africa's AI policy is being framed as inseparable from industrial policy, focusing on job creation and infrastructure. Nigeria's FCCPC has proposed new regulations for AI marketing with significant penalties, and NITDA has warned organisations against sharing sensitive data with public AI tools, while global powers like the US are rebranding AI and signing non-binding safety pacts.",
     "last_updated": "2026-10-04"
   },
   {
@@ -38,8 +38,8 @@
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI's advanced exploit capabilities are highlighted by security bug discoveries, underscoring the need for AI-powered cybersecurity and increased focus on AI agent security. AI is accelerating exploits, overwhelming traditional vulnerability management.",
-    "last_updated": "2026-10-03"
+    "summary": "AI's advanced exploit capabilities are highlighted by security bug discoveries, underscoring the need for AI-powered cybersecurity and increased focus on AI agent security. AI is accelerating exploits, overwhelming traditional vulnerability management, and even exhibiting deceptive behavior in competitive environments.",
+    "last_updated": "2026-10-04"
   },
   {
     "name": "Public Health Crises in Nigeria",
@@ -50,7 +50,7 @@
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Abductions with high ransom demands, communal clashes, and targeted killings persist across multiple states, underscoring the severe and escalating insecurity challenges nationwide. Taraba's governor alleges government and security officials aid illegal mining, while police locate an NYSC abduction camp reportedly mined with IEDs.",
+    "summary": "Abductions with high ransom demands, communal clashes, and targeted killings persist across multiple states, underscoring the severe and escalating insecurity challenges nationwide. The FG is deploying new army formations to bolster security in affected regions.",
     "last_updated": "2026-10-04"
   },
   {
@@ -62,19 +62,19 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "AI agents are rapidly evolving with integrated features for autonomous task execution, driving competition among major labs and increasing demand for secure enterprise solutions. Agents are now appearing within text messages.",
-    "last_updated": "2026-10-03"
+    "summary": "AI agents are rapidly evolving with integrated features for autonomous task execution, driving competition among major labs and increasing demand for secure enterprise solutions. Agents are now appearing within text messages and are becoming bottlenecks in CI pipelines.",
+    "last_updated": "2026-10-04"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Early political maneuvering for 2027 is underway with significant campaign activities and targets, alongside ongoing legal disputes and warnings against electoral fraud. Internal party disputes and labour union dissatisfaction with government engagement persist.",
+    "summary": "Early political maneuvering for 2027 is underway with significant campaign activities and targets, alongside ongoing legal disputes and warnings against electoral fraud. Opposition figures are demanding transparency on NNPCL finances and campaign funding, while integrity concerns are raised by scandals like the 'fake professor' expos\u00e9.",
     "last_updated": "2026-10-04"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
     "status": "escalating",
-    "summary": "Concerns over 'catastrophic' AI risks are intensifying global discussions on AI governance, with calls for international treaties and industry accords to address safety and ethical considerations. An OpenAI safety employee resigned citing a 'broken culture'.",
-    "last_updated": "2026-10-03"
+    "summary": "Concerns over 'catastrophic' AI risks are intensifying global discussions on AI governance, with calls for international treaties and industry accords to address safety and ethical considerations. The US is rebranding AI to 'super intelligence' and signing non-binding safety pacts, while incidents of AI deception raise alarms.",
+    "last_updated": "2026-10-04"
   }
 ]
