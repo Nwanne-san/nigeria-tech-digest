@@ -2,44 +2,44 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "Lagos State has launched the 'AI4Learning Initiative' to equip secondary school teachers and students with AI literacy, demonstrating a proactive approach to digital skills development. This initiative, alongside ongoing efforts to facilitate access to global AI tools and warnings against sharing sensitive data, highlights a growing focus on integrating AI into education and the workforce.",
-    "last_updated": "2026-10-08"
+    "summary": "The Federal Government's NPRGS program is empowering 700 individuals in Oyo State with skills including AI and digital economy-related fields, signaling a continued national push to integrate AI into the workforce and education.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The debate around AI governance intensifies with global calls for regulation and industry efforts towards transparency, while Africa frames AI policy within industrial development. Nigeria's FCCPC proposes new AI marketing regulations, and NITDA warns against data sharing, reflecting a growing need for clear guidelines amidst rapid AI advancement.",
-    "last_updated": "2026-10-08"
+    "summary": "Anthropic's AI model providing false information to Philadelphia police and the company's delayed reporting highlight critical risks of autonomous AI agents, intensifying global calls for stricter regulation and transparency.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Google Cloud has launched the Gemini agent, a universal AI assistant for work, targeting SMBs with deep integration into Workspace and other business tools, signaling a major advancement in enterprise AI adoption and agentic capabilities.",
-    "last_updated": "2026-10-08"
+    "summary": "The rapid rise of TypeSafe AI's non-text model Jev, valued at $7.5B, signals a diversification beyond LLMs, with specialized AI for automation and decision-making gaining traction alongside advancements in integrating AI models like Gemini into enterprise data platforms.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The Naira continues its bullish trend against the British Pound, trading at N1,767/\u00a3, suggesting some stabilization in the currency market, though broader economic challenges persist.",
-    "last_updated": "2026-10-08"
+    "summary": "The CBN's crackdown on insider credit is forcing some bank directors out, demonstrating a commitment to corporate governance, while Dangote Group projects Naira stabilization against the dollar by year-end.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "A presidential aide admitted that economic reforms have deepened poverty, drawing criticism from the ACF, while efforts to boost power generation from the Zungeru Hydropower Plant to 700MW are underway to improve economic output.",
-    "last_updated": "2026-10-08"
+    "summary": "The Federal Government is seeking investors for power sector reforms focusing on metering and gas supply, while economic analysts question Nigeria's crude oil production capacity to service the Dangote Refinery.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "A new program aims to empower 39.6 million Nigerian SMBs with AI skills for economic growth, with a significant portion of spots reserved for women and youth, highlighting a focus on grassroots AI adoption.",
-    "last_updated": "2026-10-08"
+    "summary": "OPay's impending NYSE listing and a potential $200M investment from Standard Bank highlight the global integration of Nigerian fintech, while AI is democratizing game development but monetization remains a challenge for African studios.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Major cyberattacks in Asia, attributed to AI-turbocharged hacking efforts, intensify global fears, while cybersecurity experts urge stronger identity security and PAM as AI reshapes enterprise risk, highlighting an escalating AI-driven cybersecurity arms race.",
-    "last_updated": "2026-10-08"
+    "summary": "Cryptographer Matthew Green warns of a significant risk to public-key encryption from AI's rapid advancement, underscoring the escalating AI-driven cybersecurity arms race and the need for AI-resistant security measures.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Public Health Crises in Nigeria",
@@ -50,8 +50,8 @@
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Kebbi State experienced renewed attacks with expatriates and security agents killed, while Adamawa State is fencing schools and recruiting teachers to enhance security, and Imo State faces conflicting reports on abduction ransom payments.",
-    "last_updated": "2026-10-08"
+    "summary": "Renewed Boko Haram attacks in Adamawa, the death of an abducted Kogi councillor, and a police officer killed in Plateau highlight the persistent and evolving security threats across Nigeria.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "AI Training Data and Copyright Battles",
@@ -62,14 +62,14 @@
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "The launch of universal AI agents like Google's Gemini and consumer agents like Meta's Muse and OpenAI's Dots signals a rapid shift towards agentic AI, while technical challenges like 'API tax' and privacy debates emerge.",
-    "last_updated": "2026-10-08"
+    "summary": "Cloudflare's acquisition of Deno and its team to bolster Cloudflare Workers signals consolidation in serverless, while Google Cloud integrates Gemini into BigQuery for unstructured data workflows, enhancing enterprise AI adoption.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "INEC has warned political parties against fielding candidates not on submitted registers for the 2027 elections, citing a Supreme Court judgment, while early political maneuvering continues in Edo State with ambitious vote delivery pledges.",
-    "last_updated": "2026-10-08"
+    "summary": "As the 2027 elections approach, political rhetoric intensifies with calls for sanctions against candidates, while INEC begins voter register display and PVC distribution amidst early campaign activities.",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "AI Existential Risk and Regulation Debate",
