@@ -2,79 +2,79 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "Efforts to boost digital and AI skills training continue, with structural engineers calling for wider AI adoption in infrastructure, while global tech giants' restructuring raises concerns about local talent absorption and the future of traditional engineering roles.",
-    "last_updated": "2026-10-13"
+    "summary": "Efforts to boost digital and AI skills training continue, with calls for greater African representation in AI infrastructure and concerns over Big Tech's reduced presence in engineering hubs, while financial firms increasingly tie pay to AI proficiency.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The debate on AI safety intensifies with research on self-replicating AI worms and an OpenAI employee's arrest for alleged bugging, underscoring the urgent need for global regulatory frameworks and robust internal security measures.",
-    "last_updated": "2026-10-13"
+    "summary": "The debate on AI safety intensifies with an OpenAI employee's arrest for alleged bugging, underscoring the urgent need for global regulatory frameworks and robust internal security measures, alongside calls for stronger African participation in AI infrastructure.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Google Cloud launches Gemini 4 Argon, a frontier model for complex enterprise tasks, intensifying competition with Meta and signaling a transformative shift in software development, cybersecurity, and business process automation.",
-    "last_updated": "2026-10-13"
+    "summary": "Competition intensifies with new frontier models and AI agents transforming software development and industrial production, while cybersecurity firms leverage AI to combat vulnerabilities, and financial firms increasingly prioritize AI proficiency.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The launch of Nigeria's first CBN-licensed Non-Interest Finance Company and Yobe State's share allocation in Dangote Refinery for women highlight ongoing efforts in financial inclusion and economic empowerment amidst broader reform challenges.",
-    "last_updated": "2026-10-13"
+    "summary": "The IMF urges Nigeria to avoid restoring fuel subsidies and focus on revenue generation and targeted support, while the FG introduces fiscal reforms and FG trains personnel on AML/CFT, amidst concerns over single-digit inflation's impact on savings.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's bid for palm oil producers' council membership and state-level economic empowerment initiatives like share allocations in Dangote Refinery signal diversification efforts, while structural engineers push for AI adoption in infrastructure.",
-    "last_updated": "2026-10-13"
+    "summary": "Nigeria seeks substantial investment for development projects, unveils fiscal reforms, and highlights the economic impact of single-digit inflation, while Jigawa State releases comprehensive data and pig farmers suffer significant losses from swine fever.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "The reported closure of Microsoft's Nairobi engineering operations, following Lagos, raises concerns about talent absorption and job security, while AI is increasingly being leveraged to streamline processes like startup funding.",
-    "last_updated": "2026-10-13"
+    "summary": "Microsoft's closure of its Nairobi engineering hub, following Lagos, raises concerns about talent absorption, while the NGX Tech Board struggles to attract startup listings, and innovative funding models emerge to support startups.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Research on self-replicating AI worms and an OpenAI employee's arrest for alleged bugging highlight escalating threats and vulnerabilities, intensifying the need for advanced AI-resistant security measures and governance.",
-    "last_updated": "2026-10-13"
+    "summary": "An OpenAI employee's arrest for alleged bugging highlights escalating threats, while AI-powered security tools are developed to combat unpatched bugs, indicating an ongoing arms race in cybersecurity.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "While systemic issues like doctor strikes persist, local initiatives like free surgical programs for children in Lagos demonstrate targeted efforts to improve healthcare access.",
+    "summary": "Systemic issues like doctor strikes persist, but local initiatives continue to address healthcare access challenges.",
     "last_updated": "2026-10-13"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Bandits fleeing Zamfara have caused displacement in Niger State, while mining investors demand stronger security, and the IG pledges enhanced surveillance for the 2027 polls amidst ongoing criticism of the government's handling of insecurity.",
-    "last_updated": "2026-10-13"
+    "summary": "Political violence escalates in Enugu, Yobe State boosts forest guards' capacity, Ghana repatriates Nigerians trafficked for cybercrime, and Catholic institutions close in Benue due to arson, underscoring persistent security threats.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "Legal battles over AI training data and copyright continue to escalate, impacting artists and highlighting the need for clear frameworks and attribution technologies as AI development pushes intellectual property boundaries.",
+    "summary": "Legal battles over AI training data and copyright continue to escalate, impacting artists and highlighting the need for clear frameworks.",
     "last_updated": "2026-10-13"
   },
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "Shopify's expansion of AI agent access for purchases and Google Cloud's Gemini 4 Argon signal a rapid evolution in agentic AI and its integration into commerce and software development.",
-    "last_updated": "2026-10-13"
+    "summary": "The rapid evolution of agentic AI is evident in enterprise adoption and the development of AI-powered security tools, transforming software development and operational processes.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "INEC's candidate omissions in Ogun State have sparked controversy and warnings of unrest, while cross-party coalitions form for the 2027 elections and debates continue on issues like attempted suicide decriminalization.",
-    "last_updated": "2026-10-13"
+    "summary": "Political rhetoric intensifies with accusations over past governance failures, while election-related violence and legal challenges over candidate integrity persist, alongside routine electoral commission activities.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
     "status": "escalating",
-    "summary": "Global South nations continue to demand permanent seats on the UN Security Council, citing equity concerns, though significant hurdles remain with the P5 nations.",
+    "summary": "Global South nations continue to demand permanent seats on the UN Security Council, facing ongoing hurdles with P5 nations.",
     "last_updated": "2026-10-13"
   }
 ]
