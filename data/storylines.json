@@ -8,13 +8,13 @@
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The debate on AI safety intensifies with an OpenAI employee's arrest for alleged bugging, underscoring the urgent need for global regulatory frameworks and robust internal security measures, alongside calls for stronger African participation in AI infrastructure.",
+    "summary": "The debate on AI safety intensifies with multiple lawsuits against OpenAI for child safety and data privacy, underscoring the urgent need for global regulatory frameworks and robust internal security measures, alongside calls for stronger African participation in AI infrastructure.",
     "last_updated": "2026-10-14"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Competition intensifies with new frontier models and AI agents transforming software development and industrial production, while cybersecurity firms leverage AI to combat vulnerabilities, and financial firms increasingly prioritize AI proficiency.",
+    "summary": "Competition intensifies with new frontier models from Google and Meta challenging existing leaders, aggressive pricing strategies, and specialized decision models with larger context windows, transforming software development and enterprise AI adoption.",
     "last_updated": "2026-10-14"
   },
   {
@@ -26,49 +26,49 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria seeks substantial investment for development projects, unveils fiscal reforms, and highlights the economic impact of single-digit inflation, while Jigawa State releases comprehensive data and pig farmers suffer significant losses from swine fever.",
+    "summary": "Nigeria seeks investment for development, unveils fiscal reforms, and highlights economic impacts of inflation, while efforts to add value to raw gemstones and strengthen primary healthcare signal diversification and human capital development focus.",
     "last_updated": "2026-10-14"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Microsoft's closure of its Nairobi engineering hub, following Lagos, raises concerns about talent absorption, while the NGX Tech Board struggles to attract startup listings, and innovative funding models emerge to support startups.",
+    "summary": "Microsoft's closure of its Nairobi engineering hub raises concerns about talent absorption, while innovative models like WhatsApp-based banking emerge to address local user needs and overcome adoption challenges.",
     "last_updated": "2026-10-14"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "An OpenAI employee's arrest for alleged bugging highlights escalating threats, while AI-powered security tools are developed to combat unpatched bugs, indicating an ongoing arms race in cybersecurity.",
+    "summary": "The threat of sophisticated AI-powered malware, including self-replicating worms targeting IoT devices, is escalating, while Google Cloud launches tools to prepare for Post-Quantum Cryptography (PQC) shifts.",
     "last_updated": "2026-10-14"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Systemic issues like doctor strikes persist, but local initiatives continue to address healthcare access challenges.",
-    "last_updated": "2026-10-13"
+    "summary": "The Federal Government has released significant funds to expand primary healthcare coverage, aiming to strengthen the foundational health system despite ongoing systemic issues like doctor strikes.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Political violence escalates in Enugu, Yobe State boosts forest guards' capacity, Ghana repatriates Nigerians trafficked for cybercrime, and Catholic institutions close in Benue due to arson, underscoring persistent security threats.",
+    "summary": "Insecurity in schools is highlighted as a national security threat, while arrests for infrastructure vandalism and ongoing political violence underscore persistent security challenges across the country.",
     "last_updated": "2026-10-14"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "Legal battles over AI training data and copyright continue to escalate, impacting artists and highlighting the need for clear frameworks.",
-    "last_updated": "2026-10-13"
+    "summary": "AI's ability to mass decompile software, including games, raises significant concerns about intellectual property, copyright infringement, and the need for new legal frameworks to protect digital assets.",
+    "last_updated": "2026-10-14"
   },
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "The rapid evolution of agentic AI is evident in enterprise adoption and the development of AI-powered security tools, transforming software development and operational processes.",
+    "summary": "The rapid evolution of agentic AI is evident in enterprise adoption, the development of specialized decision models with large context windows, and AI's capability to decompile software, transforming software development and operational processes.",
     "last_updated": "2026-10-14"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Political rhetoric intensifies with accusations over past governance failures, while election-related violence and legal challenges over candidate integrity persist, alongside routine electoral commission activities.",
+    "summary": "Political rhetoric intensifies with accusations over governance and campaign strategies, while INEC clarifies candidate exclusions and deadlines, and election-related violence and legal challenges persist.",
     "last_updated": "2026-10-14"
   },
   {
