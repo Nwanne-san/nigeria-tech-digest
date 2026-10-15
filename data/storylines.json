@@ -2,73 +2,73 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "Efforts to boost digital and AI skills training continue, with calls for greater African representation in AI infrastructure and concerns over Big Tech's reduced presence in engineering hubs, while financial firms increasingly tie pay to AI proficiency.",
+    "summary": "Efforts to boost digital and AI skills training continue, with calls for greater African representation in AI infrastructure and concerns over Big Tech's reduced presence in engineering hubs, while financial firms increasingly tie pay to AI proficiency. The global AI boom's bottleneck shifting to money could impact local AI startups.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The debate on AI safety intensifies with multiple lawsuits against OpenAI for child safety and data privacy, underscoring the urgent need for global regulatory frameworks and robust internal security measures, alongside calls for stronger African participation in AI infrastructure. A robot hack exposed massive data privacy and security failures, intensifying calls for stricter global regulations.",
+    "summary": "The debate on AI safety intensifies with multiple lawsuits against OpenAI for child safety and data privacy, underscoring the urgent need for global regulatory frameworks and robust internal security measures. Perplexity's open-sourcing of its AI sandbox, SPACE, signals a growing industry commitment to AI safety.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Competition intensifies with new frontier models from Google and Meta challenging existing leaders, aggressive pricing strategies, and specialized decision models with larger context windows, transforming software development and enterprise AI adoption. However, market sentiment has turned bearish on AI stocks due to concerns about infrastructure costs and debt.",
+    "summary": "Competition intensifies with new frontier models from Google and Meta challenging existing leaders, aggressive pricing strategies, and specialized decision models with larger context windows, transforming software development and enterprise AI adoption. Google Cloud's integration of its Lakehouse with Gemini and Visko's real-time world models on TPUs showcase advanced capabilities.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The IMF urges Nigeria to avoid restoring fuel subsidies and focus on revenue generation and targeted support, while the FG introduces fiscal reforms and FG trains personnel on AML/CFT, amidst concerns over single-digit inflation's impact on savings. Kenya's fintech reforms signal a trend towards greater regulatory oversight in African markets.",
+    "summary": "The IMF urges Nigeria to avoid restoring fuel subsidies and focus on revenue generation and targeted support, while the FG introduces fiscal reforms. Political figures like Kwankwaso are now considering fuel subsidies, reigniting debate.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria seeks investment for development, unveils fiscal reforms, and highlights economic impacts of inflation, while efforts to add value to raw gemstones and strengthen primary healthcare signal diversification and human capital development focus. FAAC disbursed \u20a62.4trn in September, and a Nigerian EV startup secured $29 million in funding.",
+    "summary": "Nigeria seeks investment for development, unveils fiscal reforms, and highlights economic impacts of inflation. A report reveals a $209 billion funding gap for Black-owned businesses, while the AI boom's bottleneck shifting to money could further strain capital access.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Microsoft's closure of its Nairobi engineering hub raises concerns about talent absorption, while innovative models like WhatsApp-based banking emerge to address local user needs and overcome adoption challenges. African startups raised $2.49B in 9 months, with a Nigerian EV startup securing significant funding.",
+    "summary": "Microsoft's closure of its Nairobi engineering hub raises concerns about talent absorption, while innovative models like WhatsApp-based banking emerge. Moniepoint's pivot from its UK remittance bet highlights strategic agility needed in the competitive fintech landscape.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "The threat of sophisticated AI-powered malware, including self-replicating worms targeting IoT devices, is escalating, while Google Cloud launches tools to prepare for Post-Quantum Cryptography (PQC) shifts. A robot hack exposed massive data privacy and security failures.",
+    "summary": "The threat of sophisticated AI-powered malware is escalating, while Google Cloud launches tools to prepare for Post-Quantum Cryptography (PQC) shifts. A robot hack exposed massive data privacy and security failures, intensifying calls for stricter global regulations.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "The Federal Government has released significant funds to expand primary healthcare coverage, aiming to strengthen the foundational health system despite ongoing systemic issues like doctor strikes. Following a plane crash, Ondo State ordered river fumigation and emergency water supply due to health concerns.",
+    "summary": "The Federal Government has released significant funds to expand primary healthcare coverage, aiming to strengthen the foundational health system. UNICEF and Borno government launched a youth-led campaign against malnutrition.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity in schools is highlighted as a national security threat, while arrests for infrastructure vandalism and ongoing political violence underscore persistent security challenges across the country. A midnight terror attack in Borno killed soldiers, and bandits fleeing Zamfara caused deaths and abductions in Niger.",
+    "summary": "President Tinubu ordered security chiefs to rescue abductees and clear bandit camps, signaling a more aggressive stance. ISWAP terrorists killed 15 soldiers in Borno, underscoring the persistent threat, while a policing bill is set for the National Assembly.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "AI's ability to mass decompile software, including games, raises significant concerns about intellectual property, copyright infringement, and the need for new legal frameworks to protect digital assets.",
-    "last_updated": "2026-10-14"
+    "summary": "AI's ability to mass decompile software raises significant concerns about intellectual property and copyright infringement. Anthropic's clampdown on 'distillation' highlights industry practices and competition.",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Generative Software and Interface World Models",
     "status": "escalating",
-    "summary": "The rapid evolution of agentic AI is evident in enterprise adoption, the development of specialized decision models with large context windows, and AI's capability to decompile software, transforming software development and operational processes. The 'retrieval problem' is identified as a key bottleneck, shifting focus to data access and RAG systems.",
+    "summary": "The rapid evolution of agentic AI is evident in enterprise adoption, with Google Cloud integrating its Lakehouse with Gemini for data access and Visko streaming real-time world models. Anthropic developed a Git replacement for AI-scale coding.",
     "last_updated": "2026-10-15"
   },
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Political rhetoric intensifies with accusations over governance and campaign strategies, while INEC clarifies candidate exclusions and deadlines, and election-related violence and legal challenges persist. A former Senate President called for a probe into the N15trn Coastal Highway project.",
+    "summary": "President Tinubu directed security chiefs to ensure safe elections, while Governor Makinde criticized economic reforms and suggested single terms. Senators declared the Senate presidency seat non-vacant, and the House demanded enforcement of the 18-year minimum marriage age.",
     "last_updated": "2026-10-15"
   },
   {
