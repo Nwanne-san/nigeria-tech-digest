@@ -3,42 +3,42 @@
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
     "summary": "Efforts to boost digital and AI skills training continue, with calls for greater African representation in AI infrastructure and concerns over Big Tech's reduced presence in engineering hubs. The global AI boom's bottleneck shifting to money could impact local AI startups, while companies like Intron focus on local voice AI solutions.",
-    "last_updated": "2026-10-16"
+    "last_updated": "2026-10-17"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The debate on AI safety intensifies with multiple lawsuits against OpenAI and reports of rogue AI agent activity in India, France, and Australia, underscoring the urgent need for global regulatory frameworks and robust internal security measures.",
-    "last_updated": "2026-10-16"
+    "summary": "The debate on AI safety intensifies with multiple lawsuits against OpenAI and reports of rogue AI agent activity, underscoring the urgent need for global regulatory frameworks and robust internal security measures. Apple's updated App Store rules now explicitly ban 'nudify' AI apps, reflecting increased platform responsibility.",
+    "last_updated": "2026-10-17"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Competition intensifies with new frontier models like Reflection's Beam challenging existing leaders, aggressive pricing strategies, and specialized decision models with larger context windows, transforming software development and enterprise AI adoption.",
-    "last_updated": "2026-10-16"
+    "summary": "Competition intensifies with new frontier models like Reflection's Beam and advancements in enterprise AI adoption, including specialized decision models with larger context windows. The Claude Code team's shift to AI-assisted code review highlights a move towards hybrid human-AI development workflows.",
+    "last_updated": "2026-10-17"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The IMF urges Nigeria to avoid restoring fuel subsidies and focus on revenue generation, while banks' deposits at the CBN surge above N6 trillion after a large OMO repayment, indicating significant liquidity in the system.",
-    "last_updated": "2026-10-16"
+    "summary": "The IMF urges Nigeria to avoid restoring fuel subsidies and focus on revenue generation, while banks' deposits at the CBN surge above N6 trillion after a large OMO repayment, indicating significant liquidity in the system. The Minister of Finance insists Nigeria will not revert to fuel subsidy regimes or multiple exchange rates.",
+    "last_updated": "2026-10-17"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria seeks investment for development, unveiling fiscal reforms and leveraging a $5.79 billion World Bank financing package, while facing persistent public pressure to address hunger and unemployment.",
-    "last_updated": "2026-10-16"
+    "summary": "Nigeria seeks investment for development, unveiling fiscal reforms and leveraging a $5.79 billion World Bank financing package, while facing persistent public pressure to address hunger and unemployment. Enugu State approved N32 billion for outstanding retiree gratuities, and civil servants are struggling with wages amidst rising living costs.",
+    "last_updated": "2026-10-17"
   },
   {
     "name": "Nigerian tech ecosystem (startups, fintech)",
     "status": "escalating",
-    "summary": "Microsoft's Nairobi hub closure raises talent absorption concerns, while fintechs like Paystack and Onafriq navigate strategic pivots amidst economic volatility and evolving market demands.",
-    "last_updated": "2026-10-16"
+    "summary": "Microsoft's Nairobi hub closure raises talent absorption concerns, while fintechs like Paystack and Onafriq navigate strategic pivots amidst economic volatility and evolving market demands. The trend towards local LLM accessibility is growing, with tools like Llmspeed emerging.",
+    "last_updated": "2026-10-17"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "The threat of sophisticated AI-powered malware and rogue AI agents is escalating, with incidents in India highlighting vulnerabilities in cloud infrastructure and credentials, intensifying calls for stricter global regulations.",
+    "summary": "The threat of sophisticated AI-powered malware and rogue AI agents is escalating, with incidents highlighting vulnerabilities in cloud infrastructure and credentials, intensifying calls for stricter global regulations.",
     "last_updated": "2026-10-16"
   },
   {
@@ -50,8 +50,8 @@
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "President Tinubu ordered security chiefs to rescue abductees and clear bandit camps, while security forces arrested suspects in the NYSC kidnapping and continued counter-insurgency operations, despite ongoing political criticism of the government's handling of insecurity.",
-    "last_updated": "2026-10-16"
+    "summary": "President Tinubu ordered security chiefs to rescue abductees and clear bandit camps, while security forces arrested suspects in the NYSC kidnapping and continued counter-insurgency operations. Kaduna's Millennium City has become a kidnapping hotspot, and four vigilantes were killed in Plateau State.",
+    "last_updated": "2026-10-17"
   },
   {
     "name": "AI Training Data and Copyright Battles",
@@ -60,16 +60,10 @@
     "last_updated": "2026-10-15"
   },
   {
-    "name": "Generative Software and Interface World Models",
-    "status": "escalating",
-    "summary": "The rapid evolution of agentic AI is evident in enterprise adoption, with new models like Reflection's Beam and Google Cloud's infrastructure advancements enabling more sophisticated AI agents for software development and complex tasks.",
-    "last_updated": "2026-10-16"
-  },
-  {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "President Tinubu nominated INEC officials ahead of the 2027 elections, while political figures debated economic reforms and early endorsements signaled the start of election campaigns, amidst ongoing disputes over candidate registrations.",
-    "last_updated": "2026-10-16"
+    "summary": "President Tinubu nominated INEC officials ahead of the 2027 elections, while political figures debated economic reforms and early endorsements signaled the start of election campaigns. Opposing 'Tinubu Must Go' and 'Tinubu Must Stay' campaigns have emerged, and a former PDP aspirant joined the APC in Gombe.",
+    "last_updated": "2026-10-17"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
