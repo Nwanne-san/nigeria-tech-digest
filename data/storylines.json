@@ -1,74 +1,68 @@
 [
   {
+    "name": "Political Integrity and Electoral Processes (Nigeria)",
+    "status": "escalating",
+    "summary": "A lawsuit against INEC over alleged missing electoral funds and a retired Justice's warning about judicial corruption highlight deep concerns about institutional integrity, while early endorsements for the 2027 elections signal intensified political maneuvering.",
+    "last_updated": "2026-10-18"
+  },
+  {
+    "name": "Security Operations and Insecurity Challenges (Nigeria)",
+    "status": "escalating",
+    "summary": "A landmine attack killing eight soldiers, a major tramadol bust, and ongoing efforts to address farmers-herder clashes and infrastructure vandalism underscore the persistent and evolving security threats across Nigeria.",
+    "last_updated": "2026-10-18"
+  },
+  {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "Efforts to boost digital and AI skills training continue, with calls for greater African representation in AI infrastructure and concerns over Big Tech's reduced presence in engineering hubs. The global AI boom's bottleneck shifting to money could impact local AI startups, while companies like Intron focus on local voice AI solutions and UniBeta AI targets Nigerian university students with tailored AI study tools.",
-    "last_updated": "2026-10-17"
-  },
-  {
-    "name": "AI Governance and Regulation Gap",
-    "status": "escalating",
-    "summary": "The debate on AI safety intensifies with multiple lawsuits against OpenAI and reports of rogue AI agent activity, underscoring the urgent need for global regulatory frameworks and robust internal security measures. Websites are increasingly blocking AI agents, while Meta removes language that could allow scraping of news sites for AI training.",
-    "last_updated": "2026-10-17"
-  },
-  {
-    "name": "AI Model Competition and Enterprise Adoption",
-    "status": "escalating",
-    "summary": "Competition intensifies with new frontier models and advancements in enterprise AI adoption, including specialized decision models with larger context windows. Replit shifts its default AI model provider from Anthropic to OpenAI, citing cost and performance, while AI's lowering of the software building barrier transforms the engineer's role.",
-    "last_updated": "2026-10-17"
-  },
-  {
-    "name": "CBN Policy and Economic Management",
-    "status": "escalating",
-    "summary": "The IMF urges Nigeria to avoid restoring fuel subsidies and focus on revenue generation, while banks' deposits at the CBN surge above N6 trillion after a large OMO repayment. The CBN is also pursuing stronger cross-border payment arrangements with China to deepen financial cooperation.",
-    "last_updated": "2026-10-17"
+    "summary": "Calls to integrate AI into technical education and insights from Anthropic's employment shifts highlight the urgent need to adapt Nigeria's workforce for an AI-driven future, with a focus on higher-order skills over traditional junior roles.",
+    "last_updated": "2026-10-18"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria seeks investment for development, unveiling fiscal reforms and leveraging a $5.79 billion World Bank financing package, while facing persistent public pressure to address hunger and unemployment. Gombe commissions a 1MW solar mini-grid, and Nigeria and Vietnam push to limit foreign investors' compensation in international disputes.",
-    "last_updated": "2026-10-17"
+    "summary": "The FG's contingent liabilities reach N7.84 trillion, while inflation eases but core pressures remain, and progress is made on clean energy projects, signaling a complex economic landscape requiring sustained reforms and public patience.",
+    "last_updated": "2026-10-18"
   },
   {
-    "name": "Nigerian tech ecosystem (startups, fintech)",
+    "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Microsoft's Nairobi hub closure raises talent absorption concerns, while fintechs navigate economic volatility. UniBeta AI, a Nigerian startup, engineers an AI tool to crack local university syllabuses, demonstrating the value of localized AI solutions.",
+    "summary": "New tools like Sphinx are emerging to ensure human understanding of AI-generated code, reflecting the transformative impact of AI on software development and the evolving role of engineers.",
+    "last_updated": "2026-10-18"
+  },
+  {
+    "name": "CBN Policy and Economic Management",
+    "status": "escalating",
+    "summary": "The Federal Government's contingent liabilities have surged to N7.84 trillion, with a significant portion tied to dollar swap accounts, indicating ongoing fiscal pressures and the need for careful economic management.",
+    "last_updated": "2026-10-18"
+  },
+  {
+    "name": "Public Health Crises in Nigeria",
+    "status": "developing",
+    "summary": "Nigeria's health reforms are showing positive results, with expanded health insurance coverage and maternal care, offering lessons for global health initiatives.",
+    "last_updated": "2026-10-18"
+  },
+  {
+    "name": "AI Governance and Regulation Gap",
+    "status": "escalating",
+    "summary": "The debate on AI safety intensifies with lawsuits against OpenAI and reports of rogue AI agent activity, underscoring the urgent need for global regulatory frameworks and robust internal security measures.",
     "last_updated": "2026-10-17"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "The threat of sophisticated AI-powered malware and rogue AI agents is escalating, with incidents highlighting vulnerabilities in cloud infrastructure and credentials, intensifying calls for stricter global regulations. Websites are blocking AI agents due to security concerns.",
-    "last_updated": "2026-10-17"
-  },
-  {
-    "name": "Public Health Crises in Nigeria",
-    "status": "developing",
-    "summary": "The Federal Government has released \u20a640.8 billion to expand primary healthcare coverage and extended health insurance to nearly 90,000 inmates, aiming to strengthen the foundational health system. The Senate moves to decriminalize attempted suicide, shifting focus to mental health intervention.",
-    "last_updated": "2026-10-17"
-  },
-  {
-    "name": "Security Operations and Insecurity Challenges (Nigeria)",
-    "status": "escalating",
-    "summary": "President Tinubu ordered security chiefs to rescue abductees and clear bandit camps, while security forces arrested suspects in the NYSC kidnapping and continued counter-insurgency operations. Jonathan and Dangote demand jobs and a non-kinetic approach, while the EU pledges \u20ac20 million in defense support.",
+    "summary": "The threat of sophisticated AI-powered malware and rogue AI agents is escalating, with incidents highlighting vulnerabilities in cloud infrastructure and credentials, intensifying calls for stricter global regulations.",
     "last_updated": "2026-10-17"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "AI's ability to mass decompile software raises significant concerns about intellectual property and copyright infringement. Meta removes language that may have allowed it to scrape news sites for AI training, following backlash.",
-    "last_updated": "2026-10-17"
-  },
-  {
-    "name": "Political Integrity and Electoral Processes (Nigeria)",
-    "status": "escalating",
-    "summary": "President Tinubu nominated INEC officials ahead of the 2027 elections, while political figures debated economic reforms and early endorsements signaled the start of election campaigns. Northern governors pledge total support for Tinubu's 2027 ambition.",
+    "summary": "AI's ability to mass decompile software raises significant concerns about intellectual property and copyright infringement, with companies taking steps to prevent unauthorized data scraping.",
     "last_updated": "2026-10-17"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
     "status": "escalating",
-    "summary": "Global South nations continue to demand permanent seats on the UN Security Council, facing ongoing hurdles with P5 nations. Macky Sall withdraws from the UN Secretary-General race after Nigeria's objection.",
+    "summary": "Global South nations continue to demand permanent seats on the UN Security Council, facing ongoing hurdles with P5 nations.",
     "last_updated": "2026-10-17"
   },
   {
