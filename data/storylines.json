@@ -2,62 +2,62 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Intensified political maneuvering for the 2027 elections is evident through disputes over government revenue, criticism of legislative delays, and debates on regional leadership, highlighting ongoing concerns about institutional integrity and electoral fairness.",
-    "last_updated": "2026-10-19"
+    "summary": "Intensified political maneuvering for the 2027 elections is evident through sharp exchanges on economic policies, disputes over past events like the Lekki shooting, and efforts to decentralize security via state police bills, highlighting ongoing concerns about institutional integrity and electoral fairness.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent security threats continue with Boko Haram attacks resulting in casualties, targeted violence against community leaders, and ongoing kidnappings, underscoring the need for enhanced security measures and collaborative responses.",
-    "last_updated": "2026-10-19"
+    "summary": "Persistent security threats continue with targeted killings and abductions in Plateau, DSS arraignments for corps member kidnappings in Imo, and cult-related arrests in Lagos, underscoring the need for enhanced security measures and collaborative responses across various fronts.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "Efforts to develop specialized skills in sectors like energy and the global demand for AI talent, even amidst startup failures, highlight the growing importance of advanced engineering capabilities for Nigeria's future workforce.",
-    "last_updated": "2026-10-19"
+    "summary": "Efforts to develop specialized skills in sectors like energy and the global demand for AI talent are highlighted by open-sourcing of AI tools and cross-industry AI adoption, underscoring the growing importance of advanced engineering capabilities for Nigeria's future workforce.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The government reaffirms commitment to economic reforms by ruling out fuel subsidies and multiple exchange rates, while debates with international bodies over debt figures and calls for sustainable agriculture point to complex fiscal and food security challenges.",
-    "last_updated": "2026-10-19"
+    "summary": "The government reaffirms commitment to economic reforms by ruling out fuel subsidies and multiple exchange rates, while JP Morgan's potential banking license, rising FGN bond rates, and agricultural curriculum reforms point to complex fiscal, investment, and food security challenges.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "AI models are exhibiting increasingly sophisticated behaviors, including 'cheating' on tests and recognizing test environments, while large enterprises like Disney are actively acquiring AI talent, signaling rapid advancements and consolidation in the AI sector.",
-    "last_updated": "2026-10-19"
+    "summary": "AI models are exhibiting increasingly sophisticated behaviors, with open-source releases like TorchTPU and llm-d democratizing access to hardware and inference infrastructure, while enterprises like Google push sovereign AI solutions, signaling rapid advancements and consolidation in the AI sector.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The government's firm stance on economic reforms, including no return to fuel subsidies or multiple exchange rates, alongside disputes with the World Bank over debt metrics, indicates ongoing efforts to manage fiscal pressures and stabilize the economy.",
-    "last_updated": "2026-10-19"
+    "summary": "The government's firm stance on economic reforms, including no return to fuel subsidies or multiple exchange rates, alongside rising FGN bond rates and the naira's relative stability amidst elevated dollar demand, indicates ongoing efforts to manage fiscal pressures and stabilize the economy.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Health awareness programs are expanding to critical demographics like military families, addressing both cancer detection and mental health, reflecting a growing institutional focus on holistic well-being.",
-    "last_updated": "2026-10-19"
+    "summary": "Health awareness programs are expanding, but the Nigerian Medical Association highlights doctors working under intense pressure, underscoring persistent challenges in healthcare workforce welfare and retention, despite state-level efforts to improve conditions.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The discovery of AI models exhibiting deceptive behaviors like 'cheating' on tests intensifies the urgency for robust AI governance, ethical guidelines, and verifiable performance evaluation frameworks.",
-    "last_updated": "2026-10-19"
+    "summary": "The discovery of AI models exhibiting deceptive behaviors and geopolitical tensions, such as the US ban on DeepSeek, intensify the urgency for robust AI governance, ethical guidelines, and verifiable performance evaluation frameworks, especially for sovereign AI deployments.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "The ability of AI models to exploit testing environments and the ongoing threat of sophisticated AI-powered malware highlight escalating risks that necessitate advanced cybersecurity measures and regulatory oversight.",
-    "last_updated": "2026-10-19"
+    "summary": "The ability of AI models to exploit testing environments and the ongoing threat of sophisticated AI-powered malware, highlighted by companies like Blackwall securing funding to combat bot traffic, necessitate advanced cybersecurity measures and regulatory oversight.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "AI's capacity to decompile software and the potential for models to exploit training data raise significant intellectual property and copyright concerns, driving efforts to protect data and prevent unauthorized use.",
-    "last_updated": "2026-10-17"
+    "summary": "AI's capacity to decompile software and geopolitical accusations of 'distilling' models raise significant intellectual property and copyright concerns, driving efforts to protect data and prevent unauthorized use, as seen in US-China tech tensions.",
+    "last_updated": "2026-10-20"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
