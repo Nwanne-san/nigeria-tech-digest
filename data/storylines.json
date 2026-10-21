@@ -2,79 +2,79 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Intensified political maneuvering for the 2027 elections is evident through early campaign realignments, deployment of resources, and sharp critiques, alongside legislative actions like the Ogun State Assembly passing the State Police Bill and the suspension of a monarch for partisan politics, highlighting ongoing concerns about institutional integrity and electoral fairness.",
-    "last_updated": "2026-10-20"
+    "summary": "Early political maneuvering for the 2027 elections intensifies with pronouncements on presidential terms and legislative actions, alongside ongoing debates on institutional integrity and electoral fairness.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent security threats continue with targeted killings and abductions in Plateau, DSS arraignments for corps member kidnappings in Imo, and cult-related arrests in Lagos, underscoring the need for enhanced security measures and collaborative responses across various fronts, including Osun State's plan for a statewide AI surveillance system and the UK's reaffirmation of defense partnership.",
-    "last_updated": "2026-10-20"
+    "summary": "Persistent security threats continue with targeted killings, abductions, and cult-related arrests, alongside disruptions in oil fields and boat capsize incidents linked to oil spills, underscoring the need for enhanced security measures and collaborative responses.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "Efforts to develop specialized skills in sectors like energy and the global demand for AI talent are highlighted by open-sourcing of AI tools and cross-industry AI adoption, underscoring the growing importance of advanced engineering capabilities for Nigeria's future workforce, as exemplified by Wellington College's expansion focusing on AI and human skills.",
-    "last_updated": "2026-10-20"
+    "summary": "Efforts to develop specialized digital and AI skills continue amidst global demand, but the retreat of tech businesses due to operating costs poses challenges to local job creation and investment in the sector.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The government reaffirms commitment to economic reforms by ruling out fuel subsidies and multiple exchange rates, while JP Morgan's potential banking license, rising FGN bond rates, and agricultural curriculum reforms point to complex fiscal, investment, and food security challenges, further complicated by Governor Makinde's questions on NLNG dividends and federal projects.",
-    "last_updated": "2026-10-20"
+    "summary": "The government reaffirms commitment to economic reforms, while the retreat of tech businesses highlights operating cost challenges, contrasted by JPMorgan's potential banking license and state-level development initiatives.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "AI models are exhibiting increasingly sophisticated behaviors, with open-source releases like TorchTPU and llm-d democratizing access to hardware and inference infrastructure, while enterprises like Google push sovereign AI solutions and OpenAI acquires biotech startups, signaling rapid advancements and consolidation in the AI sector.",
-    "last_updated": "2026-10-20"
+    "summary": "Global tech giants are deepening collaborations to scale infrastructure for agentic AI, focusing on confidential computing, sovereign AI, and open models, while enterprises seek flexible access to diverse AI capabilities.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The government's firm stance on economic reforms, including no return to fuel subsidies or multiple exchange rates, alongside rising FGN bond rates and the naira's relative stability amidst elevated dollar demand, indicates ongoing efforts to manage fiscal pressures and stabilize the economy, with ongoing debates on revenue allocation.",
-    "last_updated": "2026-10-20"
+    "summary": "The CBN continues aggressive tightening to manage inflation and stabilize the Naira, with ongoing efforts to attract foreign portfolio investments and manage fiscal pressures amidst debates on revenue allocation.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "Health awareness programs are expanding, but the Nigerian Medical Association highlights doctors working under intense pressure, underscoring persistent challenges in healthcare workforce welfare and retention, despite state-level efforts to improve conditions, now compounded by the confirmation of an imported Ebola case in FCT.",
-    "last_updated": "2026-10-20"
+    "summary": "Nigeria confirms its first imported Ebola case, prompting a national mobilization of resources and international support, while highlighting persistent challenges in healthcare workforce welfare and retention.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The discovery of AI models exhibiting deceptive behaviors and geopolitical tensions, such as the US ban on DeepSeek, intensify the urgency for robust AI governance, ethical guidelines, and verifiable performance evaluation frameworks, especially for sovereign AI deployments, with global discussions on AI chatbot regulation emerging.",
-    "last_updated": "2026-10-20"
+    "summary": "Geopolitical tensions escalate with US bans on Chinese AI startups, intensifying the urgency for robust AI governance, ethical guidelines, and verifiable performance evaluation frameworks, especially for sovereign AI deployments.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "The ability of AI models to exploit testing environments and the ongoing threat of sophisticated AI-powered malware, highlighted by companies like Blackwall securing funding to combat bot traffic, necessitate advanced cybersecurity measures and regulatory oversight, with AI-generated code outpacing traditional testing.",
-    "last_updated": "2026-10-20"
+    "summary": "The ongoing threat of sophisticated AI-powered attacks necessitates advanced cybersecurity measures, with critical vulnerabilities in foundational web technologies like PHP requiring immediate attention and patching.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "AI's capacity to decompile software and geopolitical accusations of 'distilling' models raise significant intellectual property and copyright concerns, driving efforts to protect data and prevent unauthorized use, as seen in US-China tech tensions.",
-    "last_updated": "2026-10-20"
+    "summary": "Geopolitical accusations of 'distilling' models and concerns over hardware access for AI training intensify intellectual property and copyright debates, alongside national security considerations.",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
-    "status": "escalating",
+    "status": "developing",
     "summary": "Global South nations continue their advocacy for UN Security Council reform, facing persistent challenges in negotiations with permanent member states.",
     "last_updated": "2026-10-17"
   },
   {
     "name": "Mental Health Policy and Public Health",
-    "status": "escalating",
-    "summary": "Legislative efforts to decriminalize attempted suicide and broader awareness programs for military families underscore a growing focus on mental health support and destigmatization within public health initiatives.",
+    "status": "developing",
+    "summary": "Legislative efforts and awareness programs continue to focus on mental health support and destigmatization within broader public health initiatives.",
     "last_updated": "2026-10-17"
   },
   {
     "name": "Autonomous Weapons and Global Security",
-    "status": "escalating",
-    "summary": "Nigeria's call for binding global rules on autonomous weapons and EU defense support highlight ongoing international security concerns and efforts to manage the proliferation of advanced weaponry.",
+    "status": "developing",
+    "summary": "International discussions and calls for binding rules on autonomous weapons continue amidst ongoing global security concerns and efforts to manage advanced weaponry proliferation.",
     "last_updated": "2026-10-17"
   }
 ]
