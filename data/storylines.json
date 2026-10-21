@@ -2,55 +2,55 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Early political maneuvering for the 2027 elections intensifies with pronouncements on presidential terms and legislative actions, alongside ongoing debates on institutional integrity and electoral fairness.",
+    "summary": "Early political maneuvering for the 2027 elections intensifies with opposition parties seeking consensus candidates and the ruling party signaling early campaign readiness, while concerns about presidential fitness are addressed.",
     "last_updated": "2026-10-21"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent security threats continue with targeted killings, abductions, and cult-related arrests, alongside disruptions in oil fields and boat capsize incidents linked to oil spills, underscoring the need for enhanced security measures and collaborative responses.",
+    "summary": "Persistent security threats continue with targeted killings, abductions, and cult-related arrests across various states, alongside community-level alarms over security force conduct and calls for federal intervention.",
     "last_updated": "2026-10-21"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "Efforts to develop specialized digital and AI skills continue amidst global demand, but the retreat of tech businesses due to operating costs poses challenges to local job creation and investment in the sector.",
+    "summary": "Initiatives to expand digital learning to thousands of schools are underway, while successful tech alumni are launching their own startups, indicating a maturing ecosystem despite challenges in digital infrastructure readiness.",
     "last_updated": "2026-10-21"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The government reaffirms commitment to economic reforms, while the retreat of tech businesses highlights operating cost challenges, contrasted by JPMorgan's potential banking license and state-level development initiatives.",
+    "summary": "Government efforts focus on economic reforms and digital learning expansion, but significant public health crises like widespread lead poisoning and infrastructure gaps in digital readiness pose long-term challenges.",
     "last_updated": "2026-10-21"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Global tech giants are deepening collaborations to scale infrastructure for agentic AI, focusing on confidential computing, sovereign AI, and open models, while enterprises seek flexible access to diverse AI capabilities.",
+    "summary": "Tech giants are rapidly deploying advanced AI agents like Claude Duet and Muse, demonstrating strong user adoption and commercial viability, while new multimodal data platforms and efficient local models emerge.",
     "last_updated": "2026-10-21"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN continues aggressive tightening to manage inflation and stabilize the Naira, with ongoing efforts to attract foreign portfolio investments and manage fiscal pressures amidst debates on revenue allocation.",
+    "summary": "The CBN continues aggressive monetary tightening to manage inflation and stabilize the Naira, with ongoing efforts to attract foreign portfolio investments and manage fiscal pressures.",
     "last_updated": "2026-10-21"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "Nigeria confirms its first imported Ebola case, prompting a national mobilization of resources and international support, while highlighting persistent challenges in healthcare workforce welfare and retention.",
+    "summary": "Nigeria confirms its first imported Ebola case, prompting containment measures, while a staggering 80 million children are revealed to be exposed to lead poisoning, indicating a pervasive environmental health crisis.",
     "last_updated": "2026-10-21"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Geopolitical tensions escalate with US bans on Chinese AI startups, intensifying the urgency for robust AI governance, ethical guidelines, and verifiable performance evaluation frameworks, especially for sovereign AI deployments.",
+    "summary": "The tension between rapid AI development and safety is highlighted, with companies prioritizing security potentially sacrificing competitive leads, while AI's role in cybersecurity escalates.",
     "last_updated": "2026-10-21"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "The ongoing threat of sophisticated AI-powered attacks necessitates advanced cybersecurity measures, with critical vulnerabilities in foundational web technologies like PHP requiring immediate attention and patching.",
+    "summary": "Critical vulnerabilities in foundational web technologies like PHP have been disclosed, with AI playing a role in their discovery and remediation, underscoring the need for immediate patching and advanced cybersecurity measures.",
     "last_updated": "2026-10-21"
   },
   {
