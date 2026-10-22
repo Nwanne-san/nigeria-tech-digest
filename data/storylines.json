@@ -20,13 +20,13 @@
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The CBN has reduced the MPR to stimulate economic activity, while continuing to manage liquidity through OMO bills, and government efforts focus on local content development in the energy sector.",
+    "summary": "The CBN has reduced the MPR to stimulate economic activity, while continuing to manage liquidity through OMO bills, and government efforts focus on local content development in the energy sector. A 90-day plan to cut food costs has been approved by the NEC.",
     "last_updated": "2026-10-22"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Tech giants are rapidly deploying advanced AI agents, with significant funding rounds like DeepSeek's $15B underscoring intense global competition and the emergence of new multimodal platforms.",
+    "summary": "Tech giants are rapidly deploying advanced AI agents, with significant funding rounds like DeepSeek's $15B underscoring intense global competition and the emergence of new multimodal platforms. Google Cloud's Agent Compute Engine (ACE) and expanded Claude availability on GCP are key developments.",
     "last_updated": "2026-10-22"
   },
   {
@@ -38,19 +38,19 @@
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "Nigeria confirmed its first imported Ebola case, prompting containment measures and international health alerts, while conflicting reports on the patient's nationality highlight communication challenges during health emergencies.",
+    "summary": "Nigeria confirmed its first imported Ebola case, prompting containment measures and international health alerts, while conflicting reports on the patient's nationality highlight communication challenges during health emergencies. Political accusations have arisen regarding the handling of emergency funds.",
     "last_updated": "2026-10-22"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The tension between rapid AI development and safety is highlighted by insecure AI products and the rise of AI-driven cyberattacks, underscoring the urgent need for robust governance and regulation.",
+    "summary": "The tension between rapid AI development and safety is highlighted by insecure AI products and the rise of AI-driven cyberattacks, underscoring the urgent need for robust governance and regulation. Standardization efforts via the Agentic AI Foundation are underway.",
     "last_updated": "2026-10-22"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI is increasingly used in both discovering critical web vulnerabilities and launching sophisticated cyberattacks, shrinking the 'defender's window' and necessitating proactive, AI-augmented defense strategies.",
+    "summary": "AI is increasingly used in both discovering critical web vulnerabilities and launching sophisticated cyberattacks, shrinking the 'defender's window' and necessitating proactive, AI-augmented defense strategies. AWS Continuum for code vulnerabilities is now generally available.",
     "last_updated": "2026-10-22"
   },
   {
