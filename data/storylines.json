@@ -2,62 +2,62 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Early political maneuvering for the 2027 elections intensifies with opposition parties seeking consensus candidates and the ruling party signaling early campaign readiness, while concerns about presidential fitness are addressed.",
-    "last_updated": "2026-10-21"
+    "summary": "Early political maneuvering for the 2027 elections intensifies with opposition parties seeking consensus candidates and the ruling party signaling early campaign readiness, while concerns about presidential fitness are addressed. The judiciary's role in elections and ensuring IDP voting rights remain critical issues.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent security threats continue with targeted killings, abductions, and cult-related arrests across various states, alongside community-level alarms over security force conduct and calls for federal intervention.",
-    "last_updated": "2026-10-21"
+    "summary": "The push for state police is gaining significant momentum, with multiple state assemblies endorsing the constitutional amendment, while localized security operations continue to address cultism and other criminal activities. Maritime safety and rescue operations remain a concern.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "escalating",
-    "summary": "Initiatives to expand digital learning to thousands of schools are underway, while successful tech alumni are launching their own startups, indicating a maturing ecosystem despite challenges in digital infrastructure readiness.",
-    "last_updated": "2026-10-21"
+    "summary": "Initiatives to expand digital learning are underway, but concerns about digital sovereignty and reliance on foreign infrastructure highlight the need for Africa to own its digital future to fully participate in the AI economy.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Government efforts focus on economic reforms and digital learning expansion, but significant public health crises like widespread lead poisoning and infrastructure gaps in digital readiness pose long-term challenges.",
-    "last_updated": "2026-10-21"
+    "summary": "The CBN has reduced the MPR to stimulate economic activity, while continuing to manage liquidity through OMO bills, and government efforts focus on local content development in the energy sector.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Tech giants are rapidly deploying advanced AI agents like Claude Duet and Muse, demonstrating strong user adoption and commercial viability, while new multimodal data platforms and efficient local models emerge.",
-    "last_updated": "2026-10-21"
+    "summary": "Tech giants are rapidly deploying advanced AI agents, with significant funding rounds like DeepSeek's $15B underscoring intense global competition and the emergence of new multimodal platforms.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "The CBN continues aggressive monetary tightening to manage inflation and stabilize the Naira, with ongoing efforts to attract foreign portfolio investments and manage fiscal pressures.",
-    "last_updated": "2026-10-21"
+    "summary": "The CBN has reduced the Monetary Policy Rate (MPR) to 23% to stimulate economic activity, while maintaining a high Cash Reserve Ratio and continuing OMO operations to manage liquidity and stabilize the Naira.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "escalating",
-    "summary": "Nigeria confirms its first imported Ebola case, prompting containment measures, while a staggering 80 million children are revealed to be exposed to lead poisoning, indicating a pervasive environmental health crisis.",
-    "last_updated": "2026-10-21"
+    "summary": "Nigeria confirmed its first imported Ebola case, prompting containment measures and international health alerts, while conflicting reports on the patient's nationality highlight communication challenges during health emergencies.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The tension between rapid AI development and safety is highlighted, with companies prioritizing security potentially sacrificing competitive leads, while AI's role in cybersecurity escalates.",
-    "last_updated": "2026-10-21"
+    "summary": "The tension between rapid AI development and safety is highlighted by insecure AI products and the rise of AI-driven cyberattacks, underscoring the urgent need for robust governance and regulation.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Critical vulnerabilities in foundational web technologies like PHP have been disclosed, with AI playing a role in their discovery and remediation, underscoring the need for immediate patching and advanced cybersecurity measures.",
-    "last_updated": "2026-10-21"
+    "summary": "AI is increasingly used in both discovering critical web vulnerabilities and launching sophisticated cyberattacks, shrinking the 'defender's window' and necessitating proactive, AI-augmented defense strategies.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "escalating",
-    "summary": "Geopolitical accusations of 'distilling' models and concerns over hardware access for AI training intensify intellectual property and copyright debates, alongside national security considerations.",
-    "last_updated": "2026-10-21"
+    "summary": "Geopolitical accusations and massive funding rounds for AI firms like DeepSeek intensify debates over intellectual property, hardware access, and national security considerations in AI development.",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
