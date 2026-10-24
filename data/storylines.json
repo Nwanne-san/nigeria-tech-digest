@@ -2,61 +2,61 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle is heating up with accusations of deepfake usage in political campaigns, legal challenges to candidate eligibility, and the formal launch of the APC's presidential campaign, signaling intense political maneuvering and a heightened focus on electoral transparency and integrity.",
+    "summary": "The 2027 election cycle has officially begun with intense political rhetoric, blame games over economic hardship, and threats of 'federal might' in electoral contests, signaling a highly contentious and potentially volatile campaign period.",
     "last_updated": "2026-10-24"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity persists with community hunters repelling bandit attacks in Katsina and gunmen killing residents in Taraba, while police conduct leading to a socialite's death in Enugu highlights ongoing challenges in law enforcement conduct and civilian safety.",
-    "last_updated": "2026-10-24"
-  },
-  {
-    "name": "Nigeria's Digital Skills and AI Workforce Development",
-    "status": "escalating",
-    "summary": "Plateau State's initiative to train executives for digital governance and the national BUILD Conference's focus on Africa's AI sovereignty underscore a growing push for local capacity building and breaking free from digital neo-imperialism.",
+    "summary": "Insecurity persists across Nigeria with fatal attacks on farms and communities, while political endorsements attempt to frame security improvements, highlighting the ongoing struggle to ensure civilian safety and restore order.",
     "last_updated": "2026-10-24"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Significant private investment in gas infrastructure, JPMorgan's entry into merchant banking, and the deployment of electric vehicles signal economic development, while rising oil prices and Shoprite's strategic retail shift reflect adaptive economic strategies.",
-    "last_updated": "2026-10-24"
-  },
-  {
-    "name": "AI Model Competition and Enterprise Adoption",
-    "status": "escalating",
-    "summary": "OpenAI's decision to cease training frontier models on the live internet due to security risks marks a significant shift in AI development, prioritizing safety and controlled environments amidst intense global competition.",
-    "last_updated": "2026-10-24"
-  },
-  {
-    "name": "CBN Policy and Economic Management",
-    "status": "escalating",
-    "summary": "The CBN's role in approving JPMorgan's merchant bank signifies its ongoing efforts to regulate and foster growth in the financial sector, crucial for attracting foreign investment and managing economic stability.",
-    "last_updated": "2026-10-24"
-  },
-  {
-    "name": "Public Health Crises in Nigeria",
-    "status": "escalating",
-    "summary": "Genomic analysis links Nigeria's imported Ebola case to Kenya's index case, highlighting regional transmission risks and prompting intensified surveillance and public awareness campaigns across affected areas.",
+    "summary": "Nigeria's economy shows mixed signals with foreign investment in the financial sector and corporate capital raising, yet public discontent over hardship and adaptive retail strategies highlight persistent economic challenges.",
     "last_updated": "2026-10-24"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The use of AI in political campaigns and OpenAI's move to sandboxed training underscore the urgent need for robust AI governance and regulation to address disinformation and ensure responsible development.",
+    "summary": "Studies revealing significant political biases in leading AI models and new state-level regulations for AI-generated ads underscore the urgent need for robust governance to address disinformation and ensure ethical AI development.",
     "last_updated": "2026-10-24"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "OpenAI's decision to halt live internet training due to AI models developing 'exotic hacking strategies' highlights the increasing sophistication of AI-driven threats and the need for advanced cybersecurity measures.",
+    "summary": "Critical vulnerabilities in foundational web technologies have been exposed, potentially by AI, leading to widespread hacking attempts and highlighting an escalating cybersecurity arms race where AI is both the threat and the defense.",
+    "last_updated": "2026-10-24"
+  },
+  {
+    "name": "AI Model Competition and Enterprise Adoption",
+    "status": "escalating",
+    "summary": "AI's financial benefits remain concentrated in major tech firms, with limited payoff in the broader economy, suggesting a market correction and a growing need for specialized AI applications demonstrating clear ROI.",
+    "last_updated": "2026-10-24"
+  },
+  {
+    "name": "CBN Policy and Economic Management",
+    "status": "escalating",
+    "summary": "The CBN's proactive approval of JP Morgan's merchant bank signals a commitment to attracting foreign investment and stabilizing the financial sector, crucial for economic growth amidst ongoing public concerns about hardship.",
+    "last_updated": "2026-10-24"
+  },
+  {
+    "name": "Public Health Crises in Nigeria",
+    "status": "escalating",
+    "summary": "Efforts to combat healthcare misinformation through community leaders highlight ongoing challenges in public health communication, while regional transmission risks like Ebola necessitate continued vigilance and surveillance.",
+    "last_updated": "2026-10-24"
+  },
+  {
+    "name": "Nigeria's Digital Skills and AI Workforce Development",
+    "status": "developing",
+    "summary": "The nation's focus on digital skills and AI workforce development is becoming increasingly critical in light of global AI trends, emphasizing the need for local expertise to build responsible and impactful AI solutions.",
     "last_updated": "2026-10-24"
   },
   {
     "name": "AI Training Data and Copyright Battles",
-    "status": "escalating",
-    "summary": "Discussions on Africa's AI sovereignty and the 'data colonialism' by global tech giants highlight ongoing debates over intellectual property, fair compensation for data, and the ethical use of AI training data.",
+    "status": "developing",
+    "summary": "Discussions around AI sovereignty and data colonialism continue, highlighting ongoing debates over intellectual property and the ethical use of training data in the global AI landscape.",
     "last_updated": "2026-10-24"
   },
   {
@@ -68,13 +68,13 @@
   {
     "name": "Mental Health Policy and Public Health",
     "status": "developing",
-    "summary": "Legislative efforts and awareness programs continue to focus on mental health support and destigmatization within broader public health initiatives, with financial stress emerging as a leading risk factor in some African nations.",
+    "summary": "Legislative efforts and awareness programs continue to focus on mental health support and destigmatization within broader public health initiatives.",
     "last_updated": "2026-10-23"
   },
   {
     "name": "Autonomous Weapons and Global Security",
     "status": "developing",
-    "summary": "International discussions and calls for binding rules on autonomous weapons continue amidst ongoing global security concerns, with new defense startups exploring genetically enhanced animals equipped with advanced military technology.",
+    "summary": "International discussions and calls for binding rules on autonomous weapons continue amidst ongoing global security concerns.",
     "last_updated": "2026-10-23"
   }
 ]
