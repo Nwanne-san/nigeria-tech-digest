@@ -2,25 +2,25 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "As the 2027 election cycle intensifies, political rhetoric is escalating with direct accusations against the President regarding economic hardship and counter-narratives from the ruling party, alongside discussions on media's role in result transparency.",
+    "summary": "As the 2027 election cycle intensifies, political rhetoric is escalating with direct accusations against the President regarding economic hardship and counter-narratives from the ruling party, alongside discussions on media's role in result transparency and campaign preparations.",
     "last_updated": "2026-10-25"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity persists with devastating community attacks resulting in high casualties, while community self-defense efforts and military operations continue amidst ongoing challenges in ensuring civilian safety and restoring order.",
+    "summary": "Insecurity persists with devastating community attacks and ambushes on law enforcement, while community self-defense efforts and military operations continue amidst ongoing challenges in ensuring civilian safety, restoring order, and combating economic sabotage.",
     "last_updated": "2026-10-25"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with surging FX flows and domestic equity trading, yet public discontent over hardship, revenue shortfalls, and the severe impact of insecurity on sectors like tourism persist.",
+    "summary": "Nigeria's economy shows mixed signals with surging FX flows and domestic equity trading, yet public discontent over hardship, revenue shortfalls, and the severe impact of insecurity on sectors like tourism persist, alongside significant government investment in education infrastructure.",
     "last_updated": "2026-10-25"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Global tech platforms face scrutiny for alleged political favoritism and defiance of court orders, underscoring the urgent need for robust governance to address disinformation, ensure platform accountability, and regulate AI's societal impact.",
+    "summary": "Global tech platforms face scrutiny for alleged economic disruption and defiance of court orders, underscoring the urgent need for robust governance to address disinformation, ensure platform accountability, and regulate AI's societal impact, with community-driven platforms also grappling with AI integration.",
     "last_updated": "2026-10-25"
   },
   {
@@ -32,7 +32,7 @@
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Advancements in deploying trillion-parameter AI models with specialized hardware and optimized inference highlight the race for computational efficiency, signaling a growing need for practical AI applications demonstrating clear ROI for broader enterprise adoption.",
+    "summary": "Advancements in deploying trillion-parameter AI models with specialized hardware and optimized inference highlight the race for computational efficiency, signaling a growing need for practical AI applications demonstrating clear ROI for broader enterprise adoption, alongside a rise in AI wearables.",
     "last_updated": "2026-10-25"
   },
   {
@@ -44,8 +44,8 @@
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Efforts to combat healthcare misinformation and regional transmission risks like Ebola necessitate continued vigilance and surveillance, highlighting ongoing challenges in public health communication and preparedness.",
-    "last_updated": "2026-10-24"
+    "summary": "Efforts to combat healthcare misinformation and regional transmission risks like Ebola necessitate continued vigilance and surveillance, with significant financial support for quarantined individuals and heightened preparedness across states.",
+    "last_updated": "2026-10-25"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
