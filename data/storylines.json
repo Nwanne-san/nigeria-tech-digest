@@ -2,62 +2,62 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle has officially begun with intense political rhetoric, blame games over economic hardship, and threats of 'federal might' in electoral contests, signaling a highly contentious and potentially volatile campaign period.",
-    "last_updated": "2026-10-24"
+    "summary": "As the 2027 election cycle intensifies, political rhetoric is escalating with direct accusations against the President regarding economic hardship and counter-narratives from the ruling party, alongside discussions on media's role in result transparency.",
+    "last_updated": "2026-10-25"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity persists across Nigeria with fatal attacks on farms and communities, while political endorsements attempt to frame security improvements, highlighting the ongoing struggle to ensure civilian safety and restore order.",
-    "last_updated": "2026-10-24"
+    "summary": "Insecurity persists with devastating community attacks resulting in high casualties, while community self-defense efforts and military operations continue amidst ongoing challenges in ensuring civilian safety and restoring order.",
+    "last_updated": "2026-10-25"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with foreign investment in the financial sector and corporate capital raising, yet public discontent over hardship and adaptive retail strategies highlight persistent economic challenges.",
-    "last_updated": "2026-10-24"
+    "summary": "Nigeria's economy shows mixed signals with surging FX flows and domestic equity trading, yet public discontent over hardship, revenue shortfalls, and the severe impact of insecurity on sectors like tourism persist.",
+    "last_updated": "2026-10-25"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Studies revealing significant political biases in leading AI models and new state-level regulations for AI-generated ads underscore the urgent need for robust governance to address disinformation and ensure ethical AI development.",
-    "last_updated": "2026-10-24"
+    "summary": "Global tech platforms face scrutiny for alleged political favoritism and defiance of court orders, underscoring the urgent need for robust governance to address disinformation, ensure platform accountability, and regulate AI's societal impact.",
+    "last_updated": "2026-10-25"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Critical vulnerabilities in foundational web technologies have been exposed, potentially by AI, leading to widespread hacking attempts and highlighting an escalating cybersecurity arms race where AI is both the threat and the defense.",
-    "last_updated": "2026-10-24"
+    "summary": "Critical vulnerabilities in web technologies are being exposed, potentially by AI, fueling an escalating cybersecurity arms race where AI is both the threat and the defense, with implications for on-device tracking and data privacy.",
+    "last_updated": "2026-10-25"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "AI's financial benefits remain concentrated in major tech firms, with limited payoff in the broader economy, suggesting a market correction and a growing need for specialized AI applications demonstrating clear ROI.",
-    "last_updated": "2026-10-24"
+    "summary": "Advancements in deploying trillion-parameter AI models with specialized hardware and optimized inference highlight the race for computational efficiency, signaling a growing need for practical AI applications demonstrating clear ROI for broader enterprise adoption.",
+    "last_updated": "2026-10-25"
   },
   {
     "name": "CBN Policy and Economic Management",
-    "status": "escalating",
+    "status": "developing",
     "summary": "The CBN's proactive approval of JP Morgan's merchant bank signals a commitment to attracting foreign investment and stabilizing the financial sector, crucial for economic growth amidst ongoing public concerns about hardship.",
     "last_updated": "2026-10-24"
   },
   {
     "name": "Public Health Crises in Nigeria",
-    "status": "escalating",
-    "summary": "Efforts to combat healthcare misinformation through community leaders highlight ongoing challenges in public health communication, while regional transmission risks like Ebola necessitate continued vigilance and surveillance.",
+    "status": "developing",
+    "summary": "Efforts to combat healthcare misinformation and regional transmission risks like Ebola necessitate continued vigilance and surveillance, highlighting ongoing challenges in public health communication and preparedness.",
     "last_updated": "2026-10-24"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "The nation's focus on digital skills and AI workforce development is becoming increasingly critical in light of global AI trends, emphasizing the need for local expertise to build responsible and impactful AI solutions.",
-    "last_updated": "2026-10-24"
+    "summary": "The nation's focus on digital skills and AI workforce development is becoming increasingly critical, with a growing demand for engineers skilled in local languages and ethical AI, alongside calls for African-centric AI research.",
+    "last_updated": "2026-10-25"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "developing",
-    "summary": "Discussions around AI sovereignty and data colonialism continue, highlighting ongoing debates over intellectual property and the ethical use of training data in the global AI landscape.",
-    "last_updated": "2026-10-24"
+    "summary": "Discussions around AI sovereignty and data colonialism continue, highlighting ongoing debates over intellectual property and the ethical use of training data, with a push for African-centric AI development to counter global imbalances.",
+    "last_updated": "2026-10-25"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
