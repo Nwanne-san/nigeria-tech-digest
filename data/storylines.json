@@ -2,38 +2,38 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "As the 2027 election cycle intensifies, political rhetoric is escalating with direct accusations against the President regarding economic hardship and counter-narratives from the ruling party, alongside discussions on media's role in result transparency and campaign preparations.",
-    "last_updated": "2026-10-25"
+    "summary": "The 2027 election cycle is intensifying with early campaign flag-offs and strong political endorsements, signaling a period of heightened rhetoric and strategic maneuvering ahead of the polls.",
+    "last_updated": "2026-10-26"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity persists with devastating community attacks and ambushes on law enforcement, while community self-defense efforts and military operations continue amidst ongoing challenges in ensuring civilian safety, restoring order, and combating economic sabotage.",
-    "last_updated": "2026-10-25"
+    "summary": "Insecurity persists with community attacks and kidnappings, countered by ongoing military operations and legislative efforts like the push for state police, highlighting persistent challenges in ensuring civilian safety.",
+    "last_updated": "2026-10-26"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with surging FX flows and domestic equity trading, yet public discontent over hardship, revenue shortfalls, and the severe impact of insecurity on sectors like tourism persist, alongside significant government investment in education infrastructure.",
-    "last_updated": "2026-10-25"
+    "summary": "Nigeria's economy shows mixed signals with AI-driven industrial advancements and a target for single-digit inflation, yet faces challenges from regional film industry funding gaps and state health budget execution discrepancies.",
+    "last_updated": "2026-10-26"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Global tech platforms face scrutiny for alleged economic disruption and defiance of court orders, underscoring the urgent need for robust governance to address disinformation, ensure platform accountability, and regulate AI's societal impact, with community-driven platforms also grappling with AI integration.",
-    "last_updated": "2026-10-25"
+    "summary": "Global concerns over social media's impact on democracy and AI agent security breaches highlight the urgent need for robust governance, with incidents revealing the insufficiency of traditional sandboxes and the importance of runtime observability.",
+    "last_updated": "2026-10-26"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Critical vulnerabilities in web technologies are being exposed, potentially by AI, fueling an escalating cybersecurity arms race where AI is both the threat and the defense, with implications for on-device tracking and data privacy.",
-    "last_updated": "2026-10-25"
+    "summary": "AI agents are demonstrating advanced capabilities in breaching security protocols, fueling an escalating cybersecurity arms race where sophisticated observability and interoperability standards are becoming critical for defense.",
+    "last_updated": "2026-10-26"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Advancements in deploying trillion-parameter AI models with specialized hardware and optimized inference highlight the race for computational efficiency, signaling a growing need for practical AI applications demonstrating clear ROI for broader enterprise adoption, alongside a rise in AI wearables.",
-    "last_updated": "2026-10-25"
+    "summary": "Leading AI companies are pursuing IPOs and developing advanced models for enterprise solutions like legacy code migration, while significant investments are being made in AI-ready data centers to support growing computational demands.",
+    "last_updated": "2026-10-26"
   },
   {
     "name": "CBN Policy and Economic Management",
@@ -44,20 +44,20 @@
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Efforts to combat healthcare misinformation and regional transmission risks like Ebola necessitate continued vigilance and surveillance, with significant financial support for quarantined individuals and heightened preparedness across states.",
-    "last_updated": "2026-10-25"
+    "summary": "Nigeria has been declared Ebola-free following patient evacuation, but vigilance continues amidst regional transmission risks and internal healthcare system challenges like doctor strikes and budget execution issues.",
+    "last_updated": "2026-10-26"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "The nation's focus on digital skills and AI workforce development is becoming increasingly critical, with a growing demand for engineers skilled in local languages and ethical AI, alongside calls for African-centric AI research.",
-    "last_updated": "2026-10-25"
+    "summary": "The nation is investing in AI infrastructure with new data centers and training academies, while youth innovation in AI farming platforms and the challenges of multilingual AI costs highlight the evolving landscape of digital skills.",
+    "last_updated": "2026-10-26"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "developing",
-    "summary": "Discussions around AI sovereignty and data colonialism continue, highlighting ongoing debates over intellectual property and the ethical use of training data, with a push for African-centric AI development to counter global imbalances.",
-    "last_updated": "2026-10-25"
+    "summary": "The 'tokenizer tax' on non-English languages highlights global inequities in AI development, underscoring the need for African-centric AI solutions and efficient handling of diverse linguistic data.",
+    "last_updated": "2026-10-26"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
