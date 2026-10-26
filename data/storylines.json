@@ -2,19 +2,19 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle is intensifying with early campaign flag-offs and strong political endorsements, signaling a period of heightened rhetoric and strategic maneuvering ahead of the polls.",
+    "summary": "The 2027 election cycle is intensifying with early campaign flag-offs, strong political endorsements, and INEC's move to publish the voter register online, signaling heightened rhetoric and strategic maneuvering ahead of the polls.",
     "last_updated": "2026-10-26"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity persists with community attacks and kidnappings, countered by ongoing military operations and legislative efforts like the push for state police, highlighting persistent challenges in ensuring civilian safety.",
+    "summary": "Insecurity persists with community attacks, banditry, and kidnappings across regions, countered by ongoing military operations and legislative efforts like the push for state police, highlighting persistent challenges in ensuring civilian safety.",
     "last_updated": "2026-10-26"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with AI-driven industrial advancements and a target for single-digit inflation, yet faces challenges from regional film industry funding gaps and state health budget execution discrepancies.",
+    "summary": "Nigeria's economy shows mixed signals with AI-driven industrial advancements and efforts to ensure policy consistency, yet faces challenges from regional film industry funding gaps, state health budget execution discrepancies, and public hardship.",
     "last_updated": "2026-10-26"
   },
   {
@@ -32,7 +32,7 @@
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Leading AI companies are pursuing IPOs and developing advanced models for enterprise solutions like legacy code migration, while significant investments are being made in AI-ready data centers to support growing computational demands.",
+    "summary": "Leading AI companies are pursuing IPOs and developing advanced models for enterprise solutions, while significant investments are being made in AI-ready data centers and cloud infrastructure to support growing computational demands.",
     "last_updated": "2026-10-26"
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Nigeria has been declared Ebola-free following patient evacuation, but vigilance continues amidst regional transmission risks and internal healthcare system challenges like doctor strikes and budget execution issues.",
+    "summary": "Nigeria has been declared Ebola-free, but vigilance continues amidst regional transmission risks and internal healthcare system challenges like doctor strikes and budget execution issues.",
     "last_updated": "2026-10-26"
   },
   {
