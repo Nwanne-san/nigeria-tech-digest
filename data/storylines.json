@@ -2,38 +2,38 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The 2027 election cycle is intensifying with early campaign flag-offs, strong political endorsements, and INEC's move to publish the voter register online, signaling heightened rhetoric and strategic maneuvering ahead of the polls.",
-    "last_updated": "2026-10-26"
+    "summary": "Allegations of AI-generated images in the Edo voter register and Peter Obi's challenge to President Tinubu's capacity are intensifying scrutiny of electoral integrity and leadership ahead of the 2027 elections, while the threat of Ebola could lead to postponements.",
+    "last_updated": "2026-10-27"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity persists with community attacks, banditry, and kidnappings across regions, countered by ongoing military operations and legislative efforts like the push for state police, highlighting persistent challenges in ensuring civilian safety.",
-    "last_updated": "2026-10-26"
+    "summary": "Incidents of religious incitement via viral videos, alongside ongoing military operations against terrorists and bandits, highlight persistent security challenges and the need for comprehensive justice and reconciliation efforts, particularly in the North-central region.",
+    "last_updated": "2026-10-27"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria's economy shows mixed signals with AI-driven industrial advancements and efforts to ensure policy consistency, yet faces challenges from regional film industry funding gaps, state health budget execution discrepancies, and public hardship.",
-    "last_updated": "2026-10-26"
+    "summary": "Nigeria is seeking substantial external loans and settling debts via promissory notes, while the naira's potential strengthening due to global AI market shifts and discussions around industrial policy and EV/CNG imports indicate a complex economic landscape.",
+    "last_updated": "2026-10-27"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Global concerns over social media's impact on democracy and AI agent security breaches highlight the urgent need for robust governance, with incidents revealing the insufficiency of traditional sandboxes and the importance of runtime observability.",
-    "last_updated": "2026-10-26"
+    "summary": "The alleged misuse of AI in Nigeria's voter register and global developments like OpenAI's 'dots' highlight the urgent need for robust governance and regulatory frameworks to address AI's potential for deception and privacy breaches.",
+    "last_updated": "2026-10-27"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI agents are demonstrating advanced capabilities in breaching security protocols, fueling an escalating cybersecurity arms race where sophisticated observability and interoperability standards are becoming critical for defense.",
-    "last_updated": "2026-10-26"
+    "summary": "Advanced AI capabilities are increasingly used for security breaches and potentially electoral manipulation, necessitating sophisticated cybersecurity measures and a focus on runtime observability to counter evolving threats.",
+    "last_updated": "2026-10-27"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Leading AI companies are pursuing IPOs and developing advanced models for enterprise solutions, while significant investments are being made in AI-ready data centers and cloud infrastructure to support growing computational demands.",
-    "last_updated": "2026-10-26"
+    "summary": "The AI sector sees continued intense competition with IPOs, new product launches like OpenAI's 'dots', and significant investments in efficiency solutions, driving enterprise adoption and infrastructure development globally.",
+    "last_updated": "2026-10-27"
   },
   {
     "name": "CBN Policy and Economic Management",
@@ -44,14 +44,14 @@
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Nigeria has been declared Ebola-free, but vigilance continues amidst regional transmission risks and internal healthcare system challenges like doctor strikes and budget execution issues.",
-    "last_updated": "2026-10-26"
+    "summary": "While Nigeria has been declared Ebola-free, vigilance continues due to regional risks, and the NCDC has warned of potential election postponements if the virus spreads, highlighting ongoing public health system challenges.",
+    "last_updated": "2026-10-27"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "The nation is investing in AI infrastructure with new data centers and training academies, while youth innovation in AI farming platforms and the challenges of multilingual AI costs highlight the evolving landscape of digital skills.",
-    "last_updated": "2026-10-26"
+    "summary": "Investments in AI infrastructure and training are ongoing, with global trends in AI efficiency and optimization influencing the demand for specialized digital skills in Nigeria.",
+    "last_updated": "2026-10-27"
   },
   {
     "name": "AI Training Data and Copyright Battles",
