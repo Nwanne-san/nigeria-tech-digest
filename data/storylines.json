@@ -2,62 +2,62 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Allegations of AI-generated images in the Edo voter register and Peter Obi's challenge to President Tinubu's capacity are intensifying scrutiny of electoral integrity and leadership ahead of the 2027 elections, while the threat of Ebola could lead to postponements.",
-    "last_updated": "2026-10-27"
+    "summary": "The upcoming 2027 elections are increasingly under scrutiny, with concerns about electoral integrity, potential postponements due to public health crises, and strong rhetoric against rigging, indicating a tense political landscape.",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Incidents of religious incitement via viral videos, alongside ongoing military operations against terrorists and bandits, highlight persistent security challenges and the need for comprehensive justice and reconciliation efforts, particularly in the North-central region.",
-    "last_updated": "2026-10-27"
+    "summary": "Escalating banditry and mob justice incidents highlight persistent security challenges, while the approval of state police in Kano and ongoing military rescues signal a complex, multi-faceted approach to restoring order.",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria is seeking substantial external loans and settling debts via promissory notes, while the naira's potential strengthening due to global AI market shifts and discussions around industrial policy and EV/CNG imports indicate a complex economic landscape.",
-    "last_updated": "2026-10-27"
+    "summary": "Nigeria is pursuing substantial external loans and a data localization drive, while structural economic issues persist, creating a complex environment of ambitious development plans and ongoing public hardship.",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The alleged misuse of AI in Nigeria's voter register and global developments like OpenAI's 'dots' highlight the urgent need for robust governance and regulatory frameworks to address AI's potential for deception and privacy breaches.",
-    "last_updated": "2026-10-27"
+    "summary": "The alleged misuse of AI in electoral processes and the rapid advancement of AI capabilities necessitate urgent development of robust governance and regulatory frameworks to address ethical concerns and potential manipulation.",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "Advanced AI capabilities are increasingly used for security breaches and potentially electoral manipulation, necessitating sophisticated cybersecurity measures and a focus on runtime observability to counter evolving threats.",
-    "last_updated": "2026-10-27"
+    "summary": "The increasing sophistication of AI in security breaches and the need for advanced cybersecurity measures, including agent-centric security paradigms, are critical as AI capabilities evolve rapidly.",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "The AI sector sees continued intense competition with IPOs, new product launches like OpenAI's 'dots', and significant investments in efficiency solutions, driving enterprise adoption and infrastructure development globally.",
-    "last_updated": "2026-10-27"
+    "summary": "Intense global competition in AI continues with major players integrating generative AI into consumer products and infrastructure, driving enterprise adoption and demanding scalable identity and access management solutions.",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "developing",
-    "summary": "The CBN's proactive approval of JP Morgan's merchant bank signals a commitment to attracting foreign investment and stabilizing the financial sector, crucial for economic growth amidst ongoing public concerns about hardship.",
+    "summary": "The CBN's proactive approval of JP Morgan's merchant bank signals a commitment to financial sector stability and foreign investment, crucial amidst ongoing public concerns about economic hardship.",
     "last_updated": "2026-10-27"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "While Nigeria has been declared Ebola-free, vigilance continues due to regional risks, and the NCDC has warned of potential election postponements if the virus spreads, highlighting ongoing public health system challenges.",
+    "summary": "Vigilance against regional Ebola risks continues, with the NCDC warning of potential election postponements, highlighting the ongoing challenges in public health preparedness.",
     "last_updated": "2026-10-27"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "Investments in AI infrastructure and training are ongoing, with global trends in AI efficiency and optimization influencing the demand for specialized digital skills in Nigeria.",
-    "last_updated": "2026-10-27"
+    "summary": "Initiatives like Zenith Bank's Tech Fair and Idris Elba's AI filmmaking program are fostering local AI talent and innovation, though infrastructure challenges remain a key concern for widespread adoption.",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "developing",
-    "summary": "The 'tokenizer tax' on non-English languages highlights global inequities in AI development, underscoring the need for African-centric AI solutions and efficient handling of diverse linguistic data.",
-    "last_updated": "2026-10-26"
+    "summary": "The demand for diverse training data, including from defunct startups, raises ethical and copyright concerns, underscoring the need for responsible AI development and African-centric data solutions.",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
