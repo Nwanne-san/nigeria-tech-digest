@@ -2,19 +2,19 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "The upcoming 2027 elections are increasingly under scrutiny, with concerns about electoral integrity, potential postponements due to public health crises, and strong rhetoric against rigging, indicating a tense political landscape.",
+    "summary": "Allegations of AI-generated images in the voter register and ongoing political challenges to transparency are escalating concerns about the integrity of the 2027 elections, demanding robust verification and accountability measures.",
     "last_updated": "2026-10-28"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Escalating banditry and mob justice incidents highlight persistent security challenges, while the approval of state police in Kano and ongoing military rescues signal a complex, multi-faceted approach to restoring order.",
+    "summary": "Persistent banditry, targeted attacks like the one in Plateau, and foiled kidnapping plots highlight the ongoing, escalating security challenges across Nigeria, despite successful military operations in some regions.",
     "last_updated": "2026-10-28"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Nigeria is pursuing substantial external loans and a data localization drive, while structural economic issues persist, creating a complex environment of ambitious development plans and ongoing public hardship.",
+    "summary": "Nigeria's pursuit of substantial external loans, coupled with labor union rejection of government allowances and concerns over debt, indicates an escalating economic balancing act between development needs and fiscal sustainability.",
     "last_updated": "2026-10-28"
   },
   {
@@ -26,43 +26,43 @@
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "The increasing sophistication of AI in security breaches and the need for advanced cybersecurity measures, including agent-centric security paradigms, are critical as AI capabilities evolve rapidly.",
+    "summary": "The launch of advanced AI models like Gemini 4 Carbon with enhanced cybersecurity capabilities, alongside mandatory DNSSEC implementation for government agencies, signals an escalating arms race in cyber defense and the critical need for robust digital infrastructure.",
     "last_updated": "2026-10-28"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Intense global competition in AI continues with major players integrating generative AI into consumer products and infrastructure, driving enterprise adoption and demanding scalable identity and access management solutions.",
+    "summary": "Intense competition among AI providers like Google and Microsoft, coupled with Google's opening of Android development to third-party AI agents, is accelerating enterprise adoption and redefining software engineering workflows.",
     "last_updated": "2026-10-28"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "developing",
-    "summary": "The CBN's proactive approval of JP Morgan's merchant bank signals a commitment to financial sector stability and foreign investment, crucial amidst ongoing public concerns about economic hardship.",
-    "last_updated": "2026-10-27"
+    "summary": "The CBN's proactive stance on financial sector stability, including data localization requirements and regulatory dialogues, continues to shape Nigeria's digital economy amidst evolving fintech landscapes.",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Vigilance against regional Ebola risks continues, with the NCDC warning of potential election postponements, highlighting the ongoing challenges in public health preparedness.",
+    "summary": "Vigilance against regional health risks persists, with ongoing concerns about potential election postponements due to public health challenges, highlighting the need for continued preparedness.",
     "last_updated": "2026-10-27"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "Initiatives like Zenith Bank's Tech Fair and Idris Elba's AI filmmaking program are fostering local AI talent and innovation, though infrastructure challenges remain a key concern for widespread adoption.",
+    "summary": "Initiatives fostering local AI talent are gaining momentum, with a growing emphasis on aligning AI development with real-world problems to ensure impactful innovation and address national challenges.",
     "last_updated": "2026-10-28"
   },
   {
     "name": "AI Training Data and Copyright Battles",
     "status": "developing",
-    "summary": "The demand for diverse training data, including from defunct startups, raises ethical and copyright concerns, underscoring the need for responsible AI development and African-centric data solutions.",
+    "summary": "The demand for diverse training data and the associated ethical and copyright concerns continue to shape responsible AI development, emphasizing the need for African-centric data solutions.",
     "last_updated": "2026-10-28"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
     "status": "developing",
-    "summary": "Global South nations continue their advocacy for UN Security Council reform, facing persistent challenges in negotiations with permanent member states.",
+    "summary": "Advocacy for UN Security Council reform by Global South nations continues, facing persistent challenges in negotiations with permanent member states.",
     "last_updated": "2026-10-17"
   },
   {
