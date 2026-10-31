@@ -2,62 +2,68 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Revelations of AI-generated images in the voter register and ongoing candidate list rectifications intensify concerns about electoral integrity, prompting demands for digital forensics and stricter oversight ahead of the 2027 elections.",
+    "summary": "Ongoing issues with candidate list rectifications and concerns about AI-generated content in electoral processes highlight systemic challenges, intensifying demands for digital forensics and stricter oversight ahead of the 2027 elections.",
     "last_updated": "2026-10-31"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Alleged attacks on political convoys and the arrest of suspects in an assault on Omoyele Sowore highlight a volatile pre-election period, underscoring the need for security reforms and raising concerns about political violence.",
+    "summary": "Persistent banditry and attacks on political convoys continue, with security forces reporting successes in neutralizing threats while acknowledging the deep-rooted nature of insecurity predating the current administration.",
     "last_updated": "2026-10-31"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "President Tinubu defends borrowing for infrastructure amidst scrutiny, while mixed corporate earnings and the economic impact of El Ni\u00f1o-induced heatwaves present a complex economic landscape.",
+    "summary": "Alarming projections of widespread food insecurity by mid-2027, coupled with efforts to expand cocoa production and address housing deficits, paint a complex economic picture of significant challenges and strategic development initiatives.",
     "last_updated": "2026-10-31"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The use of AI-generated content in Nigeria's voter register and calls for localized AI policy frameworks highlight the urgent need for robust governance and regulation to prevent misuse and foster responsible development.",
+    "summary": "The use of AI in electoral processes and the need for localized AI policy frameworks underscore the urgent requirement for robust governance to prevent misuse and foster responsible development, especially as AI adoption grows.",
     "last_updated": "2026-10-31"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "The weaponization of AI for electoral fraud, evidenced by AI-generated images in voter registers, alongside INEC's warnings about AI cybersecurity threats, underscores the critical need for advanced defenses in critical national infrastructure.",
+    "summary": "The weaponization of AI for electoral fraud and cybersecurity threats against national infrastructure highlight the critical need for advanced defenses and proactive measures against evolving AI-driven attacks.",
     "last_updated": "2026-10-31"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Intense competition in the AI sector continues, with a growing emphasis on localized AI development and governance frameworks tailored to African contexts, alongside ongoing enterprise adoption.",
+    "summary": "Intense competition among AI models, with a focus on cost-efficiency and specialized capabilities, is shaping enterprise adoption, while global funding shifts suggest a maturing market with potential consolidation.",
     "last_updated": "2026-10-31"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "developing",
-    "summary": "The increasing adoption of stablecoins for cross-border trade, despite existing hurdles, signals a growing demand for digital financial solutions that will likely influence future CBN policy and regulatory frameworks.",
+    "summary": "The increasing adoption of stablecoins for trade and Verve's move into AI agent payments signal a growing demand for digital financial solutions, prompting a need for updated CBN policies and regulatory frameworks.",
     "last_updated": "2026-10-31"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "The El Ni\u00f1o phenomenon exacerbates health risks from extreme heat, impacting public health and agricultural productivity, while critical gaps in specialized healthcare, like the lack of speech physiotherapists in Kano, persist.",
+    "summary": "Recurring gas emissions in schools and the projected rise in food insecurity highlight critical environmental and public health challenges, necessitating coordinated responses and robust monitoring systems.",
     "last_updated": "2026-10-31"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "Calls for localized AI development and governance, coupled with government initiatives for digital infrastructure like the National Transport Data Bank, emphasize the growing need for skilled local talent in AI and cloud technologies.",
+    "summary": "The emphasis on building AI for local realities and the growth of fintech innovation underscore the increasing demand for skilled local talent in AI and cloud technologies to address specific national challenges.",
     "last_updated": "2026-10-31"
   },
   {
-    "name": "AI Training Data and Copyright Battles",
+    "name": "African AI Sovereignty and Local Control",
     "status": "developing",
-    "summary": "While not directly addressed today, the broader AI governance discussions and the use of AI in electoral processes indirectly highlight the ongoing complexities surrounding AI training data and copyright.",
-    "last_updated": "2026-10-30"
+    "summary": "Calls for Africa to develop sovereign AI systems with local control are escalating, emphasizing the need for local infrastructure, contextual policy, and skilled workforces to avoid exploitation and ensure relevance.",
+    "last_updated": "2026-10-31"
+  },
+  {
+    "name": "Fintech Diversification and Business Infrastructure",
+    "status": "developing",
+    "summary": "The adoption of tap-to-pay and AI agent payments by Verve signals a rapid evolution in Nigeria's fintech sector, driving demand for more robust and localized financial infrastructure solutions.",
+    "last_updated": "2026-10-31"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
@@ -76,17 +82,5 @@
     "status": "developing",
     "summary": "International discussions and calls for binding rules on autonomous weapons continue amidst ongoing global security concerns.",
     "last_updated": "2026-10-23"
-  },
-  {
-    "name": "African AI Sovereignty and Local Control",
-    "status": "developing",
-    "summary": "Calls for Africa to develop sovereign AI systems with local control are escalating, emphasizing the need for local infrastructure, contextual policy, and skilled workforces to avoid exploitation.",
-    "last_updated": "2026-10-31"
-  },
-  {
-    "name": "Fintech Diversification and Business Infrastructure",
-    "status": "developing",
-    "summary": "Stablecoins are gaining traction for African trade, but challenges in cost, security, and fragmentation persist, driving demand for more robust and localized financial infrastructure solutions.",
-    "last_updated": "2026-10-31"
   }
 ]
