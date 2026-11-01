@@ -2,68 +2,68 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Ongoing issues with candidate list rectifications and concerns about AI-generated content in electoral processes highlight systemic challenges, intensifying demands for digital forensics and stricter oversight ahead of the 2027 elections.",
-    "last_updated": "2026-10-31"
+    "summary": "INEC's target for final voter register publication and ongoing candidate disputes highlight systemic challenges, intensified by concerns over AI-generated content and the need for digital forensics.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Persistent banditry and attacks on political convoys continue, with security forces reporting successes in neutralizing threats while acknowledging the deep-rooted nature of insecurity predating the current administration.",
-    "last_updated": "2026-10-31"
+    "summary": "The Nigerian Navy's push for stronger civil-military cooperation signals a strategic shift to address deep-rooted insecurity by integrating community development with security operations.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Alarming projections of widespread food insecurity by mid-2027, coupled with efforts to expand cocoa production and address housing deficits, paint a complex economic picture of significant challenges and strategic development initiatives.",
-    "last_updated": "2026-10-31"
+    "summary": "The launch of the Africa Energy Bank and reforms in the power sector signal strategic development initiatives, while scrutiny of fintech valuations highlights economic complexities.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The use of AI in electoral processes and the need for localized AI policy frameworks underscore the urgent requirement for robust governance to prevent misuse and foster responsible development, especially as AI adoption grows.",
-    "last_updated": "2026-10-31"
+    "summary": "Government agencies are adopting AI for operations and public relations, underscoring the urgent need for localized policy frameworks to manage its dual potential for efficiency and overreach.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "The weaponization of AI for electoral fraud and cybersecurity threats against national infrastructure highlight the critical need for advanced defenses and proactive measures against evolving AI-driven attacks.",
-    "last_updated": "2026-10-31"
+    "summary": "A $6 billion crypto heist attributed to North Korea highlights extreme vulnerabilities in digital assets, reinforcing the critical need for advanced defenses against evolving AI-driven attacks.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
-    "status": "escalating",
-    "summary": "Intense competition among AI models, with a focus on cost-efficiency and specialized capabilities, is shaping enterprise adoption, while global funding shifts suggest a maturing market with potential consolidation.",
-    "last_updated": "2026-10-31"
+    "status": "developing",
+    "summary": "Innovations in AI for material science and global investment in tech across African markets indicate a maturing landscape where AI drives enterprise adoption in diverse sectors.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "developing",
-    "summary": "The increasing adoption of stablecoins for trade and Verve's move into AI agent payments signal a growing demand for digital financial solutions, prompting a need for updated CBN policies and regulatory frameworks.",
-    "last_updated": "2026-10-31"
+    "summary": "Scrutiny of fintech valuations and the growing adoption of digital financial solutions necessitate updated CBN policies and regulatory frameworks to ensure stability and transparency.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Recurring gas emissions in schools and the projected rise in food insecurity highlight critical environmental and public health challenges, necessitating coordinated responses and robust monitoring systems.",
+    "summary": "Recurring gas emissions in schools and projected food insecurity highlight critical environmental and public health challenges requiring coordinated responses.",
     "last_updated": "2026-10-31"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "The emphasis on building AI for local realities and the growth of fintech innovation underscore the increasing demand for skilled local talent in AI and cloud technologies to address specific national challenges.",
-    "last_updated": "2026-10-31"
+    "summary": "The emphasis on building resilient, locally adapted AI solutions and the need for robust infrastructure underscore the demand for skilled local talent.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "African AI Sovereignty and Local Control",
     "status": "developing",
-    "summary": "Calls for Africa to develop sovereign AI systems with local control are escalating, emphasizing the need for local infrastructure, contextual policy, and skilled workforces to avoid exploitation and ensure relevance.",
-    "last_updated": "2026-10-31"
+    "summary": "The launch of the Africa Energy Bank is a significant step towards energy sovereignty, crucial for powering industrial growth and AI development across the continent.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "Fintech Diversification and Business Infrastructure",
     "status": "developing",
-    "summary": "The adoption of tap-to-pay and AI agent payments by Verve signals a rapid evolution in Nigeria's fintech sector, driving demand for more robust and localized financial infrastructure solutions.",
-    "last_updated": "2026-10-31"
+    "summary": "Scrutiny of fintech valuations and the need for resilient infrastructure highlight the evolving dynamics and regulatory challenges in Nigeria's rapidly growing fintech sector.",
+    "last_updated": "2026-11-01"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
