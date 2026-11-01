@@ -2,43 +2,43 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "INEC's target for final voter register publication and ongoing candidate disputes highlight systemic challenges, intensified by concerns over AI-generated content and the need for digital forensics.",
+    "summary": "Allegations of state-sponsored assault on opposition, candidate list manipulation, and broader concerns over electoral fairness are intensifying ahead of the 2027 elections, highlighting systemic challenges and the need for robust oversight.",
     "last_updated": "2026-11-01"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "The Nigerian Navy's push for stronger civil-military cooperation signals a strategic shift to address deep-rooted insecurity by integrating community development with security operations.",
+    "summary": "The kidnapping crisis is revealed to be driven by a complex network of terrorists, bandits, and informants, necessitating integrated responses beyond traditional security operations, while military successes against ISWAP continue in the North East.",
     "last_updated": "2026-11-01"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "The launch of the Africa Energy Bank and reforms in the power sector signal strategic development initiatives, while scrutiny of fintech valuations highlights economic complexities.",
+    "summary": "The naira shows signs of stabilization due to rising oil prices and CBN policies, while debates over power sector reforms continue, and digital transformation initiatives show tangible progress in skills development.",
     "last_updated": "2026-11-01"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "Government agencies are adopting AI for operations and public relations, underscoring the urgent need for localized policy frameworks to manage its dual potential for efficiency and overreach.",
+    "summary": "The rapid advancement of AI in exploit generation and its potential to erode trust in software highlights the urgent need for localized policy frameworks to manage its dual potential for efficiency and overreach.",
     "last_updated": "2026-11-01"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "A $6 billion crypto heist attributed to North Korea highlights extreme vulnerabilities in digital assets, reinforcing the critical need for advanced defenses against evolving AI-driven attacks.",
+    "summary": "AI is accelerating cyber threats, shrinking exploitation times for open-source vulnerabilities to mere hours, necessitating a paradigm shift towards AI-driven defenses and professionalized security practices.",
     "last_updated": "2026-11-01"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
-    "status": "developing",
-    "summary": "Innovations in AI for material science and global investment in tech across African markets indicate a maturing landscape where AI drives enterprise adoption in diverse sectors.",
+    "status": "escalating",
+    "summary": "Foundational AI models are driving a new boom in autonomous vehicles and other 'hard tech' sectors, signaling a maturing landscape where AI is fundamentally reshaping industries and enterprise adoption.",
     "last_updated": "2026-11-01"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "developing",
-    "summary": "Scrutiny of fintech valuations and the growing adoption of digital financial solutions necessitate updated CBN policies and regulatory frameworks to ensure stability and transparency.",
+    "summary": "The CBN's aggressive monetary tightening and OMO interventions are supporting naira stability, but long-term sustainability depends on economic diversification and continued security improvements.",
     "last_updated": "2026-11-01"
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "The emphasis on building resilient, locally adapted AI solutions and the need for robust infrastructure underscore the demand for skilled local talent.",
+    "summary": "Inclusive digital transformation initiatives are successfully building a skilled local talent base by breaking language barriers and focusing on accessibility, underscoring the demand for skilled local talent.",
     "last_updated": "2026-11-01"
   },
   {
