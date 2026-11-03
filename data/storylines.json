@@ -2,68 +2,68 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Ahead of the 2027 elections, concerns over electoral fairness are intensifying with allegations of state-sponsored assault, candidate list manipulation, and administrative actions against opposition parties, drawing international attention and highlighting systemic challenges.",
+    "summary": "Concerns over electoral fairness intensify with allegations of candidate list manipulation, political attacks, and the push for state police, highlighting systemic challenges ahead of the 2027 elections.",
     "last_updated": "2026-11-03"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity persists with allegations of security operatives' involvement in community violence, widespread protests against the government's handling of banditry, and ongoing kidnapping crises, underscoring the need for integrated responses beyond traditional security operations.",
+    "summary": "Insecurity persists with high casualties among police officers, ongoing kidnappings of vulnerable groups, and the legislative push for state police, underscoring the need for integrated responses.",
     "last_updated": "2026-11-03"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Conflicting narratives surround Nigeria's economic recovery, with the government touting progress and opposition highlighting poverty and rising costs, while efforts to bridge a significant housing deficit and improve infrastructure continue amidst sectoral growth.",
+    "summary": "Conflicting narratives surround Nigeria's economic recovery, with government touting progress from oil reforms and increased liquidity, while economists urge transparency in borrowing and highlight infrastructure deficits.",
     "last_updated": "2026-11-03"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The rapid advancement of AI, including warnings of imminent self-improvement capabilities and the challenges of implementing ethical guardrails, highlights an urgent need for localized policy frameworks to manage its dual potential for efficiency and overreach.",
+    "summary": "The rapid advancement of AI necessitates urgent policy frameworks, with research into 'reverse game theory' for AI control and political rebrands like 'Super Intelligence' complicating global governance.",
     "last_updated": "2026-11-03"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI is accelerating cyber threats and introducing new complexities in software development and security, necessitating a paradigm shift towards AI-driven defenses and professionalized security practices, while also creating operational hurdles for developers.",
+    "summary": "AI accelerates cyber threats, with a surge in digital fraud across Africa impacting cross-border finance, necessitating advanced AI-driven defenses and professionalized security practices.",
     "last_updated": "2026-11-03"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Foundational AI models are driving intense competition and reshaping industries, with new enterprise-focused models and platforms emerging, making specialized AI training more accessible and accelerating adoption across various sectors.",
+    "summary": "Foundational AI models drive intense competition, with new enterprise-focused models and developer tools emerging, alongside significant venture capital investment in AI and fintech startups.",
     "last_updated": "2026-11-03"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "developing",
-    "summary": "The CBN's monetary policies are supporting naira stability, but long-term economic sustainability hinges on diversification and continued security improvements, amidst ongoing debates about the effectiveness of current economic reforms.",
-    "last_updated": "2026-11-02"
+    "summary": "The CBN's monetary policies are supporting naira stability with easing liquidity mop-up, but long-term economic sustainability hinges on diversification and continued security improvements.",
+    "last_updated": "2026-11-03"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Recurring environmental hazards like gas emissions in schools and projected food insecurity highlight critical public health challenges requiring coordinated responses and robust policy interventions.",
-    "last_updated": "2026-10-31"
+    "summary": "Nigeria requires significant annual funding for health security, highlighting underfunding risks for epidemic preparedness amidst ongoing environmental hazards.",
+    "last_updated": "2026-11-03"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "Inclusive digital transformation initiatives are building a skilled local talent base, emphasizing accessibility and breaking language barriers, while the need for locally relevant AI research data is highlighted in sectors like healthcare.",
+    "summary": "The FG is investing in digital infrastructure and talent, including a government-backed LLM supporting Nigerian languages, to foster localized AI development and skills.",
     "last_updated": "2026-11-03"
   },
   {
     "name": "African AI Sovereignty and Local Control",
     "status": "developing",
-    "summary": "Steps towards energy sovereignty are seen as crucial for powering industrial growth and AI development, alongside a growing demand for AI solutions and data that are culturally and contextually appropriate for Africa.",
-    "last_updated": "2026-11-02"
+    "summary": "Efforts towards AI sovereignty are gaining momentum with a focus on localized models and infrastructure, though challenges remain in integrating digital advancements with fundamental physical infrastructure.",
+    "last_updated": "2026-11-03"
   },
   {
     "name": "Fintech Diversification and Business Infrastructure",
     "status": "developing",
-    "summary": "Scrutiny of fintech valuations and the need for resilient infrastructure highlight the evolving dynamics and regulatory challenges in Nigeria's rapidly growing fintech sector.",
-    "last_updated": "2026-11-02"
+    "summary": "A surge in digital fraud is chilling cross-border finance in Africa, while venture capital continues to flow into fintech startups, particularly in Europe.",
+    "last_updated": "2026-11-03"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
