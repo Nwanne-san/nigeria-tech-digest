@@ -2,67 +2,67 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Concerns over electoral fairness intensify with allegations of secret polling unit creation and political interference in rallies, highlighting systemic challenges ahead of the 2027 elections.",
-    "last_updated": "2026-11-03"
+    "summary": "Early campaign activities for the 2027 elections are marked by reported political violence and internal party disputes, highlighting persistent challenges to electoral fairness and the integrity of democratic processes.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity persists with ongoing kidnappings and attacks, though a rare instance of DSS accountability offers a glimmer of hope amidst calls for integrated responses.",
-    "last_updated": "2026-11-03"
+    "summary": "Insecurity persists with ongoing political violence and economic sabotage, though coordinated efforts against illegal refining offer a glimmer of hope amidst calls for integrated responses.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Conflicting narratives surround Nigeria's economic recovery, with government touting progress while critics highlight debt sustainability and the disconnect between macro gains and public hardship.",
-    "last_updated": "2026-11-03"
+    "summary": "Conflicting narratives surround Nigeria's economic recovery, with government touting progress in student loans and infrastructure while critics highlight rising business costs and fiscal dominance.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The rapid advancement of AI necessitates urgent policy frameworks, with enterprises implementing internal controls and research into AI identity verification emerging.",
-    "last_updated": "2026-11-03"
+    "summary": "The rapid advancement of AI necessitates urgent policy frameworks, with companies adjusting AI deployment for children and debates intensifying around AI's influence on elections and education.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
-    "summary": "AI accelerates cyber threats, with a record crypto heist highlighting new attack vectors and enterprises restricting AI tool access due to security risks.",
-    "last_updated": "2026-11-03"
+    "summary": "AI accelerates cyber threats and introduces new attack vectors with agentic systems, prompting cloud providers to develop machine-speed defense mechanisms and verifiable AI solutions.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Foundational AI models drive intense competition and enterprise adoption, with a surge in demand for inference services and a shift towards agentic systems.",
-    "last_updated": "2026-11-03"
+    "summary": "Foundational AI models drive intense competition and enterprise adoption, with tech giants acquiring AI coding startups and developing agentic systems for software development.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "CBN Policy and Economic Management",
-    "status": "developing",
-    "summary": "The CBN's monetary policies support naira stability, but long-term economic sustainability hinges on diversification and addressing structural deficits.",
-    "last_updated": "2026-11-03"
+    "status": "escalating",
+    "summary": "A CBN study links budget deficits to naira depreciation and interest rate pressure, highlighting fiscal dominance and the need for coordination between monetary and fiscal policies.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Nigeria requires significant funding for health security, with state-level initiatives showing progress in healthcare access and pharmaceutical development.",
-    "last_updated": "2026-11-03"
+    "summary": "Nigeria is a priority for global initiatives tackling child malnutrition and maternal deaths, with AI-powered healthtech startups receiving significant funding for localized interventions.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "Nigeria's Digital Skills and AI Workforce Development",
     "status": "developing",
-    "summary": "The FG invests in digital infrastructure and talent, including localized AI development, while local tech innovation in hardware shows promise.",
-    "last_updated": "2026-11-03"
+    "summary": "Government initiatives and private sector investments are focusing on digital infrastructure, AI development, and vocational training to build a skilled workforce for the future economy.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "African AI Sovereignty and Local Control",
     "status": "developing",
-    "summary": "Efforts towards AI sovereignty gain momentum with a focus on localized models, though challenges remain in integrating digital advancements with physical infrastructure.",
-    "last_updated": "2026-11-03"
+    "summary": "Efforts towards AI sovereignty are bolstered by localized AI applications in sectors like healthtech, though challenges remain in integrating digital advancements with physical infrastructure.",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "Fintech Diversification and Business Infrastructure",
     "status": "developing",
-    "summary": "Fintech innovation continues with AI-driven automation of loans, but large-scale cyber heists and fraud necessitate enhanced security and regulatory oversight.",
+    "summary": "Fintech innovation continues with AI-driven automation, but the sector faces ongoing challenges related to cybersecurity and regulatory oversight amidst evolving business infrastructure.",
     "last_updated": "2026-11-03"
   },
   {
