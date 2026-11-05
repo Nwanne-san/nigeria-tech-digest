@@ -2,49 +2,49 @@
   {
     "name": "Political Integrity and Electoral Processes (Nigeria)",
     "status": "escalating",
-    "summary": "Early campaign activities for the 2027 elections are marked by reported political violence and internal party disputes, highlighting persistent challenges to electoral fairness and the integrity of democratic processes.",
-    "last_updated": "2026-11-04"
+    "summary": "Early campaign activities for the 2027 elections are marked by reported political violence, internal party disputes, and strategic maneuvering, highlighting persistent challenges to electoral fairness and democratic processes.",
+    "last_updated": "2026-11-05"
   },
   {
     "name": "Security Operations and Insecurity Challenges (Nigeria)",
     "status": "escalating",
-    "summary": "Insecurity persists with ongoing political violence and economic sabotage, though coordinated efforts against illegal refining offer a glimmer of hope amidst calls for integrated responses.",
-    "last_updated": "2026-11-04"
+    "summary": "Insecurity persists with ongoing political violence and localized criminal activities, though coordinated efforts against illegal refining and maritime crime offer glimmers of hope amidst calls for integrated responses.",
+    "last_updated": "2026-11-05"
   },
   {
     "name": "National Progress & Economy (Nigeria)",
     "status": "escalating",
-    "summary": "Conflicting narratives surround Nigeria's economic recovery, with government touting progress in student loans and infrastructure while critics highlight rising business costs and fiscal dominance.",
-    "last_updated": "2026-11-04"
+    "summary": "Conflicting narratives surround Nigeria's economic recovery, with government relief efforts and fintech innovations contrasted against rising business costs, energy infrastructure deficits, and a growing external debt burden.",
+    "last_updated": "2026-11-05"
   },
   {
     "name": "AI Governance and Regulation Gap",
     "status": "escalating",
-    "summary": "The rapid advancement of AI necessitates urgent policy frameworks, with companies adjusting AI deployment for children and debates intensifying around AI's influence on elections and education.",
-    "last_updated": "2026-11-04"
+    "summary": "The rapid advancement of AI necessitates urgent policy frameworks, with intensifying debates around AI's influence on elections, education, and the need for robust guardrails, particularly in light of impending US regulatory actions.",
+    "last_updated": "2026-11-05"
   },
   {
     "name": "Adversarial AI Evolution and Cybersecurity",
     "status": "escalating",
     "summary": "AI accelerates cyber threats and introduces new attack vectors with agentic systems, prompting cloud providers to develop machine-speed defense mechanisms and verifiable AI solutions.",
-    "last_updated": "2026-11-04"
+    "last_updated": "2026-11-05"
   },
   {
     "name": "AI Model Competition and Enterprise Adoption",
     "status": "escalating",
-    "summary": "Foundational AI models drive intense competition and enterprise adoption, with tech giants acquiring AI coding startups and developing agentic systems for software development.",
-    "last_updated": "2026-11-04"
+    "summary": "Foundational AI models drive intense competition and enterprise adoption, with tech giants acquiring AI coding startups, developing agentic systems, and investing heavily in specialized AI infrastructure.",
+    "last_updated": "2026-11-05"
   },
   {
     "name": "CBN Policy and Economic Management",
     "status": "escalating",
-    "summary": "A CBN study links budget deficits to naira depreciation and interest rate pressure, highlighting fiscal dominance and the need for coordination between monetary and fiscal policies.",
-    "last_updated": "2026-11-04"
+    "summary": "A CBN study links budget deficits to naira depreciation and interest rate pressure, highlighting fiscal dominance and the need for coordination between monetary and fiscal policies amidst rising external debt concerns.",
+    "last_updated": "2026-11-05"
   },
   {
     "name": "Public Health Crises in Nigeria",
     "status": "developing",
-    "summary": "Nigeria is a priority for global initiatives tackling child malnutrition and maternal deaths, with AI-powered healthtech startups receiving significant funding for localized interventions.",
+    "summary": "Nigeria remains a priority for global initiatives tackling child malnutrition and maternal deaths, with AI-powered healthtech startups receiving significant funding for localized interventions.",
     "last_updated": "2026-11-04"
   },
   {
@@ -56,14 +56,14 @@
   {
     "name": "African AI Sovereignty and Local Control",
     "status": "developing",
-    "summary": "Efforts towards AI sovereignty are bolstered by localized AI applications in sectors like healthtech, though challenges remain in integrating digital advancements with physical infrastructure.",
-    "last_updated": "2026-11-04"
+    "summary": "Efforts towards AI sovereignty are bolstered by localized AI applications in sectors like healthtech, though challenges remain in integrating digital advancements with physical infrastructure and capturing value.",
+    "last_updated": "2026-11-05"
   },
   {
     "name": "Fintech Diversification and Business Infrastructure",
     "status": "developing",
-    "summary": "Fintech innovation continues with AI-driven automation, but the sector faces ongoing challenges related to cybersecurity and regulatory oversight amidst evolving business infrastructure.",
-    "last_updated": "2026-11-03"
+    "summary": "Fintech innovation continues with AI-driven automation and shifts towards deeper financial infrastructure, but the sector faces ongoing challenges related to cybersecurity and regulatory oversight.",
+    "last_updated": "2026-11-05"
   },
   {
     "name": "Global South Push for UN Security Council Reform",
